@@ -56,21 +56,58 @@ body {
 }
 button { font-family: inherit; cursor: pointer; }
 
-/* ── ROAD TEXTURE BG (인트로 배경) ── */
+/* ── INTRO BG · 레트로 버블버블 톤 ── */
 .view--intro {
   background:
-    repeating-linear-gradient(
-      0deg,
-      transparent 0,
-      transparent 28px,
-      var(--bg-victory) 28px,
-      var(--bg-victory) 36px,
-      transparent 36px,
-      transparent 80px
-    ),
-    var(--bg-primary);
+    /* 떠다니는 거품 글로우들 */
+    radial-gradient(circle at 12% 18%, rgba(255,95,162,0.18) 0, transparent 6%),
+    radial-gradient(circle at 82% 14%, rgba(0,224,208,0.20) 0, transparent 6%),
+    radial-gradient(circle at 26% 76%, rgba(255,240,102,0.20) 0, transparent 5%),
+    radial-gradient(circle at 88% 64%, rgba(74,142,255,0.18) 0, transparent 7%),
+    radial-gradient(circle at 50% 50%, rgba(106,62,161,0.18) 0, transparent 14%),
+    /* 픽셀 그리드 (희미) */
+    repeating-linear-gradient(0deg, transparent 0 40px, rgba(255,240,102,0.06) 40px 41px),
+    repeating-linear-gradient(90deg, transparent 0 40px, rgba(0,224,208,0.05) 40px 41px),
+    /* 베이스: 밤 하늘 톤 */
+    radial-gradient(ellipse at top, #2b1b3a 0%, #1a1428 60%, #0d0a1a 100%);
+  background-attachment: fixed;
+  background-size: cover;
   background-position: center;
+  position: relative;
+  overflow: hidden;
 }
+
+/* 떠다니는 큰 거품 2개 — 8비트 글로우 */
+.view--intro::before,
+.view--intro::after {
+  content: '';
+  position: absolute;
+  border-radius: 50%;
+  pointer-events: none;
+  z-index: 0;
+}
+.view--intro::before {
+  top: 8%; left: 6%;
+  width: 64px; height: 64px;
+  background: radial-gradient(circle at 32% 28%, rgba(255,255,255,0.95), rgba(0,224,208,0.55) 40%, rgba(0,224,208,0.2) 75%, transparent 85%);
+  box-shadow: 0 0 24px rgba(0,224,208,0.45);
+  animation: bubble-float 6s ease-in-out infinite;
+}
+.view--intro::after {
+  bottom: 14%; right: 6%;
+  width: 88px; height: 88px;
+  background: radial-gradient(circle at 32% 28%, rgba(255,255,255,0.95), rgba(255,95,162,0.55) 40%, rgba(255,95,162,0.2) 75%, transparent 85%);
+  box-shadow: 0 0 28px rgba(255,95,162,0.45);
+  animation: bubble-float 7.5s ease-in-out infinite reverse;
+}
+
+@keyframes bubble-float {
+  0%, 100% { transform: translate(0, 0) scale(1); opacity: 0.85; }
+  50% { transform: translate(14px, -30px) scale(1.08); opacity: 1; }
+}
+
+/* 인트로 내부 요소는 거품 위 z-index */
+.view--intro > * { position: relative; z-index: 1; }
 
 /* ── VIEW (4개 화면 공용) ── */
 #app { height: 100vh; height: 100dvh; }
@@ -114,6 +151,10 @@ button { font-family: inherit; cursor: pointer; }
   flex-direction: column;
   gap: var(--space-1);
   white-space: nowrap;
+  text-shadow:
+    4px 4px 0 var(--text-outline),
+    -1px -1px 0 var(--text-outline),
+    0 0 22px rgba(0,224,208,0.55);  /* 네온 글로우 */
 }
 .title__line--small {
   font-size: clamp(20px, 6vmin, 36px);
@@ -131,7 +172,7 @@ button { font-family: inherit; cursor: pointer; }
   -webkit-text-stroke: 2px var(--text-outline);
 }
 
-/* ── CROWD (인트로 PNG 캐릭터 군중) ── */
+/* ── CROWD (인트로 PNG 캐릭터 군중) — 버블버블 capsule ── */
 .crowd {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
@@ -139,10 +180,41 @@ button { font-family: inherit; cursor: pointer; }
   max-width: 380px;
   width: 100%;
   justify-items: center;
+  padding: 16px 14px;
+  border-radius: 24px;
+  background:
+    radial-gradient(ellipse at center top, rgba(0,224,208,0.14), transparent 70%),
+    rgba(255,255,255,0.04);
+  border: 2px solid rgba(0,224,208,0.28);
+  box-shadow:
+    inset 0 0 28px rgba(0,224,208,0.14),
+    0 6px 28px rgba(0,0,0,0.4);
 }
 .crowd__char {
   width: clamp(48px, 12vmin, 70px);
   height: clamp(48px, 12vmin, 70px);
+  filter: drop-shadow(0 3px 0 rgba(0,0,0,0.55));
+  image-rendering: pixelated;
+  animation: crowd-bob 2.4s ease-in-out infinite;
+}
+.crowd__char:nth-child(odd)  { animation-delay: -0.6s; }
+.crowd__char:nth-child(3n)   { animation-delay: -1.2s; }
+.crowd__char:nth-child(4n)   { animation-delay: -1.8s; }
+
+.crowd__char.is-me {
+  animation: crowd-bob-me 1.4s ease-in-out infinite;
+  filter:
+    drop-shadow(0 0 10px var(--bg-victory))
+    drop-shadow(0 3px 0 rgba(0,0,0,0.55));
+}
+
+@keyframes crowd-bob {
+  0%, 100% { transform: translateY(0); }
+  50%      { transform: translateY(-5px); }
+}
+@keyframes crowd-bob-me {
+  0%, 100% { transform: translateY(0) scale(1); }
+  50%      { transform: translateY(-9px) scale(1.07); }
 }
 
 /* ── CATEGORY PICK (v4) ── */
@@ -954,4 +1026,65 @@ button { font-family: inherit; cursor: pointer; }
   0%   { transform: translate(-50%, calc(-50% - 60vh)); opacity: 0; }
   20%  { opacity: 1; }
   100% { transform: translate(-50%, -50%); opacity: 1; }
+}
+
+/* ============================================================
+   인트로 한정 — 버블버블 레트로 보강
+   (다른 view는 건드리지 않도록 .view--intro 스코프)
+   ============================================================ */
+.view--intro .badge--v2 {
+  background: linear-gradient(180deg, rgba(255,95,162,0.95), rgba(255,95,162,0.7));
+  color: #fff;
+  border: 2px solid #fff;
+  box-shadow: 0 0 18px rgba(255,95,162,0.5);
+  padding: 6px 14px;
+  border-radius: 999px;
+  font-family: var(--font-title);
+  font-size: clamp(11px, 2.8vmin, 13px);
+  letter-spacing: 0.02em;
+}
+.view--intro .category-pick__label {
+  color: var(--bg-victory);
+  text-shadow: 0 0 8px rgba(253,216,53,0.4);
+}
+.view--intro .category-pick__select {
+  border: 3px solid rgba(0,224,208,0.45);
+  background-color: rgba(15,12,30,0.85);
+  color: #fff;
+  box-shadow:
+    inset 0 0 14px rgba(0,224,208,0.20),
+    0 0 20px rgba(0,224,208,0.28);
+}
+.view--intro .hint {
+  color: #ffe89e;
+  text-shadow: 0 0 8px rgba(255,232,158,0.35);
+}
+.view--intro .btn--primary {
+  background: linear-gradient(180deg, #00d4c5 0%, #00a89d 100%);
+  border: 3px solid #fff;
+  color: #fff;
+  box-shadow:
+    var(--shadow-btn),
+    inset 0 -4px 0 rgba(0,0,0,0.15),
+    0 0 28px rgba(0,224,208,0.5);
+  text-shadow: 0 2px 0 rgba(0,0,0,0.25);
+}
+.view--intro .btn--primary:active:not([disabled]) {
+  box-shadow:
+    var(--shadow-btn-active),
+    inset 0 -2px 0 rgba(0,0,0,0.15),
+    0 0 22px rgba(0,224,208,0.6);
+}
+.view--intro .intro-status {
+  color: #b8a8d8;
+}
+
+/* 모션 줄이는 사용자 배려 */
+@media (prefers-reduced-motion: reduce) {
+  .crowd__char,
+  .crowd__char.is-me,
+  .view--intro::before,
+  .view--intro::after {
+    animation: none !important;
+  }
 }

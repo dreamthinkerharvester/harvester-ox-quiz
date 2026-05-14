@@ -45,5 +45,12 @@ crawler/state/
 # 디자인 핸드오프 (원본 보존, 배포 불필요)
 exam/_design_handoff/
 
-# PDF 원본 (저작권)
-_refs/
+# PDF 원본 (저작권) — _refs/sprites/는 게임 자산이라 push
+_refs/세무사기출문제/
+_refs/OX게임/
+_refs/video-frames/
+_refs/video-analysis*.md
+
+# _refs/sprites 안 raw 참조 자산 (우리 게임 미사용)
+_refs/sprites/OX게임/
+_refs/sprites/OX게임_에셋/
