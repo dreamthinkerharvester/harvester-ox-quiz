@@ -1,0 +1,601 @@
+{
+  "slug": "tax-2026-r63-sebeop",
+  "name": "세법학개론",
+  "exam_group": "세무사 1차 · 2026년 제63회",
+  "subject": "세법학개론",
+  "phase": "1교시",
+  "source": "세무사 1차",
+  "exam_year": 2026,
+  "exam_round": 63,
+  "count": 49,
+  "questions": [
+    {
+      "id": 255,
+      "question": "무자 료거래, 위장ㆍ가공거래 등거래 내용이 사실과 다른 혐의가 있어 실제 거래 내용에 대한 조사가 필요한 경우",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 43,
+        "option": "ㄱ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 256,
+      "question": "명의위장, 이중장부의 작성, 차 명계 좌의 이용, 현금 거래의 누락 등의 방법을 통하여 세금을 탈루한 혐의로 조사하는 경우",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 43,
+        "option": "ㄴ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 257,
+      "question": "상 속 세 ㆍ증여세 조사, 주 식변 동조사, 범칙 사건 조사 및출자 ㆍ거 래관계에 있는 관련자에 대하여 동시조사를 하는 경우",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 43,
+        "option": "ㄷ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 258,
+      "question": "납세자가 세무공무 원에게 직무와 관련하여 금품을 제공하 거나 금품제공을 알선한 경우",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 43,
+        "option": "ㄹ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 259,
+      "question": "｢행정소송법｣에 따른 소송에 대한 결정이나 판결에서 명의대여 사실로 확정된 경우 과세관청은 당초의 부과처분을 취소하고 그결정 또는 판결이 확정된 날부터 2개월 이내에 실제로 사업을 경영한 자에게 경정이나 그밖에 필요한 처분을 하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 44,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 260,
+      "question": "종합부동산세 및인지세의 경우 국세를 부과할 수있는 날은 해당 국세의 신고기한의 다음날이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 44,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 261,
+      "question": "｢국세기본법｣ 제45조의2 제1항에 따른 경정청구가 있는 경우 그경정청구의 대상이 된과세표준과 연동된 다른 과세기간의 과세표준의 조정이 필요한 경우 세무서장은 경정청구일부터 2개월의 기간이 지나기 전까지 경정처분을 할수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 44,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 262,
+      "question": "과세표준과 세액의 신고에 의하여 납세의무가 확정되는 법인세의 경우 신고한 세액에 대해 국세징수권을 행사할 수있는 때는 신고한 날의 다음 날이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 44,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 263,
+      "question": "사해행위 취소소송 또는 채권자대위 소송의 제기로 인한 소멸시효정지의 효력은 소송이 각하ㆍ기각 또는 취하된 경우에도 효력이 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 44,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 264,
+      "question": "“납부기한”이란 납세의무가 확정된 국세(가산세를 제외한다)를 납부하여야 할기한으로서 법정납부기한과 지정납부기한을 말한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 47,
+        "option": "ㄱ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 265,
+      "question": "“ 체납 ” 이 란 국세를 지정납부기한 까지 납부하지 아니하는 것을 말하고, 다만, 지정납부기한 후에 납세의무가 성립 ㆍ확정되는 ｢ 국세기본법 ｣ 제47조의4에 따른 납부지연가산세 및같은 법제47조의5에 따른 원천징수 등납부지연 가산세의 경우 납세의무가 확정된 후즉 시납부하지 아니하는 것을 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 47,
+        "option": "ㄴ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 266,
+      "question": "“ 체납자 ”란 국세와 강제징수비를 체납한 자를 말한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 47,
+        "option": "ㄷ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 267,
+      "question": "“ 체납액 ” 이 란 체납된 국세와 강제징수비를 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 47,
+        "option": "ㄹ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 268,
+      "question": "특정 소득이 기타소득으로 열거된 항목(대통령령으로 정하는 서화ㆍ골동품의 양도로 발생하는 소득은 제외)과 다른 소득(이자소득ㆍ배당소득ㆍ사업소득ㆍ근로소득ㆍ연금소득 ㆍ퇴직소득ㆍ양도소득)에 동시에 해당되는 경우에는 다른 소득의 소득구분을 우선 적용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 56,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 269,
+      "question": "원 저작자의 사망으로 저작권을 상속받은 자가 그저작권을 양도함에 따라 받는 대가는 기타소득으로 분류한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 56,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 270,
+      "question": "계약의 위약에 따른 배상금과 관련하여 쟁송이 있은 후법원 판결에 따라서 배상금과 법정이자를 지급받는 경우 법정이자는 기타소득으로 분류한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 56,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 271,
+      "question": "기타소득에 해당하는 대통령령으로 정하는 서화ㆍ골동품의 양도대가로 수령한 금액이 1억원이하인 경우 수령한 금액의 90%를 필요경비로 확정한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 56,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 272,
+      "question": "연금계좌의 운용실적에 따라 증가된 금액을 연금외수령하면 기타소득으로 분류하고 15%의 세율로 원천징수한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 56,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 273,
+      "question": "거주자의 배우자가 과세기간 중에 이혼 또는 사망한 경우 그이혼 또는 사망한 과세 기간에는 거주자의 배우자공제 대상에 포함한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 57,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 274,
+      "question": "거주자와 생계를 같이하고 있는 부양가족이 ｢국민기초생활 보장법｣ 제2조 제2호의 수급자라면 거주자와 친인척관계가 아닌 경우라도 부양가족공제의 대상이 될수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 57,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 275,
+      "question": "거주자의 인적공제대상 배우자가 다른 거주자의 인적공제대상 부양가족에 해당하는 경우 신고서에 기재하였는 지의 여부에 불구하고 인적공제대상 배우자로 본다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 57,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 276,
+      "question": "거주자의 직계존속이 재혼한 경우로서 그재혼한 사실이 확인되는 경우라면 사실혼 관계에 있는 직계존속의 배우자도 거주자의 부양가족공제의 대상이 된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 57,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 277,
+      "question": "근로소득공제와 연금소득공제는 ｢소득세법｣상 종합소득공제에 해당한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 57,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 278,
+      "question": "1세대를 구성하는 배우자에는 법률상 이혼하였으나 생계를 같이하는 등사실상 이혼 한것으로 보기 어려운 관계에 있는 사람도 포함된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 58,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 279,
+      "question": "1세대가 국내에 1주택을 보유하고 있는 경우로서 그주택이 양도 당시에 조정대상 지역에 있는 경우 주택 보유기간이 2년 이상이고 그보유기간 중거주기간이 2년 이상이어야 ‘1세대1주택’으로 인정된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 58,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 280,
+      "question": "국내에 1주택을 소유한 1세대가 종전주택을 취득한 후 2년이 된시점에서 신규주택을 취득함으로써 2주택이 된상태에서 신규주택 취득 후 3년 이내에 종전주택을 양도하는 경우라면 그양도하는 주택은 ‘1세대1주택’으로 인정된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 58,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 281,
+      "question": "상속받은 주택과 일반주택(상속 후매입한 주택임)을 국내에 각각 1개씩 소유하고 있는 1세대가 일반주택을 양도하는 경우에는 ‘1세대1주택’을 적용받지 못한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 58,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 282,
+      "question": "국내에 1주택을 보유한 1세대의 구성원이 국내에 1주택을 보유한 65세의 부친을 동거 봉양하기 위하여 세대를 합친 후세대를 합친 날부터 6년이 되는 시점에 부친이 보유한 주택을 먼저 양도하였다면 그양도한 주택은 ‘1세대1주택’으로 인정된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 58,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 283,
+      "question": "법인이 이익잉여금을 자본에 전입함으로써 주주가 취득하는 주식의 가액은 액면가액 으로 평가한다. 병",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 59,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 284,
+      "question": "적격합 (소득세법시행 령제27조 제1항 제1호 나목에 규정된 합병을 말함)에 해당하는 합병으로 인하여 합병대가를 전부 주식으로 수령한 경우 취득하는 주식의 가액은 피합 병법인의 주식의 취득가액으로 평가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 59,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 285,
+      "question": "｢상법 ｣ 제462조의2의 규정에 의한 주식 배당을 받은 경우 취득한 주식 의가액은 발행 금액으로 평가한다 .",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 59,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 286,
+      "question": "취득한 재산이 금전, 주식 또는 출자지분이 아닌 경우에는 그재산의 취득 당시 시가로 평가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 59,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 287,
+      "question": "의제배당을 계산 함에 있어서 받은 대가에서 차감하는 기존주식의 가액은 취득가액으로 하되, 소득세법시행령 제27조 제7항에 따라 소액주주로서 취득가액 계산이 불분명한 경우에는 비상장법인의 주주에 한정하여 액면가액을 취득가액으로 본다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 59,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 288,
+      "question": "｢국유재산법｣ 제80조에 규정된 청산절차에 따라 청산하는 법인이 해산등기일부터 1년이 되는 날까지 잔여재산가액이 확정되지 아니한 경우에는 중간신고를 하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 65,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 289,
+      "question": "특별법에 따라 설립된 내국법인이 그특별법의 폐지로 인하여 ｢상법｣에 따른 회사로 조직변경하는 경우에는 청산소득에 대한 법인세를 과세하지 아니한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 65,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 290,
+      "question": "내국법인의 해산에 의한 청산소득의 금액을 계산할 때그 청산기간에 ｢국세기본법｣에 따라 환급되는 법인세액이 있는 경우 이에 상당하는 금액은 그법인의 해산등기일 현재의 자기자본의 총액에 가산한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 65,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 291,
+      "question": "청산소득에 대한 법인세의 확정신고 기한에서 잔여재산가액확정일이란 해산등기일 현재의 잔여재산을 그대로 분배하는 경우에는 그분배를 완료한 날을 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 65,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 292,
+      "question": "내국법인이 해산(합병이나 분할에 의한 해산은 제외한다)한 경우 그청산소득의 금액은 그법인의 해산에 의한 잔여재산의 가액에서 해산등기일 현재의 자본금 또는 출자금과 잉여금의 합계액을 공제한 금액으로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 65,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 293,
+      "question": "연결 세방 을적용받으려는 내국법인은 최초의 연결사업연도 개시일부터 20일 이내에 연결납세방식 적용 신청서를 납세지관할세무서장에게 제출하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 67,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 294,
+      "question": "연결모법인의 납세지관할지방국세청장은 연결모법인이 연결지배하지 아니하는 내국법인 에대하여 연결납세방식을 적용하는 경우에는 대통령령으로 정하는 바에 따라 연결납세 방식의 적용 승인을 취소할 수있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 67,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 295,
+      "question": "연결모법인이 새로 다른 내국법인을 연결지배하게 된경우에는 연결지배가 성립한 날이 속하는 연결사업연도부터 해당 내국법인은 연결납세방식을 적용하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 67,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 296,
+      "question": "연결모법인은 각연결사업연도의 종료일로부터 4개월 이내에 대통령령으로 정하는 바에 따라 해당 연결사업연도의 소득에 대한 법인세의 과세표준과 세액을 납세지관할세무서 장에게 신고하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 67,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 297,
+      "question": "연결모법인은 연결산출세액에서 해당 연결사업연도의 연결중간예납세액(가산세를 포함한다)을 공제한 금액을 각연결사업연도의 소득에 대한 법인세로서 납세지관할 세무서등에 납부하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 67,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 298,
+      "question": "법인이 1년 이상 그사업에 직접 사용하던 자산을 다른 내국법인이 1년 이상 그사업에 직접 사용하던 사업용자산과 교환하는 경우에 적용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 68,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 299,
+      "question": "교환에는 3 이상의 법인간에 하나의 교환계약에 의하여 각법인이 자산을 교환하는 것을 포함한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 68,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 300,
+      "question": "내국법인이 교환취득자산을 교환일이 속하는 사업연도의 다음 사업연도 종료일까지 그내국법인의 사업에 사용하는 경우에만 적용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 68,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 301,
+      "question": "손금에 산입하는 양도차익에 상당하는 금액은 교환취득자산의 가액에 현금으로 대가의 일부를 지급한 경우 그금액 및사업용 자산의 장부가액을 가산한 금액으로 한다. 환",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 68,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 302,
+      "question": "교 으로 인한 자산 도차 양익 상당액의 손금산입을 적용받고자 하는 내국법인이 각사업 연도의 소득에 대한 과세표준 등의 신고를 한경우에는 자산교환명세서를 제출하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 68,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 303,
+      "question": "비교가 능제3자 가 격 방법",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 79,
+        "option": "ㄹ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-14T21:35:24",
+  "default_slug": "general-knowledge",
+  "categories": [
+    {
+      "slug": "general-knowledge",
+      "name": "기본상식",
+      "exam_group": null,
+      "subject": "일반상식",
+      "phase": null,
+      "source": "직접 큐레이션 (역사·과학·지리·문화·일상)",
+      "exam_year": null,
+      "exam_round": null,
+      "is_default": true,
+      "display_order": 1,
+      "count": 110
+    },
+    {
+      "slug": "tax-2026-r63-jaejeong",
+      "name": "재정학",
+      "exam_group": "세무사 1차 · 2026년 제63회",
+      "subject": "재정학",
+      "phase": "1교시",
+      "source": "세무사 1차",
+      "exam_year": 2026,
+      "exam_round": 63,
+      "is_default": false,
+      "display_order": 11,
+      "count": 144
+    },
+    {
+      "slug": "tax-2026-r63-sebeop",
+      "name": "세법학개론",
+      "exam_group": "세무사 1차 · 2026년 제63회",
+      "subject": "세법학개론",
+      "phase": "1교시",
+      "source": "세무사 1차",
+      "exam_year": 2026,
+      "exam_round": 63,
+      "is_default": false,
+      "display_order": 12,
+      "count": 49
+    },
+    {
+      "slug": "tax-2026-r63-hoegyeoe",
+      "name": "회계학개론",
+      "exam_group": "세무사 1차 · 2026년 제63회",
+      "subject": "회계학개론",
+      "phase": "2교시",
+      "source": "세무사 1차",
+      "exam_year": 2026,
+      "exam_round": 63,
+      "is_default": false,
+      "display_order": 13,
+      "count": 44
+    },
+    {
+      "slug": "tax-2026-r63-sangbeop",
+      "name": "상법",
+      "exam_group": "세무사 1차 · 2026년 제63회",
+      "subject": "상법",
+      "phase": "2교시 (선택)",
+      "source": "세무사 1차",
+      "exam_year": 2026,
+      "exam_round": 63,
+      "is_default": false,
+      "display_order": 14,
+      "count": 158
+    },
+    {
+      "slug": "tax-2026-r63-minbeop",
+      "name": "민법",
+      "exam_group": "세무사 1차 · 2026년 제63회",
+      "subject": "민법",
+      "phase": "2교시 (선택)",
+      "source": "세무사 1차",
+      "exam_year": 2026,
+      "exam_round": 63,
+      "is_default": false,
+      "display_order": 15,
+      "count": 101
+    },
+    {
+      "slug": "tax-2026-r63-haengjeong",
+      "name": "행정소송법",
+      "exam_group": "세무사 1차 · 2026년 제63회",
+      "subject": "행정소송법",
+      "phase": "2교시 (선택)",
+      "source": "세무사 1차",
+      "exam_year": 2026,
+      "exam_round": 63,
+      "is_default": false,
+      "display_order": 16,
+      "count": 55
+    }
+  ]
+}

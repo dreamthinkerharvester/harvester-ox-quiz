@@ -1,0 +1,70 @@
+{
+  "tree": [
+    {
+      "exam": "세무사",
+      "rounds": [
+        {
+          "year": 2026,
+          "round": 63,
+          "categories": [
+            {
+              "slug": "tax-2026-r63-jaejeong",
+              "name": "재정학",
+              "subject": "재정학",
+              "phase": "1교시",
+              "total": 144,
+              "with_full_meta": 5
+            },
+            {
+              "slug": "tax-2026-r63-sebeop",
+              "name": "세법학개론",
+              "subject": "세법학개론",
+              "phase": "1교시",
+              "total": 49,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "tax-2026-r63-hoegyeoe",
+              "name": "회계학개론",
+              "subject": "회계학개론",
+              "phase": "2교시",
+              "total": 44,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "tax-2026-r63-sangbeop",
+              "name": "상법",
+              "subject": "상법",
+              "phase": "2교시 (선택)",
+              "total": 158,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "tax-2026-r63-minbeop",
+              "name": "민법",
+              "subject": "민법",
+              "phase": "2교시 (선택)",
+              "total": 101,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "tax-2026-r63-haengjeong",
+              "name": "행정소송법",
+              "subject": "행정소송법",
+              "phase": "2교시 (선택)",
+              "total": 55,
+              "with_full_meta": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "_meta": {
+    "total_questions": 551,
+    "categories_count": 6,
+    "with_full_meta": 5,
+    "updated_at": "2026-05-14T16:08:07+00:00",
+    "source": "0gichul.com"
+  }
+}

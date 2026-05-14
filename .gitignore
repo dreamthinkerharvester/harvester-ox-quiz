@@ -1,0 +1,49 @@
+# macOS
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs
+*.log
+/tmp/
+
+# Local server cache
+.cache/
+
+# bkit runtime (PDCA 메타는 commit 권장이지만 runtime 캐시는 제외)
+.bkit/runtime/
+.bkit/audit/
+
+# Build output (Phase 2B 이후 Next.js 마이그 시)
+node_modules/
+dist/
+build/
+.next/
+out/
+# enrich session work files
+data/_session/
+
+# Build artifacts (재생성 가능)
+data/quiz.db
+data/quiz.db.bak
+data/_session/
+
+# 백업
+.backup/
+
+# 크롤러 런타임
+crawler/logs/
+crawler/state/
+
+# 디자인 핸드오프 (원본 보존, 배포 불필요)
+exam/_design_handoff/
+
+# PDF 원본 (저작권)
+_refs/

@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+  <meta name="theme-color" content="#3a3a3a" />
+  <title>넌센스 OX 퀴즈 — 1분만 풀어봐</title>
+  <meta name="description" content="50명 OX 서바이벌. 한 번 틀리면 끝! 최후의 1인이 되자." />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="넌센스 OX 퀴즈 — 1분만 풀어봐" />
+  <meta property="og:description" content="50명 OX 서바이벌. 한 번 틀리면 끝, 최후의 1인이 되자!" />
+  <meta property="og:image" content="assets/og-image.png" />
+  <meta property="og:url" content="https://example.github.io/ox-quiz/" />
+  <meta property="og:locale" content="ko_KR" />
+  <meta name="twitter:card" content="summary_large_image" />
+
+  <meta http-equiv="Content-Security-Policy"
+    content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data: https://www.google-analytics.com; connect-src 'self' https://www.google-analytics.com;" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Jua&display=swap" />
+
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" type="image/svg+xml" href="assets/favicon.svg" />
+
+  <!-- TODO(GA4): 실제 GA4 측정 ID(G-XXXXXXXXXX)로 교체 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-XXXXXXXXXX', { anonymize_ip: true });
+  </script>
+
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <main id="app">
+    <section id="intro" class="view view--intro" aria-label="시작 화면">
+      <span class="badge badge--v2">🆕 50명 서바이벌</span>
+
+      <h1 class="title title--intro">
+        <span class="title__line">OX 서바이벌 100</span>
+        <span class="title__line title__line--small">준비됐어?</span>
+      </h1>
+
+      <div class="crowd" id="intro-crowd" aria-hidden="true"></div>
+
+      <div class="category-pick" aria-label="시험 종류 선택">
+        <label class="category-pick__label" for="category-select">📚 시험 종류 선택</label>
+        <select id="category-select" class="category-pick__select" aria-label="시험 종류"></select>
+        <p id="category-meta" class="category-pick__meta" aria-live="polite"></p>
+      </div>
+
+      <p class="hint">라이프 없음. 한 번 틀리면 끝! 최후의 1인이 되자!</p>
+
+      <button id="start-btn" class="btn btn--primary" type="button" disabled>
+        준비 중...
+      </button>
+
+      <p id="intro-status" class="intro-status" role="status" aria-live="polite">
+        문제 불러오는 중...
+      </p>
+    </section>
+
+    <section id="game" class="view view--game" hidden aria-label="게임 진행">
+      <header class="hud">
+        <button id="pause-btn" class="hud__pause" type="button" aria-label="일시정지" disabled>‖</button>
+        <span class="hud__progress">Q.<span id="q-num">1</span></span>
+        <span class="hud__score" aria-label="점수">⭐ <span id="score">0</span></span>
+        <span id="alive-display" class="hud__alive" aria-live="polite" aria-label="살아남은 인원">
+          👥 <span id="alive-count">50</span><span id="alive-total" hidden>50</span>
+        </span>
+      </header>
+
+      <div class="question" id="question" aria-live="polite">
+        문제가 여기에 표시됩니다
+      </div>
+
+      <div class="timer" id="timer" aria-live="polite">
+        <img class="timer__clock" id="timer-clock"
+             src="_refs/sprites/timer-clock-calm.png"
+             alt="" aria-hidden="true" />
+        <span class="timer__num" id="timer-num">5</span>
+      </div>
+
+      <div class="arena" id="arena" data-theme="grass">
+        <div class="arena__zone arena__zone--o" id="zone-o" aria-hidden="true"></div>
+        <div class="arena__zone arena__zone--x" id="zone-x" aria-hidden="true"></div>
+        <div class="arena__divider" aria-hidden="true"></div>
+        <div class="arena__zone-label arena__zone-label--o" aria-hidden="true">O</div>
+        <div class="arena__zone-label arena__zone-label--x" aria-hidden="true">X</div>
+        <div class="arena__sprites" id="arena-sprites" aria-hidden="true"></div>
+      </div>
+
+      <div class="ox-buttons">
+        <button class="box box--o" id="box-o" type="button" aria-label="O 답변 선택">
+          <span class="box__label">O</span>
+        </button>
+        <button class="box box--x" id="box-x" type="button" aria-label="X 답변 선택">
+          <span class="box__label">X</span>
+        </button>
+      </div>
+    </section>
+
+    <section id="end" class="view view--end" data-result="win" hidden aria-label="종료 화면">
+      <div class="burst" aria-hidden="true"></div>
+      <div class="coins" aria-hidden="true">
+        <span class="coin">🪙</span><span class="coin">🪙</span><span class="coin">🪙</span>
+        <span class="coin">🪙</span><span class="coin">🪙</span><span class="coin">🪙</span>
+        <span class="coin">🪙</span><span class="coin">🪙</span><span class="coin">🪙</span>
+        <span class="coin">🪙</span><span class="coin">🪙</span><span class="coin">🪙</span>
+      </div>
+      <h2 class="title title--end" id="end-title">최후의 1인!</h2>
+      <div class="champion" id="end-emoji" aria-hidden="true">🥳</div>
+      <p class="end__primary" id="end-primary">결과를 불러오는 중...</p>
+      <p class="end__secondary" id="end-secondary"></p>
+
+      <div class="end__actions">
+        <button id="share-btn" class="btn btn--primary" type="button">📤 친구한테 자랑하기</button>
+        <button id="restart-btn" class="btn btn--secondary" type="button">🔄 다시 풀기</button>
+      </div>
+    </section>
+
+    <section id="error" class="view view--error" hidden aria-label="오류 화면">
+      <div class="error__icon" aria-hidden="true">😢</div>
+      <h2 class="title title--error">문제를 불러올 수 없어요</h2>
+      <p id="error-message" class="error__message">잠시 후 다시 시도해 주세요.</p>
+      <button id="reload-btn" class="btn btn--primary" type="button" onclick="location.reload()">새로고침</button>
+    </section>
+  </main>
+
+  <div id="toast" class="toast" hidden role="status" aria-live="polite"></div>
+</body>
+</html>

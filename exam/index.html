@@ -1,0 +1,435 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#f7efe0" />
+  <title>하베스터 OX 학습 — 자격증·공무원 기출을 OX로</title>
+  <meta name="description" content="자격증·공무원 시험 기출문제를 OX로 풀고, 즉시 해설·관련 이론·교과서 챕터까지 한 화면에 — 풀이↔학습 0클릭." />
+
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="하베스터 OX 학습" />
+  <meta property="og:description" content="OX 풀이 → 즉시 해설 → 관련 이론까지. 흐름을 끊지 않는 학습." />
+  <meta property="og:image" content="../assets/og-image.png" />
+  <meta property="og:locale" content="ko_KR" />
+
+  <meta http-equiv="Content-Security-Policy"
+    content="default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data: https://www.google-analytics.com; connect-src 'self' https://www.google-analytics.com;" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Jua&family=Noto+Sans+KR:wght@400;500;700;900&display=swap" />
+  <link rel="stylesheet" href="exam.css" />
+  <link rel="icon" type="image/svg+xml" href="../assets/favicon.svg" />
+
+  <!-- GA4 — nonsense 라인과 동일 ID 재사용, 이벤트 prefix 'exam_' 로 분리 -->
+  <!-- TODO: 실제 측정 ID(G-XXXXXXXXXX)로 교체 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){ dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-XXXXXXXXXX', { anonymize_ip: true });
+  </script>
+
+  <script defer src="exam.js"></script>
+</head>
+<body>
+  <!-- 모바일 480px 캔버스 (max-width: 480px), data-screen으로 라우팅 -->
+  <div class="app" id="app" data-screen="loading" aria-live="polite">
+
+    <!-- === 로딩 화면 === -->
+    <section class="screen screen--loading" data-screen-name="loading">
+      <div class="loading">
+        <div class="loading__title">하베스터 OX 학습</div>
+        <div class="loading__sub">데이터를 불러오는 중...</div>
+      </div>
+    </section>
+
+    <!-- === 홈 화면 === -->
+    <section class="screen screen--home" data-screen-name="home" hidden>
+      <header class="topbar">
+        <div class="topbar__slot topbar__slot--left"></div>
+        <div class="topbar__center">
+          <div class="topbar__sub">학습 도구</div>
+          <div class="topbar__title">하베스터 OX</div>
+        </div>
+        <div class="topbar__slot topbar__slot--right">
+          <button type="button" class="iconbtn" id="open-tweaks" aria-label="설정">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                 stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <circle cx="12" cy="12" r="3"/>
+              <path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-4 0v-.09a1.65 1.65 0 0 0-1-1.51 1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1 0-4h.09a1.65 1.65 0 0 0 1.51-1 1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33h0a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 4 0v.09a1.65 1.65 0 0 0 1 1.51h0a1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82v0a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/>
+            </svg>
+          </button>
+        </div>
+      </header>
+
+      <main class="home">
+        <section class="home__hero">
+          <h1>오늘도, 짧게<br/>한 문제씩.</h1>
+          <p>풀이 → 즉시 해설 → 관련 이론까지. 흐름을 끊지 않는 학습.</p>
+        </section>
+
+        <!-- 이어서 풀기 (LocalStorage 기반, 데이터 있을 때만 표시) -->
+        <button type="button" class="continue" id="continue-card" hidden>
+          <div class="continue__decor" aria-hidden="true"></div>
+          <div class="continue__decor2" aria-hidden="true"></div>
+          <div class="eyebrow continue__eyebrow">이어서 풀기</div>
+          <div class="continue__cat" id="continue-cat"></div>
+          <div class="continue__meta" id="continue-meta"></div>
+          <div class="continue__progress"><div id="continue-progress-fill"></div></div>
+        </button>
+
+        <!-- 오늘의 학습 -->
+        <section>
+          <div class="section-head">
+            <h2>오늘의 학습</h2>
+            <span class="eyebrow" id="today-label"></span>
+          </div>
+          <div class="stats-row">
+            <div class="stat-card">
+              <div class="stat-card__num" id="stat-solved">0</div>
+              <div class="stat-card__label">풀이</div>
+            </div>
+            <div class="stat-card">
+              <div class="stat-card__num"><span id="stat-accuracy">0</span><span class="stat-card__unit">%</span></div>
+              <div class="stat-card__label">정답률</div>
+            </div>
+            <div class="stat-card">
+              <div class="stat-card__num"><span id="stat-streak">0</span><span class="stat-card__unit">일</span></div>
+              <div class="stat-card__label">연속</div>
+            </div>
+          </div>
+        </section>
+
+        <!-- 카테고리 -->
+        <section>
+          <div class="section-head">
+            <h2>카테고리</h2>
+            <span class="eyebrow" id="cat-count"></span>
+          </div>
+          <div class="cat-list" id="cat-list">
+            <!-- JS가 채움 -->
+          </div>
+          <p class="empty-hint" id="cat-empty" hidden>
+            준비 중인 카테고리입니다.<br/>잠시 후 다시 확인해주세요.
+          </p>
+        </section>
+
+        <!-- 학습 팁 -->
+        <section style="padding-bottom: 32px;">
+          <div class="section-head">
+            <h2>학습 팁</h2>
+          </div>
+          <div class="tip-card">
+            <div class="tip-card__icon" aria-hidden="true">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                   stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"/>
+              </svg>
+            </div>
+            <div class="tip-card__body">
+              한 번에 5문제씩 끊어서 풀어보세요. 해설을 정독한 뒤<br/>
+              <strong>관련 이론을 30초만 머물러도</strong> 다음 시험에서 보입니다.
+            </div>
+          </div>
+        </section>
+      </main>
+    </section>
+
+    <!-- === 풀이 화면 === -->
+    <section class="screen screen--quiz" data-screen-name="quiz" hidden>
+      <header class="topbar">
+        <div class="topbar__slot topbar__slot--left">
+          <button type="button" class="iconbtn" id="quiz-exit" aria-label="나가기">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                 stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="19" y1="12" x2="5" y2="12"/>
+              <polyline points="11 6 5 12 11 18"/>
+            </svg>
+          </button>
+        </div>
+        <div class="topbar__center">
+          <div class="topbar__sub" id="quiz-cat-group"></div>
+          <div class="topbar__title" id="quiz-cat-name"></div>
+        </div>
+        <div class="topbar__slot topbar__slot--right">
+          <button type="button" class="iconbtn" id="quiz-bookmark" aria-label="북마크" hidden>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                 stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/>
+            </svg>
+          </button>
+        </div>
+      </header>
+
+      <div class="quiz">
+        <!-- 진행률 -->
+        <div class="progress">
+          <div class="progress__bar"><div id="progress-fill"></div></div>
+          <div class="progress__count" id="progress-count">00 / 00</div>
+        </div>
+
+        <!-- 문항 메타 -->
+        <div class="q-meta">
+          <span class="q-meta__no" id="q-no"></span>
+          <span class="chip chip--ghost" id="q-topic" hidden></span>
+          <span class="chip" id="q-tag" hidden></span>
+        </div>
+
+        <!-- 문항 카드 -->
+        <div class="q-card" id="q-card" role="region" aria-label="OX 문항">
+          <span class="swipe-hint swipe-hint--o" id="swipe-hint-o">O</span>
+          <span class="swipe-hint swipe-hint--x" id="swipe-hint-x">X</span>
+          <div class="q-card__statement" id="q-statement"></div>
+          <div class="q-card__hint" id="q-hint">좌우로 스와이프하거나 아래 버튼을 누르세요</div>
+        </div>
+
+        <!-- O/X 버튼 -->
+        <div class="ox-actions">
+          <button type="button" class="ox-btn ox-btn--x" id="btn-x" aria-label="틀림">
+            X
+            <span class="ox-btn__kbd">← X 키</span>
+          </button>
+          <button type="button" class="ox-btn ox-btn--o" id="btn-o" aria-label="맞음">
+            O
+            <span class="ox-btn__kbd">O 키 →</span>
+          </button>
+        </div>
+
+        <!-- 자동 열기 OFF 시 수동 해설 보기 -->
+        <button type="button" class="next-btn manual-open-btn" id="manual-open" hidden style="margin-top: 12px; height: 48px;">
+          해설 보기
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+               stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polyline points="6 9 12 15 18 9"/>
+          </svg>
+        </button>
+      </div>
+    </section>
+
+    <!-- === 결과 화면 === -->
+    <section class="screen screen--result" data-screen-name="result" hidden>
+      <header class="topbar">
+        <div class="topbar__slot topbar__slot--left">
+          <button type="button" class="iconbtn" id="result-home" aria-label="홈">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                 stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="19" y1="12" x2="5" y2="12"/>
+              <polyline points="11 6 5 12 11 18"/>
+            </svg>
+          </button>
+        </div>
+        <div class="topbar__center">
+          <div class="topbar__sub" id="result-cat-name"></div>
+          <div class="topbar__title">학습 결과</div>
+        </div>
+        <div class="topbar__slot topbar__slot--right"></div>
+      </header>
+
+      <main class="result">
+        <section class="result__hero">
+          <div class="eyebrow">오늘의 정답률</div>
+          <div class="result__score">
+            <span id="result-correct">0</span><sub>/ <span id="result-total">0</span></sub>
+          </div>
+          <div class="result__pct"><span id="result-pct">0</span>% · <span id="result-kicker"></span></div>
+        </section>
+
+        <section>
+          <div class="section-head">
+            <h2>다시 짚어보기</h2>
+            <span class="eyebrow" id="result-wrong-count">0개 오답</span>
+          </div>
+          <div class="review-list" id="review-list">
+            <!-- JS 채움 -->
+          </div>
+          <div class="card review-empty" id="review-empty" hidden>
+            <div class="review-empty__o">O</div>
+            <div class="review-empty__text">모두 맞췄어요. 완벽합니다.</div>
+          </div>
+        </section>
+
+        <section>
+          <div class="section-head">
+            <h2>전체 풀이 기록</h2>
+          </div>
+          <div class="result-grid" id="result-grid">
+            <!-- JS 채움 -->
+          </div>
+        </section>
+
+        <div class="spacer"></div>
+
+        <div class="result__cta">
+          <button type="button" class="btn-secondary" id="result-back">홈으로</button>
+          <button type="button" class="btn-primary" id="result-restart">
+            다시 풀기
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                 stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <polyline points="23 4 23 10 17 10"/>
+              <polyline points="1 20 1 14 7 14"/>
+              <path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"/>
+            </svg>
+          </button>
+        </div>
+      </main>
+    </section>
+  </div>
+
+  <!-- === 해설 시트 (모든 화면 위 오버레이) === -->
+  <div class="sheet-backdrop" id="sheet-backdrop" hidden></div>
+  <aside class="sheet" id="sheet" role="dialog" aria-modal="true" aria-label="해설 시트" hidden>
+    <div class="sheet__grab" aria-hidden="true"></div>
+    <header class="sheet__header">
+      <div class="sheet__verdict" id="sheet-verdict"></div>
+      <div class="sheet__header-text">
+        <div class="sheet__verdict-label" id="sheet-verdict-label"></div>
+        <div class="sheet__answer-line" id="sheet-answer-line"></div>
+      </div>
+      <button type="button" class="sheet__close" id="sheet-close" aria-label="닫기">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+             stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="18" y1="6" x2="6" y2="18"/>
+          <line x1="6" y1="6" x2="18" y2="18"/>
+        </svg>
+      </button>
+    </header>
+
+    <div class="sheet__body">
+      <section class="sheet-section sheet-section--stmt">
+        <div class="sheet-section__label">문제</div>
+        <div class="sheet-section__body" id="sheet-statement"></div>
+      </section>
+
+      <section class="sheet-section">
+        <div class="sheet-section__label">해설</div>
+        <div class="sheet-section__body" id="sheet-explanation"></div>
+      </section>
+
+      <section class="sheet-section" id="sheet-theory-wrap">
+        <div class="sheet-section__label" id="sheet-theory-label">관련 이론</div>
+        <div class="sheet-section__body sheet-section__body--theory" id="sheet-theory"></div>
+      </section>
+
+      <section class="sheet-section" id="sheet-tags-wrap" hidden>
+        <div class="sheet-section__label">태그 · 같은 태그 문제만 풀기</div>
+        <div class="tag-row" id="sheet-tags"></div>
+      </section>
+
+      <section class="sheet-section">
+        <div class="sheet-section__label">관련 영상 · 교과서</div>
+        <div class="related-list" id="sheet-related">
+          <!-- JS 채움 -->
+        </div>
+      </section>
+
+      <section class="sheet-section sheet-section--source">
+        <div class="sheet-section__source-line">
+          <span id="sheet-source-pdf"></span>
+          <span class="sheet-section__source-sep">·</span>
+          <span>품질 <span id="sheet-meta-quality">0</span></span>
+        </div>
+      </section>
+    </div>
+
+    <div class="sheet__cta-bar">
+      <button type="button" class="next-btn" id="sheet-next">
+        <span id="sheet-next-label">다음 문제</span>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+             stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="5" y1="12" x2="19" y2="12"/>
+          <polyline points="13 6 19 12 13 18"/>
+        </svg>
+      </button>
+    </div>
+  </aside>
+
+  <!-- === 태그 필터 모달 === -->
+  <div class="modal-overlay" id="tag-modal-overlay" hidden>
+    <div class="modal" role="dialog" aria-modal="true" aria-label="태그 필터">
+      <div class="sheet__grab" style="margin: 0 auto 12px;" aria-hidden="true"></div>
+      <div class="eyebrow" style="margin-bottom: 6px;">태그 필터</div>
+      <h3 class="modal__title">
+        <span id="tag-modal-name"></span>
+        <span class="modal__count" id="tag-modal-count"></span>
+      </h3>
+      <p class="modal__desc">이 태그가 붙은 문제만 모아 풀기 모드로 전환할까요?</p>
+      <div class="modal__cta">
+        <button type="button" class="btn-secondary" id="tag-modal-cancel">취소</button>
+        <button type="button" class="btn-primary" id="tag-modal-confirm">모아 풀기</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- === Tweaks 패널 === -->
+  <button type="button" class="tweaks-fab" id="tweaks-fab" aria-label="Tweaks">
+    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+         stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <line x1="4" y1="21" x2="4" y2="14"/><line x1="4" y1="10" x2="4" y2="3"/>
+      <line x1="12" y1="21" x2="12" y2="12"/><line x1="12" y1="8" x2="12" y2="3"/>
+      <line x1="20" y1="21" x2="20" y2="16"/><line x1="20" y1="12" x2="20" y2="3"/>
+      <line x1="1" y1="14" x2="7" y2="14"/><line x1="9" y1="8" x2="15" y2="8"/>
+      <line x1="17" y1="16" x2="23" y2="16"/>
+    </svg>
+  </button>
+  <aside class="tweaks-panel" id="tweaks-panel" aria-label="Tweaks 패널" hidden>
+    <header class="tweaks-panel__head">
+      <h3>Tweaks</h3>
+      <button type="button" class="iconbtn" id="tweaks-close" aria-label="닫기">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+             stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
+        </svg>
+      </button>
+    </header>
+    <div class="tweaks-panel__body">
+      <div class="tweak-section-label">접근성</div>
+      <div class="tweak-row">
+        <label class="tweak-row__label">글자 크기</label>
+        <div class="tweak-row__control">
+          <input type="range" id="tweak-fontscale" min="0.85" max="1.3" step="0.05" value="1" />
+          <span class="tweak-row__value" id="tweak-fontscale-value">1.00x</span>
+        </div>
+      </div>
+
+      <div class="tweak-section-label">학습 흐름</div>
+      <div class="tweak-row">
+        <label class="tweak-row__label" for="tweak-autoopen">해설 시트 자동 열기</label>
+        <input type="checkbox" id="tweak-autoopen" class="tweak-toggle" checked />
+      </div>
+      <div class="tweak-row tweak-row--col">
+        <label class="tweak-row__label">정답 피드백</label>
+        <div class="tweak-radio" role="radiogroup" id="tweak-feedback">
+          <button type="button" data-val="badge">badge</button>
+          <button type="button" data-val="flash" class="is-active">flash</button>
+          <button type="button" data-val="shake">shake</button>
+        </div>
+      </div>
+
+      <div class="tweak-section-label">색상</div>
+      <div class="tweak-row tweak-row--col">
+        <label class="tweak-row__label">OX 컬러</label>
+        <div class="tweak-color" id="tweak-color">
+          <!-- JS가 채움 -->
+        </div>
+      </div>
+    </div>
+  </aside>
+
+  <!-- === 에러 토스트 === -->
+  <div class="toast" id="toast" hidden></div>
+
+  <!-- === 푸터 (홈에서만 표시) === -->
+  <footer class="footer" id="footer">
+    <p class="footer__line">
+      문항·해설 출처: <a href="https://0gichul.com/" target="_blank" rel="noopener">0gichul.com</a>
+      · 학습 메타데이터: harvester 자체 분석
+    </p>
+    <p class="footer__line footer__line--small">
+      <a href="../">← 넌센스 OX 퀴즈로</a>
+    </p>
+  </footer>
+</body>
+</html>

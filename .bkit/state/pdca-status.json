@@ -1,0 +1,614 @@
+{
+  "version": "3.0",
+  "lastUpdated": "2026-05-14T15:41:02.110222Z",
+  "activeFeatures": [
+    "exam-ox-pipeline"
+  ],
+  "primaryFeature": "exam-ox-pipeline",
+  "features": {
+    "exam-ox-pipeline": {
+      "phase": "completed",
+      "createdAt": "2026-05-13T00:00:00.000Z",
+      "lastUpdated": "2026-05-15T12:00:00.000Z",
+      "documents": {
+        "prd": "docs/00-pm/exam-ox-pipeline.prd.md",
+        "plan": "docs/01-plan/features/exam-ox-pipeline.plan.md",
+        "design": "docs/02-design/features/exam-ox-pipeline.design.md",
+        "analysis": "docs/03-analysis/exam-ox-pipeline.analysis.md",
+        "report": "docs/04-report/features/exam-ox-pipeline.report.md"
+      },
+      "beachhead": "세무사 1차 경제학·재정학",
+      "next": "/pdca plan exam-ox-pipeline",
+      "relations": {
+        "siblingSite": "nonsense-quiz-mvp",
+        "relation": "별도 도메인 자매 사이트 (학습 도구 vs 캐주얼 게임)",
+        "reuses": [
+          "scripts/build_quiz_db.py 코어 변환 로직 (Type A/B/C)",
+          "data/quiz.db SQLite 스키마 (v2 확장 예정)",
+          "디자인 토큰 일부"
+        ]
+      },
+      "scopeSummary": {
+        "in": [
+          "메타데이터 추출 레이어 (키워드 사전 + LLM)",
+          "해설 보강 레이어 (PDF 우선 + LLM fallback)",
+          "학습 페이지 1개 (문항+해설+영상+범위+학습포인트)",
+          "카테고리 트리 (자격증>회차>과목)",
+          "오답노트 (LocalStorage)",
+          "YouTube 영상 매칭 (큐레이션 + 사용자 승인)"
+        ],
+        "out": [
+          "회원가입/로그인 (Phase 4)",
+          "마일리지 (Phase 4)",
+          "UGC 문항 제출 (Phase 5)",
+          "강사 영상 (의사결정 충돌 미해소)",
+          "멀티플레이/서바이벌 (별도 nonsense 라인)"
+        ]
+      },
+      "successCriteria": {
+        "SC1": {
+          "metric": "OX 누적 문항 수 (메타 채워진 것)",
+          "target": ">= 1500",
+          "priority": "필수"
+        },
+        "SC2": {
+          "metric": "문항당 평균 메타 완성도",
+          "target": ">= 80%",
+          "priority": "필수"
+        },
+        "SC3": {
+          "metric": "'더 학습하기' 클릭율",
+          "target": ">= 35%",
+          "priority": "필수"
+        },
+        "SC4": {
+          "metric": "세무사 카페·블로그 inbound",
+          "target": ">= 500 sessions",
+          "priority": "권장"
+        },
+        "SC5": {
+          "metric": "세션당 평균 풀이 문항",
+          "target": ">= 15",
+          "priority": "권장"
+        },
+        "SC6": {
+          "metric": "재방문율 (7일)",
+          "target": ">= 20%",
+          "priority": "권장"
+        },
+        "SC7": {
+          "metric": "메타 추출 자동화율",
+          "target": ">= 70%",
+          "priority": "운영"
+        }
+      },
+      "openQuestions": 10,
+      "tasks": [
+        {
+          "name": "[PM] exam-ox-pipeline",
+          "status": "completed",
+          "completedAt": "2026-05-13T00:00:00.000Z",
+          "agent": "bkit:pm-lead"
+        }
+      ],
+      "architecture": "Option C (Pragmatic Balance)",
+      "matchRate": 91.1,
+      "criticalGaps": 0,
+      "importantGaps": 3,
+      "minorGaps": 4,
+      "scores": {
+        "structural": 100,
+        "functional": 91.7,
+        "contract": 86,
+        "formula": "static-only 0.2S+0.4F+0.4C"
+      },
+      "iterationCount": 1
+    },
+    "nonsense-quiz-mvp": {
+      "phase": "completed",
+      "createdAt": "2026-05-09T19:39:00.000Z",
+      "lastUpdated": "2026-05-09T21:25:00.000Z",
+      "documents": {
+        "prd": "docs/00-pm/nonsense-quiz-mvp.prd.md",
+        "plan": "docs/01-plan/features/nonsense-quiz-mvp.plan.md",
+        "design": "docs/02-design/features/nonsense-quiz-mvp.design.md",
+        "analysis": "docs/03-analysis/nonsense-quiz-mvp.analysis.md",
+        "report": "docs/04-report/features/nonsense-quiz-mvp.report.md"
+      },
+      "implementation": {
+        "files": {
+          "index.html": {
+            "loc": 142,
+            "status": "completed"
+          },
+          "style.css": {
+            "loc": 456,
+            "status": "completed"
+          },
+          "script.js": {
+            "loc": 413,
+            "status": "completed"
+          },
+          "data/questions_v1.csv": {
+            "rows": 3,
+            "status": "needs_user_input",
+            "target": 200
+          },
+          "assets/favicon.svg": {
+            "loc": 7,
+            "status": "completed"
+          },
+          "assets/og-image-source.html": {
+            "status": "completed",
+            "note": "headless Chrome 캡처용 1080x1080 HTML"
+          },
+          "assets/og-image.png": {
+            "status": "completed",
+            "size_kb": 620,
+            "dimensions": "1080x1080",
+            "method": "headless-chrome-screenshot"
+          },
+          ".gitignore": {
+            "status": "completed"
+          }
+        },
+        "totalLoc": 1011,
+        "modulesCompleted": [
+          "M1",
+          "M2",
+          "M3",
+          "M4",
+          "M5",
+          "M6",
+          "M7"
+        ],
+        "modulesPending": [
+          "M8-deploy"
+        ]
+      },
+      "remainingUserActions": [
+        {
+          "id": "I1",
+          "task": "GA4 측정 ID 발급 + index.html/script.js의 G-XXXXXXXXXX 교체",
+          "estimated_minutes": 5
+        },
+        {
+          "id": "I3",
+          "task": "OG base URL 확정 (배포 도메인 결정 후 index.html:14 교체)",
+          "estimated_minutes": 2
+        },
+        {
+          "id": "I4",
+          "task": "CSV 200문항 작성 + 5명 검수",
+          "estimated_minutes": "120-240"
+        }
+      ],
+      "matchRate": 90.6,
+      "iterationCount": 3,
+      "iterations": [
+        {
+          "id": 1,
+          "at": "2026-05-09T22:20:00.000Z",
+          "trigger": "사용자가 _refs/OX게임/ 에 퀴즈스틱맨 webp 4장 첨부 + 영상 분석 완료 후 보강",
+          "changes": [
+            "intro 캐릭터 14 → 32개 확장 (히어로/닌자/마법사/뱀파이어 등 다양)",
+            "타이틀 폰트 사이즈 clamp(36-72px) → clamp(32-56px) 화면 폭 맞춤",
+            "라운드 테마 시스템 도입: 5문항마다 6 테마 변경 (grass/ice/desert/cave/storm/final)",
+            "screenshots-description.md 메타 업데이트 (원본 webp 4장 링크)",
+            "_refs/video-analysis.md 신규 — OX 서바이벌 100 영상 88프레임 추출 + 분석"
+          ],
+          "files_changed": [
+            "index.html",
+            "style.css",
+            "script.js",
+            "_refs/screenshots-description.md",
+            "_refs/video-analysis.md"
+          ],
+          "loc_added": 56
+        },
+        {
+          "id": 2,
+          "at": "2026-05-09T22:30:00.000Z",
+          "trigger": "사용자 요청: 참고 그래픽·디자인 기반으로 게임 방식도 움직임 들어가게 완전 수정",
+          "scope": "MAJOR_REDESIGN",
+          "changes": [
+            "버튼 탭 → 큰 2개 사각 박스(O/X) 클릭 메커니즘 (퀴즈스틱맨/OX서바이벌 스타일)",
+            "NPC 16명 시뮬레이션 도입 (NPC_CORRECT_BIAS=0.62) — 솔로지만 100명 멀티 시각 재현",
+            "5초 타이머 카운트다운 + warning 효과 (≤2초 시 빨강 + shake)",
+            "박스 인원 카운트 실시간 표시 (예: 'O 7명 / X 9명')",
+            "캐릭터 이동 애니메이션 — 대기영역 → 박스 (arrive-bounce keyframe)",
+            "정답 발표 시 정답 박스 캐릭터 환호 + 오답 박스 추락 + 대기영역 추락",
+            "박스 시각 피드백: is-correct-reveal (bounce) / is-wrong-reveal (grayscale)",
+            "기존 .ox-btn / .zone 클래스 폐기 → .box / .character / .waiting-area 신규",
+            "GAME LOOP 핵심 메서드 재작성: handleAnswer → handleBoxClick + revealAnswer 분리",
+            "?dev=autostart URL 파라미터 추가 (검증·스크린샷용)"
+          ],
+          "files_changed": [
+            "index.html",
+            "style.css",
+            "script.js"
+          ],
+          "loc_after": 1310,
+          "verification": "헤드리스 Chrome 414×896 viewport에서 인트로/게임 시작/게임 중반 3장 스크린샷 캡처 후 시각 확인 완료"
+        },
+        {
+          "id": 3,
+          "at": "2026-05-10T00:42:00.000Z",
+          "trigger": "사용자 제공 70개 chibi 자산 (Genspark) + 사막 배경 적용",
+          "scope": "MAJOR_VISUAL_OVERHAUL",
+          "changes": [
+            "70 JPEG → PNG 알파 변환 (Python+PIL+scipy 자동 스크립트)",
+            "체커보드 배경 검출·제거 (모서리 연결성 floodfill, 캐릭터 내부 흰색 보존)",
+            "캐릭터 25종 chibi PNG 적용 (영웅 6 + 몬스터 6 + 동물 6 + SF/직업 6 + 나 1)",
+            "사막 배경 풀스크린 (.view--game background-image)",
+            "지속 점프 애니메이션 (@keyframes idle-jump 0.9s infinite, NPC별 random delay)",
+            "환호 점프 애니메이션 (@keyframes cheer-jump 정답 시)",
+            "이모지 .crowd__emoji 시스템 폐기 → JS 동적 PNG 25 캐릭터 그리드",
+            "캐릭터 1픽셀 크기 컨테이너에 background-image 매핑 (drop-shadow 으로 '나' 글로우)"
+          ],
+          "files_changed": [
+            "_refs/sprites/process.py (Python 변환 스크립트)",
+            "_refs/sprites/*.png (70 자산)",
+            "index.html (인트로 crowd 비우기)",
+            "style.css (사막 배경, .character PNG, 점프 keyframe 2종)",
+            "script.js (CHARACTER_POOL PNG 경로, populateIntroCrowd, makeCharacter PNG)"
+          ],
+          "assets_pending": [
+            "fx-vignette-red 효과 적용 (타이머 위급 시 화면 가장자리)",
+            "stamp-correct-o/x/wrong 도장 (정답 발표 시 가운데 표시)",
+            "expr-shock/cheer/fall 표정 sticker (캐릭터 위)",
+            "bubble-* 말풍선 (NPC 결정 시 1초 표시)",
+            "particle-* 효과 (정답·오답 시 spawn)",
+            "fx-falling-hole 추락 시각 (오답 박스 하단)",
+            "timer-clock-calm/warning/critical PNG 적용 (현재 ⏱ 이모지)"
+          ],
+          "verification": "헤드리스 414×896 인트로 + 게임 중반 캡처. 영상 톤 매우 근접. 25 chibi 캐릭터 + 사막 + 점프 모두 정상."
+        }
+      ],
+      "criticalGaps": 0,
+      "importantGaps": 4,
+      "minorGaps": 2,
+      "tasks": [
+        {
+          "name": "[PM] nonsense-quiz-mvp",
+          "status": "completed",
+          "completedAt": "2026-05-09T19:40:00.000Z"
+        },
+        {
+          "name": "[Plan] nonsense-quiz-mvp",
+          "status": "completed",
+          "completedAt": "2026-05-09T20:05:00.000Z",
+          "blockedBy": "[PM] nonsense-quiz-mvp"
+        },
+        {
+          "name": "[Design] nonsense-quiz-mvp",
+          "status": "completed",
+          "completedAt": "2026-05-09T20:25:00.000Z",
+          "blockedBy": "[Plan] nonsense-quiz-mvp"
+        },
+        {
+          "name": "[Do] nonsense-quiz-mvp",
+          "status": "completed",
+          "completedAt": "2026-05-09T20:55:00.000Z",
+          "blockedBy": "[Design] nonsense-quiz-mvp",
+          "note": "M1-M7 코드 작성 완료. og-image PNG와 200문항 CSV는 사용자 액션 필요."
+        },
+        {
+          "name": "[Check] nonsense-quiz-mvp",
+          "status": "completed",
+          "completedAt": "2026-05-09T21:10:00.000Z",
+          "blockedBy": "[Do] nonsense-quiz-mvp",
+          "matchRate": 90.6,
+          "note": "Critical 0, Important 4 (사용자 액션), Minor M1(💔 이모지) 즉시 수정 완료"
+        },
+        {
+          "name": "[Report] nonsense-quiz-mvp",
+          "status": "completed",
+          "completedAt": "2026-05-09T21:25:00.000Z",
+          "blockedBy": "[Check] nonsense-quiz-mvp",
+          "agent": "bkit:report-generator",
+          "loc": 502
+        }
+      ],
+      "confirmedDecisions": {
+        "analytics": "GA4 + UTM",
+        "domain": "GitHub Pages default",
+        "rotation": "30 questions shuffled per round from 200-pool",
+        "cafe_link": "Not exposed (removed)",
+        "share_tone": "Casual single-living-college-student tone",
+        "theme": "Light only",
+        "architecture": "Option C - Pragmatic Balance (3+1 files, sectioned script.js)"
+      }
+    }
+  },
+  "pipeline": {
+    "currentPhase": 6,
+    "level": "Dynamic",
+    "phaseHistory": [
+      {
+        "feature": "nonsense-quiz-mvp",
+        "phase": "pm",
+        "completedAt": "2026-05-09T19:40:00.000Z"
+      },
+      {
+        "feature": "nonsense-quiz-mvp",
+        "phase": "plan",
+        "completedAt": "2026-05-09T20:05:00.000Z"
+      },
+      {
+        "feature": "nonsense-quiz-mvp",
+        "phase": "design",
+        "completedAt": "2026-05-09T20:25:00.000Z"
+      },
+      {
+        "feature": "nonsense-quiz-mvp",
+        "phase": "do",
+        "completedAt": "2026-05-09T20:55:00.000Z"
+      },
+      {
+        "feature": "nonsense-quiz-mvp",
+        "phase": "check",
+        "completedAt": "2026-05-09T21:10:00.000Z",
+        "matchRate": 90.6
+      },
+      {
+        "feature": "nonsense-quiz-mvp",
+        "phase": "report",
+        "completedAt": "2026-05-09T21:25:00.000Z"
+      },
+      {
+        "feature": "exam-ox-pipeline",
+        "phase": "pm",
+        "completedAt": "2026-05-13T00:00:00.000Z"
+      },
+      {
+        "feature": "exam-ox-pipeline",
+        "phase": "plan",
+        "timestamp": "2026-05-14T11:32:27.274321Z"
+      },
+      {
+        "feature": "exam-ox-pipeline",
+        "phase": "design",
+        "timestamp": "2026-05-14T12:14:27.880841Z"
+      },
+      {
+        "feature": "exam-ox-pipeline",
+        "phase": "check",
+        "timestamp": "2026-05-14T15:12:41.532412Z",
+        "matchRate": 87.2
+      },
+      {
+        "feature": "exam-ox-pipeline",
+        "phase": "iterate-1",
+        "timestamp": "2026-05-14T15:41:02.110222Z",
+        "matchRate": 91.1,
+        "gapResolved": "I1-wrongStore"
+      },
+      {
+        "feature": "exam-ox-pipeline",
+        "phase": "report",
+        "completedAt": "2026-05-15T12:00:00.000Z",
+        "matchRate": 91.1,
+        "totalCycleDurationHours": 18,
+        "modulesCompleted": 9,
+        "totalLOC": 3650
+      }
+    ]
+  },
+  "session": {
+    "startedAt": "2026-05-09T08:01:04.731Z",
+    "onboardingCompleted": true,
+    "lastActivity": "2026-05-09T21:25:00.000Z"
+  },
+  "history": [
+    {
+      "event": "pm_completed",
+      "feature": "nonsense-quiz-mvp",
+      "at": "2026-05-09T19:40:00.000Z",
+      "agent": "bkit:pm-lead"
+    },
+    {
+      "event": "plan_completed",
+      "feature": "nonsense-quiz-mvp",
+      "at": "2026-05-09T20:05:00.000Z",
+      "agent": "bkit:pdca/plan"
+    },
+    {
+      "event": "design_completed",
+      "feature": "nonsense-quiz-mvp",
+      "at": "2026-05-09T20:25:00.000Z",
+      "agent": "bkit:pdca/design",
+      "selectedArchitecture": "Option C"
+    },
+    {
+      "event": "do_completed",
+      "feature": "nonsense-quiz-mvp",
+      "at": "2026-05-09T20:55:00.000Z",
+      "agent": "bkit:pdca/do",
+      "loc": 1011,
+      "modulesCompleted": "M1-M7-partial"
+    },
+    {
+      "event": "check_completed",
+      "feature": "nonsense-quiz-mvp",
+      "at": "2026-05-09T21:10:00.000Z",
+      "agent": "bkit:gap-detector",
+      "matchRate": 90.6,
+      "criticalGaps": 0,
+      "importantGaps": 4,
+      "minorGapsResolved": 1
+    },
+    {
+      "event": "report_completed",
+      "feature": "nonsense-quiz-mvp",
+      "at": "2026-05-09T21:25:00.000Z",
+      "agent": "bkit:report-generator",
+      "totalCycleDurationMin": 106
+    },
+    {
+      "event": "pm_completed",
+      "feature": "exam-ox-pipeline",
+      "at": "2026-05-13T00:00:00.000Z",
+      "agent": "bkit:pm-lead",
+      "beachhead": "세무사 1차 경제학·재정학",
+      "prd": "docs/00-pm/exam-ox-pipeline.prd.md"
+    }
+  ],
+  "stateMachine": {
+    "defaultWorkflow": "default",
+    "activeWorkflows": {
+      "nonsense-quiz-mvp": {
+        "phase": "completed",
+        "next": "archive_or_continue"
+      },
+      "exam-ox-pipeline": {
+        "phase": "completed",
+        "matchRate": 91.1,
+        "iteration": 1,
+        "updatedAt": "2026-05-15T12:00:00.000Z",
+        "next": "archive_or_phase2"
+      }
+    },
+    "totalTransitions": 7
+  },
+  "automation": {
+    "globalLevel": 2,
+    "trustScore": 40,
+    "pendingApprovals": 0,
+    "lastGateResult": "pm_completed_ok"
+  },
+  "team": {
+    "enabled": true,
+    "stateFile": ".bkit/runtime/agent-state.json",
+    "eventsFile": ".bkit/runtime/agent-events.jsonl"
+  },
+  "archivedFeatures": {
+    "survival-mode-v2": {
+      "phase": "archived",
+      "matchRate": 94.8,
+      "iterationCount": 0,
+      "startedAt": "2026-05-10T05:30:00.000Z",
+      "completedAt": "2026-05-10T07:05:00.000Z",
+      "archivedAt": "2026-05-10T09:30:00.000Z",
+      "archivedTo": "docs/archive/2026-05/survival-mode-v2/",
+      "summary": {
+        "modulesCompleted": [
+          "M1",
+          "M2",
+          "M3",
+          "M4",
+          "M5",
+          "M6",
+          "M7",
+          "M8",
+          "M9",
+          "M10"
+        ],
+        "totalLocDelta": 455,
+        "decisions": {
+          "characterCount": 50,
+          "livesSystem": "abolished",
+          "endCondition": "alive<=1 OR playerEliminated",
+          "roundCap": "unlimited (200-pool reshuffle on exhaustion)",
+          "playerInput": "OX buttons (re-tap to switch within timer)",
+          "npcMovement": "1-2 wavers per round",
+          "eliminationEffects": [
+            "fall",
+            "poof",
+            "floor-crack",
+            "rocket"
+          ],
+          "runningBackground": "vertical scroll grid"
+        },
+        "qaSimulation": {
+          "n": 10000,
+          "playerCasual50": {
+            "win": "0.8%",
+            "avgRound": 1.98,
+            "p90Round": 4,
+            "firstRoundDeath": "49.1%"
+          },
+          "playerAvg65": {
+            "win": "4.2%",
+            "avgRound": 2.76,
+            "p90Round": 6,
+            "firstRoundDeath": "34.5%"
+          },
+          "playerStrong75": {
+            "win": "10.2%",
+            "avgRound": 3.57,
+            "p90Round": 7,
+            "firstRoundDeath": "24.8%"
+          },
+          "scV2_02_avgRound6_12": "❌ actual 2-4 (NPC 곡선 + binary OX 한계 — 짧고 자주 재플레이 모델로 acceptance)",
+          "scV2_03_firstDeath_le_25pct": "⚠️ 75% 정답률 사용자만 충족",
+          "decision": "design-spec curve 유지. WIN rate 4-10%로 reengagement 충분"
+        }
+      }
+    },
+    "survival-mode-v3": {
+      "phase": "archived",
+      "matchRate": 96.4,
+      "iterationCount": 0,
+      "startedAt": "2026-05-10T07:30:00.000Z",
+      "completedAt": "2026-05-10T09:00:00.000Z",
+      "archivedAt": "2026-05-10T09:30:00.000Z",
+      "archivedTo": "docs/archive/2026-05/survival-mode-v3/",
+      "summary": {
+        "modulesCompleted": [
+          "M1",
+          "M2",
+          "M3",
+          "M4",
+          "M5",
+          "M6",
+          "M7",
+          "M8",
+          "M9"
+        ],
+        "totalLocDelta": 130,
+        "decisions": {
+          "scopeChoice": "P1 + 시각 보강 (사용자 선택 2026-05-10)",
+          "outOfScope": [
+            "P2 카테고리 시스템 (v4)",
+            "P3 100명 모드 (v4)"
+          ],
+          "grandSlamThreshold": 4,
+          "grandSlamThresholdReason": "Bernoulli simulate(10000) 검증: THRESHOLD=11은 도달률 <0.3% (불가능), 4가 SC-V3-01 sweet spot (65% 정답률 6.80%, 75% 정답률 15.53%)",
+          "npcCurveEased": [
+            0.3,
+            0.42,
+            0.5,
+            0.55,
+            0.6,
+            0.62,
+            0.64,
+            0.65
+          ],
+          "architectureOption": "C-Pragmatic-Balance"
+        },
+        "qaSimulation": {
+          "n": 10000,
+          "model": "Bernoulli (per-NPC independent)",
+          "playerCasual50": {
+            "avgRound": 1.96,
+            "winPct": "2.42%",
+            "gsPct": "2.06%"
+          },
+          "playerAvg65": {
+            "avgRound": 2.6,
+            "winPct": "8.34%",
+            "gsPct": "6.80%"
+          },
+          "playerStrong75": {
+            "avgRound": 3.32,
+            "winPct": "17.96%",
+            "gsPct": "15.53%"
+          },
+          "scV3_01_grandSlam_5to15pct": "✅ avg 6.80%, strong 15.53% (within target)",
+          "scV3_02_avgRound_4to7": "❌ actual 1.96-3.32 (v2와 유사. 영상 acceptance 모델 그대로 — 짧고 자주 재플레이)"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1333 @@
+{
+  "slug": "general-knowledge",
+  "name": "기본상식",
+  "exam_group": null,
+  "subject": "일반상식",
+  "phase": null,
+  "source": "직접 큐레이션 (역사·과학·지리·문화·일상)",
+  "exam_year": null,
+  "exam_round": null,
+  "count": 110,
+  "questions": [
+    {
+      "id": 1,
+      "question": "태양은 동쪽에서 떠서 서쪽으로 진다.",
+      "answer": "O",
+      "explanation": "지구의 자전 방향(서→동) 때문에 천체는 동→서로 이동하는 것처럼 보인다.",
+      "source": {
+        "qid": 1,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 2,
+      "question": "지구는 태양 주위를 약 365일에 한 번 돈다.",
+      "answer": "O",
+      "explanation": "이를 공전 주기(1년)라 하며 정확히는 365.2422일이다.",
+      "source": {
+        "qid": 2,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 3,
+      "question": "달은 스스로 빛을 낸다.",
+      "answer": "X",
+      "explanation": "달은 태양빛을 반사할 뿐 스스로 빛을 내지 않는다.",
+      "source": {
+        "qid": 3,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 4,
+      "question": "물의 끓는점은 표준대기압에서 100°C이다.",
+      "answer": "O",
+      "explanation": "1기압(101.325kPa) 기준이며 기압이 낮아지면 끓는점도 낮아진다.",
+      "source": {
+        "qid": 4,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 5,
+      "question": "얼음은 물보다 밀도가 높다.",
+      "answer": "X",
+      "explanation": "얼음은 물보다 밀도가 낮아 물 위에 뜬다 — 매우 드문 물질 중 하나.",
+      "source": {
+        "qid": 5,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 6,
+      "question": "빛의 속도는 소리의 속도보다 느리다.",
+      "answer": "X",
+      "explanation": "빛은 약 30만 km/s, 소리는 약 0.34 km/s — 빛이 약 88만 배 빠르다.",
+      "source": {
+        "qid": 6,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 7,
+      "question": "인간의 정상 체온은 약 36.5°C이다.",
+      "answer": "O",
+      "explanation": "개인차가 있으나 35.5~37.2°C 범위가 일반적이다.",
+      "source": {
+        "qid": 7,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 8,
+      "question": "심장은 왼쪽 가슴에만 있다.",
+      "answer": "X",
+      "explanation": "심장은 가슴 중앙에서 약간 왼쪽으로 치우쳐 있다 — 완전히 왼쪽은 아니다.",
+      "source": {
+        "qid": 8,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 9,
+      "question": "성인의 뼈는 약 206개이다.",
+      "answer": "O",
+      "explanation": "신생아는 약 270개로 시작해 자라면서 일부가 융합되어 206개가 된다.",
+      "source": {
+        "qid": 9,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 10,
+      "question": "인간의 DNA는 23쌍의 염색체에 들어 있다.",
+      "answer": "O",
+      "explanation": "22쌍의 상염색체와 1쌍의 성염색체로 총 46개.",
+      "source": {
+        "qid": 10,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 11,
+      "question": "산소는 화학기호 O로 표기한다.",
+      "answer": "O",
+      "explanation": "라틴어 'Oxygenium'에서 유래.",
+      "source": {
+        "qid": 11,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 12,
+      "question": "금의 화학기호는 G이다.",
+      "answer": "X",
+      "explanation": "금의 화학기호는 Au (라틴어 Aurum).",
+      "source": {
+        "qid": 12,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 13,
+      "question": "다이아몬드는 탄소로만 이루어져 있다.",
+      "answer": "O",
+      "explanation": "탄소 원자가 정사면체 결정구조로 결합된 것.",
+      "source": {
+        "qid": 13,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 14,
+      "question": "음속은 물 속에서 공기보다 빠르다.",
+      "answer": "O",
+      "explanation": "공기 약 343m/s, 물 약 1480m/s — 매질의 밀도가 높을수록 빠르다.",
+      "source": {
+        "qid": 14,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 15,
+      "question": "중력은 지구의 모든 곳에서 정확히 같다.",
+      "answer": "X",
+      "explanation": "위도와 고도에 따라 약간씩 다르다 — 적도가 극지방보다 약 0.5% 작다.",
+      "source": {
+        "qid": 15,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 16,
+      "question": "한국의 수도는 서울이다.",
+      "answer": "O",
+      "explanation": "1392년 조선 건국 이후 600년 이상 수도.",
+      "source": {
+        "qid": 16,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "지리"
+      }
+    },
+    {
+      "id": 17,
+      "question": "한라산은 제주도에 있다.",
+      "answer": "O",
+      "explanation": "높이 1,947m로 남한 최고봉.",
+      "source": {
+        "qid": 17,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "지리"
+      }
+    },
+    {
+      "id": 18,
+      "question": "백두산은 한국과 중국 국경에 있다.",
+      "answer": "O",
+      "explanation": "공식적으로는 북한과 중국 국경.",
+      "source": {
+        "qid": 18,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "지리"
+      }
+    },
+    {
+      "id": 19,
+      "question": "한반도의 가장 긴 강은 압록강이다.",
+      "answer": "O",
+      "explanation": "길이 약 803km. 두만강은 521km.",
+      "source": {
+        "qid": 19,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "지리"
+      }
+    },
+    {
+      "id": 20,
+      "question": "독도는 일본 영토이다.",
+      "answer": "X",
+      "explanation": "독도는 대한민국 고유 영토 (행정구역상 경상북도 울릉군).",
+      "source": {
+        "qid": 20,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "지리"
+      }
+    },
+    {
+      "id": 21,
+      "question": "세계에서 가장 높은 산은 에베레스트이다.",
+      "answer": "O",
+      "explanation": "해발 8,848.86m. 네팔과 중국 국경에 위치.",
+      "source": {
+        "qid": 21,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "지리"
+      }
+    },
+    {
+      "id": 22,
+      "question": "세계에서 가장 큰 바다는 태평양이다.",
+      "answer": "O",
+      "explanation": "전체 해양 면적의 약 46%를 차지.",
+      "source": {
+        "qid": 22,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "지리"
+      }
+    },
+    {
+      "id": 23,
+      "question": "이집트의 피라미드는 중국에 있다.",
+      "answer": "X",
+      "explanation": "이집트 카이로 인근 기자에 위치.",
+      "source": {
+        "qid": 23,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "지리"
+      }
+    },
+    {
+      "id": 24,
+      "question": "아마존 강은 남아메리카에 있다.",
+      "answer": "O",
+      "explanation": "브라질·페루·콜롬비아 등을 가로지른다.",
+      "source": {
+        "qid": 24,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "지리"
+      }
+    },
+    {
+      "id": 25,
+      "question": "러시아는 세계에서 가장 면적이 큰 나라이다.",
+      "answer": "O",
+      "explanation": "약 1,710만 km² — 캐나다(998만)의 약 1.7배.",
+      "source": {
+        "qid": 25,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "지리"
+      }
+    },
+    {
+      "id": 26,
+      "question": "프랑스의 수도는 파리이다.",
+      "answer": "O",
+      "explanation": "센 강을 끼고 발달한 도시.",
+      "source": {
+        "qid": 26,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "지리"
+      }
+    },
+    {
+      "id": 27,
+      "question": "호주는 북반구에 있다.",
+      "answer": "X",
+      "explanation": "호주는 남반구에 위치 — 한국과 계절이 반대.",
+      "source": {
+        "qid": 27,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "지리"
+      }
+    },
+    {
+      "id": 28,
+      "question": "세계에서 가장 깊은 호수는 바이칼호이다.",
+      "answer": "O",
+      "explanation": "러시아에 위치, 최대 수심 1,642m.",
+      "source": {
+        "qid": 28,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "지리"
+      }
+    },
+    {
+      "id": 29,
+      "question": "사하라 사막은 아프리카에 있다.",
+      "answer": "O",
+      "explanation": "세계 최대의 더운 사막.",
+      "source": {
+        "qid": 29,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "지리"
+      }
+    },
+    {
+      "id": 30,
+      "question": "북극에는 펭귄이 산다.",
+      "answer": "X",
+      "explanation": "펭귄은 남극과 남반구에만 서식 — 북극에는 없다.",
+      "source": {
+        "qid": 30,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "지리"
+      }
+    },
+    {
+      "id": 31,
+      "question": "세종대왕은 한글을 창제했다.",
+      "answer": "O",
+      "explanation": "1443년 창제, 1446년 훈민정음 반포.",
+      "source": {
+        "qid": 31,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "역사"
+      }
+    },
+    {
+      "id": 32,
+      "question": "이순신 장군은 임진왜란 때 활약했다.",
+      "answer": "O",
+      "explanation": "1592~1598년 23전 23승의 전공.",
+      "source": {
+        "qid": 32,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "역사"
+      }
+    },
+    {
+      "id": 33,
+      "question": "고려는 조선보다 먼저 세워진 왕조이다.",
+      "answer": "O",
+      "explanation": "고려(918년) → 조선(1392년).",
+      "source": {
+        "qid": 33,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "역사"
+      }
+    },
+    {
+      "id": 34,
+      "question": "한국전쟁은 1950년에 발발했다.",
+      "answer": "O",
+      "explanation": "1950년 6월 25일 북한의 남침으로 시작.",
+      "source": {
+        "qid": 34,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "역사"
+      }
+    },
+    {
+      "id": 35,
+      "question": "광복절은 매년 8월 15일이다.",
+      "answer": "O",
+      "explanation": "1945년 일본 항복 = 한국 광복일.",
+      "source": {
+        "qid": 35,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "역사"
+      }
+    },
+    {
+      "id": 36,
+      "question": "3·1 운동은 1919년에 일어났다.",
+      "answer": "O",
+      "explanation": "1919년 3월 1일 독립선언서 발표.",
+      "source": {
+        "qid": 36,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "역사"
+      }
+    },
+    {
+      "id": 37,
+      "question": "제2차 세계대전은 1939년에 시작되었다.",
+      "answer": "O",
+      "explanation": "독일의 폴란드 침공이 발단.",
+      "source": {
+        "qid": 37,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "역사"
+      }
+    },
+    {
+      "id": 38,
+      "question": "콜럼버스는 1492년 아메리카 대륙에 도착했다.",
+      "answer": "O",
+      "explanation": "산타마리아호로 카리브해의 산살바도르 섬에 상륙.",
+      "source": {
+        "qid": 38,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "역사"
+      }
+    },
+    {
+      "id": 39,
+      "question": "진시황은 만리장성을 처음 쌓기 시작한 왕이다.",
+      "answer": "O",
+      "explanation": "기원전 221년 중국 통일 후 북방 흉노족 방어용.",
+      "source": {
+        "qid": 39,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "역사"
+      }
+    },
+    {
+      "id": 40,
+      "question": "신라는 통일신라 시대 이후 조선이 되었다.",
+      "answer": "X",
+      "explanation": "신라(BC57~AD935) → 고려(918~1392) → 조선(1392~1897). 신라 다음은 고려.",
+      "source": {
+        "qid": 40,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "역사"
+      }
+    },
+    {
+      "id": 41,
+      "question": "훈민정음은 영어 알파벳으로 적혀 있다.",
+      "answer": "X",
+      "explanation": "훈민정음은 한글로 적혀 있으며, 한자로 된 해설서가 함께 있다.",
+      "source": {
+        "qid": 41,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "역사"
+      }
+    },
+    {
+      "id": 42,
+      "question": "조선왕조실록은 유네스코 세계기록유산이다.",
+      "answer": "O",
+      "explanation": "1997년 등재.",
+      "source": {
+        "qid": 42,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "역사"
+      }
+    },
+    {
+      "id": 43,
+      "question": "안중근 의사는 이토 히로부미를 저격했다.",
+      "answer": "O",
+      "explanation": "1909년 10월 26일 하얼빈역에서.",
+      "source": {
+        "qid": 43,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "역사"
+      }
+    },
+    {
+      "id": 44,
+      "question": "단군 신화에서 단군은 곰의 아들이다.",
+      "answer": "O",
+      "explanation": "환웅과 곰에서 변한 웅녀의 아들.",
+      "source": {
+        "qid": 44,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "역사"
+      }
+    },
+    {
+      "id": 45,
+      "question": "미국 독립 선언은 1776년에 이루어졌다.",
+      "answer": "O",
+      "explanation": "7월 4일 — 미국 독립기념일.",
+      "source": {
+        "qid": 45,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "역사"
+      }
+    },
+    {
+      "id": 46,
+      "question": "피카소는 한국 출신 화가이다.",
+      "answer": "X",
+      "explanation": "피카소는 스페인 출신 — 1881년 말라가에서 출생.",
+      "source": {
+        "qid": 46,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "문화"
+      }
+    },
+    {
+      "id": 47,
+      "question": "베토벤은 독일 작곡가이다.",
+      "answer": "O",
+      "explanation": "1770년 본 출신, 9개의 교향곡과 32개의 피아노 소나타로 유명.",
+      "source": {
+        "qid": 47,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "문화"
+      }
+    },
+    {
+      "id": 48,
+      "question": "모나리자는 다 빈치의 작품이다.",
+      "answer": "O",
+      "explanation": "1503~1519년경 그려진 유화 — 현재 루브르 박물관 소장.",
+      "source": {
+        "qid": 48,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "문화"
+      }
+    },
+    {
+      "id": 49,
+      "question": "셰익스피어는 햄릿을 썼다.",
+      "answer": "O",
+      "explanation": "4대 비극(햄릿·맥베스·리어왕·오델로) 중 하나.",
+      "source": {
+        "qid": 49,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "문화"
+      }
+    },
+    {
+      "id": 50,
+      "question": "BTS는 한국의 7인조 보이그룹이다.",
+      "answer": "O",
+      "explanation": "2013년 데뷔 — RM·진·슈가·제이홉·지민·뷔·정국.",
+      "source": {
+        "qid": 50,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "문화"
+      }
+    },
+    {
+      "id": 51,
+      "question": "올림픽은 4년마다 열린다.",
+      "answer": "O",
+      "explanation": "하계·동계 각각 4년마다 — 2년 간격으로 번갈아 개최.",
+      "source": {
+        "qid": 51,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "문화"
+      }
+    },
+    {
+      "id": 52,
+      "question": "축구의 한 팀은 11명이다.",
+      "answer": "O",
+      "explanation": "필드 플레이어 10명 + 골키퍼 1명.",
+      "source": {
+        "qid": 52,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "문화"
+      }
+    },
+    {
+      "id": 53,
+      "question": "야구 한 팀은 10명이다.",
+      "answer": "X",
+      "explanation": "야구는 한 팀 9명 — 투수·포수·1·2·3루수·유격수·좌·중·우익수.",
+      "source": {
+        "qid": 53,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "문화"
+      }
+    },
+    {
+      "id": 54,
+      "question": "테니스에서 0점을 'love'라고 부른다.",
+      "answer": "O",
+      "explanation": "점수: love(0)·15·30·40·deuce·advantage.",
+      "source": {
+        "qid": 54,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "문화"
+      }
+    },
+    {
+      "id": 55,
+      "question": "태권도는 한국에서 유래된 무술이다.",
+      "answer": "O",
+      "explanation": "올림픽 정식 종목 (2000년 시드니부터).",
+      "source": {
+        "qid": 55,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "문화"
+      }
+    },
+    {
+      "id": 56,
+      "question": "마라톤의 거리는 정확히 42.195km이다.",
+      "answer": "O",
+      "explanation": "1908년 런던 올림픽에서 확정.",
+      "source": {
+        "qid": 56,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "문화"
+      }
+    },
+    {
+      "id": 57,
+      "question": "호랑이는 한국의 국기 동물이다.",
+      "answer": "X",
+      "explanation": "한국의 국기는 태극기 — '국기 동물'이라는 공식 개념은 없다. 한국을 상징하는 동물로는 호랑이가 자주 쓰임.",
+      "source": {
+        "qid": 57,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "문화"
+      }
+    },
+    {
+      "id": 58,
+      "question": "커피는 한국에서 처음 발견된 음료이다.",
+      "answer": "X",
+      "explanation": "커피는 에티오피아에서 기원 — 9세기경 양치기 칼디 전설.",
+      "source": {
+        "qid": 58,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "문화"
+      }
+    },
+    {
+      "id": 59,
+      "question": "김치는 한국의 전통 발효 음식이다.",
+      "answer": "O",
+      "explanation": "2013년 김장 문화가 유네스코 인류무형문화유산 등재.",
+      "source": {
+        "qid": 59,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "문화"
+      }
+    },
+    {
+      "id": 60,
+      "question": "비빔밥은 일본의 전통 음식이다.",
+      "answer": "X",
+      "explanation": "비빔밥은 한국의 대표적 전통 음식 — 전주비빔밥이 유명.",
+      "source": {
+        "qid": 60,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "문화"
+      }
+    },
+    {
+      "id": 61,
+      "question": "한국의 화폐 단위는 원이다.",
+      "answer": "O",
+      "explanation": "₩ 기호 사용. 1962년부터 사용.",
+      "source": {
+        "qid": 61,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 62,
+      "question": "한국에서 운전석은 차의 왼쪽에 있다.",
+      "answer": "O",
+      "explanation": "한국·미국·중국 등 우측 통행 — 영국·일본·호주는 좌측 통행.",
+      "source": {
+        "qid": 62,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 63,
+      "question": "휴대폰은 1980년대에 처음 발명되었다.",
+      "answer": "O",
+      "explanation": "1973년 모토로라 첫 시제품 — 1983년 상용화.",
+      "source": {
+        "qid": 63,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 64,
+      "question": "인터넷은 21세기에 처음 등장했다.",
+      "answer": "X",
+      "explanation": "ARPANET이 1969년 시작 — 인터넷의 기원은 20세기.",
+      "source": {
+        "qid": 64,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 65,
+      "question": "이메일에서 @ 기호는 'at'으로 읽는다.",
+      "answer": "O",
+      "explanation": "한국에선 '골뱅이'라고도 부름.",
+      "source": {
+        "qid": 65,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 66,
+      "question": "한국의 비상 신고 번호는 119이다.",
+      "answer": "O",
+      "explanation": "화재·구급. 경찰은 112.",
+      "source": {
+        "qid": 66,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 67,
+      "question": "무지개는 빨주노초파남보 7색으로 분류한다.",
+      "answer": "O",
+      "explanation": "뉴턴이 7색으로 정함 (서양 음계 7음에 맞춤).",
+      "source": {
+        "qid": 67,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 68,
+      "question": "신호등의 빨간불은 가도 된다는 뜻이다.",
+      "answer": "X",
+      "explanation": "빨간불은 정지 — 초록불이 진행.",
+      "source": {
+        "qid": 68,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 69,
+      "question": "한국에서 만 19세부터 술을 마실 수 있다.",
+      "answer": "O",
+      "explanation": "청소년보호법 — 만 19세 미만 청소년에게 주류 판매 금지.",
+      "source": {
+        "qid": 69,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 70,
+      "question": "한국의 국화는 무궁화이다.",
+      "answer": "O",
+      "explanation": "공식 국화. 영문명 Rose of Sharon.",
+      "source": {
+        "qid": 70,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 71,
+      "question": "태극기에는 4괘가 그려져 있다.",
+      "answer": "O",
+      "explanation": "건(乾)·곤(坤)·감(坎)·이(離) — 하늘·땅·물·불.",
+      "source": {
+        "qid": 71,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 72,
+      "question": "고양이는 9개의 목숨을 가진 것으로 알려져 있다.",
+      "answer": "O",
+      "explanation": "서양 속설 — 실제로는 1개. 고양이의 민첩성에서 비롯된 표현.",
+      "source": {
+        "qid": 72,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 73,
+      "question": "개의 코는 사람보다 훨씬 민감하다.",
+      "answer": "O",
+      "explanation": "후각 수용체가 사람의 약 1만 배 — 마약·폭발물 탐지견 활용.",
+      "source": {
+        "qid": 73,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 74,
+      "question": "펭귄은 날 수 있는 새이다.",
+      "answer": "X",
+      "explanation": "펭귄은 날지 못하지만 수영을 매우 잘함 — 시속 35km까지 가능.",
+      "source": {
+        "qid": 74,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 75,
+      "question": "박쥐는 새가 아니라 포유류이다.",
+      "answer": "O",
+      "explanation": "유일하게 진정한 비행이 가능한 포유류.",
+      "source": {
+        "qid": 75,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 76,
+      "question": "카멜레온은 색깔을 바꿀 수 있다.",
+      "answer": "O",
+      "explanation": "환경뿐 아니라 감정·체온에 따라서도 변색.",
+      "source": {
+        "qid": 76,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 77,
+      "question": "낙타는 등에 물을 저장한다.",
+      "answer": "X",
+      "explanation": "낙타의 혹은 지방이 저장됨 — 물은 혈액과 조직에 분산 저장.",
+      "source": {
+        "qid": 77,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 78,
+      "question": "숫자 0은 인도에서 처음 사용되었다.",
+      "answer": "O",
+      "explanation": "5세기경 인도 수학자들이 정립 — 후에 아랍을 거쳐 유럽 전파.",
+      "source": {
+        "qid": 78,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 79,
+      "question": "1년은 정확히 365일이다.",
+      "answer": "X",
+      "explanation": "평년은 365일이지만 윤년은 366일 — 정확히는 365.2422일.",
+      "source": {
+        "qid": 79,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 80,
+      "question": "하루는 24시간이다.",
+      "answer": "O",
+      "explanation": "평균 태양일 기준 — 항성일은 약 23시간 56분.",
+      "source": {
+        "qid": 80,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 81,
+      "question": "1마일은 약 1.6km이다.",
+      "answer": "O",
+      "explanation": "정확히는 1마일 = 1.609344 km.",
+      "source": {
+        "qid": 81,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 82,
+      "question": "한국 지하철 1호선은 서울에 있다.",
+      "answer": "O",
+      "explanation": "1974년 개통 — 한국 최초의 지하철.",
+      "source": {
+        "qid": 82,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 83,
+      "question": "세계에서 가장 인구가 많은 나라는 인도이다.",
+      "answer": "O",
+      "explanation": "2023년 기준 약 14억 4천만 명으로 중국을 추월.",
+      "source": {
+        "qid": 83,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 84,
+      "question": "노벨상은 매년 시상된다.",
+      "answer": "O",
+      "explanation": "6개 분야 (물리학·화학·생리의학·문학·평화·경제학) 매년 12월 10일 시상.",
+      "source": {
+        "qid": 84,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 85,
+      "question": "태양계의 행성은 9개이다.",
+      "answer": "X",
+      "explanation": "명왕성이 2006년 왜소행성으로 재분류되어 현재는 8개 — 수금지화목토천해.",
+      "source": {
+        "qid": 85,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 86,
+      "question": "화성은 태양에서 두 번째로 가까운 행성이다.",
+      "answer": "X",
+      "explanation": "화성은 4번째 — 수성·금성·지구·화성·목성·토성·천왕성·해왕성 순서.",
+      "source": {
+        "qid": 86,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 87,
+      "question": "공기는 주로 산소로 이루어져 있다.",
+      "answer": "X",
+      "explanation": "공기의 약 78%는 질소 — 산소는 약 21%.",
+      "source": {
+        "qid": 87,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 88,
+      "question": "인간의 혈액형은 A·B·AB·O 네 가지로만 분류된다.",
+      "answer": "X",
+      "explanation": "ABO식 외에도 Rh식·MN식 등 30개 이상의 혈액형 분류 체계가 존재.",
+      "source": {
+        "qid": 88,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 89,
+      "question": "우주에는 소리가 들리지 않는다.",
+      "answer": "O",
+      "explanation": "진공 상태에서는 소리가 전달될 매질이 없어 들리지 않음.",
+      "source": {
+        "qid": 89,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 90,
+      "question": "빅뱅 이론은 우주의 기원을 설명한다.",
+      "answer": "O",
+      "explanation": "약 138억 년 전 폭발적 팽창으로 우주가 시작됐다는 이론.",
+      "source": {
+        "qid": 90,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 91,
+      "question": "전기를 처음 발견한 사람은 에디슨이다.",
+      "answer": "X",
+      "explanation": "전기 자체는 자연 현상 — 에디슨은 백열전구를 실용화. '전기의 발견'은 다양한 인물 (벤자민 프랭클린·볼타 등).",
+      "source": {
+        "qid": 91,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 92,
+      "question": "라이트 형제는 비행기를 발명했다.",
+      "answer": "O",
+      "explanation": "1903년 12월 17일 미국 키티호크에서 첫 동력 비행.",
+      "source": {
+        "qid": 92,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 93,
+      "question": "한국은 OECD 회원국이다.",
+      "answer": "O",
+      "explanation": "1996년 가입 — 29번째 회원국.",
+      "source": {
+        "qid": 93,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 94,
+      "question": "UN의 본부는 뉴욕에 있다.",
+      "answer": "O",
+      "explanation": "미국 뉴욕 맨해튼 — 1952년부터 사용.",
+      "source": {
+        "qid": 94,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 95,
+      "question": "올림픽 오륜기의 색깔은 5가지이다.",
+      "answer": "O",
+      "explanation": "파랑·노랑·검정·녹색·빨강 — 5대륙 상징.",
+      "source": {
+        "qid": 95,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 96,
+      "question": "무지개는 비가 와야만 볼 수 있다.",
+      "answer": "X",
+      "explanation": "비뿐 아니라 폭포·분수 등 물방울이 있는 곳이면 볼 수 있다 (햇빛 + 물방울).",
+      "source": {
+        "qid": 96,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 97,
+      "question": "한국의 가장 남쪽 섬은 마라도이다.",
+      "answer": "O",
+      "explanation": "제주특별자치도 서귀포시 — 한반도 최남단.",
+      "source": {
+        "qid": 97,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "지리"
+      }
+    },
+    {
+      "id": 98,
+      "question": "세계 최초로 인쇄술을 발명한 나라는 한국이다.",
+      "answer": "O",
+      "explanation": "1377년 직지심체요절 (구텐베르크 1455년보다 78년 앞섬).",
+      "source": {
+        "qid": 98,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "역사"
+      }
+    },
+    {
+      "id": 99,
+      "question": "호두는 견과류이다.",
+      "answer": "O",
+      "explanation": "호두·아몬드·잣 등 모두 견과류.",
+      "source": {
+        "qid": 99,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 100,
+      "question": "바나나는 나무에서 자란다.",
+      "answer": "X",
+      "explanation": "바나나는 풀(초본식물) — 단단한 줄기처럼 보이는 부분은 잎이 겹친 '의가지'.",
+      "source": {
+        "qid": 100,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 101,
+      "question": "치타는 세계에서 가장 빠른 육상 동물이다.",
+      "answer": "O",
+      "explanation": "단거리 시속 약 110km까지 달림.",
+      "source": {
+        "qid": 101,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 102,
+      "question": "고래는 어류이다.",
+      "answer": "X",
+      "explanation": "고래는 포유류 — 새끼를 낳고 폐로 호흡.",
+      "source": {
+        "qid": 102,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 103,
+      "question": "피아노 건반은 흰 건반 52개 + 검은 건반 36개 = 총 88개이다.",
+      "answer": "O",
+      "explanation": "표준 피아노 88개 건반.",
+      "source": {
+        "qid": 103,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "문화"
+      }
+    },
+    {
+      "id": 104,
+      "question": "빨강과 파랑을 섞으면 보라색이 된다.",
+      "answer": "O",
+      "explanation": "색의 3원색(RGB) 또는 빛의 3원색에서 모두 성립.",
+      "source": {
+        "qid": 104,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 105,
+      "question": "수증기는 액체 상태이다.",
+      "answer": "X",
+      "explanation": "수증기는 기체 상태 — 액체는 '물', 고체는 '얼음'.",
+      "source": {
+        "qid": 105,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    },
+    {
+      "id": 106,
+      "question": "비행기는 새보다 빨리 날 수 있다.",
+      "answer": "O",
+      "explanation": "여객기 약 시속 900km — 가장 빠른 새 매도 시속 320km 정도.",
+      "source": {
+        "qid": 106,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 107,
+      "question": "우리나라 국기인 태극기는 흰 바탕에 그려진다.",
+      "answer": "O",
+      "explanation": "흰 바탕 + 가운데 태극 + 4귀퉁이 4괘.",
+      "source": {
+        "qid": 107,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 108,
+      "question": "한국의 가장 높은 빌딩은 롯데월드타워이다.",
+      "answer": "O",
+      "explanation": "높이 555m, 123층 (2017년 완공).",
+      "source": {
+        "qid": 108,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 109,
+      "question": "오징어는 다리가 8개이다.",
+      "answer": "X",
+      "explanation": "오징어는 다리 10개 (8개 짧은 발 + 2개 긴 촉수). 문어가 8개.",
+      "source": {
+        "qid": 109,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "상식"
+      }
+    },
+    {
+      "id": 110,
+      "question": "북극성은 항상 북쪽을 가리킨다.",
+      "answer": "O",
+      "explanation": "지구 자전축 거의 정북에 위치 — 항해의 기준이 되어 왔다.",
+      "source": {
+        "qid": 110,
+        "option": null,
+        "qtype": "seed",
+        "difficulty": "과학"
+      }
+    }
+  ]
+}
