@@ -340,7 +340,7 @@ button { font-family: inherit; cursor: pointer; }
   50% { transform: scale(1.08); }
 }
 
-/* ── QUESTION CARD ── */
+/* ── QUESTION CARD — 긴 문제 내부 스크롤로 OX 버튼 영역 보호 ── */
 .question {
   background: var(--bg-card);
   color: var(--text-dark);
@@ -351,7 +351,9 @@ button { font-family: inherit; cursor: pointer; }
   border-radius: var(--radius-card);
   border: 3px solid var(--text-outline);
   box-shadow: var(--shadow-btn);
-  min-height: 16vh;
+  min-height: 12vh;
+  /* 화면의 35%만 차지하도록 상한 + 넘치면 내부 스크롤 */
+  max-height: 35vh;
   width: 100%;
   display: flex;
   align-items: center;
@@ -359,6 +361,16 @@ button { font-family: inherit; cursor: pointer; }
   text-align: center;
   word-break: keep-all;
   overflow-wrap: break-word;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+}
+/* 긴 문제일 때 시각 단서 — 위/아래 fade */
+.question.is-long {
+  align-items: flex-start;  /* 위에서부터 읽기 */
+  font-size: clamp(16px, 4vmin, 22px);  /* 살짝 작게 */
+  line-height: 1.55;
+  text-align: left;
+  padding: var(--space-2) var(--space-3);
 }
 
 /* ── TIMER ── */
@@ -486,6 +498,20 @@ button { font-family: inherit; cursor: pointer; }
   grid-template-columns: 1fr 1fr;
   gap: var(--space-2);
   flex-shrink: 0;
+  /* 모바일에서 viewport 하단 고정 — 문제가 길어도 항상 도달 가능 */
+  position: sticky;
+  bottom: calc(env(safe-area-inset-bottom, 0px) + var(--space-2));
+  z-index: 5;
+  /* 어두운 배경에 자연스럽게 — 카드 위에 떠 있는 느낌 */
+  padding-top: var(--space-1);
+  margin-top: var(--space-1);
+}
+/* arena가 OX 버튼에 가려지지 않게 하단 패딩 확보 */
+.view--game .arena {
+  margin-bottom: 0;
+}
+.view--game {
+  padding-bottom: calc(env(safe-area-inset-bottom, 0px) + var(--space-2));
 }
 .box {
   position: relative;

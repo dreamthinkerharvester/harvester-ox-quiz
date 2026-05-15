@@ -12,7 +12,23 @@ const NPC_COUNT = 49;              // [v2] 변경 (v1: 16)
 const QUESTIONS_PER_THEME = 5;
 const ROUND_THEMES = ['grass', 'ice', 'desert', 'cave', 'storm', 'final'];
 const TOAST_DURATION_MS = 1500;
-const TIMER_DURATION_SEC = 5;
+const TIMER_DURATION_SEC = 5;          // baseline (짧은 문제 ≤ 30자)
+const TIMER_MAX_SEC = 12;              // 매우 긴 문제 상한
+const TIMER_BASE_CHARS = 30;           // 이 이하 글자는 baseline 그대로
+const TIMER_CHARS_PER_SEC_EXTRA = 12;  // 그 이후 글자당 1초씩 추가하는 단위 (12자 = +1초)
+const TIMER_LONG_THRESHOLD = 60;       // is-long 클래스 부착 기준 (UI 조정용)
+
+/**
+ * 문제 길이에 따라 동적 timer 계산.
+ * 짧은 문제(<=30자)는 5초, 그 이후 12자마다 +1초, 최대 12초.
+ * 예: 30자=5초 / 42자=6초 / 90자=10초 / 120자+=12초.
+ */
+function getTimerDuration(text) {
+  const len = (text || '').length;
+  if (len <= TIMER_BASE_CHARS) return TIMER_DURATION_SEC;
+  const extra = Math.ceil((len - TIMER_BASE_CHARS) / TIMER_CHARS_PER_SEC_EXTRA);
+  return Math.min(TIMER_MAX_SEC, TIMER_DURATION_SEC + extra);
+}
 const REVEAL_DELAY_MS = 1800;
 const ROUND_BUFFER_SIZE = 30;       // 풀에서 한 번에 셔플해두는 라운드 수 (소진 시 재셔플)
 
@@ -460,10 +476,17 @@ const Game = {
     Game.ensureCurrentRound();
     Game.state.playerChoice = null;
     Game.state.answerRevealed = false;
-    Game.state.timerRemaining = TIMER_DURATION_SEC;
+    // 현재 문제 텍스트 기반 동적 timer
+    const currentQ = Game.state.currentRound?.[Game.state.questionIndex];
+    const dynDur = getTimerDuration(currentQ?.question || '');
+    Game.state.timerRemaining = dynDur;
+    Game.state.timerInitial = dynDur;
     Game.applyRoundTheme(Game.state.roundIndex);
     Game.renderHUD();
     Game.renderQuestion();
+    // 긴 문제 UI 단서
+    const qEl = document.getElementById('question');
+    if (qEl) qEl.classList.toggle('is-long', (currentQ?.question || '').length >= TIMER_LONG_THRESHOLD);
     Game.resetRoundVisuals();
     Game.setBoxesEnabled(true);
     Game.startTimer();
@@ -624,7 +647,9 @@ const Game = {
     const q = Game.state.currentRound[Game.state.questionIndex];
     if (!q) return;
     const accuracy = Game.getNpcAccuracy(Game.state.roundIndex);
-    const cutoff = TIMER_DURATION_SEC * 1000 - NPC_WAVER_CUTOFF_MS;
+    // 동적 timer 기준으로 NPC 결정 cutoff 계산 (reveal 직전 NPC 결정 스킵)
+    const timerDurSec = Game.state.timerInitial || TIMER_DURATION_SEC;
+    const cutoff = timerDurSec * 1000 - NPC_WAVER_CUTOFF_MS;
 
     const scheduleDecision = (npc, delay) => {
       if (delay >= cutoff) return;
