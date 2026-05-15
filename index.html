@@ -34,9 +34,15 @@
     gtag('config', 'G-XXXXXXXXXX', { anonymize_ip: true });
   </script>
 
+  <script defer src="audio.js"></script>
   <script defer src="script.js"></script>
 </head>
 <body>
+  <!-- 음소거 토글 (전 화면 공용) -->
+  <button type="button" class="mute-fab" data-mute-toggle aria-pressed="false" aria-label="음소거 토글">
+    <span data-mute-icon aria-hidden="true">🔊</span>
+  </button>
+
   <main id="app">
     <section id="intro" class="view view--intro" aria-label="시작 화면">
       <span class="badge badge--v2">🆕 50명 서바이벌</span>
@@ -59,6 +65,11 @@
       <button id="start-btn" class="btn btn--primary" type="button" disabled>
         준비 중...
       </button>
+
+      <a href="exam/" class="study-link" aria-label="학습 모드로 이동 — 자격증·공무원 기출 OX">
+        📚 <span class="study-link__label">학습 모드</span>
+        <span class="study-link__sub">자격증·공무원 기출 OX</span>
+      </a>
 
       <p id="intro-status" class="intro-status" role="status" aria-live="polite">
         문제 불러오는 중...

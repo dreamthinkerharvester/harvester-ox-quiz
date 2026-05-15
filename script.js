@@ -457,6 +457,14 @@ const Game = {
       start_alive: ALIVE_INITIAL,
       category: Game.state.selectedSlug || 'fallback',
     });
+    // === 사운드: 게임 시작 팡파레 + BGM 시작 ===
+    try {
+      if (window.AudioMgr) {
+        AudioMgr.resumeCtx();           // 사용자 인터랙션 직후 — autoplay 우회
+        AudioMgr.playStart();
+        setTimeout(() => AudioMgr.startBGM(), 700);
+      }
+    } catch (e) {}
     Game.switchView('game');
     Game.spawnAllOnce();
     document.getElementById('arena')?.classList.add('is-running');
@@ -617,6 +625,7 @@ const Game = {
   handleBoxClick(choice) {
     if (Game.state.answerRevealed) return;
     if (Game.state.playerEliminated || !Game.state.alive.has(PLAYER_ID)) return;
+    try { window.AudioMgr?.playClick(); } catch (e) {}
     Game.state.playerChoice = choice;
     SIDES.forEach(side => {
       Game.boxEl(side)?.classList.toggle('is-selected', side === choice);
@@ -739,6 +748,21 @@ const Game = {
       Game.state.playerEliminated = true;
       eliminatedCount += 1;
     }
+
+    // === 사운드: 정답/오답 + 탈락 ===
+    try {
+      if (window.AudioMgr) {
+        if (playerCorrect) {
+          AudioMgr.playCorrect();
+        } else {
+          AudioMgr.playWrong();
+          // 플레이어 탈락이면 추가 탈락 SFX (오답 후 200ms)
+          if (Game.state.playerEliminated) {
+            setTimeout(() => AudioMgr.playElim(), 280);
+          }
+        }
+      }
+    } catch (e) {}
 
     // 점수 처리
     if (playerCorrect) Game.state.score += 1;
@@ -916,6 +940,17 @@ const Game = {
   endGame(result) {
     Game.clearRoundTimers();
     document.getElementById('arena')?.classList.remove('is-running', 'is-zoning');
+    // === 사운드: BGM 정지 + 승리/패배 SFX ===
+    try {
+      if (window.AudioMgr) {
+        AudioMgr.stopBGM();
+        const isWin = (result === 'win' || result === 'win_gs');
+        setTimeout(() => {
+          if (isWin) AudioMgr.playVictory();
+          else AudioMgr.playElim();
+        }, 200);
+      }
+    } catch (e) {}
     // [v3 bugfix] ranking = 살아남은 인원 + 1 (탈락 시 N명 살아있으면 (N+1)등).
     // 이전 공식 `50 - alive + 1`은 "죽은 순서"를 계산해 user 직관과 정반대.
     // win 케이스(alive includes player)는 GA event/COPY에서 1등 강제로 무관.
