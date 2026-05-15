@@ -73,6 +73,22 @@
               "phase": "1교시",
               "total": 92,
               "with_full_meta": 0
+            },
+            {
+              "slug": "admin-2025-r13-haengjeongbeop",
+              "name": "행정법",
+              "subject": "행정법",
+              "phase": "1교시",
+              "total": 110,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "admin-2025-r13-minbeop",
+              "name": "민법",
+              "subject": "민법",
+              "phase": "1교시",
+              "total": 104,
+              "with_full_meta": 0
             }
           ]
         },
@@ -87,6 +103,22 @@
               "phase": "1교시",
               "total": 82,
               "with_full_meta": 0
+            },
+            {
+              "slug": "admin-2024-r12-haengjeongbeop",
+              "name": "행정법",
+              "subject": "행정법",
+              "phase": "1교시",
+              "total": 103,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "admin-2024-r12-minbeop",
+              "name": "민법",
+              "subject": "민법",
+              "phase": "1교시",
+              "total": 100,
+              "with_full_meta": 0
             }
           ]
         }
@@ -94,10 +126,10 @@
     }
   ],
   "_meta": {
-    "total_questions": 725,
-    "categories_count": 8,
+    "total_questions": 1142,
+    "categories_count": 12,
     "with_full_meta": 5,
-    "updated_at": "2026-05-15T05:01:56+00:00",
+    "updated_at": "2026-05-15T05:30:40+00:00",
     "source": "0gichul.com"
   }
 }

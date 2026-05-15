@@ -1,0 +1,1261 @@
+{
+  "slug": "admin-2025-r13-minbeop",
+  "name": "민법",
+  "exam_group": "행정사 1차 · 2025년 제13회",
+  "subject": "민법",
+  "phase": "1교시",
+  "source": "행정사 1차",
+  "exam_year": 2025,
+  "exam_round": 13,
+  "count": 104,
+  "questions": [
+    {
+      "id": 1149,
+      "question": "미등기 무허가건물의 취득자에게는 소유권에 준하는 관습법상의 물권이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1150,
+      "question": "사실인 관습은 법원(法源)으로서 법령에 저촉되지 않는 한 법칙으로서의 효력이 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1151,
+      "question": "시효로 관습법상 분묘기지권을 취득한 사람은 토지소유자가 분묘기지에 관한 지료를 청구하면 그 청구한 날부터의 지료를 지급하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1152,
+      "question": "관습법은 그 존재를 당사자가 주장, 증명하여야 하고, 법원이 직권으로 확정할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1153,
+      "question": "사실인 관습은 관련 분야의 제정법이 강행규정이라도 특별한 사정이 없는 한 법률행위의 의사를 보충하는 기능으로서 재판의 자료로 할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1154,
+      "question": "신의성실의 원칙은 당사자의 주장이 없더라도 법원이 직권으로 판단할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1155,
+      "question": "소멸시효를 이유로 한 채무자의 항변권 행사에는 신의성실의 원칙이 적용되지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1156,
+      "question": "무권대리인이 본인을 단독 상속한 경우, 본인의 지위에서 추인을 거절하더라도 신의성실의 원칙에 반하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1157,
+      "question": "강행규정에 위반하여 계약을 체결한 자가 스스로 그 계약의 무효를 주장하는 것은 특별한 사정이 없는 한 신의성실의 원칙에 반한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1158,
+      "question": "조건의 성취로 이익을 받을 당사자가 신의성실에 반하여 조건을 성취시키더라도, 상대방이 그 조건이 성취하지 아니한 것으로 주장할 수는 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1159,
+      "question": "乙은 관리할 甲의 재산목록을 작성해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1160,
+      "question": "법원은 甲의 재산으로 乙에게 상당한 보수를 지급할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1161,
+      "question": "乙은 법원의 허가가 없으면 부동산 소유권이전등기말소절차의 이행을 청구할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1162,
+      "question": "법원은 甲 소유 부동산에 대한 乙의 처분행위를 사후 추인의 방법으로 허가할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1163,
+      "question": "乙이 甲의 사망을 확인했더라도, 부재자 재산관리인으로서의 선임결정이 취소되지 않으면, 乙은 계속하여 그 권한을 행사할 수 있다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 1 )",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1164,
+      "question": "속임수를 쓴 甲이 미성년자라면, 乙은 매매계약을 취소할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "ㄱ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1165,
+      "question": "甲의 취소권이 배제되기 위해서는 甲이 속임수를 쓴 사실을 丙이 증명해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "ㄴ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1166,
+      "question": "甲이 자신을 단순히 능력자라고 말하는 것은 취소권을 배제할 수 있는 속임수에 해당되지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "ㄷ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1167,
+      "question": "속임수를 쓴 甲이 피성년후견인이라면, 甲은 매매계약을 취소할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "ㄹ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1168,
+      "question": "가정법원은 피한정후견인이 한정후견인의 동의를 받아야 하는 행위의 범위를 정할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1169,
+      "question": "질병, 장애, 노령 등으로 인한 정신적 제약 때문에 사무 처리 능력이 지속적으로 결여된 사람을 위한 제도이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1170,
+      "question": "가정법원이 한정후견개시의 심판을 할 때 피성년후견의 경우에서와 마찬가지로 본인의 의사를 고려하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1171,
+      "question": "피한정후견인의 행위에서 한정후견인의 동의가 필요한 범위에 대한 변경 청구는 검사나 지방자치단체의 장도 할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1172,
+      "question": "피한정후견인이 한 법률행위가 일상생활에 필요하고 그 대가가 과도하지 않다면, 그 법 률행위는 한정후견인이 취소할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1173,
+      "question": "사단법인의 정관은 자치법규가 아니라 계약이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1174,
+      "question": "재단법인의 정관은 특별한 사정이 없는 한, 그 변경방법을 정관에 정한 때에 한하여 변경할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1175,
+      "question": "이사의 대표권에 대한 제한은 이를 정관에 기재하지 않더라도 등기하면 효력이 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1176,
+      "question": "사단법인의 정관 변경은 법원의 허가를 얻지 않으면 효력이 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1177,
+      "question": "재단법인의 존립시기나 해산사유는 정관의 필요적 기재사항이다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 2 )",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1178,
+      "question": "사단법인은 사원이 없게 되거나 총회의 결의로도 해산한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1179,
+      "question": "청산종결등기가 마쳐진 경우에도 청산사무가 종료되지 않았다면 청산법인으로 존속한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1180,
+      "question": "청산인은 채권자에 대하여 채권신고를 최고해야 하고, 알고 있는 채권자는 청산에서 제외할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1181,
+      "question": "법인이 파산이 아닌 사유로 해산한 경우 정관 또는 총회의 결의로 달리 정한 바가 없으면, 이사가 청산인이 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1182,
+      "question": "민법상의 청산절차에 관한 규정은 강행규정이므로 이에 반하는 잔여재산의 처분행위는 특별한 사정이 없는 한 무효이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1183,
+      "question": "주물과 종물은 동일한 소유자에 속한 것으로 법률상 하나의 물건으로 취급된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1184,
+      "question": "주물 소유자의 상용에 공여되고 있는 물건이라도 주물 자체의 효용과 직접 관계가 없다면 종물이 될 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1185,
+      "question": "주물을 처분할 때 특약으로 종물을 제외할 수 없고 종물만을 별도로 처분할 수도 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1186,
+      "question": "주물과 종물의 관계에 관한 법리는 주된 권리와 종된 권리 상호간에는 적용되지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1187,
+      "question": "종물은 주물의 처분에 따른다는 법률효과는 주물의 권리관계가 공법상 처분에 의하여 생긴 경우에는 적용되지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1188,
+      "question": "법률행위인 계약의 자유는 사적 자치의 주요한 발현 형식이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1189,
+      "question": "계약은 청약과 승낙의 의사표시가 합치하여 성립하는 법률행위이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1190,
+      "question": "단독행위는 법률행위의 일종으로서 법률효과를 발생시키는 법률요건이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1191,
+      "question": "법률행위인 유언과 상속은 법률효과의 발생에 의사표시가 필수적이라는 점에서 공통점이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1192,
+      "question": "종기가 있는 법률행위는 기한이 도래한 때로부터 그 효력을 잃는다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 3 )",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1193,
+      "question": "특별한 사정이 없는 한 경매에도 불공정한 법률행위에 관한 민법 제104조가 적용된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1194,
+      "question": "매매계약이 약정된 대금의 과다로 인해 불공정한 법률행위에 해당하여 무효인 경우, 무효행위의 전환에 관한 민법 제138조는 적용될 여지가 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1195,
+      "question": "불공정한 법률행위는 원칙적으로 무효행위의 추인에 의해서 유효로 될 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1196,
+      "question": "무상 증여계약도 불공정한 법률행위가 될 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1197,
+      "question": "불공정한 법률행위로서 무효인 경우에 선의의 제3자에 대해서는 무효를 주장할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1198,
+      "question": "진의 아닌 의사표시는 원칙적으로 표시된 대로 법적 효과가 발생한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1199,
+      "question": "진의 아님을 알았다는 사실은 의사표시의 유효를 주장하는 사람이 증명해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1200,
+      "question": "진의는 특정 내용의 의사표시를 하고자 하는 표의자의 생각이지 표의자가 진정으로 마음속에서 바라는 사항을 뜻하는 것은 아니다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1201,
+      "question": "표시가 진의와 다 름을 표의자가 알고 있다는 점은 착오와 구별된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1202,
+      "question": "표시와 진의의 불일치가 상대방과 합의된 것이라면 통정허위표시이다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 4 )",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1203,
+      "question": "의사표시의 상대방이 없는 경우라면, 기망행위를 누가 했는지에 상관없이 취소할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1204,
+      "question": "상대방의 대리인에 의한 사기는 민법 제110조 제2항에서 말하는 제3자의 사기에 해당하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1205,
+      "question": "고지의무가 있는 사람이 알리지 않고 일부 러 침묵하였다면, 부작위라도 기망행위가 될 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1206,
+      "question": "기망행위로 착오에 빠지게 된 경우이므로, 의사와 표시의 불일치가 아니라 의사표시의 동기에 착오가 있는 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1207,
+      "question": "표의자에게 특정한 의사표시를 하도록 하는 것을 넘어 재산상의 손실을 주려는 기망 행위자의 고의가 있 어야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1208,
+      "question": "권한을 넘은 표현대리에서 법정대리권도 기본 대리권이 될 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1209,
+      "question": "대리행위가 강행법규 위반으로 무효이더라도 표현대리 법리가 적용된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1210,
+      "question": "처음부터 아무 대리권도 없 었던 사람의 대리행위에 대하여 대리권 소멸 후의 표현대리를 유추 적용할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1211,
+      "question": "대리권 수여의 표시로 인한 표현대리에서 대리권 존재에 대한 상대방의 선의 및 무과실은 요건이 아니다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1212,
+      "question": "표현대리의 성립으로 본인이 이행책임을 질 때 상대방의 과실이 있는 경우에는 과실상 계의 법리에 따라 본인의 책임이 경 감된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1213,
+      "question": "법률행위의 일부분이 무효인 때에는 그 전부를 무효로 하지만, 무효부분이 없더라도 법 률행위를 하 였을 것이라고 인정될 때에는 나머지 부분은 무효가 되지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1214,
+      "question": "무효인 법률행위가 다른 법률행위의 요건을 구비하고, 당사자가 무효를 알았더라면 다른 욕 였 법률행위를 하는 것을 의 하 으리라고 인정될 때에는 다른 법률행위로서 효력을 가진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1215,
+      "question": "무효인 법률행위는 추인하여도 효력이 생기지 않지만, 당사자가 무효임을 알고 추인한 때에는새로운 법률행위로 본다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1216,
+      "question": "토지거래 허가구 역 내 토지에 대하여 허가를 받기 전에 한 매매가 처음부터 허가를 배제하는 내용의 계약인 경우, 그 매매는 유동적 무효이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1217,
+      "question": "무권리자가 타인의 권리를 처분하는 계약을 한 경우, 권리자가 추인하면 그 계약의 효과는 원칙적으로 계약체결시로 소급한다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 5 )",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1218,
+      "question": "취소권은 추인할 수 있는 날로부터 3년 내에, 매매계약을 한 날로부터 10년 내에 행사해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1219,
+      "question": "추인할 수 있는 날은 취소 원인의 종료로 취소권행사에 관한 장애가 없 어져서 취소권자가 태 추인할 수도 있고 취소할 수도 있는 상 가 된 때이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1220,
+      "question": "미성년자가 성년에 이른 날로부터 3년, 법정대리인이 미성년자의 매매계약을 안 날로부 터 3년, 그 매매계약을 한 날로부터 10년 중 어느 것이든 먼저 경과하면 취소권을 행사 할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1221,
+      "question": "민법 제146조의 취소권 소멸 규정은 제 척기간이 아니라 소멸시효기간에 관한 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1222,
+      "question": "취소권은 재판상이 든 재판외이든 민법 제146조가 규정하는 기간 내에 행사하면 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1223,
+      "question": "해제조건이 있는 법률행위는 조건이 성취한 때부터 효력이 생긴다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1224,
+      "question": "조건의 성취가 미정한 권리의무는 일반규정에 의해 처분, 상속 또는 담보로 할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1225,
+      "question": "선량한 풍속 기타 사회질서에 위반한 조건의 법률행위는 조건이 없는 법률행위이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1226,
+      "question": "해제조건이 법률행위의 당시에 이미 성취할 수 없는 것인 경우 그 법률행위는 무효이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1227,
+      "question": "기한은 특별한 사정이 없는 한 채무자의 이익을 위한 것으로 추정한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1228,
+      "question": "기간의 계산은 법령, 재판상의 처분 또는 법률행위에 다른 정한 바가 없으면 민법의 규정에 의한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1229,
+      "question": "민법의 기간에 관한 규정은 사법관계 뿐만 아니라 공법관계에도 적용된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1230,
+      "question": "나이는 출생일을 산입하여 만(滿) 나이로 계산한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1231,
+      "question": "기간을 일, 주, 월 또는 년으로 정한 때는 초일 불산입의 원칙이 적용되어 당사자간의 합의에 의해 이와 달리 정할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1232,
+      "question": "기간의 말일이 토요일 또는 공 휴일에 해당한 때는 기간은 그 익일로 만료한다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 6 )",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1233,
+      "question": "소멸시효의 이익은 미리 포기할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1234,
+      "question": "소멸시효는 그 기산일에 소급하여 효력이 생긴다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1235,
+      "question": "제척기간이 경과한 때부터 장래에 향하여 권리가 소멸한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1236,
+      "question": "제척기간의 기산점은 특별한 사정이 없는 한 원칙적으로 권리가 발생한 때이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1237,
+      "question": "제척기간이 도과했는지 여부는 당사자의 주장이 없더라도 법원이 직권으로 조사하여 재판에 고려해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1238,
+      "question": "이자 기타 1년 이내의 기간으로 정한 금전지급채권",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1239,
+      "question": "의사의 치료에 관한 채권",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1240,
+      "question": "도급받은 자의 공사에 관한 채권",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1241,
+      "question": "변호사의 직무에 관한 채권",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1242,
+      "question": "판결에 의하여 확정된 채권",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1243,
+      "question": "동시이행의 항변권이 붙은 채권의 소멸시효는 이행기부터 진행한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1244,
+      "question": "이행불능으로 인한 전보배상청구권의 소멸시효는 이행불능시부터 진행한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1245,
+      "question": "기한의 정 함이 없는 채권의 소멸시효는 채권이 성립한 때부터 진행한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1246,
+      "question": "형성권적 기한이익 상실의 특약이 있는 할부채무는 1회의 불이행시부터 바로 전액에 대해 소멸시효가 진행한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1247,
+      "question": "부작위를 목적으로 하는 채권의 소멸시효는 위반행위를 한 때부터 진행한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1248,
+      "question": "재판상의 청구는 그 소송이 각하, 기각 또는 취하된 경우에는 그로부터 6월 내에 다시 재판상의 청구 등을 하지 않는 한 시효중단의 효력이 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1249,
+      "question": "시효중단의 효력있는 승인은 상대방의 권리에 관한 처분의 능력이나 권한이 있음을 요한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1250,
+      "question": "시효의 중단은 원칙적으로 당사자 및 그 승계인간에만 효력이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1251,
+      "question": "압류는 시효의 이익을 받은 자에 대해 하지 않은 때에는 이를 그에게 통지한 후가 아니면 시효중단의 효력이 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1252,
+      "question": "재판상의 청구로 인해 중단한 시효는 재판이 확정된 때부터 새로이 진행한다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 7)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}
