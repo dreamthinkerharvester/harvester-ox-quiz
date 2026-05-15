@@ -1052,6 +1052,30 @@ function openSheet() {
   setText('#sheet-source-pdf', `출처: ${q.source_pdf || '준비 중'}`);
   setText('#sheet-meta-quality', q.meta_quality || 0);
 
+  // ★ 중요도 (star_rating >= 2 이상인 반복 출제 문항)
+  const starEl = $('#sheet-star-rating');
+  if (starEl) {
+    const sr = q.star_rating || 0;
+    const freq = q.frequency || 1;
+    if (sr >= 2) {
+      starEl.textContent = '★'.repeat(sr) + ` (${freq}회 반복 출제)`;
+      starEl.hidden = false;
+    } else {
+      starEl.hidden = true;
+    }
+  }
+
+  // 퀴즈 카드에도 중요도 뱃지 (문항 상단)
+  const qStarBadge = $('#q-star-badge');
+  if (qStarBadge) {
+    if ((q.star_rating || 0) >= 2) {
+      qStarBadge.textContent = '★'.repeat(q.star_rating) + ' 반복 출제';
+      qStarBadge.hidden = false;
+    } else {
+      qStarBadge.hidden = true;
+    }
+  }
+
   // ⭐ 북마크 토글 동기화
   const bmBtn = $('#sheet-bookmark');
   if (bmBtn) {

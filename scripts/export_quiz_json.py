@@ -139,7 +139,7 @@ def export_exam(conn) -> int:
 
     # 메타 컬럼 존재 확인 (v2 마이그레이션 안 된 DB 보호)
     cols = {r[1] for r in conn.execute("PRAGMA table_info(questions)").fetchall()}
-    required = ("topic", "tags", "theory", "explanation_o", "explanation_x", "meta_quality", "source_pdf")
+    required = ("topic", "tags", "theory", "explanation_o", "explanation_x", "meta_quality", "source_pdf", "star_rating", "frequency")
     missing = [c for c in required if c not in cols]
     if missing:
         print(f"⚠ v2 메타 컬럼 누락: {missing}", file=sys.stderr)
@@ -164,7 +164,7 @@ def export_exam(conn) -> int:
         rows = conn.execute(
             """SELECT id, statement, answer, explanation,
                       source_qid, source_option, qtype, difficulty,
-                      tags, topic, theory, explanation_o, explanation_x, meta_quality, source_pdf
+                      tags, topic, theory, explanation_o, explanation_x, meta_quality, source_pdf, star_rating, frequency
                FROM questions WHERE category_id = ? ORDER BY id""",
             (c["id"],),
         ).fetchall()
@@ -218,6 +218,8 @@ def export_exam(conn) -> int:
                 "explanation_o": r["explanation_o"],
                 "explanation_x": r["explanation_x"],
                 "meta_quality": meta_q,
+                "star_rating": r["star_rating"] or 0,
+                "frequency": r["frequency"] or 1,
                 "source_pdf": r["source_pdf"],
                 "source": {
                     "qid": r["source_qid"],

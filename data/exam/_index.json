@@ -58,13 +58,46 @@
           ]
         }
       ]
+    },
+    {
+      "exam": "행정사 1차",
+      "rounds": [
+        {
+          "year": 2025,
+          "round": 13,
+          "categories": [
+            {
+              "slug": "admin-2025-r13-haengjeong",
+              "name": "행정학개론",
+              "subject": "행정학개론",
+              "phase": "1교시",
+              "total": 92,
+              "with_full_meta": 0
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "round": 12,
+          "categories": [
+            {
+              "slug": "admin-2024-r12-haengjeong",
+              "name": "행정학개론",
+              "subject": "행정학개론",
+              "phase": "1교시",
+              "total": 82,
+              "with_full_meta": 0
+            }
+          ]
+        }
+      ]
     }
   ],
   "_meta": {
-    "total_questions": 551,
-    "categories_count": 6,
+    "total_questions": 725,
+    "categories_count": 8,
     "with_full_meta": 5,
-    "updated_at": "2026-05-14T16:08:07+00:00",
+    "updated_at": "2026-05-15T05:01:56+00:00",
     "source": "0gichul.com"
   }
 }

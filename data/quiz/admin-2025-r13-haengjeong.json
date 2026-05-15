@@ -1,0 +1,1117 @@
+{
+  "slug": "admin-2025-r13-haengjeong",
+  "name": "행정학개론",
+  "exam_group": "행정사 1차 · 2025년 제13회",
+  "subject": "행정학개론",
+  "phase": "1교시",
+  "source": "행정사 1차",
+  "exam_year": 2025,
+  "exam_round": 13,
+  "count": 92,
+  "questions": [
+    {
+      "id": 662,
+      "question": "신제도주의 접근방법은 검증된 이론의 일반 법칙성을 추구한다.",
+      "answer": "X",
+      "explanation": "2025 행정사 ①, ②, ③, ④ 기술성, 과학성, 전문직업성, 종합학문성은 행정학의 학문적 성격 입니다. 행정학의 접근방법에 관한 설명으로 옳은 것은? ⑤ (X) 경로의존성은 역사적 신제도론의 특징이며, 행정학의 성격과는 직접적 ① 신제도주의 접근방법은 검증된 이론의 일반 법칙성을 추구 인 관련이 없습니다. 한다.",
+      "source": {
+        "qid": 51,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 663,
+      "question": "체제론적 접근방법은 현상을 설명하는데 전체성보다 부분의 중요성을 강조한다.",
+      "answer": "X",
+      "explanation": "2025 행정사 ①, ②, ③, ④ 기술성, 과학성, 전문직업성, 종합학문성은 행정학의 학문적 성격 입니다. 행정학의 접근방법에 관한 설명으로 옳은 것은? ⑤ (X) 경로의존성은 역사적 신제도론의 특징이며, 행정학의 성격과는 직접적 ① 신제도주의 접근방법은 검증된 이론의 일반 법칙성을 추구 인 관련이 없습니다. 한다.",
+      "source": {
+        "qid": 51,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 664,
+      "question": "역사적 제도주의는 국가나 조직의 경계를 넘어 제도가 서로 닮아가는 것을 강조한다.",
+      "answer": "X",
+      "explanation": "2025 행정사 ①, ②, ③, ④ 기술성, 과학성, 전문직업성, 종합학문성은 행정학의 학문적 성격 입니다. 행정학의 접근방법에 관한 설명으로 옳은 것은? ⑤ (X) 경로의존성은 역사적 신제도론의 특징이며, 행정학의 성격과는 직접적 ① 신제도주의 접근방법은 검증된 이론의 일반 법칙성을 추구 인 관련이 없습니다. 한다.",
+      "source": {
+        "qid": 51,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 665,
+      "question": "공공선택이론은 합리적 선택이론에 제도의 역할을 접목해서 공공부문에까지 확대 적용 한다.",
+      "answer": "O",
+      "explanation": "2025 행정사 ①, ②, ③, ④ 기술성, 과학성, 전문직업성, 종합학문성은 행정학의 학문적 성격 입니다. 행정학의 접근방법에 관한 설명으로 옳은 것은? ⑤ (X) 경로의존성은 역사적 신제도론의 특징이며, 행정학의 성격과는 직접적 ① 신제도주의 접근방법은 검증된 이론의 일반 법칙성을 추구 인 관련이 없습니다. 한다.",
+      "source": {
+        "qid": 51,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 666,
+      "question": "행태론적 접근방법은 이상적인 제도를 법제화하면 안정적인 사회질서가 유지된다는 가정에 기 초 한다.",
+      "answer": "X",
+      "explanation": "2025 행정사 ①, ②, ③, ④ 기술성, 과학성, 전문직업성, 종합학문성은 행정학의 학문적 성격 입니다. 행정학의 접근방법에 관한 설명으로 옳은 것은? ⑤ (X) 경로의존성은 역사적 신제도론의 특징이며, 행정학의 성격과는 직접적 ① 신제도주의 접근방법은 검증된 이론의 일반 법칙성을 추구 인 관련이 없습니다. 한다.",
+      "source": {
+        "qid": 51,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 667,
+      "question": "행정문제에 대한 처방과 실천을 강조하는 기술성(art)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 52,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 668,
+      "question": "행정현상의 인과관계 지식화를 강조하는 과학성",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 52,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 669,
+      "question": "실용학문으로서의 전문직업성",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 52,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 670,
+      "question": "다양한 학문분야의 영향을 받은 종합학문성",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 52,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 671,
+      "question": "일정한 경로를 따라 움직이는 경로의존성",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 52,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 672,
+      "question": "1990년대의 영국 행정개혁 일환으로 시행되었다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 53,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 673,
+      "question": "특정 공공업무의 처리방식을 선택하기 위한 사전 검증절차이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 53,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 674,
+      "question": "정부가 수행하더라도 시장성이 강하면 책임운영기관 형태로, 약하면 공기업 형태로 운영 하는 것이 바람직하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 53,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 675,
+      "question": "시장성 테스트는 내부시장화 또는 민간화 등 다양한 서비스 제공방식을 제시한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 53,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 676,
+      "question": "시장성 테스트의 적합한 공공업무는 급속한 시장변화 속에 있는 업무를 포함한다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 16 )",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 53,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 677,
+      "question": "정부 내부관리에 초점을 맞춘다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 54,
+        "option": "ㄱ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 678,
+      "question": "정부의 계층제 보다는 수평적 네트워크 모형을 강조한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 54,
+        "option": "ㄴ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 679,
+      "question": "정부의 방향잡기 역할을 중시한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 54,
+        "option": "ㄷ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 680,
+      "question": "정부 단독의 국정관리 능력을 강조한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 54,
+        "option": "ㄹ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 681,
+      "question": "20세기 말 정부혁신의 이론적 기초를 제공하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 54,
+        "option": "ㅁ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 682,
+      "question": "입법국가에 비해 현대행정의 합법성은 상황에 따라 신축성을 부여하는 법의 적합성을 강조한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 57,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 683,
+      "question": "효율성은 결과적 측면, 효과성은 과정적 측면에서 정책평가의 중요한 기준이 된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 57,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 684,
+      "question": "대내적 민주성에서 중요한 요소는 국민의 참여이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 57,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 685,
+      "question": "수평적 형평은 약자에 대한 배려의 의미이고, 수직적 형평은 동등한 자들 간 공평의 의미이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 57,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 686,
+      "question": "공익의 과정 설은 공익과 사익이 명확히 구분되는 별개의 개념으로 본다. 7 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 1 )",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 57,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 687,
+      "question": "공무원의 직무상 의무와 개인적 이해의 충돌을 의미한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 58,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 688,
+      "question": "이해충돌 회피의 기본원칙은 “누구도 자신의 사건에 대해 판결할 수 없다”는 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 58,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 689,
+      "question": "이해충돌 규제를 강조하는 이유는 주인-대리인 관계의 신뢰성 유지가 필요하기 때문이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 58,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 690,
+      "question": "이해충돌을 규제하기 위한 제도는 일반적으로 사후 교정의 성격을 띤다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 58,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 691,
+      "question": "고위직 공무원의 인사청문회는 이해충돌의 가능성을 사전에 점검하는 의미가 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 58,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 692,
+      "question": "정부는 예 산이 여성과 남 성에게 미 칠 영향 을 미리 분 석 한 보고서인 성인지 예 산서를 작성하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 59,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 693,
+      "question": "정부가 감사원의 세출예산요구액을 감액하고자 할 때에는 재정정책자문회의에서 감사 원장의 의견을 들어야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 59,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 694,
+      "question": "정부는 감사원의 검사를 거친 국가결산보고서를 다음 연도 5월 31일까지 국회에 제출해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 59,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 695,
+      "question": "정부는 예산이 온실가스를 감축하는 방향으로 집행되었는지를 평가하는 보고서인 온실 가스감축인지 결산서를 작성하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 59,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 696,
+      "question": "정부는 조세지출예산서를 작성하고, 국회에 제출하는 예산안의 첨부서류에 이를 포함해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 59,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 697,
+      "question": "인간의 능력부족과 환경의 불확실성에 기초한 제한된 합리성을 전제로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 60,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 698,
+      "question": "예산 결정은 전년도 예산 규모에 근거해 소폭의 변화만이 이뤄질 뿐이라고 주장한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 60,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 699,
+      "question": "이해당사자들의 협상과 적응 등 상호 조절과정을 강조한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 60,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 700,
+      "question": "사회적 불안정성이 높은 경우 예산 결정을 설명하기 힘들다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 60,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 701,
+      "question": "전년대비 5 % 미만의 소폭적 변화를 점증성의 판단기준으로 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 60,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 702,
+      "question": "정부는 국회에서 추가경정예산이 확정되기 전에 이를 미리 배정하거나 집행할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 61,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 703,
+      "question": "예산법률주의를 채택하고 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 61,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 704,
+      "question": "국회는 정부가 제출한 기금운용계획안의 주요항목 지출금액을 증액하고자 하는 때에는 미리 정부의 동의를 얻어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 61,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 705,
+      "question": "예산 불성립에 대비하기 위한 제도로 가예산제도를 채택하고 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 61,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 706,
+      "question": "의결된 법률과 예산안에 대한 대외적인 효력을 인정받기 위해서는 공포절차가 필요하다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 18 )",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 61,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 707,
+      "question": "공무원은 재직 중은 물론 퇴직 후에도 직무상 알게 된 비밀을 엄수하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 62,
+        "option": "ㄱ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 708,
+      "question": "공무원은 직무상의 관계가 있든 없든 그 소속 상관에게 증여하거나 소속 공무원으로부터 증여를 받아서는 아니 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 62,
+        "option": "ㄴ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 709,
+      "question": "공무원이 외국 정부로부터 영예나 증여를 받을 경우에는 대통령의 허가를 받아야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 62,
+        "option": "ㄷ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 710,
+      "question": "공무원은 공무 외에 영리를 목적으로 하는 업무에 종사하지 못하며 소속 기관장의 허가 없이 다른 직무를 겸할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 62,
+        "option": "ㄹ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 711,
+      "question": "조직에 있는 직위를 직무의 종류와 수준에 따라 분류해 관리하는 제도이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 64,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 712,
+      "question": "동일 노무에 대한 동일 보수를 지급하는 보수 체계의 형평성을 확보할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 64,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 713,
+      "question": "직무분석 단계는 직무를 종류별로 구분해 직렬과 직군을 형성하는 작업이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 64,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 714,
+      "question": "직무평가 단계는 직무를 수준별로 구분해 직급과 등급을 형성하는 작업이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 64,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 715,
+      "question": "직위분류제는 계급제에 비해 인사관리의 탄력성과 신축성 확보가 유리하다. 9 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 1 )",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 64,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 716,
+      "question": "네트워크 구조의 협력적 연계는 조직 간에서 뿐만 아니라 조직 내에서도 형성될 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 66,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 717,
+      "question": "수평구조는 변화가 적고 안정적인 상황에서 유리하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 66,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 718,
+      "question": "매트릭스 구조는 이중구조로 인적 자원의 낭비를 초래할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 66,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 719,
+      "question": "사업구조는 사업별 기능부서의 중복이 없어 효율적이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 66,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 720,
+      "question": "기능구조는 권한이 분산되고 규칙과 절차가 유연하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 66,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 721,
+      "question": "신공공관리론의 내적 보상 위주의 동기부여에 반발하여 공공부문 종사자의 외재적 보상을 강조한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 67,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 722,
+      "question": "공공조직과 민간조직 종사자 간 동기의 차이를 전제로 한다. 봉",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 67,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 723,
+      "question": "합리적 차원의 공직 사동기는 공익 추구를함으로써 자신의 이익도 극대화하려는 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 67,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 724,
+      "question": "규범적 차원의 공직봉사동기는 국가에 충성하고 사회정의를 달성하고자 하는 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 67,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 725,
+      "question": "감성적 차원의 공직봉사동기는 사회적으로 중요한 정책에 대한 몰입을 특징으로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 67,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 726,
+      "question": "거래적 리더십은 조직구성원의 보상을 통한 교환관계에서 형성된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 68,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 727,
+      "question": "거래적 리더십은 예외에 의한 관리를 추구한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 68,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 728,
+      "question": "거래적 리더십은 지적 자극을 중시하고 변혁적 리더십은 개별적 배려를 중시한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 68,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 729,
+      "question": "변혁적 리더십은 카리스마적 리더십을 기반으로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 68,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 730,
+      "question": "변혁적 리더십은 구성원들에게 장기적 비전을 제시하여 열정을 고무시킨다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 20 )",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 68,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 731,
+      "question": "엘리슨(Allison)의 조직과정모형은 권력의 소재가 개인 행위자들의 정치적 자원에 의존 한다고 본다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 69,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 732,
+      "question": "쓰레기통모형은 조직의 학습과 불확실성 회피와 같은 요인을 강조한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 69,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 733,
+      "question": "점증모형은 정책대안의 선택과 가치판단은 분리하기 어려운 것으로 본다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 69,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 734,
+      "question": "만족모형은 다수가 해당 정책에 합의했는지에 따라 좋은 정책 여부를 판단한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 69,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 735,
+      "question": "혼합주사모형은 비정형적 결정을 위한 초합리성을 강조한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 69,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 736,
+      "question": "다원주의는 분야별 이익을 독점적으로 대표하는 제한된 수의 이익 단과 집 국가와의 협력을 강조한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 70,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 737,
+      "question": "이 슈네트워크는 정책공동체에 비해 상대적으로 많은 이해관계자와 느슨한 관계를 가정 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 70,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 738,
+      "question": "무의사결정론은 다원주의에 대한 비판적 시각에서 등장하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 70,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 739,
+      "question": "철의 삼각은 폐쇄적 경계를 강조하고, 배타성이 매우 강하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 70,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 740,
+      "question": "정책공동체는 다양한 내․외부 전문가 집단의 참여를 강조하는 점에서 하위정부모형과는 차별화된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 70,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 741,
+      "question": "정책집행을 다수의 참가자들 사이의 상호작용으로 이해한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 72,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 742,
+      "question": "정치행정이원론에 기초한 기술적 효율성 개념을 중시한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 72,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 743,
+      "question": "일선관료의 적절한 재량 부여를 강조한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 72,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 744,
+      "question": "바람직한 정책은 실현가능한 정책이라는 집행지상주의에 빠질 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 72,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 745,
+      "question": "집행의 영향을 받는 대상집단의 행태와 참여를 강조한다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 21 )",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 72,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 746,
+      "question": "재적의원 3분의 2 이상의 찬성에 의한 제명",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 73,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 747,
+      "question": "재적의원 4분의 1 이상의 발의와 재적의원 과반수의 찬성에 의한 해임",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 73,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 748,
+      "question": "30일 이내의 출석 정지",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 73,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 749,
+      "question": "행정협의조정위원회는 지방자치 발전과 지역 간 균형발전에 관련되는 주요 정책을 심의 하는 것을 목적으로 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 74,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 750,
+      "question": "지방자치단체나 그 장이 위임받아 처리하는 국가사무에 관하여 시․군 및 자치구에서는 ․감독을 받는다. 1차로 주무부장관의 지도",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 74,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 751,
+      "question": "행정협의조정위원회의 위원장은 국무총리로 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 74,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 752,
+      "question": "행정안전부장관은 지방자치단체의 자치사무에 관하여 법령 위반사항에 대해서만 서류․ 장부 또는 회계를 감사할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 74,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 753,
+      "question": "중앙행정기관의 장과 지방자치단체의 장이 사무를 처리할 때 의견을 달리하는 경우 이를 협의․조정하기 위하여 지방자치단체중앙분쟁조정위원회를 둔다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 74,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

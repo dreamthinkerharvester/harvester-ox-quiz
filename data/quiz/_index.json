@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-14T21:35:24",
+  "generated_at": "2026-05-15T14:01:46",
   "default_slug": "general-knowledge",
   "categories": [
     {
@@ -93,6 +93,32 @@
       "is_default": false,
       "display_order": 16,
       "count": 55
+    },
+    {
+      "slug": "admin-2025-r13-haengjeong",
+      "name": "행정학개론",
+      "exam_group": "행정사 1차 · 2025년 제13회",
+      "subject": "행정학개론",
+      "phase": "1교시",
+      "source": "행정사 1차",
+      "exam_year": 2025,
+      "exam_round": 13,
+      "is_default": false,
+      "display_order": 200,
+      "count": 92
+    },
+    {
+      "slug": "admin-2024-r12-haengjeong",
+      "name": "행정학개론",
+      "exam_group": "행정사 1차 · 2024년 제12회",
+      "subject": "행정학개론",
+      "phase": "1교시",
+      "source": "행정사 1차",
+      "exam_year": 2024,
+      "exam_round": 12,
+      "is_default": false,
+      "display_order": 200,
+      "count": 82
     }
   ]
 }

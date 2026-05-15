@@ -1,0 +1,997 @@
+{
+  "slug": "admin-2024-r12-haengjeong",
+  "name": "행정학개론",
+  "exam_group": "행정사 1차 · 2024년 제12회",
+  "subject": "행정학개론",
+  "phase": "1교시",
+  "source": "행정사 1차",
+  "exam_year": 2024,
+  "exam_round": 12,
+  "count": 82,
+  "questions": [
+    {
+      "id": 754,
+      "question": "긍정적 외부효과는 사회적 적정수준보다 과잉생산의 결과를 가져온다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 51,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 755,
+      "question": "불법주차, 환경오염 등은 부정적 외부효과를 야기 시키는 행위이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 51,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 756,
+      "question": "외부효과란 시장을 거치지 않고 제3자에게 이익을 주거나 비용을 부담시키는 행위이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 51,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 757,
+      "question": "부정적 외부효과를 해결하기 위해 조세를 부과할 수도 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 51,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 758,
+      "question": "긍정적 외부효과의 대표적인 예는 교육, 교통정리 등이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 51,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 759,
+      "question": "인간관계론 - 사회적 능률성",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 52,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 760,
+      "question": "신공공관리론 - 효율성",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 52,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 761,
+      "question": "과학적 관리론 - 기계적 능률성",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 52,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 762,
+      "question": "신행정론 - 사회적 형평성",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 52,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 763,
+      "question": "시민과 언론을 통한 통제",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 55,
+        "option": "ㄷ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 764,
+      "question": "국무총리실을 통한 통제",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 55,
+        "option": "ㅁ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 765,
+      "question": "공직자 재산등록과 공개",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 56,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 766,
+      "question": "이용(移用)이란 세항ㆍ목 등 행정과목 간의 예산을 상호 융통하는 것이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 57,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 767,
+      "question": "전용(轉用)이란 장ㆍ관ㆍ항 등 입법과목 간의 예산을 상호 융통하는 것이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 57,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 768,
+      "question": "이체(移替)란 폐지되거나 기능이 이관된 기관의 예산을 신설된 기관의 예산으로 재분배 하는 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 57,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 769,
+      "question": "명시이 월(明示移越)이란 연도 내에 지출원인행위를 하고 불가피한 사유로 인하여 연도 내에 지출하지 못한 경비를 다음 연도로 이월하여 사용하는 것이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 57,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 770,
+      "question": "사고이월(事故移越)이란 연도 내에 그 지출을 마치지 못할 것이 예측될 때 미리 국회의 승인을 얻어 다음 연도로 이월하여 사용하는 것이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 57,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 771,
+      "question": "사전의결의 원칙 - 준예산",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 58,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 772,
+      "question": "한정성의 원칙 - 사고이월",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 58,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 773,
+      "question": "통일의 원칙 - 교육세",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 58,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 774,
+      "question": "단일의 원칙 - 특별회계",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 58,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 775,
+      "question": "예산총계주의 원칙 - 기금",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 58,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 776,
+      "question": "2006년 제주특별자치도 자치경찰제 시범 도입에 이어 2021년부터 본격적으로 자치경찰제가 시행되었다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 59,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 777,
+      "question": "자치경찰사무로 지역 내 주민의 생활안전 활동과 교통활동에 관한 사무가 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 59,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 778,
+      "question": "광역자치단체장 소속으로 시ㆍ도자치경찰위원회가 자치경찰사무를 관장한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 59,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 779,
+      "question": "시ㆍ도 자치경찰위원회는 시ㆍ도지사의 지휘감독을 받아 자치경찰사무를 수행한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 59,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 780,
+      "question": "국가경찰사무는 국민의 생명ㆍ신체 및 재산의 보호, 범죄의 예방ㆍ진압 및 수사 등이다. 8 2024년도 제12회 행정사 1차 1교시 A형 ( 22 - 1 )",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 59,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 781,
+      "question": "중앙인사기관은 각 행정기관의 합리적 인사운영, 인력의 효율적 활용, 공무원의 공직규범 기준 등 제공 기능을 담당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 62,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 782,
+      "question": "중 앙인사기관은 행정수반으로부터의 독립성과 다수 위원들의 협의에 의한 의사결정을 하는 합의성 등을 기준으로 유형화할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 62,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 783,
+      "question": "1948년 정부수립 이후 우리나라 중앙인사기관은 비독립단독제 형태를 유지하여 오고 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 62,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 784,
+      "question": "우리나라에서 인사관리기능을 수행하기 위해 각 부처의 인사기관과 각 지방자치단체의 인사기관이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 62,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 785,
+      "question": "현재 우리나라의 중앙인사기관은 국무총리 소속의 인사혁신처이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 62,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 786,
+      "question": "ㄱ 일반행정, ㄴ 책임경영, ㄷ 민간위 탁, ㄹ: 민간기업",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 63,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 787,
+      "question": "ㄱ: 책임경영, ㄴ: 일반행정, ㄷ: 민간기업, ㄹ: 민간위탁",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 63,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 788,
+      "question": "ㄱ: 민간기업, ㄴ: 민간위탁, ㄷ: 책임경영, ㄹ: 일반행정",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 63,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 789,
+      "question": "ㄱ: 일반행정, ㄴ: 민간위탁, ㄷ: 책임경영, ㄹ: 민간기업",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 63,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 790,
+      "question": "ㄱ: 책임경영, ㄴ: 민간위탁, ㄷ: 일반행정, ㄹ: 민간기업 2024년도 제12회 행정사 1차 1교시 A형 ( 22 - 19 )",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 63,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 791,
+      "question": "인간행태의 발전과 쇄신적 가치관을 중시하며 인간을 자아실현인ㆍ복잡인으로 파악한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 64,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 792,
+      "question": "가치의 다원화 및 행정현상의 다양성을 인정한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 64,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 793,
+      "question": "효과성ㆍ생산성ㆍ민주성ㆍ대응성ㆍ사회적 적실성과 종합적인 행정개혁을 중시한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 64,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 794,
+      "question": "조직을 환경과 상호작용하는 동태적ㆍ유기체적 개방체제로 파악한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 64,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 795,
+      "question": "조직발전을 위해 조직의 변동과 갈등을 전적으로 억제한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 64,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 796,
+      "question": "직업공무원제의 적용을 받지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 65,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 797,
+      "question": "선거에 의해 취임하는 공무원은 경력직 공무원이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 65,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 798,
+      "question": "특수한 임무를 수행하기 위해 임용되는 별정직 공무원이 대표적인 경력직 공무원이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 65,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 799,
+      "question": "실적과 자격에 의해 임용되며 신분이 보장된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 65,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 800,
+      "question": "기술직과 연구직에 종사하는 공무원은 경력직 공무원에 해당하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 65,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 801,
+      "question": "공공서비스의 생산을 민간에 위탁하는 방법 중의 하나이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 66,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 802,
+      "question": "시민들은 정부가 지정하는 하나의 서비스 제공 기관에서 이용권을 사용하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 66,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 803,
+      "question": "보건복지부는 각종 돌봄서비스에서 전자 이용권을 제공하고 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 66,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 804,
+      "question": "소비자 중심의 맞춤형 사회서비스가 강조되면서 서비스가 확대되고 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 66,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 805,
+      "question": "노인, 장애인, 보육 정책 등에서 서비스가 확대되고 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 66,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 806,
+      "question": "국민이 직접 증명하는 공급자 중심의 획일적인 서비스를 극대화하는 정부이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 68,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 807,
+      "question": "부처 간 장벽이 없는 네트워크를 통해 서비스 연계ㆍ통합이 가능한 정부이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 68,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 808,
+      "question": "모바일 기기 등으로 어디서나 편리한 서비스를 제공하는 정부이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 68,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 809,
+      "question": "국민의 수요에 실시간으로 반응하는 서비스를 제공하는 정부이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 68,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 810,
+      "question": "참여ㆍ소통으로 수요자가 원하는 서비스와 정보를 제공하는 정부이다. 2024년도 제12회 행정사 1차 1교시 A형 ( 22 - 20 )",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 68,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 811,
+      "question": "일정기간 지역에 거주하지 않았더라도 주민등록만 되어 있다면 지방자치법상 주민으로 서의 권리와 의무의 주체가 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 70,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 812,
+      "question": "국가로부터 일정한 부분 자치권한을 이양 받은 자치권을 고유권이라고 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 70,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 813,
+      "question": "특례시에는 자치구가 설치되어 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 70,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 814,
+      "question": "자치권이란 자연적으로 발생한 주민의 권리이므로 전래권이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 70,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 815,
+      "question": "지방자치단체는 주민의 복리와 재산을 보호하고 외교ㆍ국방과 같은 문제를 다룬다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 70,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 816,
+      "question": "만족모형은 인간의 능력에 한계가 있으므로 최적의 대안이 아닌 만족하는 정도의 대안 을 결정한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 71,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 817,
+      "question": "최적모형은 비정형적인 정책결정 시 창의성이나 통찰력 같은 초합리성을 중요시 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 71,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 818,
+      "question": "쓰레기통모형은 고도로 불확실한 조직상황하에서의 정책결정양태를 설명한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 71,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 819,
+      "question": "관료정치모형은 의견이 동일한 관리자들이 연합하여 최종해결안을 선택하고, 토론과 협상을 매우 중요시 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 71,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 820,
+      "question": "점증모형은 정책결정과정을 약간의 향상을 위해 그럭저럭 헤쳐 나가는 과정으로 본다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 71,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 821,
+      "question": "마르크스주의 - 현대국가는 모든 자본가 계층의 공통된 이해관계를 대변하기 위한 위원 회와 같다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 72,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 822,
+      "question": "엘리트주의 - 지배계층은 모든 정책과정을 장악하고 영향력을 행사하며 정책의 혜택을 누린다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 72,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 823,
+      "question": "무의사결정 - 정치적 행위자는 자신의 효용과 만족감을 최대화하기 위하여 합리적으로 행동한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 72,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 824,
+      "question": "제도주의 - 정책분석의 초점은 정부제도의 공식적ㆍ법적 기구에 맞추는 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 72,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 825,
+      "question": "다원주의 - 정부의 역할은 단지 집단 간의 이익대결과 갈등을 조정하는 중립적인 제3자에 불과하다. 2024년도 제12회 행정사 1차 1교시 A형 ( 22 - 21 )",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 72,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 826,
+      "question": "주민들이 공직자를 재직 중에 불신임해 그만두게 하는 제도로서 가장 적극적이고 강력한 참여의 형태이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 73,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 827,
+      "question": "지역의 주요 안건을 해결하는 제도로서 지방자치단체의 중요한 사항에 대하여 결정권을 행사하는 제도이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 73,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 828,
+      "question": "선출직 공직자를 임기 중에 소환해 파면시키는 제도이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 73,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 829,
+      "question": "주민이 감사청구한 일정한 재무회계 사항과 관련이 있는 지방자치단체의 장 등의 위법한 행위 등에 대하여 손해를 배상하게 하는 제도이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 73,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 830,
+      "question": "주민이 능동적이고 적극적으로 지방자치단체의 장이나 의회의원 권한의 일부를 제약 하거나 행사한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 73,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 831,
+      "question": "정책이 내포하는 목적가치를 중요시 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 75,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 832,
+      "question": "자원과 비용의 사회적 배분을 고려한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 75,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 833,
+      "question": "질적 분석을 중요시 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 75,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 834,
+      "question": "정치적 요인을 고려한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 75,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 835,
+      "question": "계량적 분석에 입각하여 처방을 제시한다. 2024년도 제12회 행정사 1차 1교시 A형 ( 22 - 22 )",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 75,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

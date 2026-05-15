@@ -1440,3 +1440,33 @@ body.is-sheet-open, body.is-modal-open { overflow: hidden; }
   font-size: calc(15px * var(--type-scale));
   cursor: pointer;
 }
+
+/* ============================================================
+   ★ 중요도 (star_rating) — 반복 출제 문항 표시
+   ============================================================ */
+.q-star-badge {
+  align-self: flex-start;
+  margin-bottom: 4px;
+  padding: 3px 10px;
+  border-radius: 999px;
+  background: linear-gradient(135deg, #fbbf24, #f59e0b);
+  color: #fff;
+  font-size: calc(11px * var(--type-scale));
+  font-family: var(--font-soft);
+  font-weight: 400;
+  letter-spacing: 0.04em;
+  box-shadow: 0 2px 6px rgba(245,158,11,0.35);
+}
+.q-star-badge[hidden] { display: none; }
+
+.sheet-star-rating {
+  padding: 6px 12px 4px;
+  font-size: calc(13px * var(--type-scale));
+  font-family: var(--font-soft);
+  color: #b45309;
+  background: #fef3c7;
+  border-radius: var(--r-md);
+  border: 1px solid #fde68a;
+  margin-bottom: 8px;
+}
+.sheet-star-rating[hidden] { display: none; }
