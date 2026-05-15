@@ -45,7 +45,10 @@ const LS_KEYS = {
   lastSession: 'oxquiz.exam.lastSession',
   daily: 'oxquiz.exam.daily',
   wrongNotes: 'oxquiz.exam.wrongNotes',
+  bookmarks: 'oxquiz.exam.bookmarks',
+  solvedLog: 'oxquiz.exam.solvedLog',
 };
+const SOLVED_LOG_MAX = 2000;  // LocalStorage 용량 관리
 
 // 런타임 state
 const state = {
@@ -263,6 +266,218 @@ function wrongTotalByCategory() {
 
 // 가상 카테고리 slug — "오답만 풀기" 진입
 const WRONG_VIRTUAL_SLUG = '__wrong_notes__';
+const BOOKMARK_VIRTUAL_SLUG = '__bookmarks__';
+const TAG_VIRTUAL_PREFIX = '__tag__:';
+const SEARCH_VIRTUAL_PREFIX = '__search__:';
+
+/* ============================================================
+   5c) BOOKMARK STORE — 즐겨찾기 (Plan FR 확장)
+   ============================================================ */
+// 데이터 형식: { [categorySlug]: { qids: [123,456], updatedAt: ISO } }
+function bookmarkStoreLoad() { return storeLoad(LS_KEYS.bookmarks, {}) || {}; }
+function bookmarkStoreSave(d) { storeSave(LS_KEYS.bookmarks, d); }
+
+function bookmarkAdd(catSlug, qid) {
+  const all = bookmarkStoreLoad();
+  const b = all[catSlug] || { qids: [], updatedAt: null };
+  if (!b.qids.includes(qid)) {
+    b.qids.push(qid);
+    b.updatedAt = new Date().toISOString();
+    all[catSlug] = b;
+    bookmarkStoreSave(all);
+    gaEvent('exam_bookmark_added', { slug: catSlug, qid });
+  }
+}
+function bookmarkRemove(catSlug, qid) {
+  const all = bookmarkStoreLoad();
+  if (!all[catSlug]) return;
+  all[catSlug].qids = all[catSlug].qids.filter((x) => x !== qid);
+  all[catSlug].updatedAt = new Date().toISOString();
+  if (all[catSlug].qids.length === 0) delete all[catSlug];
+  bookmarkStoreSave(all);
+}
+function bookmarkHas(catSlug, qid) {
+  return (bookmarkStoreLoad()[catSlug]?.qids || []).includes(qid);
+}
+function bookmarkTotal() {
+  const all = bookmarkStoreLoad();
+  return Object.values(all).reduce((sum, b) => sum + (b.qids?.length || 0), 0);
+}
+
+/* ============================================================
+   5d) SOLVED LOG — 누적 풀이 기록 (통계용)
+   ============================================================ */
+function logSolved(qid, slug, topic, correct) {
+  let log;
+  try { log = storeLoad(LS_KEYS.solvedLog, []) || []; } catch (e) { log = []; }
+  log.push({
+    date: new Date().toISOString(),
+    qid, slug, topic: topic || null, correct: !!correct,
+  });
+  // 용량 한도 — 오래된 것부터 제거
+  while (log.length > SOLVED_LOG_MAX) log.shift();
+  storeSave(LS_KEYS.solvedLog, log);
+}
+
+/* ============================================================
+   5e) STATS — 통계 분석 (일주 정답률 추이 + 약한 topic Top 5)
+   ============================================================ */
+function statsAnalyze() {
+  const log = storeLoad(LS_KEYS.solvedLog, []) || [];
+  if (!log.length) {
+    return { totalSolved: 0, overallAccuracy: 0, last7Days: [], weakTopics: [], strongTopics: [] };
+  }
+  // 일자별
+  const byDay = {};
+  log.forEach((e) => {
+    const day = (e.date || '').slice(0, 10);
+    if (!day) return;
+    if (!byDay[day]) byDay[day] = { solved: 0, correct: 0 };
+    byDay[day].solved += 1;
+    if (e.correct) byDay[day].correct += 1;
+  });
+  // 최근 7일 (오늘 포함 역순)
+  const today = new Date();
+  const last7Days = [];
+  for (let i = 6; i >= 0; i--) {
+    const d = new Date(today); d.setDate(today.getDate() - i);
+    const key = d.toISOString().slice(0, 10);
+    const s = byDay[key] || { solved: 0, correct: 0 };
+    last7Days.push({
+      date: key,
+      label: `${d.getMonth() + 1}/${d.getDate()}`,
+      solved: s.solved,
+      correct: s.correct,
+      accuracy: s.solved ? s.correct / s.solved : null,
+    });
+  }
+  // Topic별
+  const byTopic = {};
+  log.forEach((e) => {
+    if (!e.topic) return;
+    if (!byTopic[e.topic]) byTopic[e.topic] = { solved: 0, correct: 0 };
+    byTopic[e.topic].solved += 1;
+    if (e.correct) byTopic[e.topic].correct += 1;
+  });
+  const ranked = Object.entries(byTopic)
+    .filter(([_, s]) => s.solved >= 3)  // 최소 3회 푼 것만 의미 있음
+    .map(([t, s]) => ({
+      topic: t, solved: s.solved, correct: s.correct,
+      accuracy: s.correct / s.solved,
+    }));
+  const weakTopics = ranked.slice().sort((a, b) => a.accuracy - b.accuracy).slice(0, 5);
+  const strongTopics = ranked.slice().sort((a, b) => b.accuracy - a.accuracy).slice(0, 5);
+  const totalCorrect = log.filter((e) => e.correct).length;
+  return {
+    totalSolved: log.length,
+    overallAccuracy: totalCorrect / log.length,
+    last7Days,
+    weakTopics,
+    strongTopics,
+  };
+}
+
+/* ============================================================
+   5f) SEARCH — 키워드 · 태그 · 이론 매칭
+   ============================================================ */
+async function searchQuestions(query, opts = {}) {
+  const q = (query || '').trim().toLowerCase();
+  if (q.length < 2) return [];
+  const limit = opts.limit || 50;
+  const out = [];
+  for (const cat of state.catalog) {
+    let data;
+    try { data = await loadCategory(cat.slug); }
+    catch (e) { continue; }
+    for (const question of data.questions) {
+      const tags = (question.tags || []).join(' ');
+      const hay = [
+        question.statement, question.topic, question.theory, tags,
+        question.explanation_o, question.explanation_x, question.explanation,
+      ].filter(Boolean).join(' ').toLowerCase();
+      if (hay.includes(q)) {
+        out.push({
+          ...question,
+          __sourceSlug: cat.slug,
+          __sourceCatName: cat.name,
+        });
+        if (out.length >= limit) return out;
+      }
+    }
+  }
+  return out;
+}
+
+/* ============================================================
+   5g) BUILD VIRTUAL CATEGORY — 즐겨찾기 · 태그 · 검색 결과
+   ============================================================ */
+async function buildVirtualBookmarkCategory() {
+  const all = bookmarkStoreLoad();
+  const items = [];
+  for (const sourceSlug in all) {
+    const qids = all[sourceSlug].qids || [];
+    if (!qids.length) continue;
+    let catData;
+    try { catData = await loadCategory(sourceSlug); }
+    catch (e) { continue; }
+    const found = catData.questions.filter((q) => qids.includes(q.id));
+    found.forEach((q) => {
+      q.__sourceSlug = sourceSlug;
+      q.__sourceCatName = catData.category.name;
+    });
+    items.push(...found);
+  }
+  return {
+    category: {
+      slug: BOOKMARK_VIRTUAL_SLUG,
+      name: `즐겨찾기 ${items.length}건`,
+      exam_group: '북마크',
+      subject: '복습',
+      phase: '',
+    },
+    questions: items,
+    _meta: { total: items.length, source: 'localStorage' },
+  };
+}
+
+async function buildVirtualTagCategory(tag) {
+  const items = [];
+  for (const cat of state.catalog) {
+    let data;
+    try { data = await loadCategory(cat.slug); }
+    catch (e) { continue; }
+    data.questions.forEach((q) => {
+      if ((q.tags || []).includes(tag)) {
+        items.push({ ...q, __sourceSlug: cat.slug, __sourceCatName: cat.name });
+      }
+    });
+  }
+  return {
+    category: {
+      slug: TAG_VIRTUAL_PREFIX + tag,
+      name: `#${tag} · ${items.length}건`,
+      exam_group: '태그 모음',
+      subject: tag,
+      phase: '',
+    },
+    questions: items,
+    _meta: { total: items.length, source: 'tag-filter' },
+  };
+}
+
+async function buildVirtualSearchCategory(query, results) {
+  return {
+    category: {
+      slug: SEARCH_VIRTUAL_PREFIX + query,
+      name: `"${query}" · ${results.length}건`,
+      exam_group: '검색 결과',
+      subject: query,
+      phase: '',
+    },
+    questions: results,
+    _meta: { total: results.length, source: 'search' },
+  };
+}
 
 /* ============================================================
    5) TWEAKS
@@ -425,18 +640,34 @@ function renderHome() {
     cc.hidden = true;
   }
 
-  // 오답노트 카드
-  const wrongTotalCount = wrongTotal();
-  const wn = $('#wrongnote-card');
-  if (wn) {
-    if (wrongTotalCount > 0) {
-      wn.hidden = false;
-      setText('#wrongnote-count', String(wrongTotalCount));
-      const wb = $('#wrongnote-btn');
-      if (wb) wb.onclick = () => handleSelectCategory(WRONG_VIRTUAL_SLUG, 0);
-    } else {
-      wn.hidden = true;
-    }
+  // 도구 카드 — 오답노트
+  const wrongN = wrongTotal();
+  const wb = $('#wrongnote-btn');
+  if (wb) {
+    if (wrongN > 0) {
+      wb.hidden = false;
+      setText('#wrongnote-count', String(wrongN));
+      wb.onclick = () => handleSelectCategory(WRONG_VIRTUAL_SLUG, 0);
+    } else { wb.hidden = true; }
+  }
+
+  // 도구 카드 — 즐겨찾기
+  const bookmarkN = bookmarkTotal();
+  const bb = $('#bookmark-btn');
+  if (bb) {
+    if (bookmarkN > 0) {
+      bb.hidden = false;
+      setText('#bookmark-count', String(bookmarkN));
+      bb.onclick = () => handleSelectCategory(BOOKMARK_VIRTUAL_SLUG, 0);
+    } else { bb.hidden = true; }
+  }
+
+  // 도구 카드 — 학습 통계 (항상 표시)
+  const sb = $('#stats-btn');
+  if (sb) {
+    const totalSolved = (storeLoad(LS_KEYS.solvedLog, []) || []).length;
+    setText('#stats-mini', totalSolved > 0 ? `${totalSolved}건 풀이` : '시작하기');
+    sb.onclick = () => { showScreen('stats'); renderStats(); };
   }
 
   // categories
@@ -497,7 +728,7 @@ function svgIcon(name, { size = 20, color = 'currentColor' } = {}) {
    8) CATEGORY ENTRY → QUIZ SCREEN
    ============================================================ */
 
-async function handleSelectCategory(slug, startIdx = 0) {
+async function handleSelectCategory(slug, startIdx = 0, opts = {}) {
   try {
     let data;
     if (slug === WRONG_VIRTUAL_SLUG) {
@@ -506,6 +737,27 @@ async function handleSelectCategory(slug, startIdx = 0) {
         showToast('오답이 없어요. 카테고리를 골라 풀어보세요.');
         return;
       }
+    } else if (slug === BOOKMARK_VIRTUAL_SLUG) {
+      data = await buildVirtualBookmarkCategory();
+      if (!data || !data.questions.length) {
+        showToast('즐겨찾기가 비어있어요. 풀이 중 ⭐을 눌러 추가하세요.');
+        return;
+      }
+    } else if (slug.startsWith(TAG_VIRTUAL_PREFIX)) {
+      const tag = slug.slice(TAG_VIRTUAL_PREFIX.length);
+      data = await buildVirtualTagCategory(tag);
+      if (!data || !data.questions.length) {
+        showToast(`#${tag} 태그 문항이 없어요.`);
+        return;
+      }
+    } else if (slug.startsWith(SEARCH_VIRTUAL_PREFIX)) {
+      const query = slug.slice(SEARCH_VIRTUAL_PREFIX.length);
+      const results = opts.searchResults || (await searchQuestions(query));
+      if (!results.length) {
+        showToast(`"${query}" 검색 결과 없음`);
+        return;
+      }
+      data = await buildVirtualSearchCategory(query, results);
     } else {
       data = await loadCategory(slug);
     }
@@ -639,12 +891,16 @@ function handleAnswer(choice) {
 
   recordDaily(correct);
 
-  // 오답노트 자동 적재 / 정답 시 제거 (가상 모드에서는 원본 slug 사용)
+  // 가상 모드에서는 원본 slug 사용
   const noteSlug = q.__sourceSlug || cat.category.slug;
+
+  // 누적 풀이 로그 (통계용)
+  logSolved(q.id, noteSlug, q.topic, correct);
+
+  // 오답노트 자동 적재 / 정답 시 제거
   if (!correct) {
     wrongAdd(noteSlug, q.id);
   } else if (wrongHas(noteSlug, q.id)) {
-    // 이전에 오답이었던 문항을 이제 정답 → 오답노트에서 제거
     wrongRemove(noteSlug, q.id);
   }
 
@@ -796,6 +1052,16 @@ function openSheet() {
   setText('#sheet-source-pdf', `출처: ${q.source_pdf || '준비 중'}`);
   setText('#sheet-meta-quality', q.meta_quality || 0);
 
+  // ⭐ 북마크 토글 동기화
+  const bmBtn = $('#sheet-bookmark');
+  if (bmBtn) {
+    const noteSlug = q.__sourceSlug || state.currentCategory.category.slug;
+    const isBm = bookmarkHas(noteSlug, q.id);
+    bmBtn.dataset.bookmarked = isBm ? '1' : '0';
+    bmBtn.setAttribute('aria-pressed', String(isBm));
+    bmBtn.title = isBm ? '즐겨찾기 해제' : '즐겨찾기 추가';
+  }
+
   // CTA label
   const isLast = state.idx >= state.currentCategory.questions.length - 1;
   setText('#sheet-next-label', isLast ? '결과 보기' : '다음 문제');
@@ -944,9 +1210,34 @@ function attachQuizInteractions() {
     if (e.target === $('#tag-modal-overlay')) closeTagModal();
   });
   $('#tag-modal-confirm').addEventListener('click', () => {
-    showToast(`#${state.tagFilterPending} 모아풀기는 곧 지원 예정입니다`);
+    const tag = state.tagFilterPending;
     closeTagModal();
+    if (tag) {
+      setTimeout(() => handleSelectCategory(TAG_VIRTUAL_PREFIX + tag, 0), 200);
+    }
   });
+
+  // 시트 ⭐ 북마크 토글
+  const bmBtn = $('#sheet-bookmark');
+  if (bmBtn) {
+    bmBtn.addEventListener('click', () => {
+      if (!state.currentCategory) return;
+      const q = state.currentCategory.questions[state.idx];
+      if (!q) return;
+      const noteSlug = q.__sourceSlug || state.currentCategory.category.slug;
+      if (bookmarkHas(noteSlug, q.id)) {
+        bookmarkRemove(noteSlug, q.id);
+        bmBtn.dataset.bookmarked = '0';
+        bmBtn.setAttribute('aria-pressed', 'false');
+        showToast('즐겨찾기에서 제거됨');
+      } else {
+        bookmarkAdd(noteSlug, q.id);
+        bmBtn.dataset.bookmarked = '1';
+        bmBtn.setAttribute('aria-pressed', 'true');
+        showToast('⭐ 즐겨찾기 추가');
+      }
+    });
+  }
 
   // Swipe (touch + mouse)
   const card = $('#q-card');
@@ -1014,6 +1305,120 @@ function attachQuizInteractions() {
 }
 
 /* ============================================================
+   13b) STATS SCREEN
+   ============================================================ */
+
+function renderStats() {
+  const s = statsAnalyze();
+  setText('#stats-total', s.totalSolved);
+  setText('#stats-acc', Math.round((s.overallAccuracy || 0) * 100));
+
+  // 최근 7일 막대
+  const week = $('#stats-week');
+  clear(week);
+  const maxSolved = Math.max(1, ...s.last7Days.map((d) => d.solved));
+  s.last7Days.forEach((d) => {
+    const heightRatio = d.solved / maxSolved;
+    const cell = elem('div', { class: 'stats-week__cell' }, [
+      elem('div', { class: 'stats-week__bar-wrap' }, [
+        elem('div', {
+          class: 'stats-week__bar' + (d.solved === 0 ? ' is-empty' : ''),
+          style: { height: `${heightRatio * 100}%` },
+          title: d.solved ? `${d.solved}건 · ${Math.round((d.accuracy || 0) * 100)}%` : '풀이 없음',
+        }),
+      ]),
+      elem('div', { class: 'stats-week__label' }, d.label),
+      elem('div', { class: 'stats-week__num' }, String(d.solved)),
+    ]);
+    week.appendChild(cell);
+  });
+
+  // 약한 topic
+  const weakWrap = $('#stats-weak');
+  const weakEmpty = $('#stats-weak-empty');
+  clear(weakWrap);
+  if (!s.weakTopics.length) {
+    weakEmpty.hidden = false;
+  } else {
+    weakEmpty.hidden = true;
+    s.weakTopics.forEach((t) => weakWrap.appendChild(renderTopicRow(t, 'weak')));
+  }
+
+  // 잘 푸는 topic
+  const strongWrap = $('#stats-strong');
+  clear(strongWrap);
+  s.strongTopics.forEach((t) => strongWrap.appendChild(renderTopicRow(t, 'strong')));
+}
+
+function renderTopicRow(t, kind) {
+  const pct = Math.round((t.accuracy || 0) * 100);
+  return elem('div', { class: 'topic-row topic-row--' + kind }, [
+    elem('div', { class: 'topic-row__name' }, t.topic),
+    elem('div', { class: 'topic-row__meta' }, `${t.correct}/${t.solved} · ${pct}%`),
+    elem('div', { class: 'topic-row__bar-wrap' }, [
+      elem('div', { class: 'topic-row__bar', style: { width: `${pct}%` } }),
+    ]),
+  ]);
+}
+
+/* ============================================================
+   13c) SEARCH SCREEN
+   ============================================================ */
+
+let _searchInProgress = false;
+
+async function handleSearch(query) {
+  query = (query || '').trim();
+  if (query.length < 2) { showToast('2자 이상 입력해주세요'); return; }
+  if (_searchInProgress) return;
+  _searchInProgress = true;
+  showToast(`"${query}" 검색 중...`, 1200);
+  try {
+    const results = await searchQuestions(query);
+    state.searchResults = results;
+    state.searchQuery = query;
+    showScreen('search');
+    renderSearchResults(query, results);
+  } finally {
+    _searchInProgress = false;
+  }
+}
+
+function renderSearchResults(query, results) {
+  setText('#search-query-label', `"${query}"`);
+  setText('#search-count-label', `${results.length}건`);
+  const list = $('#search-list');
+  const empty = $('#search-empty');
+  const playAll = $('#search-play-all');
+  clear(list);
+  if (!results.length) {
+    empty.hidden = false;
+    playAll.hidden = true;
+    return;
+  }
+  empty.hidden = true;
+  playAll.hidden = false;
+  results.slice(0, 30).forEach((q) => {
+    const card = elem('button', {
+      type: 'button',
+      class: 'search-card',
+      on: { click: () => handleSelectCategory(SEARCH_VIRTUAL_PREFIX + query, results.indexOf(q), { searchResults: results }) },
+    }, [
+      elem('div', { class: 'search-card__head' }, [
+        elem('span', { class: 'search-card__cat' }, q.__sourceCatName || ''),
+        elem('span', { class: 'search-card__ans search-card__ans--' + (q.answer === 'O' ? 'o' : 'x') }, q.answer),
+      ]),
+      elem('div', { class: 'search-card__stmt' }, q.statement || ''),
+      q.topic ? elem('div', { class: 'search-card__topic' }, q.topic) : null,
+    ]);
+    list.appendChild(card);
+  });
+  if (playAll) {
+    playAll.onclick = () => handleSelectCategory(SEARCH_VIRTUAL_PREFIX + query, 0, { searchResults: results });
+  }
+}
+
+/* ============================================================
    14) RESULT SCREEN INTERACTIONS
    ============================================================ */
 
@@ -1030,6 +1435,26 @@ function attachResultInteractions() {
   });
 }
 
+function attachStatsSearchInteractions() {
+  // 검색 인풋
+  const inp = $('#search-input');
+  const go = $('#search-go');
+  if (inp) {
+    inp.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') { e.preventDefault(); handleSearch(inp.value); }
+    });
+  }
+  if (go) {
+    go.addEventListener('click', () => handleSearch(inp?.value || ''));
+  }
+  // 통계 화면 홈 버튼
+  const sh = $('#stats-home');
+  if (sh) sh.addEventListener('click', () => { showScreen('home'); renderHome(); });
+  // 검색 화면 홈 버튼
+  const sch = $('#search-home');
+  if (sch) sch.addEventListener('click', () => { showScreen('home'); renderHome(); });
+}
+
 /* ============================================================
    15) BOOTSTRAP
    ============================================================ */
@@ -1038,6 +1463,7 @@ async function boot() {
   initTweaksUI();
   attachQuizInteractions();
   attachResultInteractions();
+  attachStatsSearchInteractions();
 
   try {
     const { flat, meta } = await loadCatalog();
