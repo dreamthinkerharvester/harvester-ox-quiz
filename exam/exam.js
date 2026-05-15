@@ -428,12 +428,15 @@ function renderHome() {
   // 오답노트 카드
   const wrongTotalCount = wrongTotal();
   const wn = $('#wrongnote-card');
-  if (wrongTotalCount > 0) {
-    wn.hidden = false;
-    setText('#wrongnote-count', String(wrongTotalCount));
-    $('#wrongnote-btn').onclick = () => handleSelectCategory(WRONG_VIRTUAL_SLUG, 0);
-  } else {
-    wn.hidden = true;
+  if (wn) {
+    if (wrongTotalCount > 0) {
+      wn.hidden = false;
+      setText('#wrongnote-count', String(wrongTotalCount));
+      const wb = $('#wrongnote-btn');
+      if (wb) wb.onclick = () => handleSelectCategory(WRONG_VIRTUAL_SLUG, 0);
+    } else {
+      wn.hidden = true;
+    }
   }
 
   // categories

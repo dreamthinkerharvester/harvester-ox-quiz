@@ -81,6 +81,20 @@
           <div class="continue__progress"><div id="continue-progress-fill"></div></div>
         </button>
 
+        <!-- 오답노트 카드 (LocalStorage, 오답 있을 때만 표시) -->
+        <div class="wrongnote-card" id="wrongnote-card" hidden>
+          <button type="button" class="wrongnote-card__btn" id="wrongnote-btn">
+            <span class="wrongnote-card__icon" aria-hidden="true">📌</span>
+            <span class="wrongnote-card__label">내 오답노트</span>
+            <span class="wrongnote-card__count" id="wrongnote-count">0</span>
+            <svg class="wrongnote-card__chev" width="18" height="18" viewBox="0 0 24 24"
+                 fill="none" stroke="currentColor" stroke-width="2"
+                 stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <polyline points="9 6 15 12 9 18"/>
+            </svg>
+          </button>
+        </div>
+
         <!-- 오늘의 학습 -->
         <section>
           <div class="section-head">
