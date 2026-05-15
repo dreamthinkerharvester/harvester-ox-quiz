@@ -7,7 +7,7 @@
   "source": "행정사 1차",
   "exam_year": 2024,
   "exam_round": 12,
-  "count": 82,
+  "count": 66,
   "questions": [
     {
       "id": 754,
@@ -65,90 +65,6 @@
       "source": {
         "qid": 51,
         "option": "⑤",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 759,
-      "question": "인간관계론 - 사회적 능률성",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 52,
-        "option": "①",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 760,
-      "question": "신공공관리론 - 효율성",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 52,
-        "option": "③",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 761,
-      "question": "과학적 관리론 - 기계적 능률성",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 52,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 762,
-      "question": "신행정론 - 사회적 형평성",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 52,
-        "option": "⑤",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 763,
-      "question": "시민과 언론을 통한 통제",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 55,
-        "option": "ㄷ",
-        "qtype": "sub-all-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 764,
-      "question": "국무총리실을 통한 통제",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 55,
-        "option": "ㅁ",
-        "qtype": "sub-all-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 765,
-      "question": "공직자 재산등록과 공개",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 56,
-        "option": "③",
         "qtype": "opt-wrong",
         "difficulty": null
       }
@@ -214,66 +130,6 @@
       }
     },
     {
-      "id": 771,
-      "question": "사전의결의 원칙 - 준예산",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 58,
-        "option": "①",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 772,
-      "question": "한정성의 원칙 - 사고이월",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 58,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 773,
-      "question": "통일의 원칙 - 교육세",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 58,
-        "option": "③",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 774,
-      "question": "단일의 원칙 - 특별회계",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 58,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 775,
-      "question": "예산총계주의 원칙 - 기금",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 58,
-        "option": "⑤",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 776,
       "question": "2006년 제주특별자치도 자치경찰제 시범 도입에 이어 2021년부터 본격적으로 자치경찰제가 시행되었다.",
       "answer": "O",
@@ -323,7 +179,7 @@
     },
     {
       "id": 780,
-      "question": "국가경찰사무는 국민의 생명ㆍ신체 및 재산의 보호, 범죄의 예방ㆍ진압 및 수사 등이다. 8 2024년도 제12회 행정사 1차 1교시 A형 ( 22 - 1 )",
+      "question": "국가경찰사무는 국민의 생명ㆍ신체 및 재산의 보호, 범죄의 예방ㆍ진압 및 수사 등이다.",
       "answer": "O",
       "explanation": "",
       "source": {
@@ -401,54 +257,6 @@
       "source": {
         "qid": 63,
         "option": "①",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 787,
-      "question": "ㄱ: 책임경영, ㄴ: 일반행정, ㄷ: 민간기업, ㄹ: 민간위탁",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 63,
-        "option": "②",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 788,
-      "question": "ㄱ: 민간기업, ㄴ: 민간위탁, ㄷ: 책임경영, ㄹ: 일반행정",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 63,
-        "option": "③",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 789,
-      "question": "ㄱ: 일반행정, ㄴ: 민간위탁, ㄷ: 책임경영, ㄹ: 민간기업",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 63,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 790,
-      "question": "ㄱ: 책임경영, ㄴ: 민간위탁, ㄷ: 일반행정, ㄹ: 민간기업 2024년도 제12회 행정사 1차 1교시 A형 ( 22 - 19 )",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 63,
-        "option": "⑤",
         "qtype": "opt-correct",
         "difficulty": null
       }
@@ -683,7 +491,7 @@
     },
     {
       "id": 810,
-      "question": "참여ㆍ소통으로 수요자가 원하는 서비스와 정보를 제공하는 정부이다. 2024년도 제12회 행정사 1차 1교시 A형 ( 22 - 20 )",
+      "question": "참여ㆍ소통으로 수요자가 원하는 서비스와 정보를 제공하는 정부이다.",
       "answer": "O",
       "explanation": "",
       "source": {
@@ -863,7 +671,7 @@
     },
     {
       "id": 825,
-      "question": "다원주의 - 정부의 역할은 단지 집단 간의 이익대결과 갈등을 조정하는 중립적인 제3자에 불과하다. 2024년도 제12회 행정사 1차 1교시 A형 ( 22 - 21 )",
+      "question": "다원주의 - 정부의 역할은 단지 집단 간의 이익대결과 갈등을 조정하는 중립적인 제3자에 불과하다.",
       "answer": "O",
       "explanation": "",
       "source": {
@@ -983,7 +791,7 @@
     },
     {
       "id": 835,
-      "question": "계량적 분석에 입각하여 처방을 제시한다. 2024년도 제12회 행정사 1차 1교시 A형 ( 22 - 22 )",
+      "question": "계량적 분석에 입각하여 처방을 제시한다.",
       "answer": "O",
       "explanation": "",
       "source": {

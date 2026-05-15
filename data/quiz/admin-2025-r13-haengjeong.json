@@ -7,7 +7,7 @@
   "source": "행정사 1차",
   "exam_year": 2025,
   "exam_round": 13,
-  "count": 92,
+  "count": 88,
   "questions": [
     {
       "id": 662,
@@ -94,42 +94,6 @@
       }
     },
     {
-      "id": 669,
-      "question": "실용학문으로서의 전문직업성",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 52,
-        "option": "③",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 670,
-      "question": "다양한 학문분야의 영향을 받은 종합학문성",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 52,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 671,
-      "question": "일정한 경로를 따라 움직이는 경로의존성",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 52,
-        "option": "⑤",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 672,
       "question": "1990년대의 영국 행정개혁 일환으로 시행되었다.",
       "answer": "O",
@@ -179,7 +143,7 @@
     },
     {
       "id": 676,
-      "question": "시장성 테스트의 적합한 공공업무는 급속한 시장변화 속에 있는 업무를 포함한다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 16 )",
+      "question": "시장성 테스트의 적합한 공공업무는 급속한 시장변화 속에 있는 업무를 포함한다.",
       "answer": "O",
       "explanation": "",
       "source": {
@@ -299,7 +263,7 @@
     },
     {
       "id": 686,
-      "question": "공익의 과정 설은 공익과 사익이 명확히 구분되는 별개의 개념으로 본다. 7 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 1 )",
+      "question": "공익의 과정 설은 공익과 사익이 명확히 구분되는 별개의 개념으로 본다.",
       "answer": "X",
       "explanation": "",
       "source": {
@@ -539,7 +503,7 @@
     },
     {
       "id": 706,
-      "question": "의결된 법률과 예산안에 대한 대외적인 효력을 인정받기 위해서는 공포절차가 필요하다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 18 )",
+      "question": "의결된 법률과 예산안에 대한 대외적인 효력을 인정받기 위해서는 공포절차가 필요하다.",
       "answer": "X",
       "explanation": "",
       "source": {
@@ -647,7 +611,7 @@
     },
     {
       "id": 715,
-      "question": "직위분류제는 계급제에 비해 인사관리의 탄력성과 신축성 확보가 유리하다. 9 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 1 )",
+      "question": "직위분류제는 계급제에 비해 인사관리의 탄력성과 신축성 확보가 유리하다.",
       "answer": "X",
       "explanation": "",
       "source": {
@@ -731,7 +695,7 @@
     },
     {
       "id": 722,
-      "question": "공공조직과 민간조직 종사자 간 동기의 차이를 전제로 한다. 봉",
+      "question": "공공조직과 민간조직 종사자 간 동기의 차이를 전제로 한다.",
       "answer": "O",
       "explanation": "",
       "source": {
@@ -827,7 +791,7 @@
     },
     {
       "id": 730,
-      "question": "변혁적 리더십은 구성원들에게 장기적 비전을 제시하여 열정을 고무시킨다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 20 )",
+      "question": "변혁적 리더십은 구성원들에게 장기적 비전을 제시하여 열정을 고무시킨다.",
       "answer": "O",
       "explanation": "",
       "source": {
@@ -1007,7 +971,7 @@
     },
     {
       "id": 745,
-      "question": "집행의 영향을 받는 대상집단의 행태와 참여를 강조한다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 21 )",
+      "question": "집행의 영향을 받는 대상집단의 행태와 참여를 강조한다.",
       "answer": "O",
       "explanation": "",
       "source": {
@@ -1037,18 +1001,6 @@
       "source": {
         "qid": 73,
         "option": "③",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 748,
-      "question": "30일 이내의 출석 정지",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 73,
-        "option": "④",
         "qtype": "opt-wrong",
         "difficulty": null
       }

@@ -7,68 +7,8 @@
   "source": "세무사 1차",
   "exam_year": 2025,
   "exam_round": 62,
-  "count": 134,
+  "count": 127,
   "questions": [
-    {
-      "id": 1253,
-      "question": "ㄱ: 처분, ㄴ: 행정심판의 재결, ㄷ: 공공단체",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 41,
-        "option": "①",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 1254,
-      "question": "ㄱ: 처분, ㄴ: 부작위, ㄷ: 공공단체",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 41,
-        "option": "②",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 1255,
-      "question": "ㄱ: 처분등, ㄴ: 부작위, ㄷ: 공공단체",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 41,
-        "option": "③",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 1256,
-      "question": "ㄱ: 처분등, ㄴ: 부작위, ㄷ: 지방자치단체",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 41,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 1257,
-      "question": "ㄱ: 처분등, ㄴ: 행정심판의 재결, ㄷ: 지방자치단체 ① (X) , ② (X) , ③ (O) , ④ (X) , ⑤ (X) ✔ ✔ ✔",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 41,
-        "option": "⑤",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
     {
       "id": 1258,
       "question": "취소청구가 사정판결에 의하여 기각된 경우 소송비용은 피고가 부담한다.",
@@ -245,30 +185,6 @@
       "source": {
         "qid": 44,
         "option": "⑤",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 1273,
-      "question": "행정심판기록의 제출명령",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 45,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 1274,
-      "question": "소송비용에 관한 재판의 효력",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 45,
-        "option": "④",
         "qtype": "opt-wrong",
         "difficulty": null
       }

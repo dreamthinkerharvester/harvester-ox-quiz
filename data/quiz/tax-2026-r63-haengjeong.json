@@ -7,7 +7,7 @@
   "source": "세무사 1차",
   "exam_year": 2026,
   "exam_round": 63,
-  "count": 55,
+  "count": 42,
   "questions": [
     {
       "id": 607,
@@ -70,78 +70,6 @@
       }
     },
     {
-      "id": 612,
-      "question": "ㄱ: 30일, ㄴ: 중대한",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 42,
-        "option": "①",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 613,
-      "question": "ㄱ: 30일, ㄴ: 회복하기 어려운",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 42,
-        "option": "②",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 614,
-      "question": "ㄱ: 60일, ㄴ: 중대한",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 42,
-        "option": "③",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 615,
-      "question": "ㄱ: 60일, ㄴ: 회복하기 어려운",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 42,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 616,
-      "question": "ㄱ: 90일, ㄴ: 회복하기 어려운 송의 한계에 관한 설명으로 옳지 않은 것은? (다툼이 있으면 판례에 따름)",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 42,
-        "option": "⑤",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 617,
-      "question": "행정 심판 기록의 제출명령",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 44,
-        "option": "ㄹ",
-        "qtype": "sub-all-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 618,
       "question": "취소소 송과 당해 처분등과 관련되는 원상회복 청구소송은 병합이 가능하다.",
       "answer": "O",
@@ -185,18 +113,6 @@
       "source": {
         "qid": 45,
         "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 622,
-      "question": "본래의 취소소송이 부적법하여 각하되더라도 그에 병합된 관련청구는 각하되지 않는다. 례상 항고소송의 원고적격이 인정되는 경우는?",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 45,
-        "option": "⑤",
         "qtype": "opt-wrong",
         "difficulty": null
       }
@@ -311,7 +227,7 @@
     },
     {
       "id": 632,
-      "question": "구체적으로 그신청이 인용될 수있는가 하는 점은 본안에서 판단하여야 할사항이다. 송에 관한 설명으로 옳지 않은 것은? (다툼이 있으면 판례에 따름)",
+      "question": "구체적으로 그신청이 인용될 수있는가 하는 점은 본안에서 판단하여야 할사항이다.",
       "answer": "O",
       "explanation": "",
       "source": {
@@ -467,73 +383,13 @@
     },
     {
       "id": 645,
-      "question": "법원은 사실심 변론종결시까지 제출된 모든 자료를 종합하여 처분 당시 존재하였던 객관적 사실을 확정하고 그사실에 기초하여 처분의 위법 여부를 판단할 수있다. 송 심리의 원칙에 관한 설명으로 옳지 않은 것은? (다툼이 있으면 판례에 따름)",
+      "question": "법원은 사실심 변론종결시까지 제출된 모든 자료를 종합하여 처분 당시 존재하였던 객관적 사실을 확정하고 그사실에 기초하여 처분의 위법 여부를 판단할 수있다.",
       "answer": "O",
       "explanation": "",
       "source": {
         "qid": 62,
         "option": "⑤",
         "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 646,
-      "question": "ㄱ: 판결, ㄴ: 피고, ㄷ: 행정청",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 69,
-        "option": "①",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 647,
-      "question": "ㄱ: 판결, ㄴ: 당사자, ㄷ: 처분청",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 69,
-        "option": "②",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 648,
-      "question": "ㄱ: 확정판결, ㄴ: 피고, ㄷ: 행정청",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 69,
-        "option": "③",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 649,
-      "question": "ㄱ: 확정판결, ㄴ: 당사자, ㄷ: 처분청",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 69,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 650,
-      "question": "ㄱ: 확정판결, ㄴ: 당사자, ㄷ: 행정청 송법상 민중소송에 관한 설명으로 옳은 것은? (다툼이 있으면 판례에 따름)",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 69,
-        "option": "⑤",
-        "qtype": "opt-correct",
         "difficulty": null
       }
     },
@@ -587,25 +443,13 @@
     },
     {
       "id": 655,
-      "question": "판결의 기속력은 피고행정청에게만 미친다. 송에 관한 설명으로 옳은 것은? (다툼이 있으면 판례에 따름)",
+      "question": "판결의 기속력은 피고행정청에게만 미친다.",
       "answer": "X",
       "explanation": "",
       "source": {
         "qid": 72,
         "option": "⑤",
         "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 656,
-      "question": "처분변경으로 인한 소의 변경",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 74,
-        "option": "ㄴ",
-        "qtype": "sub-all-correct",
         "difficulty": null
       }
     },

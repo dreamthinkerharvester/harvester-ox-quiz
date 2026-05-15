@@ -7,7 +7,7 @@
   "source": "세무사 1차",
   "exam_year": 2026,
   "exam_round": 63,
-  "count": 144,
+  "count": 143,
   "questions": [
     {
       "id": 111,
@@ -851,7 +851,7 @@
     },
     {
       "id": 181,
-      "question": "민간 보유 국채 잔액이 증가함에 따라 소비지출이 감소하는 현상을 러너(Lerner)효과라 부른다. 채 앙",
+      "question": "민간 보유 국채 잔액이 증가함에 따라 소비지출이 감소하는 현상을 러너(Lerner)효과라 부른다.",
       "answer": "X",
       "explanation": "",
       "source": {
@@ -1078,18 +1078,6 @@
       }
     },
     {
-      "id": 200,
-      "question": "정부가    수준에서 최고가",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 23,
-        "option": "ㄴ",
-        "qtype": "sub-all-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 201,
       "question": "정부가    수준에서 최고가격 제를 실시하면, 사 회후생 손실 은  으로 감소한다.",
       "answer": "O",
@@ -1271,7 +1259,7 @@
     },
     {
       "id": 216,
-      "question": "재산 권을 피해자가 가지든 가해자가 가지든 자발적 협상으로 효율적인 자원 배분에 도달할 수있다. 안",
+      "question": "재산 권을 피해자가 가지든 가해자가 가지든 자발적 협상으로 효율적인 자원 배분에 도달할 수있다.",
       "answer": "O",
       "explanation": "",
       "source": {
@@ -1679,7 +1667,7 @@
     },
     {
       "id": 250,
-      "question": "공공지 출프로그램에 대한 조세부담의 과소평가로 인한 재정착각은 정부지출의 팽창을 초래한다. RB o",
+      "question": "공공지 출프로그램에 대한 조세부담의 과소평가로 인한 재정착각은 정부지출의 팽창을 초래한다.",
       "answer": "O",
       "explanation": "",
       "source": {
@@ -1727,7 +1715,7 @@
     },
     {
       "id": 254,
-      "question": "뷰캐넌(J. Buchanan)의 리바이어던가설(Leviathan hypothesis)에 의하면, 정부가 생산ㆍ 공급하는 서비스의 생산비용이 상대적으로 빠르게 증가하여 정부지출이 늘어나게 된다. 편익 분석에 관한 설명으로 옳은 것은?",
+      "question": "뷰캐넌(J. Buchanan)의 리바이어던가설(Leviathan hypothesis)에 의하면, 정부가 생산ㆍ 공급하는 서비스의 생산비용이 상대적으로 빠르게 증가하여 정부지출이 늘어나게 된다.",
       "answer": "X",
       "explanation": "",
       "source": {

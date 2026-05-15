@@ -305,7 +305,7 @@
     },
     {
       "id": 1163,
-      "statement": "乙이 甲의 사망을 확인했더라도, 부재자 재산관리인으로서의 선임결정이 취소되지 않으면, 乙은 계속하여 그 권한을 행사할 수 있다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 1 )",
+      "statement": "乙이 甲의 사망을 확인했더라도, 부재자 재산관리인으로서의 선임결정이 취소되지 않으면, 乙은 계속하여 그 권한을 행사할 수 있다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -599,7 +599,7 @@
     },
     {
       "id": 1177,
-      "statement": "재단법인의 존립시기나 해산사유는 정관의 필요적 기재사항이다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 2 )",
+      "statement": "재단법인의 존립시기나 해산사유는 정관의 필요적 기재사항이다.",
       "answer": "X",
       "explanation": "",
       "qtype": "opt-correct",
@@ -914,7 +914,7 @@
     },
     {
       "id": 1192,
-      "statement": "종기가 있는 법률행위는 기한이 도래한 때로부터 그 효력을 잃는다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 3 )",
+      "statement": "종기가 있는 법률행위는 기한이 도래한 때로부터 그 효력을 잃는다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -1124,7 +1124,7 @@
     },
     {
       "id": 1202,
-      "statement": "표시와 진의의 불일치가 상대방과 합의된 것이라면 통정허위표시이다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 4 )",
+      "statement": "표시와 진의의 불일치가 상대방과 합의된 것이라면 통정허위표시이다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -1439,7 +1439,7 @@
     },
     {
       "id": 1217,
-      "statement": "무권리자가 타인의 권리를 처분하는 계약을 한 경우, 권리자가 추인하면 그 계약의 효과는 원칙적으로 계약체결시로 소급한다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 5 )",
+      "statement": "무권리자가 타인의 권리를 처분하는 계약을 한 경우, 권리자가 추인하면 그 계약의 효과는 원칙적으로 계약체결시로 소급한다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -1754,7 +1754,7 @@
     },
     {
       "id": 1232,
-      "statement": "기간의 말일이 토요일 또는 공 휴일에 해당한 때는 기간은 그 익일로 만료한다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 6 )",
+      "statement": "기간의 말일이 토요일 또는 공 휴일에 해당한 때는 기간은 그 익일로 만료한다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -1896,90 +1896,6 @@
       "source": {
         "qid": 23,
         "option": "①"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1239,
-      "statement": "의사의 치료에 관한 채권",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 23,
-        "option": "②"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1240,
-      "statement": "도급받은 자의 공사에 관한 채권",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 23,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1241,
-      "statement": "변호사의 직무에 관한 채권",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 23,
-        "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1242,
-      "statement": "판결에 의하여 확정된 채권",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 23,
-        "option": "⑤"
       },
       "related_videos": []
     },
@@ -2174,7 +2090,7 @@
     },
     {
       "id": 1252,
-      "statement": "재판상의 청구로 인해 중단한 시효는 재판이 확정된 때부터 새로이 진행한다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 7)",
+      "statement": "재판상의 청구로 인해 중단한 시효는 재판이 확정된 때부터 새로이 진행한다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -2195,8 +2111,8 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-15T06:40:34+00:00",
-    "total": 104,
+    "exported_at": "2026-05-15T13:36:32+00:00",
+    "total": 100,
     "with_full_meta": 0,
     "source": "0gichul.com"
   }

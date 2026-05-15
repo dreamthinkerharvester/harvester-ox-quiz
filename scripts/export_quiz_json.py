@@ -28,8 +28,12 @@ DB_PATH = PROJECT_ROOT / "data" / "quiz.db"
 OUT_DIR = PROJECT_ROOT / "data" / "quiz"
 EXAM_OUT_DIR = PROJECT_ROOT / "data" / "exam"
 
+# OX 자기완결성 검증(validate_ox.py) 결과 기본 필터. ox_valid=0(자기참조 fragment·
+# bare value 등)은 frontend에서 풀 수 없으므로 export 제외. --include-invalid 로 토글.
+INVALID_FILTER_SQL = "AND q.ox_valid = 1"
 
-def export_default(conn) -> int:
+
+def export_default(conn, include_invalid: bool = False) -> int:
     """기존 동작 — data/quiz/*.json (nonsense-quiz-mvp 호환)."""
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     cats = conn.execute(
@@ -48,7 +52,15 @@ def export_default(conn) -> int:
         "categories": [],
     }
 
+    valid_filter = "" if include_invalid else "AND ox_valid = 1"
     for c in cats:
+        rows = conn.execute(
+            f"""SELECT id, statement, answer, explanation,
+                       source_qid, source_option, qtype, difficulty
+                FROM questions WHERE category_id = ? {valid_filter} ORDER BY id""",
+            (c["id"],),
+        ).fetchall()
+
         cat_meta = {
             "slug": c["slug"],
             "name": c["name"],
@@ -60,18 +72,12 @@ def export_default(conn) -> int:
             "exam_round": c["exam_round"],
             "is_default": bool(c["is_default"]),
             "display_order": c["display_order"],
-            "count": c["total_count"],
+            "count": len(rows),                   # 검증 통과만
+            "count_raw": c["total_count"],        # 원본 (정제 전)
         }
         if c["is_default"]:
             index["default_slug"] = c["slug"]
         index["categories"].append(cat_meta)
-
-        rows = conn.execute(
-            """SELECT id, statement, answer, explanation,
-                      source_qid, source_option, qtype, difficulty
-               FROM questions WHERE category_id = ? ORDER BY id""",
-            (c["id"],),
-        ).fetchall()
         questions = [
             {
                 "id": r["id"],
@@ -133,7 +139,7 @@ def detect_exam_label(cat) -> str:
     return src or "기타"
 
 
-def export_exam(conn) -> int:
+def export_exam(conn, include_invalid: bool = False) -> int:
     """v2 학습 페이지용 — data/exam/*.json + _index.json (Design §3.3 schema)."""
     EXAM_OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -160,12 +166,13 @@ def export_exam(conn) -> int:
     total_questions = 0
     total_with_full_meta = 0
 
+    valid_filter = "" if include_invalid else "AND ox_valid = 1"
     for c in cats:
         rows = conn.execute(
-            """SELECT id, statement, answer, explanation,
-                      source_qid, source_option, qtype, difficulty,
-                      tags, topic, theory, explanation_o, explanation_x, meta_quality, source_pdf, star_rating, frequency
-               FROM questions WHERE category_id = ? ORDER BY id""",
+            f"""SELECT id, statement, answer, explanation,
+                       source_qid, source_option, qtype, difficulty,
+                       tags, topic, theory, explanation_o, explanation_x, meta_quality, source_pdf, star_rating, frequency
+                FROM questions WHERE category_id = ? {valid_filter} ORDER BY id""",
             (c["id"],),
         ).fetchall()
 
@@ -259,7 +266,8 @@ def export_exam(conn) -> int:
             "name": c["name"],
             "subject": c["subject"],
             "phase": c["phase"],
-            "total": c["total_count"],
+            "total": len(questions),             # 검증 통과만 (frontend는 풀 수 있는 수)
+            "total_raw": c["total_count"],       # 원본 추출량 (정제 전)
             "with_full_meta": with_full_meta,
         })
         total_questions += len(questions)
@@ -301,6 +309,8 @@ def main():
     ap = argparse.ArgumentParser(description="quiz.db → JSON export")
     ap.add_argument("--exam", action="store_true", help="v2 학습 페이지용 data/exam/ 만 export")
     ap.add_argument("--both", action="store_true", help="기존 + exam 둘 다")
+    ap.add_argument("--include-invalid", action="store_true",
+                    help="ox_valid=0 (검증 실패) 문항도 포함. 기본은 제외 (frontend는 풀 수 없음)")
     args = ap.parse_args()
 
     if not DB_PATH.exists():
@@ -310,16 +320,23 @@ def main():
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
 
+    # ox_valid 컬럼 존재 확인 (안전 fallback — 검증 안 돈 DB도 동작)
+    cols = {r[1] for r in conn.execute("PRAGMA table_info(questions)").fetchall()}
+    has_validity = "ox_valid" in cols
+    if not has_validity and not args.include_invalid:
+        print("⚠ ox_valid 컬럼 없음 — 검증 미실행. 전체 export (--include-invalid 모드 강제).", file=sys.stderr)
+    include_invalid = args.include_invalid or not has_validity
+
     rc = 0
     if args.exam and not args.both:
-        rc = export_exam(conn)
+        rc = export_exam(conn, include_invalid=include_invalid)
     elif args.both:
-        rc = export_default(conn)
+        rc = export_default(conn, include_invalid=include_invalid)
         if rc == 0:
             print()
-            rc = export_exam(conn)
+            rc = export_exam(conn, include_invalid=include_invalid)
     else:
-        rc = export_default(conn)
+        rc = export_default(conn, include_invalid=include_invalid)
 
     conn.close()
     return rc

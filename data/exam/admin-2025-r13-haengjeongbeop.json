@@ -10,111 +10,6 @@
   },
   "questions": [
     {
-      "id": 1039,
-      "statement": "ㄱ: 헌법, ㄴ: 법률",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_haengjeongbeop.pdf",
-      "source": {
-        "qid": 27,
-        "option": "①"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1040,
-      "statement": "ㄱ: 헌법, ㄴ: 법령",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_haengjeongbeop.pdf",
-      "source": {
-        "qid": 27,
-        "option": "②"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1041,
-      "statement": "ㄱ: 법률, ㄴ: 법률",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_haengjeongbeop.pdf",
-      "source": {
-        "qid": 27,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1042,
-      "statement": "ㄱ: 법률, ㄴ: 법령",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_haengjeongbeop.pdf",
-      "source": {
-        "qid": 27,
-        "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1043,
-      "statement": "ㄱ: 법령, ㄴ: 법령",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_haengjeongbeop.pdf",
-      "source": {
-        "qid": 27,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
       "id": 1044,
       "statement": "행정계획이란 특정한 행정목표를 달성하기 위하여 서로 관련되는 행정수단을 종합ㆍ조 정함으로써 장래의 일정한 시점에 일정한 질서를 실현하기 위한 활동기준으로 설정된 것이다.",
       "answer": "O",
@@ -200,7 +95,7 @@
     },
     {
       "id": 1048,
-      "statement": "구) 「도시계획법」상 도시기본계획은 일반 국민에 대한 직접적인 구속력이 있다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 8 )",
+      "statement": "구) 「도시계획법」상 도시기본계획은 일반 국민에 대한 직접적인 구속력이 있다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -515,7 +410,7 @@
     },
     {
       "id": 1063,
-      "statement": "취소사유로는 위법이 있는 경우만이 아니라 부당한 경우도 포 함한다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 9)",
+      "statement": "취소사유로는 위법이 있는 경우만이 아니라 부당한 경우도 포 함한다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -531,27 +426,6 @@
       "source": {
         "qid": 31,
         "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1064,
-      "statement": "구)「출입국관리법」상 체류자격변경허가",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "sub-all-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_haengjeongbeop.pdf",
-      "source": {
-        "qid": 32,
-        "option": "ㄱ"
       },
       "related_videos": []
     },
@@ -683,7 +557,7 @@
     },
     {
       "id": 1071,
-      "statement": "행정지도의 상대방은 해당 행정지도의 방식ㆍ내용 등에 관하여 행정기관에 의견제출을 할 수 있다. 며",
+      "statement": "행정지도의 상대방은 해당 행정지도의 방식ㆍ내용 등에 관하여 행정기관에 의견제출을 할 수 있다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -809,7 +683,7 @@
     },
     {
       "id": 1077,
-      "statement": "인원ㆍ장비의 부족 등 사실상의 이유로 독자적인 직무 수행이 어려운 경우 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 10 )",
+      "statement": "인원ㆍ장비의 부족 등 사실상의 이유로 독자적인 직무 수행이 어려운 경우",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -825,27 +699,6 @@
       "source": {
         "qid": 34,
         "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1078,
-      "statement": "범죄의 예방 및 수사를 위하여 필요한 경우",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_haengjeongbeop.pdf",
-      "source": {
-        "qid": 36,
-        "option": "①"
       },
       "related_videos": []
     },
@@ -1019,7 +872,7 @@
     },
     {
       "id": 1087,
-      "statement": "의무자가 동의한 경우 행정청은 해가 뜨기 전에 대집행을 할 수 있다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 11 )",
+      "statement": "의무자가 동의한 경우 행정청은 해가 뜨기 전에 대집행을 할 수 있다.",
       "answer": "X",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -1334,7 +1187,7 @@
     },
     {
       "id": 1102,
-      "statement": "대통령의 처분에 대하여는 다른 법률에서 행정심판을 청구할 수 있도록 정한 경우 외에는 행정심판을 청구할 수 없다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 12 )",
+      "statement": "대통령의 처분에 대하여는 다른 법률에서 행정심판을 청구할 수 있도록 정한 경우 외에는 행정심판을 청구할 수 없다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -1560,48 +1413,6 @@
       "source": {
         "qid": 42,
         "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1113,
-      "statement": "소송비용에 관한 재판의 효력",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "sub-all-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_haengjeongbeop.pdf",
-      "source": {
-        "qid": 43,
-        "option": "ㄹ"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1114,
-      "statement": "거부처분취소판결의 간접강제",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "sub-all-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_haengjeongbeop.pdf",
-      "source": {
-        "qid": 43,
-        "option": "ㅁ"
       },
       "related_videos": []
     },
@@ -1901,7 +1712,7 @@
     },
     {
       "id": 1129,
-      "statement": "지방의회의원 정수의 2분의 1 범위에서 해당 지방자치단체의 조 례로 정하는 바에 따라 지방의회에 정책지원 전문인력을 둘 수 있다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 14 )",
+      "statement": "지방의회의원 정수의 2분의 1 범위에서 해당 지방자치단체의 조 례로 정하는 바에 따라 지방의회에 정책지원 전문인력을 둘 수 있다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -2022,69 +1833,6 @@
       "source": {
         "qid": 47,
         "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1135,
-      "statement": "경비, 주요 인사(人士) 경호",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "sub-all-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_haengjeongbeop.pdf",
-      "source": {
-        "qid": 48,
-        "option": "ㄴ"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1136,
-      "statement": "대간첩 ㆍ대테러 작전 수행",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "sub-all-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_haengjeongbeop.pdf",
-      "source": {
-        "qid": 48,
-        "option": "ㄷ"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1137,
-      "statement": "외국 정부기관 및 국제기구와의 국제협력",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "sub-all-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_haengjeongbeop.pdf",
-      "source": {
-        "qid": 48,
-        "option": "ㄹ"
       },
       "related_videos": []
     },
@@ -2300,7 +2048,7 @@
     },
     {
       "id": 1148,
-      "statement": "총괄청이나 중앙관서의 장은 소유자 없는 부동산을 국유재산으로 취득한다. 2025년도 제13회 행정사 1차 1교시 A형 ( 22 - 15 )",
+      "statement": "총괄청이나 중앙관서의 장은 소유자 없는 부동산을 국유재산으로 취득한다.",
       "answer": "X",
       "explanation": "",
       "qtype": "opt-correct",
@@ -2321,8 +2069,8 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-15T06:40:33+00:00",
-    "total": 110,
+    "exported_at": "2026-05-15T13:36:32+00:00",
+    "total": 98,
     "with_full_meta": 0,
     "source": "0gichul.com"
   }

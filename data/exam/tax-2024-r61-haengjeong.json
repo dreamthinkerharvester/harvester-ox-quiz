@@ -94,27 +94,6 @@
       "related_videos": []
     },
     {
-      "id": 1391,
-      "statement": "乙이 처분서에 다소 불명확하게 기재하였던 ‘당초 처분사유’를 좀 더 구체적으로 설명 한 경우 이는 새로운 처분사유의 추가가 아니다. 항고소송에서 위법판단의 기준시에 관한 설명으로 옳은 것은? (다툼이 있으면 판",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "행정소송법.pdf",
-      "source": {
-        "qid": 42,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
       "id": 1392,
       "statement": "법원은 신청이 있는 경우에만 사정판결을 할 수 있으며, 직권으로 할 수는 없다.",
       "answer": "X",
@@ -388,27 +367,6 @@
       "related_videos": []
     },
     {
-      "id": 1405,
-      "statement": "신청에 대한 인용처분이 실체적 위법을 이유로 취소되는 경우에 그 처분을 행한 행정 청은 판결의 취지에 따라 다시 이전의 신청에 대한 처분을 하여야 한다. 송 판결 및 집행정지 결정의 효력에 관한 설명으로 옳지 않은 것은? (다툼",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "행정소송법.pdf",
-      "source": {
-        "qid": 47,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
       "id": 1406,
       "statement": "판결은 관계행정청을 기속하지 않는다.",
       "answer": "X",
@@ -489,27 +447,6 @@
       "source": {
         "qid": 50,
         "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1410,
-      "statement": "乙은 종전 처분의 처분사유와 기본적 사실관계가 동일하지 않은 사유가 종전 처분 당 시 이미 존재하고 있었고 당사자가 이를 알고 있었더라도 이를 내세워 새로이 처분을 할 수 있다. 등 확인소송의 유형으로서 허용되지 않는 것은? (다툼이 있으면 판례에 따름)",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "행정소송법.pdf",
-      "source": {
-        "qid": 50,
-        "option": "⑤"
       },
       "related_videos": []
     },
@@ -599,7 +536,7 @@
     },
     {
       "id": 1415,
-      "statement": "당사자소 송에 관하여 법령에 제소기간을 정한 경우, 그 기간은 불변기간이 아니므로 법원은 정당한 사유가 있다면 제소기간을 연장할 수 있다. 2024년도 제61회 세무사 1차 2교시 A형 ( 30 - 22 ) 송에 관한 설명으로 옳은 것은? (다툼이 있으면 판례에 따름)",
+      "statement": "당사자소 송에 관하여 법령에 제소기간을 정한 경우, 그 기간은 불변기간이 아니므로 법원은 정당한 사유가 있다면 제소기간을 연장할 수 있다.",
       "answer": "X",
       "explanation": "",
       "qtype": "opt-correct",
@@ -809,7 +746,7 @@
     },
     {
       "id": 1425,
-      "statement": "X가 취소소송인 경우, 만약 재처분을 하였더라도 기속력에 반하는 것이라면 甲은 간 접강제결정을 신청할 수 있다. 심청구에 관한 설명으로 옳은 것은?",
+      "statement": "X가 취소소송인 경우, 만약 재처분을 하였더라도 기속력에 반하는 것이라면 甲은 간 접강제결정을 신청할 수 있다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -914,7 +851,7 @@
     },
     {
       "id": 1430,
-      "statement": "X처분이 甲에 대한 징계처분인 경우 X처분을 취소하는 판결이 확정되면 A행정청은 기속력에 따라 재처분을 하여야 한다. 2024년도 제61회 세무사 1차 2교시 A형 ( 30 - 24 )",
+      "statement": "X처분이 甲에 대한 징계처분인 경우 X처분을 취소하는 판결이 확정되면 A행정청은 기속력에 따라 재처분을 하여야 한다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-correct",
@@ -935,7 +872,7 @@
     },
     {
       "id": 1431,
-      "statement": "송법 은 당사자소송의 원고적격에 관하여 규정하고 있지 않다. 행정소",
+      "statement": "송법 은 당사자소송의 원고적격에 관하여 규정하고 있지 않다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -1229,7 +1166,7 @@
     },
     {
       "id": 1445,
-      "statement": "피고경정의 결정이 있은 때에는 종전의 피고에 대한 소송은 취하된 것으로 본다. 2024년도 제61회 세무사 1차 2교시 A형 ( 30 - 25 ) 송법상 소송참가에 관한 설명으로 옳지 않은 것은?",
+      "statement": "피고경정의 결정이 있은 때에는 종전의 피고에 대한 소송은 취하된 것으로 본다. 2024년도 제61회 세무사 1차 2교시 A형 ( 30 - 25 ) 송법상",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -1245,111 +1182,6 @@
       "source": {
         "qid": 63,
         "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1446,
-      "statement": "취소소 송 의 각하판결",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "sub-all-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "행정소송법.pdf",
-      "source": {
-        "qid": 67,
-        "option": "ㄱ"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1447,
-      "statement": "취소소 송 의 일부취소판결",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "sub-all-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "행정소송법.pdf",
-      "source": {
-        "qid": 67,
-        "option": "ㄴ"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1448,
-      "statement": "무효확인소 송 의 무효확인판결",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "sub-all-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "행정소송법.pdf",
-      "source": {
-        "qid": 67,
-        "option": "ㄷ"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1449,
-      "statement": "취소소 송 의 사정판결",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "sub-all-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "행정소송법.pdf",
-      "source": {
-        "qid": 67,
-        "option": "ㄹ"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1450,
-      "statement": "당사자소 송 의 이행판결",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "sub-all-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "행정소송법.pdf",
-      "source": {
-        "qid": 67,
-        "option": "ㅁ"
       },
       "related_videos": []
     },
@@ -1418,7 +1250,7 @@
     },
     {
       "id": 1454,
-      "statement": "재결취소소송을 제기하였으나 재결에 고유한 위법이 없는 경우에는 각하판결을 하여 야 한다. 2024년도 제61회 세무사 1차 2교시 A형 ( 30 - 27 )",
+      "statement": "재결취소소송을 제기하였으나 재결에 고유한 위법이 없는 경우에는 각하판결을 하여 야 한다.",
       "answer": "X",
       "explanation": "",
       "qtype": "opt-correct",
@@ -1433,111 +1265,6 @@
       "source_pdf": "행정소송법.pdf",
       "source": {
         "qid": 70,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1455,
-      "statement": "ㄱ: 60일, ㄴ: 90일",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "행정소송법.pdf",
-      "source": {
-        "qid": 74,
-        "option": "①"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1456,
-      "statement": "ㄱ: 60일, ㄴ: 1년",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "행정소송법.pdf",
-      "source": {
-        "qid": 74,
-        "option": "②"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1457,
-      "statement": "ㄱ: 90일, ㄴ: 90일",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "행정소송법.pdf",
-      "source": {
-        "qid": 74,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1458,
-      "statement": "ㄱ: 90일, ㄴ: 180일",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "행정소송법.pdf",
-      "source": {
-        "qid": 74,
-        "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1459,
-      "statement": "ㄱ: 90일, ㄴ: 1년 2024년도 제61회 세무사 1차 2교시 A형 ( 30 - 28 ) 송법상 ‘법률이 정한 경우에 법률에 정한 자에 한하여’ 제기할 수 있는 소",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "행정소송법.pdf",
-      "source": {
-        "qid": 74,
         "option": "⑤"
       },
       "related_videos": []
@@ -1646,53 +1373,11 @@
         "option": "⑤"
       },
       "related_videos": []
-    },
-    {
-      "id": 1465,
-      "statement": "과세관 청의 소득금액변동 통지",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "sub-all-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "행정소송법.pdf",
-      "source": {
-        "qid": 78,
-        "option": "ㄷ"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1466,
-      "statement": "과세관 청 의 결손금 감액경정 통지",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "sub-all-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "행정소송법.pdf",
-      "source": {
-        "qid": 78,
-        "option": "ㅁ"
-      },
-      "related_videos": []
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-15T06:40:35+00:00",
-    "total": 80,
+    "exported_at": "2026-05-15T13:36:32+00:00",
+    "total": 65,
     "with_full_meta": 0,
     "source": "0gichul.com"
   }

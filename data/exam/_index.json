@@ -12,7 +12,8 @@
               "name": "재정학",
               "subject": "재정학",
               "phase": "1교시",
-              "total": 144,
+              "total": 143,
+              "total_raw": 144,
               "with_full_meta": 5
             },
             {
@@ -20,7 +21,8 @@
               "name": "세법학개론",
               "subject": "세법학개론",
               "phase": "1교시",
-              "total": 49,
+              "total": 48,
+              "total_raw": 49,
               "with_full_meta": 0
             },
             {
@@ -29,6 +31,7 @@
               "subject": "회계학개론",
               "phase": "2교시",
               "total": 44,
+              "total_raw": 44,
               "with_full_meta": 0
             },
             {
@@ -36,7 +39,8 @@
               "name": "상법",
               "subject": "상법",
               "phase": "2교시 (선택)",
-              "total": 158,
+              "total": 154,
+              "total_raw": 158,
               "with_full_meta": 0
             },
             {
@@ -45,6 +49,7 @@
               "subject": "민법",
               "phase": "2교시 (선택)",
               "total": 101,
+              "total_raw": 101,
               "with_full_meta": 0
             },
             {
@@ -52,7 +57,8 @@
               "name": "행정소송법",
               "subject": "행정소송법",
               "phase": "2교시 (선택)",
-              "total": 55,
+              "total": 42,
+              "total_raw": 55,
               "with_full_meta": 0
             }
           ]
@@ -66,7 +72,8 @@
               "name": "행정소송법",
               "subject": "행정소송법",
               "phase": "2교시",
-              "total": 134,
+              "total": 127,
+              "total_raw": 134,
               "with_full_meta": 0
             }
           ]
@@ -80,7 +87,8 @@
               "name": "행정소송법",
               "subject": "행정소송법",
               "phase": "2교시",
-              "total": 80,
+              "total": 65,
+              "total_raw": 80,
               "with_full_meta": 0
             }
           ]
@@ -99,7 +107,8 @@
               "name": "행정학개론",
               "subject": "행정학개론",
               "phase": "1교시",
-              "total": 92,
+              "total": 88,
+              "total_raw": 92,
               "with_full_meta": 0
             },
             {
@@ -107,7 +116,8 @@
               "name": "행정법",
               "subject": "행정법",
               "phase": "1교시",
-              "total": 110,
+              "total": 98,
+              "total_raw": 110,
               "with_full_meta": 0
             },
             {
@@ -115,7 +125,8 @@
               "name": "민법",
               "subject": "민법",
               "phase": "1교시",
-              "total": 104,
+              "total": 100,
+              "total_raw": 104,
               "with_full_meta": 0
             }
           ]
@@ -129,7 +140,8 @@
               "name": "행정학개론",
               "subject": "행정학개론",
               "phase": "1교시",
-              "total": 82,
+              "total": 66,
+              "total_raw": 82,
               "with_full_meta": 0
             },
             {
@@ -137,7 +149,8 @@
               "name": "행정법",
               "subject": "행정법",
               "phase": "1교시",
-              "total": 103,
+              "total": 101,
+              "total_raw": 103,
               "with_full_meta": 0
             },
             {
@@ -146,6 +159,7 @@
               "subject": "민법",
               "phase": "1교시",
               "total": 100,
+              "total_raw": 100,
               "with_full_meta": 0
             }
           ]
@@ -154,10 +168,10 @@
     }
   ],
   "_meta": {
-    "total_questions": 1356,
+    "total_questions": 1277,
     "categories_count": 14,
     "with_full_meta": 5,
-    "updated_at": "2026-05-15T06:40:35+00:00",
+    "updated_at": "2026-05-15T13:36:32+00:00",
     "source": "0gichul.com"
   }
 }

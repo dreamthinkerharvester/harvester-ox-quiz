@@ -10,111 +10,6 @@
   },
   "questions": [
     {
-      "id": 1253,
-      "statement": "ㄱ: 처분, ㄴ: 행정심판의 재결, ㄷ: 공공단체",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2025 세무사 행정소송법 해설 김동현.pdf",
-      "source": {
-        "qid": 41,
-        "option": "①"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1254,
-      "statement": "ㄱ: 처분, ㄴ: 부작위, ㄷ: 공공단체",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2025 세무사 행정소송법 해설 김동현.pdf",
-      "source": {
-        "qid": 41,
-        "option": "②"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1255,
-      "statement": "ㄱ: 처분등, ㄴ: 부작위, ㄷ: 공공단체",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2025 세무사 행정소송법 해설 김동현.pdf",
-      "source": {
-        "qid": 41,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1256,
-      "statement": "ㄱ: 처분등, ㄴ: 부작위, ㄷ: 지방자치단체",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2025 세무사 행정소송법 해설 김동현.pdf",
-      "source": {
-        "qid": 41,
-        "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1257,
-      "statement": "ㄱ: 처분등, ㄴ: 행정심판의 재결, ㄷ: 지방자치단체 ① (X) , ② (X) , ③ (O) , ④ (X) , ⑤ (X) ✔ ✔ ✔",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2025 세무사 행정소송법 해설 김동현.pdf",
-      "source": {
-        "qid": 41,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
       "id": 1258,
       "statement": "취소청구가 사정판결에 의하여 기각된 경우 소송비용은 피고가 부담한다.",
       "answer": "O",
@@ -426,48 +321,6 @@
       "source": {
         "qid": 44,
         "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1273,
-      "statement": "행정심판기록의 제출명령",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2025 세무사 행정소송법 해설 김동현.pdf",
-      "source": {
-        "qid": 45,
-        "option": "②"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1274,
-      "statement": "소송비용에 관한 재판의 효력",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2025 세무사 행정소송법 해설 김동현.pdf",
-      "source": {
-        "qid": 45,
-        "option": "④"
       },
       "related_videos": []
     },
@@ -2825,8 +2678,8 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-15T06:40:31+00:00",
-    "total": 134,
+    "exported_at": "2026-05-15T13:36:32+00:00",
+    "total": 127,
     "with_full_meta": 0,
     "source": "0gichul.com"
   }

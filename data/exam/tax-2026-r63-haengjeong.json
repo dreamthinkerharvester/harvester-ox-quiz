@@ -115,132 +115,6 @@
       "related_videos": []
     },
     {
-      "id": 612,
-      "statement": "ㄱ: 30일, ㄴ: 중대한",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 0,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2교시 시험지 원본(행정소송법).pdf",
-      "source": {
-        "qid": 42,
-        "option": "①"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 613,
-      "statement": "ㄱ: 30일, ㄴ: 회복하기 어려운",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 0,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2교시 시험지 원본(행정소송법).pdf",
-      "source": {
-        "qid": 42,
-        "option": "②"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 614,
-      "statement": "ㄱ: 60일, ㄴ: 중대한",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 0,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2교시 시험지 원본(행정소송법).pdf",
-      "source": {
-        "qid": 42,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 615,
-      "statement": "ㄱ: 60일, ㄴ: 회복하기 어려운",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 0,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2교시 시험지 원본(행정소송법).pdf",
-      "source": {
-        "qid": 42,
-        "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 616,
-      "statement": "ㄱ: 90일, ㄴ: 회복하기 어려운 송의 한계에 관한 설명으로 옳지 않은 것은? (다툼이 있으면 판례에 따름)",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 0,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2교시 시험지 원본(행정소송법).pdf",
-      "source": {
-        "qid": 42,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 617,
-      "statement": "행정 심판 기록의 제출명령",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "sub-all-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 0,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2교시 시험지 원본(행정소송법).pdf",
-      "source": {
-        "qid": 44,
-        "option": "ㄹ"
-      },
-      "related_videos": []
-    },
-    {
       "id": 618,
       "statement": "취소소 송과 당해 처분등과 관련되는 원상회복 청구소송은 병합이 가능하다.",
       "answer": "O",
@@ -321,27 +195,6 @@
       "source": {
         "qid": 45,
         "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 622,
-      "statement": "본래의 취소소송이 부적법하여 각하되더라도 그에 병합된 관련청구는 각하되지 않는다. 례상 항고소송의 원고적격이 인정되는 경우는?",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 0,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2교시 시험지 원본(행정소송법).pdf",
-      "source": {
-        "qid": 45,
-        "option": "⑤"
       },
       "related_videos": []
     },
@@ -536,7 +389,7 @@
     },
     {
       "id": 632,
-      "statement": "구체적으로 그신청이 인용될 수있는가 하는 점은 본안에서 판단하여야 할사항이다. 송에 관한 설명으로 옳지 않은 것은? (다툼이 있으면 판례에 따름)",
+      "statement": "구체적으로 그신청이 인용될 수있는가 하는 점은 본안에서 판단하여야 할사항이다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -809,7 +662,7 @@
     },
     {
       "id": 645,
-      "statement": "법원은 사실심 변론종결시까지 제출된 모든 자료를 종합하여 처분 당시 존재하였던 객관적 사실을 확정하고 그사실에 기초하여 처분의 위법 여부를 판단할 수있다. 송 심리의 원칙에 관한 설명으로 옳지 않은 것은? (다툼이 있으면 판례에 따름)",
+      "statement": "법원은 사실심 변론종결시까지 제출된 모든 자료를 종합하여 처분 당시 존재하였던 객관적 사실을 확정하고 그사실에 기초하여 처분의 위법 여부를 판단할 수있다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -824,111 +677,6 @@
       "source_pdf": "2교시 시험지 원본(행정소송법).pdf",
       "source": {
         "qid": 62,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 646,
-      "statement": "ㄱ: 판결, ㄴ: 피고, ㄷ: 행정청",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 0,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2교시 시험지 원본(행정소송법).pdf",
-      "source": {
-        "qid": 69,
-        "option": "①"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 647,
-      "statement": "ㄱ: 판결, ㄴ: 당사자, ㄷ: 처분청",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 0,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2교시 시험지 원본(행정소송법).pdf",
-      "source": {
-        "qid": 69,
-        "option": "②"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 648,
-      "statement": "ㄱ: 확정판결, ㄴ: 피고, ㄷ: 행정청",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 0,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2교시 시험지 원본(행정소송법).pdf",
-      "source": {
-        "qid": 69,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 649,
-      "statement": "ㄱ: 확정판결, ㄴ: 당사자, ㄷ: 처분청",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 0,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2교시 시험지 원본(행정소송법).pdf",
-      "source": {
-        "qid": 69,
-        "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 650,
-      "statement": "ㄱ: 확정판결, ㄴ: 당사자, ㄷ: 행정청 송법상 민중소송에 관한 설명으로 옳은 것은? (다툼이 있으면 판례에 따름)",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 0,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2교시 시험지 원본(행정소송법).pdf",
-      "source": {
-        "qid": 69,
         "option": "⑤"
       },
       "related_videos": []
@@ -1019,7 +767,7 @@
     },
     {
       "id": 655,
-      "statement": "판결의 기속력은 피고행정청에게만 미친다. 송에 관한 설명으로 옳은 것은? (다툼이 있으면 판례에 따름)",
+      "statement": "판결의 기속력은 피고행정청에게만 미친다.",
       "answer": "X",
       "explanation": "",
       "qtype": "opt-correct",
@@ -1035,27 +783,6 @@
       "source": {
         "qid": 72,
         "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 656,
-      "statement": "처분변경으로 인한 소의 변경",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "sub-all-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 0,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2교시 시험지 원본(행정소송법).pdf",
-      "source": {
-        "qid": 74,
-        "option": "ㄴ"
       },
       "related_videos": []
     },
@@ -1166,8 +893,8 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-15T06:40:20+00:00",
-    "total": 55,
+    "exported_at": "2026-05-15T13:36:32+00:00",
+    "total": 42,
     "with_full_meta": 0,
     "source": "0gichul.com"
   }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-15T15:40:06",
+  "generated_at": "2026-05-15T22:36:32",
   "default_slug": "general-knowledge",
   "categories": [
     {
@@ -14,7 +14,8 @@
       "exam_round": null,
       "is_default": true,
       "display_order": 1,
-      "count": 110
+      "count": 110,
+      "count_raw": 110
     },
     {
       "slug": "tax-2026-r63-jaejeong",
@@ -27,7 +28,8 @@
       "exam_round": 63,
       "is_default": false,
       "display_order": 11,
-      "count": 144
+      "count": 143,
+      "count_raw": 144
     },
     {
       "slug": "tax-2026-r63-sebeop",
@@ -40,7 +42,8 @@
       "exam_round": 63,
       "is_default": false,
       "display_order": 12,
-      "count": 49
+      "count": 48,
+      "count_raw": 49
     },
     {
       "slug": "tax-2026-r63-hoegyeoe",
@@ -53,7 +56,8 @@
       "exam_round": 63,
       "is_default": false,
       "display_order": 13,
-      "count": 44
+      "count": 44,
+      "count_raw": 44
     },
     {
       "slug": "tax-2026-r63-sangbeop",
@@ -66,7 +70,8 @@
       "exam_round": 63,
       "is_default": false,
       "display_order": 14,
-      "count": 158
+      "count": 154,
+      "count_raw": 158
     },
     {
       "slug": "tax-2026-r63-minbeop",
@@ -79,7 +84,8 @@
       "exam_round": 63,
       "is_default": false,
       "display_order": 15,
-      "count": 101
+      "count": 101,
+      "count_raw": 101
     },
     {
       "slug": "tax-2026-r63-haengjeong",
@@ -92,7 +98,8 @@
       "exam_round": 63,
       "is_default": false,
       "display_order": 16,
-      "count": 55
+      "count": 42,
+      "count_raw": 55
     },
     {
       "slug": "tax-2024-r61-haengjeong",
@@ -105,7 +112,8 @@
       "exam_round": 61,
       "is_default": false,
       "display_order": 21,
-      "count": 80
+      "count": 65,
+      "count_raw": 80
     },
     {
       "slug": "tax-2025-r62-haengjeong",
@@ -118,7 +126,8 @@
       "exam_round": 62,
       "is_default": false,
       "display_order": 30,
-      "count": 134
+      "count": 127,
+      "count_raw": 134
     },
     {
       "slug": "admin-2025-r13-haengjeong",
@@ -131,7 +140,8 @@
       "exam_round": 13,
       "is_default": false,
       "display_order": 200,
-      "count": 92
+      "count": 88,
+      "count_raw": 92
     },
     {
       "slug": "admin-2025-r13-haengjeongbeop",
@@ -144,7 +154,8 @@
       "exam_round": 13,
       "is_default": false,
       "display_order": 200,
-      "count": 110
+      "count": 98,
+      "count_raw": 110
     },
     {
       "slug": "admin-2025-r13-minbeop",
@@ -157,7 +168,8 @@
       "exam_round": 13,
       "is_default": false,
       "display_order": 200,
-      "count": 104
+      "count": 100,
+      "count_raw": 104
     },
     {
       "slug": "admin-2024-r12-haengjeong",
@@ -170,7 +182,8 @@
       "exam_round": 12,
       "is_default": false,
       "display_order": 200,
-      "count": 82
+      "count": 66,
+      "count_raw": 82
     },
     {
       "slug": "admin-2024-r12-haengjeongbeop",
@@ -183,7 +196,8 @@
       "exam_round": 12,
       "is_default": false,
       "display_order": 200,
-      "count": 103
+      "count": 101,
+      "count_raw": 103
     },
     {
       "slug": "admin-2024-r12-minbeop",
@@ -196,7 +210,8 @@
       "exam_round": 12,
       "is_default": false,
       "display_order": 200,
-      "count": 100
+      "count": 100,
+      "count_raw": 100
     }
   ]
 }

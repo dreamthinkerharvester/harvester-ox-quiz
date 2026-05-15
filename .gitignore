@@ -33,7 +33,12 @@ data/_session/
 # Build artifacts (재생성 가능)
 data/quiz.db
 data/quiz.db.bak
+data/quiz.db.bak.*
 data/_session/
+
+# Python cache
+__pycache__/
+*.pyc
 
 # 백업
 .backup/

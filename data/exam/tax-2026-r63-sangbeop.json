@@ -200,7 +200,7 @@
     },
     {
       "id": 357,
-      "statement": "유한책임사원은 성년후견개시 심판을 받은 경우에도 퇴사되지 아니한다. 책임회사에 관한 설명으로 옳은 것은?",
+      "statement": "유한책임사원은 성년후견개시 심판을 받은 경우에도 퇴사되지 아니한다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -284,7 +284,7 @@
     },
     {
       "id": 361,
-      "statement": "회사는 정관으로 사원의 지분 양도를 제한할 수없다. 좌",
+      "statement": "회사는 정관으로 사원의 지분 양도를 제한할 수없다.",
       "answer": "X",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -977,7 +977,7 @@
     },
     {
       "id": 394,
-      "statement": "회사는 일정한 날을 정하여 그날에 주주명부에 기재된 주주가 신주인수권을 가진다는 뜻야 을그 날의 2주간 전에 공고하여 한다. 술 입 구",
+      "statement": "회사는 일정한 날을 정하여 그날에 주주명부에 기재된 주주가 신주인수권을 가진다는 뜻야 을그 날의 2주간 전에 공고하여 한다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -998,7 +998,7 @@
     },
     {
       "id": 395,
-      "statement": "회사는 신기 의도 , 재무 조의 개선 등회사의 경영상 목적을 성하기 위하여 달필 바요한 경우에 정관에 정하는 에따라 주주 외의 자에게 신주를 정할 수있다. 배",
+      "statement": "회사는 신기 의도 , 재무 조의 개선 등회사의 경영상 목적을 성하기 위하여 달필 바요한 경우에 정관에 정하는 에따라 주주 외의 자에게 신주를 정할 수있다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -1460,7 +1460,7 @@
     },
     {
       "id": 417,
-      "statement": "주식매수선택권의 행사가액이 주식의 실질가액보다 낮은 경우 회사는 그차액을 금전 으로 지급할 수있는 데이때 주식의 실질가액은 주식매수선택권의 부여를 결의한 주주총회 결의일을 기준으로 평가한다. 규",
+      "statement": "주식매수선택권의 행사가액이 주식의 실질가액보다 낮은 경우 회사는 그차액을 금전 으로 지급할 수있는 데이때 주식의 실질가액은 주식매수선택권의 부여를 결의한 주주총회 결의일을 기준으로 평가한다.",
       "answer": "X",
       "explanation": "",
       "qtype": "opt-correct",
@@ -1481,7 +1481,7 @@
     },
     {
       "id": 418,
-      "statement": "주식매수선택권에 관한 정관 정에는 일정한 경우 대표이사가 주식매수선택권의 부여를 취소할 수있다는 뜻을 기재하여야 한다. 망",
+      "statement": "주식매수선택권에 관한 정관 정에는 일정한 경우 대표이사가 주식매수선택권의 부여를 취소할 수있다는 뜻을 기재하여야 한다.",
       "answer": "X",
       "explanation": "",
       "qtype": "opt-correct",
@@ -1938,27 +1938,6 @@
       "source": {
         "qid": 61,
         "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 440,
-      "statement": "액면주식 1주의 금액을 500원에서 1",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 0,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2교시 시험지 원본(상법).pdf",
-      "source": {
-        "qid": 61,
-        "option": "④"
       },
       "related_videos": []
     },
@@ -2489,7 +2468,7 @@
     },
     {
       "id": 466,
-      "statement": "특정인이 주식회사와 계약하여 사채총액을 인수하는 경우 이사는 상법 제474조의 사채청약서를 작성하여야 한다. 툼",
+      "statement": "특정인이 주식회사와 계약하여 사채총액을 인수하는 경우 이사는 상법 제474조의 사채청약서를 작성하여야 한다.",
       "answer": "X",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -2531,7 +2510,7 @@
     },
     {
       "id": 468,
-      "statement": "수인이 공동으로 주식을 인수한 자는 연대하여 주금액을 납입할 책임을 진다. 본",
+      "statement": "수인이 공동으로 주식을 인수한 자는 연대하여 주금액을 납입할 책임을 진다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -2929,48 +2908,6 @@
       "related_videos": []
     },
     {
-      "id": 487,
-      "statement": "회사의 본점 및지점의 소재지",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "sub-all-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 0,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2교시 시험지 원본(상법).pdf",
-      "source": {
-        "qid": 72,
-        "option": "ㄴ"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 488,
-      "statement": "회사의 존립기간 또는 해산사유",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "sub-all-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 0,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2교시 시험지 원본(상법).pdf",
-      "source": {
-        "qid": 72,
-        "option": "ㄷ"
-      },
-      "related_videos": []
-    },
-    {
       "id": 489,
       "statement": "주식의 양도에 관하여 이사회 승인을 얻도록 정한 떄에는 그규정",
       "answer": "O",
@@ -2988,27 +2925,6 @@
       "source": {
         "qid": 72,
         "option": "ㄹ"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 490,
-      "statement": "액면주식을 발행하는 경우 1주의 금액",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "sub-all-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 0,
-      "star_rating": 0,
-      "frequency": 1,
-      "source_pdf": "2교시 시험지 원본(상법).pdf",
-      "source": {
-        "qid": 72,
-        "option": "ㅁ"
       },
       "related_videos": []
     },
@@ -3056,7 +2972,7 @@
     },
     {
       "id": 493,
-      "statement": "상법은 이사의 경업금지의무를 규정하고 있는 상법 제397조를 업무집행지시자에게 준용하지 않고 있다. 집",
+      "statement": "상법은 이사의 경업금지의무를 규정하고 있는 상법 제397조를 업무집행지시자에게 준용하지 않고 있다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -3203,7 +3119,7 @@
     },
     {
       "id": 500,
-      "statement": "이사회에서 감사위원회 위원에 대한 해임결의를 한경우 당해 감사위원회 위원직 뿐아니라 이사직도 함께 상실한다. 병에 관한 설명으로 옳은 것은?",
+      "statement": "이사회에서 감사위원회 위원에 대한 해임결의를 한경우 당해 감사위원회 위원직 뿐아니라 이사직도 함께 상실한다.",
       "answer": "X",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -3329,8 +3245,8 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-15T06:40:19+00:00",
-    "total": 158,
+    "exported_at": "2026-05-15T13:36:32+00:00",
+    "total": 154,
     "with_full_meta": 0,
     "source": "0gichul.com"
   }
