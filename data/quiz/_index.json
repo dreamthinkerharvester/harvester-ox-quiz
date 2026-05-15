@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-15T14:30:12",
+  "generated_at": "2026-05-15T15:40:06",
   "default_slug": "general-knowledge",
   "categories": [
     {
@@ -93,6 +93,32 @@
       "is_default": false,
       "display_order": 16,
       "count": 55
+    },
+    {
+      "slug": "tax-2024-r61-haengjeong",
+      "name": "행정소송법",
+      "exam_group": "세무사 1차 · 2024년 제61회",
+      "subject": "행정소송법",
+      "phase": "2교시",
+      "source": "세무사 1차",
+      "exam_year": 2024,
+      "exam_round": 61,
+      "is_default": false,
+      "display_order": 21,
+      "count": 80
+    },
+    {
+      "slug": "tax-2025-r62-haengjeong",
+      "name": "행정소송법",
+      "exam_group": "세무사 1차 · 2025년 제62회",
+      "subject": "행정소송법",
+      "phase": "2교시",
+      "source": "세무사 1차",
+      "exam_year": 2025,
+      "exam_round": 62,
+      "is_default": false,
+      "display_order": 30,
+      "count": 134
     },
     {
       "slug": "admin-2025-r13-haengjeong",

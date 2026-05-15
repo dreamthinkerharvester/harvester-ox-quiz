@@ -56,6 +56,34 @@
               "with_full_meta": 0
             }
           ]
+        },
+        {
+          "year": 2025,
+          "round": 62,
+          "categories": [
+            {
+              "slug": "tax-2025-r62-haengjeong",
+              "name": "행정소송법",
+              "subject": "행정소송법",
+              "phase": "2교시",
+              "total": 134,
+              "with_full_meta": 0
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "round": 61,
+          "categories": [
+            {
+              "slug": "tax-2024-r61-haengjeong",
+              "name": "행정소송법",
+              "subject": "행정소송법",
+              "phase": "2교시",
+              "total": 80,
+              "with_full_meta": 0
+            }
+          ]
         }
       ]
     },
@@ -126,10 +154,10 @@
     }
   ],
   "_meta": {
-    "total_questions": 1142,
-    "categories_count": 12,
+    "total_questions": 1356,
+    "categories_count": 14,
     "with_full_meta": 5,
-    "updated_at": "2026-05-15T05:30:40+00:00",
+    "updated_at": "2026-05-15T06:40:35+00:00",
     "source": "0gichul.com"
   }
 }
