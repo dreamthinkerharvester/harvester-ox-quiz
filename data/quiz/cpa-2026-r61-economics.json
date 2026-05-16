@@ -1,0 +1,373 @@
+{
+  "slug": "cpa-2026-r61-economics",
+  "name": "경제원론",
+  "exam_group": "회계사 1차 · 2026년 제61회",
+  "subject": "경제원론",
+  "phase": "1교시",
+  "source": "회계사 1차",
+  "exam_year": 2026,
+  "exam_round": 61,
+  "count": 30,
+  "questions": [
+    {
+      "id": 1564,
+      "question": "비대칭정보로 인해 시장에서 거래가 위축되어 시장실패가 발생 하기도 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1565,
+      "question": "도덕적 해이는 선별행위(screening)를 통해 방지할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1566,
+      "question": "중고차 시장에서 품질보증은 신호발송(signaling)의 일환이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1567,
+      "question": "노동시장에서 효율임금(efficiency wage)은 근로자의 태업을 방지 하기 위해 사용할 수 있는 수단 중 하나이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1568,
+      "question": "역선택은 정보를 가진 측의 감추어진 특성(hidden characteristics) 으로 인해 발생한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1569,
+      "question": "경상수지가 적자인 경우, 투자가 국민저축(national saving)보다 크다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1570,
+      "question": "경상수지가 흑자인 경우, 순자본유출(net capital outflow)이 양(+)이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1571,
+      "question": "민간저축(private saving)이 0이고 투자가 양(+)이며 정부저축 (government saving)이 음(-)인 경우, 경상수지는 적자이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1572,
+      "question": "투자와 정부저축이 불변인 상태에서, 민간저축이 증가하면 경상 수지가 개선된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1573,
+      "question": "순자본유출이 음(-)이면, 국민저축이 투자보다 크다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1574,
+      "question": "케인즈학파는 단기적으로 가격이 경직적이라고 주장했다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1575,
+      "question": "케인즈학파는 공급측 요인에 의해서만 단기 경기변동이 발생 한다고 주장했다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1576,
+      "question": "고전학파는 재량적 총수요 관리정책이 경기안정화에 효과적 이라고 주장했다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1577,
+      "question": "고전학파는 장기적으로 화폐가 중립적일 때, 인플레이션과 실업률 간에 역의 관계가 성립한다고 주장했다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1578,
+      "question": "고전학파는 세이의 법칙(Say’s law)에 따라 재정정책이 효과적 이라고 주장했다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1579,
+      "question": "기대인플레이션율은 2%이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1580,
+      "question": "기대인플레이션율의 상승은 C에서 B로 이동을 가져온다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1581,
+      "question": "자연실업률은 5%이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1582,
+      "question": "잠재 실질GDP가 달성되고 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1583,
+      "question": "기대인플레이션율이 실제 인플레이션율보다 높다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1584,
+      "question": "가 증가하면 최적 노동공급시간은 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1585,
+      "question": "가 증가하면 최적 노동공급시간은 감소한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1586,
+      "question": "의 변화로 인한 소득효과는 0이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1587,
+      "question": "의 변화로 인한 대체효과는 0이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1588,
+      "question": "가계의 효용함수가 max로 바뀌어도 최적 노동공급시간은 변하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1589,
+      "question": "정보의 불완전성이 루카스 총공급 곡선을 우상향하게 만드는 핵심 요소이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1590,
+      "question": "의 증가는 균형을 우상방으로 이동시킨다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1591,
+      "question": "의 증가는 균형을 수직으로 상방 이동시킨다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1592,
+      "question": "만약 이 경제에서 중앙은행이 만을 통화정책 수단으로 사용 하면 필립스 곡선은 수직선으로 나타난다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1593,
+      "question": "이 경제에서는 중앙은행이 를 통하여 실업률에 영향을 미칠 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

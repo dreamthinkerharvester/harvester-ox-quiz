@@ -1,0 +1,1141 @@
+{
+  "slug": "cpa-2026-r61-management",
+  "name": "경영학",
+  "exam_group": "회계사 1차 · 2026년 제61회",
+  "subject": "경영학",
+  "phase": "1교시",
+  "source": "회계사 1차",
+  "exam_year": 2026,
+  "exam_round": 61,
+  "count": 94,
+  "questions": [
+    {
+      "id": 1467,
+      "question": "집단 의사결정은 다양한 대안을 고려할 수 있고 구성원 참여로 결정에 대한 지지를 얻기 쉽지만, 시간이 많이 소요되거나 책임 소재가 모호해질 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1468,
+      "question": "확증 편견(confirmation bias)은 기존의 견해를 지지하거나 재확인할 수 있는 정보만을 수집하고, 그렇지 않은 정보는 무시하는 경향을 의미한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1469,
+      "question": "델파이 기법(Delphi technique)은 질문지를 통해 전문가 집단의 의견을 추출하고 종합하는 집단 의사결정 방식이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1470,
+      "question": "갈등 발생 시의 해결책으로 상대의 협조를 통해 달성할 수 있는 공동 목표를 설정하거나 집단의 자원을 증대시키는 방안이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1471,
+      "question": "갈등관리 전략 중 협력(collaboration)은 각 당사자가 서로에게 가치 있는 것을 양보하여 개인의 관심사나 이익을 부분적으로 충족하는 전략이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1472,
+      "question": "빅 파이브(big-five) 모형에서 친화성(agreeableness)은 사람들과 사회적 관계를 맺는 것과 관련되며, 친화성이 높은 사람은 사교적이고 활발한 특징이 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "a",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1473,
+      "question": "자기감시(self-monitoring) 성향이 높은 사람은 외부 정보에 민감하고 자신의 행동을 외부 상황 변화에 잘 적응시킨다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "b",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1474,
+      "question": "학습(learning)에 관한 이론 중 행동주의(행태론)적 관점에서는 개인의 학습이 타인의 행동을 관찰하거나 모방하며 일어난다고 본다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "c",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1475,
+      "question": "강화 스케줄은 특정 행동에 강화 요인을 얼마나 자주 제공할지에 대한 것으로, 연속적 강화(continuous reinforcement)와 간헐적 강화(intermittent reinforcement) 방식이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "d",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1476,
+      "question": "감정전이(emotional contagion)는 집단 내 구성원이 경험하는 감정이 타인에게까지 확산되는 현상을 의미한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1477,
+      "question": "정서적 사건 반응이론(affective events theory)에 따르면 직무 환경에서 일어난 사건에 대한 반응으로 개인의 감정이 형성되고, 이는 개인의 직무태도나 성과에 영향을 미친다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1478,
+      "question": "변혁적 리더십(transformational leadership)은 부하의 역할과 업무 요구사항을 명확히 하고 노력에 따른 보상을 강조한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1479,
+      "question": "진성 리더십(authentic leadership)은 기업 리더들의 비윤리적 행태에 대한 비판으로 관심을 받았으며, 리더의 성숙한 가치와 진솔함을 중시한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1480,
+      "question": "리더십 대체이론(substitues for leadership)에 따르면 특정한 개인, 직무 또는 조직의 특성이 리더십을 대체하거나 리더십의 영향을 완전히 상쇄할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1481,
+      "question": "통제 범위(span of control)가 큰 조직은 직원에 대한 통제가 어렵지만, 관리 계층이 적고 상하 간 의사소통이 원활한 특징이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1482,
+      "question": "유기적 조직(organic structure)은 공식화 수준이 낮고 분권화된 특징이 있으며, 대표적 예시로 기능별 조직(functional structure)이 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1483,
+      "question": "네트워크 조직(network structure)은 조직의 핵심 기능만 유지하고 나머지는 아웃소싱으로 운영하는 형태로, 변화하는 환경 요구에 신속한 대응이 가능한 장점이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1484,
+      "question": "기업의 조직문화가 존재하더라도 같은 부서 등 공동의 경험을 공유한 집단별로 하위문화(subculture)가 형성될 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1485,
+      "question": "최고경영진의 언행을 통해 조직의 규범이 전파되기에 이들은 조직문화의 형성과 유지에 큰 영향을 미친다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1486,
+      "question": "인적자원계획을 위한 수요 예측에서는 정량적(양적) 방법과 정성적(질적) 방법이 모두 활용될 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "a",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1487,
+      "question": "직무급은 직무가치의 산정 절차가 복잡하고, 직원 간 임금격차가 커지거나 연공주의 풍토가 강한 경우 내부 저항이 클 수 있다는 단점이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "b",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1488,
+      "question": "우리나라 법정 복리후생 중 국민건강보험은 기업과 직원이 절반씩 부담하고, 국민연금과 산업재해보상보험은 기업이 전액 부담한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "c",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1489,
+      "question": "선택적 복리후생제도(flexible benefits)를 통해, 직원은 자신에게 필요한 복리후생을 선택할 수 있고 기업은 직원의 복리후생 한도를 설정하여 비용을 어느 정도 예측할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "d",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1490,
+      "question": "직무분석은 직무수행에 필요한 지식, 기술, 능력을 판단할 수 있는 정보를 제공하여 효과적인 지원자 모집과 선발에 활용될 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1491,
+      "question": "환경 변화에 따라 직무가 변화되므로 직무분석 결과는 지속적인 점검과 보완이 필요하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1492,
+      "question": "상황면접(situational interview)은 실제 직무에서 발생할 가능성이 있는 상황과 과제를 다루며, 지원자가 유사한 상황에서 어떻게 대처할지 파악한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1493,
+      "question": "인턴십(internship)을 통해 기업은 우수 인재를 조기에 검증 또는 확보할 수 있고 지원자는 자신의 적성을 파악할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1494,
+      "question": "선발도구의 예측타당도(predictive validity)는 측정하고자 하는 내용이 실제 업무 수행과 얼마나 연관되어 있는지를 나타낸다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1495,
+      "question": "필요성 분석(needs analysis)은 교육훈련 절차의 첫 단계로, 확인된 교육 대상과 목표 등을 바탕으로 어떻게 교육할 것인지를 설계하는 단계이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1496,
+      "question": "경력경로(career path)는 조직에서 개인들이 경력으로 쌓게 될 직무의 배열이나 승진 단계 등의 경력 기회 정보를 제공한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1497,
+      "question": "과거 대비 개인의 경력 변화가 커지면서, 전통적으로 조직의 역할이 중요했던 경력관리에 있어 개인의 책임이 강조되고 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1498,
+      "question": "교육훈련의 전이(transfer of training)가 잘 일어나려면 학습한 내용의 실제 활용 기회나 상사의 지원이 제공되어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1499,
+      "question": "멘토링(mentoring)은 대인관계를 통한 직원 개발 방법으로, 멘토가 자신의 경험과 역량을 멘티와 공유하며 개발을 돕는 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1500,
+      "question": "인사평가의 목적에는 직원 행동과 조직 목표의 연결, 보상·승진 등의 인사 결정, 피드백을 통한 직원 역량개발 및 성과향상이 포함된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1501,
+      "question": "다면평가(multi-source evaluation)는 평가 과정에서 발생할 수 있는 주관적 편견이나 평가 오류를 줄일 수 있는 장점이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1502,
+      "question": "인사평가에 대한 수용성(acceptability)이 높은 경우 직원들은 인사평가를 공정하고 필요한 것이라 믿고 평가목적에 동의하는 정도가 높다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1503,
+      "question": "쌍대비교법(paired comparison)은 피평가자 2명씩 상호 비교하는 것을 반복하여 서열을 정하는 것으로, 피평가자의 수가 많아질수록 효과적인 방식이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1504,
+      "question": "행동관찰척도법(behavioral observation scale: BOS)은 피평가자의 외부로 드러나는 행동을 중심으로 평가하는 행동접근법의 하나이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1505,
+      "question": "영업레버리지도(DOL)가 크다는 것은 매출액 대비 영업고정비가 높고, 영업위험이 높다는 것을 의미한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "a",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1506,
+      "question": "매출액이 크게 증가할 것으로 기대되는 성장기업은 유동자산에 대한 투자를 증가시킴으로써 높은 영업레버리지도(DOL)를 유지하여 이익폭을 확대할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "b",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1507,
+      "question": "재무레버리지도(DFL)가 크다는 것은 영업이익 대비 재무고정비가 높고, 재무위험이 높다는 것을 의미한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "c",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1508,
+      "question": "재무레버리지도(DFL)가 크다는 것은 영업이익과 주당순이익이 높다는 것을 의미한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "d",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1509,
+      "question": "재무고정비가 발생하지 않으면 재무레버리지도(DFL)는 1이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "e",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1510,
+      "question": "MM(1961)의 배당이론에 따르면 배당정책은 기업가치에 영향을 미치지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "a",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1511,
+      "question": "안정배당이론에 따르면 기업의 순이익이 급증하더라도 배당성향은 일정하게 유지된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "b",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1512,
+      "question": "배당을 많이 지급하면 경영자의 특권적 소비와 주주의 경영자 감시에서 발생하는 대리인비용이 줄어들어 기업가치를 높일 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "c",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1513,
+      "question": "신호효과에 따르면 예상치 못한 배당의 감소는 기업의 미래 투자수익에 대한 경영자의 전망이 낙관적이라는 것을 암시하여 주가를 상승시키는 효과가 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "d",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1514,
+      "question": "자본소득세율이 배당소득세율보다 낮은 상황에서는 고배당 주식의 가격이 저배당 주식의 가격보다 더 낮게 형성될 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "e",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1515,
+      "question": "합병의 시너지효과가 없을 경우, 주가수익비율(PER)이 낮은 기업이 주가수익비율이 높은 기업을 주가 기준의 주식교환비율 (피합병기업 주식 1주당 합병기업 주식 수)로 합병하면 합병기업의 주당이익은 감소하고 피합병기업의 주당이익은 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1516,
+      "question": "인수기업이 피인수기업에 인수대가를 지급할 때, 주식으로 지급 하는 것이 현금으로 지급하는 것보다 유리하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1517,
+      "question": "녹색편지(green mail)는 인수를 시도하는 기업이 피인수기업의 경영자나 대주주에게 프리미엄이 붙은 높은 가격으로 주식을 되팔아 이익을 얻는 것과 관련된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1518,
+      "question": "독약조항(poison pill)은 기업인수에 성공할 경우 피인수기업이 인수기업에게 매우 불리한 결과를 초래하도록 하는 내규나 규정을 의미한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1519,
+      "question": "황금낙하산(golden parachutes)은 기업인수 후 피인수기업의 경영진이 퇴진 시 거액의 퇴직보상금을 지급하도록 하는 규정과 관련된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1520,
+      "question": "현금흐름은 증분기준으로 측정한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1521,
+      "question": "현금흐름은 법인세 납부 후 기준으로 측정한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1522,
+      "question": "새로운 투자에 따른 기회비용은 현금유출에 포함시킨다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1523,
+      "question": "상품을 외상으로 매입한 경우 순운전자본이 증가하므로 현금흐름에서 상품매입 금액만큼 차감한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1524,
+      "question": "이자비용과 배당금은 현금유출에 포함시키지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1525,
+      "question": "장비 A의 설치비 55억원은 장비 B의 도입시기 결정에 영향을 미친다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "a",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1526,
+      "question": "장비 B의 내용연수 기간 동안 총비용의 현재가치는 약 63.18억원 이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "b",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1527,
+      "question": "장비 B의 내용연수 기간 동안 연간균등비용(equivalent annual cost: EAC)은 약 22.19억원이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "c",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1528,
+      "question": "장비 B를 지금 도입하는 것보다 1년 후에 도입하는 것이 유리하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "d",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1529,
+      "question": "장비 B를 1년 후에 도입하는 것과 2년 후에 도입하는 것은 무차별하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "e",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1530,
+      "question": "부채비율이 증가할 때 자기자본이익률(ROE)은 상승한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "a",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1531,
+      "question": "자기자본비율이 증가할 때 총자산이익률(ROA)은 하락한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "b",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1532,
+      "question": "매출액순이익률이 증가할 때 ROE는 상승한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "c",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1533,
+      "question": "총자산회전율의 증가는 ROE에 영향을 주지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "d",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1534,
+      "question": "순현재가치(NPV)법과 내부수익률(IRR)법에 따른 투자안 선택이 서로 상반된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1535,
+      "question": "수익성지수(PI)법에 따르면 투자안 A를 선택한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1536,
+      "question": "보유자금이 200억원이고 중복투자가 불가능할 때 NPV법에 따라 투자안 B를 선택한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1537,
+      "question": "보유자금이 200억원일 때 가중평균수익성지수(WAPI)법에 따라 투자안 A를 선택한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1538,
+      "question": "증분 NPV법과 증분 IRR법에 따르면 투자안 B를 선택한다. 영학 ①형 5/16",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1539,
+      "question": "투자자의 위험회피 성향에 따라 투자자의 최적포트폴리오 구성 종목이 달라진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1540,
+      "question": "접점포트폴리오(tangency portfolio)는 투자자의 효용함수와 객관적 시장 정보로 결정된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1541,
+      "question": "투자자의 위험회피 성향이 낮아질수록 더 위험한 접점포트폴리오를 선택한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1542,
+      "question": "투자자의 위험회피 성향과 관계없이 접점포트폴리오에 투자하는 비중은 동일하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1543,
+      "question": "시장의 무위험이자율이 상승하면 투자자의 최적포트폴리오 내 개별 위험자산의 구성비도 변한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1544,
+      "question": "항상성장모형(constant dividend growth model)에 따르면 기대수익률은 배당수익률과 배당성장률의 합으로 설명된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "a",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1545,
+      "question": "성장기업 주가는 기업의 성장기회가 없다고 가정할 때의 주가에 성장기회의 순현재가치(NPVGO)를 합한 금액으로 설명된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "b",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1546,
+      "question": "요구수익률이 자기자본이익률(ROE)보다 높을 때 성장기회의 순현재가치는 양(+)의 값을 가진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "c",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1547,
+      "question": "성장기회의 순현재가치가 음(-)의 값을 가지는 경우 배당을 줄이고 유보이익을 증가시키면 현재 주가가 상승한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "d",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1548,
+      "question": "투자자의 효용은 부의 크기에 의해 결정되지 않고 준거점으로부터 부의 변화인 이익(gain)과 손실(loss)에 의해 결정된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "a",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1549,
+      "question": "투자자는 손실이 나는 구간에서 위험을 회피하지 않고 선호하는 경향을 보인다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "b",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1550,
+      "question": "투자자의 효용함수는 이익 구간에서 볼록하고, 손실 구간에서 오목한 형태를 띤다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "c",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1551,
+      "question": "투자자는 이익이 나는 구간에서는 불확실한 이익을 선택하고 손실이 나는 구간에서는 확실한 손실을 선택한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "d",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1552,
+      "question": "액면이자율이 15%인 채권은 액면이자율이 10%인 채권보다 재투자위험이 더 작다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1553,
+      "question": "전환사채는 일반사채의 특성에 더해 투자자가 전환가격으로 주식을 매도할 수 있는 풋옵션을 포함하고 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1554,
+      "question": "수의상환사채는 일반사채보다 가격이 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1555,
+      "question": "상환청구권부사채는 일반사채보다 가격이 낮다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1556,
+      "question": "신용등급이 AA인 채권과 BBB인 채권 간의 수익률 차이가 감소할 것으로 예상될 때, AA등급 채권을 매도하고 BBB등급 채권을 매입하는 것이 유리하다. 영학 ①형 7/16",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1557,
+      "question": "              ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 28,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1560,
+      "question": "풋옵션의 시간가치는 음(-)의 값을 가질 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "a",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1561,
+      "question": "콜옵션의 시간가치는 음(-)의 값을 가질 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "b",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1562,
+      "question": "풋옵션 1개 매입, 같은 조건의 콜옵션 1개 매도, 그리고 주식 A 1주 매입으로 구성된 포트폴리오의 비용과 현금흐름의 현재가치는  일치하고   가 성립한다. ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "c",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

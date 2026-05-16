@@ -1,0 +1,241 @@
+{
+  "slug": "cpa-2026-r61-tax",
+  "name": "세법개론",
+  "exam_group": "회계사 1차 · 2026년 제61회",
+  "subject": "세법개론",
+  "phase": "1교시",
+  "source": "회계사 1차",
+  "exam_year": 2026,
+  "exam_round": 61,
+  "count": 19,
+  "questions": [
+    {
+      "id": 1776,
+      "question": "건물 중 사무실 임대면적은 전체면적의 40%이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1777,
+      "question": "해당 임대용 부동산은 2025년 6월 1일에 600,000,000원에 매입한 것으로, 토지 400,000,000원과 건물 200,000,000원으로 구성되어 있다. (4) 임대보증금 운용수익 ① 은행이자: 1,000,000원 ② 신주인수권처분이익: 2,000,000원",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1778,
+      "question": "유가증권처분이익: 500,000원, 유가증권처분손실: 700,000원 (5) 재정경제부령이 정하는 정기예금이자율은 연 5%로 가정한다. ① 1,800,000원 ② 2,000,000원 ③ 2,500,000원",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1780,
+      "question": "손익계산서상 법인세비용: 30,000,000원",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1781,
+      "question": "「조세특례제한법」상 최저한세 적용대상 익금불산입액: 10,000,000원 (3) 이월결손금: 62,000,000원* * 제16기 발생액이며, 이중 2,000,000원은 2025년 3월 2일에 자산수증이익으로 충당되었음 (4) 세액공제 ① 외국납부세액공제: 500,000원 ② 연구·인력개발비에 대한 세액공제: 1,000,000원 (5) 중간예납세액: 300,000원 (6) 중소기업이 아닌 내국법인의 조세감면 전 과세표준 100억원 이하 구간에 적용되는 최저한세율은 10%이다. (7) ㈜A는 유동화거래를 목적으로 설립된 법인이 아니며, 회생계획, 기업개선계획, 경영정상화계획을 이행 중에 있지 않다. (8) ㈜A는 성실신고확인대상 소규모 법인에 해당하지 않는다. ① 1,600,000원 ② 3,000,000원",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1783,
+      "question": "100,000원 (유보) 50,000원 (△유보)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1784,
+      "question": "100,000원 (유보) 60,000원 (△유보)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1786,
+      "question": "120,000원 (유보) 30,000원 (△유보)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1787,
+      "question": "120,000원 (유보) 40,000원 (△유보)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1791,
+      "question": "4,600,000원(유보) 개론 ①형 11/16",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1792,
+      "question": "㈜A는 출자임원(소액주주 아님)인 을에게 제26기부터 사택 (시가: 400,000,000원)을 임대(기간: 2026.1.1.∼2027.12.31.)하고, 을로부터 보증금 100,000,000원을 임대개시일에 수령하였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1793,
+      "question": "㈜A는 사택 임대료로 매월 말 200,000원을 수령하고 손익계산서상 임대료수익으로 계상하였다. 사택 제공에 대한 임대료의 시가는 불분명하며, 감정평가법인 등이 감정한 가액 및「상속세 및 증여세법」상 보충적 평가방법에 의한 임대료를 적용할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1794,
+      "question": "재정경제부령이 정하는 정기예금이자율은 연 5%로 가정한다. ① 0원 ② (+)2,600,000원 ③ (+)200,000,000원",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1797,
+      "question": "제26기 결산을 확정할 때 이미 경과한 기간에 대한 원천징수대상 보통예금 미수이자 5만원을 이자수익으로 계상하여 익금불산입 하고 △유보로 소득처분하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1798,
+      "question": "건물을 임대(기간: 2026.10.1.∼2027.9.30., 총임대료: 120만원)하고 임대료를 매 익월 5일에 10만원씩 받기로 약정한 후 2026년 10월분과 11월분만을 영업외수익으로 계상하고 별도의 세무조정을 하지 않았다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1799,
+      "question": "제26기에 장기할부조건으로 판매한 제품의 대금을 제26기부터 매년 12월 31일에 100만원씩 3년간 회수하기로 하고 300만원 전액을 제26기 수익으로 계상한 후 회수기일도래기준에 따라 200만원을 익금불산입하고 △유보로 소득처분하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1800,
+      "question": "제26기에 특수관계인으로부터 2년 후 원리금 일시 상환 조건으로 차입한 후 결산을 확정할 때 이미 경과한 기간에 대한 차입금 미지급이자 10만원을 이자비용으로 계상하고 별도의 세무조정을 하지 않았다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1801,
+      "question": "㈜B로부터 잉여금의 처분(잉여금처분결의일: 2026.2.20.)에 따른 배당소득 10만원을 수령한 후 영업외수익으로 계상하고 별도의 세무조정을 하지 않았다(단, 수입배당금 익금불산입 세무조정을 고려하지 않음).",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 1811,
+      "question": "27,765,000원 개론 ①형 15/16 32.「부가가치세법」상 재화의 공급에 해당하는 것만을 모두 고른 것은? ㄱ. 운수업을 경영하는 사업자가 자기의 과세사업과 관련하여 취득한「개별소비세법」상 과세대상 승용자동차(매입세액 공제 받음)를 개인적 용도로 사용하는 경우 ㄴ. 건설업의 경우 건설사업자가 건설자재의 전부 또는 일부를 부담 하는 것 ㄷ. 부동산의 매매 또는 그 중개를 사업목적으로 나타내어 부동산을 판매하는 경우 ㄹ. 사업장별로 신고 및 납부를 하는 사업장이 둘 이상인 사업자가 자기의 사업과 관련하여 취득한 재화(매입세액 공제받음)를 판매할 목적으로 자기의 다른 사업장에 반출하는 경우 ㅁ. 사업자가 자기생산·취득재화를 자기의 고객에게 사업을 위하여 증여한 것으로서 법령에 따른 자기적립마일리지로만 전부를 결제받은 경우 ① ㄱ, ㅁ ② ㄴ, ㅁ ③ ㄷ, ㄹ ④ ㄱ, ㄷ, ㄹ ⑤ ㄴ, ㄹ, ㅁ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

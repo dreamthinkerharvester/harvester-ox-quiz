@@ -96,6 +96,86 @@
       ]
     },
     {
+      "exam": "회계사",
+      "rounds": [
+        {
+          "year": 2026,
+          "round": 61,
+          "categories": [
+            {
+              "slug": "cpa-2026-r61-management",
+              "name": "경영학",
+              "subject": "경영학",
+              "phase": "1교시",
+              "total": 94,
+              "total_raw": 97,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "cpa-2026-r61-economics",
+              "name": "경제원론",
+              "subject": "경제원론",
+              "phase": "1교시",
+              "total": 30,
+              "total_raw": 30,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "cpa-2026-r61-corplaw",
+              "name": "기업법",
+              "subject": "기업법",
+              "phase": "1교시",
+              "total": 177,
+              "total_raw": 177,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "cpa-2026-r61-tax",
+              "name": "세법개론",
+              "subject": "세법개론",
+              "phase": "1교시",
+              "total": 19,
+              "total_raw": 48,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "cpa-2026-r61-accounting",
+              "name": "회계학",
+              "subject": "회계학",
+              "phase": "2교시",
+              "total": 65,
+              "total_raw": 65,
+              "with_full_meta": 0
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "round": 59,
+          "categories": [
+            {
+              "slug": "cpa-2024-r59-management",
+              "name": "경영학",
+              "subject": "경영학",
+              "phase": "1교시",
+              "total": 152,
+              "total_raw": 152,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "cpa-2024-r59-accounting",
+              "name": "회계학",
+              "subject": "회계학",
+              "phase": "2교시",
+              "total": 78,
+              "total_raw": 80,
+              "with_full_meta": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
       "exam": "행정사 1차",
       "rounds": [
         {
@@ -168,10 +248,10 @@
     }
   ],
   "_meta": {
-    "total_questions": 1277,
-    "categories_count": 14,
+    "total_questions": 1892,
+    "categories_count": 21,
     "with_full_meta": 5,
-    "updated_at": "2026-05-15T13:36:32+00:00",
+    "updated_at": "2026-05-16T08:59:48+00:00",
     "source": "0gichul.com"
   }
 }

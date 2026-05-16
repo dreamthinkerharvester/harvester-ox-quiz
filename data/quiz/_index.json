@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-05-15T22:36:32",
+  "generated_at": "2026-05-16T17:59:48",
   "default_slug": "general-knowledge",
   "categories": [
     {
@@ -212,6 +212,104 @@
       "display_order": 200,
       "count": 100,
       "count_raw": 100
+    },
+    {
+      "slug": "cpa-2026-r61-management",
+      "name": "경영학",
+      "exam_group": "회계사 1차 · 2026년 제61회",
+      "subject": "경영학",
+      "phase": "1교시",
+      "source": "회계사 1차",
+      "exam_year": 2026,
+      "exam_round": 61,
+      "is_default": false,
+      "display_order": 300,
+      "count": 94,
+      "count_raw": 97
+    },
+    {
+      "slug": "cpa-2026-r61-economics",
+      "name": "경제원론",
+      "exam_group": "회계사 1차 · 2026년 제61회",
+      "subject": "경제원론",
+      "phase": "1교시",
+      "source": "회계사 1차",
+      "exam_year": 2026,
+      "exam_round": 61,
+      "is_default": false,
+      "display_order": 300,
+      "count": 30,
+      "count_raw": 30
+    },
+    {
+      "slug": "cpa-2026-r61-corplaw",
+      "name": "기업법",
+      "exam_group": "회계사 1차 · 2026년 제61회",
+      "subject": "기업법",
+      "phase": "1교시",
+      "source": "회계사 1차",
+      "exam_year": 2026,
+      "exam_round": 61,
+      "is_default": false,
+      "display_order": 300,
+      "count": 177,
+      "count_raw": 177
+    },
+    {
+      "slug": "cpa-2026-r61-tax",
+      "name": "세법개론",
+      "exam_group": "회계사 1차 · 2026년 제61회",
+      "subject": "세법개론",
+      "phase": "1교시",
+      "source": "회계사 1차",
+      "exam_year": 2026,
+      "exam_round": 61,
+      "is_default": false,
+      "display_order": 300,
+      "count": 19,
+      "count_raw": 48
+    },
+    {
+      "slug": "cpa-2026-r61-accounting",
+      "name": "회계학",
+      "exam_group": "회계사 1차 · 2026년 제61회",
+      "subject": "회계학",
+      "phase": "2교시",
+      "source": "회계사 1차",
+      "exam_year": 2026,
+      "exam_round": 61,
+      "is_default": false,
+      "display_order": 300,
+      "count": 65,
+      "count_raw": 65
+    },
+    {
+      "slug": "cpa-2024-r59-management",
+      "name": "경영학",
+      "exam_group": "회계사 1차 · 2024년 제59회",
+      "subject": "경영학",
+      "phase": "1교시",
+      "source": "회계사 1차",
+      "exam_year": 2024,
+      "exam_round": 59,
+      "is_default": false,
+      "display_order": 300,
+      "count": 152,
+      "count_raw": 152
+    },
+    {
+      "slug": "cpa-2024-r59-accounting",
+      "name": "회계학",
+      "exam_group": "회계사 1차 · 2024년 제59회",
+      "subject": "회계학",
+      "phase": "2교시",
+      "source": "회계사 1차",
+      "exam_year": 2024,
+      "exam_round": 59,
+      "is_default": false,
+      "display_order": 300,
+      "count": 78,
+      "count_raw": 80
     }
   ]
 }

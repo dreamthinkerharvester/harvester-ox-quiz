@@ -1,20 +1,20 @@
 {
   "category": {
-    "slug": "admin-2025-r13-minbeop",
-    "name": "민법",
-    "exam_group": "행정사 1차 · 2025년 제13회",
-    "subject": "민법",
+    "slug": "cpa-2026-r61-management",
+    "name": "경영학",
+    "exam_group": "회계사 1차 · 2026년 제61회",
+    "subject": "경영학",
     "phase": "1교시",
-    "exam_year": 2025,
-    "exam_round": 13
+    "exam_year": 2026,
+    "exam_round": 61
   },
   "questions": [
     {
-      "id": 1149,
-      "statement": "미등기 무허가건물의 취득자에게는 소유권에 준하는 관습법상의 물권이 있다.",
+      "id": 1467,
+      "statement": "집단 의사결정은 다양한 대안을 고려할 수 있고 구성원 참여로 결정에 대한 지지를 얻기 쉽지만, 시간이 많이 소요되거나 책임 소재가 모호해질 수 있다.",
       "answer": "O",
       "explanation": "",
-      "qtype": "opt-correct",
+      "qtype": "opt-wrong",
       "topic": null,
       "tags": null,
       "theory": null,
@@ -23,7 +23,7 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
         "qid": 1,
         "option": "①"
@@ -31,11 +31,11 @@
       "related_videos": []
     },
     {
-      "id": 1150,
-      "statement": "사실인 관습은 법원(法源)으로서 법령에 저촉되지 않는 한 법칙으로서의 효력이 있다.",
-      "answer": "X",
+      "id": 1468,
+      "statement": "확증 편견(confirmation bias)은 기존의 견해를 지지하거나 재확인할 수 있는 정보만을 수집하고, 그렇지 않은 정보는 무시하는 경향을 의미한다.",
+      "answer": "O",
       "explanation": "",
-      "qtype": "opt-correct",
+      "qtype": "opt-wrong",
       "topic": null,
       "tags": null,
       "theory": null,
@@ -44,7 +44,7 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
         "qid": 1,
         "option": "②"
@@ -52,11 +52,11 @@
       "related_videos": []
     },
     {
-      "id": 1151,
-      "statement": "시효로 관습법상 분묘기지권을 취득한 사람은 토지소유자가 분묘기지에 관한 지료를 청구하면 그 청구한 날부터의 지료를 지급하여야 한다.",
-      "answer": "X",
+      "id": 1469,
+      "statement": "델파이 기법(Delphi technique)은 질문지를 통해 전문가 집단의 의견을 추출하고 종합하는 집단 의사결정 방식이다.",
+      "answer": "O",
       "explanation": "",
-      "qtype": "opt-correct",
+      "qtype": "opt-wrong",
       "topic": null,
       "tags": null,
       "theory": null,
@@ -65,7 +65,7 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
         "qid": 1,
         "option": "③"
@@ -73,11 +73,11 @@
       "related_videos": []
     },
     {
-      "id": 1152,
-      "statement": "관습법은 그 존재를 당사자가 주장, 증명하여야 하고, 법원이 직권으로 확정할 수 없다.",
-      "answer": "X",
+      "id": 1470,
+      "statement": "갈등 발생 시의 해결책으로 상대의 협조를 통해 달성할 수 있는 공동 목표를 설정하거나 집단의 자원을 증대시키는 방안이 있다.",
+      "answer": "O",
       "explanation": "",
-      "qtype": "opt-correct",
+      "qtype": "opt-wrong",
       "topic": null,
       "tags": null,
       "theory": null,
@@ -86,7 +86,7 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
         "qid": 1,
         "option": "④"
@@ -94,11 +94,11 @@
       "related_videos": []
     },
     {
-      "id": 1153,
-      "statement": "사실인 관습은 관련 분야의 제정법이 강행규정이라도 특별한 사정이 없는 한 법률행위의 의사를 보충하는 기능으로서 재판의 자료로 할 수 있다.",
+      "id": 1471,
+      "statement": "갈등관리 전략 중 협력(collaboration)은 각 당사자가 서로에게 가치 있는 것을 양보하여 개인의 관심사나 이익을 부분적으로 충족하는 전략이다.",
       "answer": "X",
       "explanation": "",
-      "qtype": "opt-correct",
+      "qtype": "opt-wrong",
       "topic": null,
       "tags": null,
       "theory": null,
@@ -107,7 +107,7 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
         "qid": 1,
         "option": "⑤"
@@ -115,32 +115,11 @@
       "related_videos": []
     },
     {
-      "id": 1154,
-      "statement": "신의성실의 원칙은 당사자의 주장이 없더라도 법원이 직권으로 판단할 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 2,
-        "option": "①"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1155,
-      "statement": "소멸시효를 이유로 한 채무자의 항변권 행사에는 신의성실의 원칙이 적용되지 않는다.",
+      "id": 1472,
+      "statement": "빅 파이브(big-five) 모형에서 친화성(agreeableness)은 사람들과 사회적 관계를 맺는 것과 관련되며, 친화성이 높은 사람은 사교적이고 활발한 특징이 있다.",
       "answer": "X",
       "explanation": "",
-      "qtype": "opt-correct",
+      "qtype": "sub-all-correct",
       "topic": null,
       "tags": null,
       "theory": null,
@@ -149,184 +128,16 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
         "qid": 2,
-        "option": "②"
+        "option": "a"
       },
       "related_videos": []
     },
     {
-      "id": 1156,
-      "statement": "무권대리인이 본인을 단독 상속한 경우, 본인의 지위에서 추인을 거절하더라도 신의성실의 원칙에 반하지 않는다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 2,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1157,
-      "statement": "강행규정에 위반하여 계약을 체결한 자가 스스로 그 계약의 무효를 주장하는 것은 특별한 사정이 없는 한 신의성실의 원칙에 반한다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 2,
-        "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1158,
-      "statement": "조건의 성취로 이익을 받을 당사자가 신의성실에 반하여 조건을 성취시키더라도, 상대방이 그 조건이 성취하지 아니한 것으로 주장할 수는 없다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 2,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1159,
-      "statement": "乙은 관리할 甲의 재산목록을 작성해야 한다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 3,
-        "option": "①"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1160,
-      "statement": "법원은 甲의 재산으로 乙에게 상당한 보수를 지급할 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 3,
-        "option": "②"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1161,
-      "statement": "乙은 법원의 허가가 없으면 부동산 소유권이전등기말소절차의 이행을 청구할 수 없다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 3,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1162,
-      "statement": "법원은 甲 소유 부동산에 대한 乙의 처분행위를 사후 추인의 방법으로 허가할 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 3,
-        "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1163,
-      "statement": "乙이 甲의 사망을 확인했더라도, 부재자 재산관리인으로서의 선임결정이 취소되지 않으면, 乙은 계속하여 그 권한을 행사할 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 3,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1164,
-      "statement": "속임수를 쓴 甲이 미성년자라면, 乙은 매매계약을 취소할 수 없다.",
+      "id": 1473,
+      "statement": "자기감시(self-monitoring) 성향이 높은 사람은 외부 정보에 민감하고 자신의 행동을 외부 상황 변화에 잘 적응시킨다.",
       "answer": "O",
       "explanation": "",
       "qtype": "sub-all-correct",
@@ -338,16 +149,37 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
-        "qid": 4,
-        "option": "ㄱ"
+        "qid": 2,
+        "option": "b"
       },
       "related_videos": []
     },
     {
-      "id": 1165,
-      "statement": "甲의 취소권이 배제되기 위해서는 甲이 속임수를 쓴 사실을 丙이 증명해야 한다.",
+      "id": 1474,
+      "statement": "학습(learning)에 관한 이론 중 행동주의(행태론)적 관점에서는 개인의 학습이 타인의 행동을 관찰하거나 모방하며 일어난다고 본다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 2,
+        "option": "c"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1475,
+      "statement": "강화 스케줄은 특정 행동에 강화 요인을 얼마나 자주 제공할지에 대한 것으로, 연속적 강화(continuous reinforcement)와 간헐적 강화(intermittent reinforcement) 방식이 있다.",
       "answer": "O",
       "explanation": "",
       "qtype": "sub-all-correct",
@@ -359,16 +191,226 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
-        "qid": 4,
-        "option": "ㄴ"
+        "qid": 2,
+        "option": "d"
       },
       "related_videos": []
     },
     {
-      "id": 1166,
-      "statement": "甲이 자신을 단순히 능력자라고 말하는 것은 취소권을 배제할 수 있는 속임수에 해당되지 않는다.",
+      "id": 1476,
+      "statement": "감정전이(emotional contagion)는 집단 내 구성원이 경험하는 감정이 타인에게까지 확산되는 현상을 의미한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 3,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1477,
+      "statement": "정서적 사건 반응이론(affective events theory)에 따르면 직무 환경에서 일어난 사건에 대한 반응으로 개인의 감정이 형성되고, 이는 개인의 직무태도나 성과에 영향을 미친다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 3,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1478,
+      "statement": "변혁적 리더십(transformational leadership)은 부하의 역할과 업무 요구사항을 명확히 하고 노력에 따른 보상을 강조한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 3,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1479,
+      "statement": "진성 리더십(authentic leadership)은 기업 리더들의 비윤리적 행태에 대한 비판으로 관심을 받았으며, 리더의 성숙한 가치와 진솔함을 중시한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 3,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1480,
+      "statement": "리더십 대체이론(substitues for leadership)에 따르면 특정한 개인, 직무 또는 조직의 특성이 리더십을 대체하거나 리더십의 영향을 완전히 상쇄할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 3,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1481,
+      "statement": "통제 범위(span of control)가 큰 조직은 직원에 대한 통제가 어렵지만, 관리 계층이 적고 상하 간 의사소통이 원활한 특징이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 4,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1482,
+      "statement": "유기적 조직(organic structure)은 공식화 수준이 낮고 분권화된 특징이 있으며, 대표적 예시로 기능별 조직(functional structure)이 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 4,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1483,
+      "statement": "네트워크 조직(network structure)은 조직의 핵심 기능만 유지하고 나머지는 아웃소싱으로 운영하는 형태로, 변화하는 환경 요구에 신속한 대응이 가능한 장점이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 4,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1484,
+      "statement": "기업의 조직문화가 존재하더라도 같은 부서 등 공동의 경험을 공유한 집단별로 하위문화(subculture)가 형성될 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 4,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1485,
+      "statement": "최고경영진의 언행을 통해 조직의 규범이 전파되기에 이들은 조직문화의 형성과 유지에 큰 영향을 미친다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 4,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1486,
+      "statement": "인적자원계획을 위한 수요 예측에서는 정량적(양적) 방법과 정성적(질적) 방법이 모두 활용될 수 있다.",
       "answer": "O",
       "explanation": "",
       "qtype": "sub-all-correct",
@@ -380,16 +422,16 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
-        "qid": 4,
-        "option": "ㄷ"
+        "qid": 5,
+        "option": "a"
       },
       "related_videos": []
     },
     {
-      "id": 1167,
-      "statement": "속임수를 쓴 甲이 피성년후견인이라면, 甲은 매매계약을 취소할 수 없다.",
+      "id": 1487,
+      "statement": "직무급은 직무가치의 산정 절차가 복잡하고, 직원 간 임금격차가 커지거나 연공주의 풍토가 강한 경우 내부 저항이 클 수 있다는 단점이 있다.",
       "answer": "O",
       "explanation": "",
       "qtype": "sub-all-correct",
@@ -401,40 +443,19 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 4,
-        "option": "ㄹ"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1168,
-      "statement": "가정법원은 피한정후견인이 한정후견인의 동의를 받아야 하는 행위의 범위를 정할 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
         "qid": 5,
-        "option": "①"
+        "option": "b"
       },
       "related_videos": []
     },
     {
-      "id": 1169,
-      "statement": "질병, 장애, 노령 등으로 인한 정신적 제약 때문에 사무 처리 능력이 지속적으로 결여된 사람을 위한 제도이다.",
+      "id": 1488,
+      "statement": "우리나라 법정 복리후생 중 국민건강보험은 기업과 직원이 절반씩 부담하고, 국민연금과 산업재해보상보험은 기업이 전액 부담한다.",
       "answer": "X",
       "explanation": "",
-      "qtype": "opt-wrong",
+      "qtype": "sub-all-correct",
       "topic": null,
       "tags": null,
       "theory": null,
@@ -443,16 +464,37 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
         "qid": 5,
-        "option": "②"
+        "option": "c"
       },
       "related_videos": []
     },
     {
-      "id": 1170,
-      "statement": "가정법원이 한정후견개시의 심판을 할 때 피성년후견의 경우에서와 마찬가지로 본인의 의사를 고려하여야 한다.",
+      "id": 1489,
+      "statement": "선택적 복리후생제도(flexible benefits)를 통해, 직원은 자신에게 필요한 복리후생을 선택할 수 있고 기업은 직원의 복리후생 한도를 설정하여 비용을 어느 정도 예측할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 5,
+        "option": "d"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1490,
+      "statement": "직무분석은 직무수행에 필요한 지식, 기술, 능력을 판단할 수 있는 정보를 제공하여 효과적인 지원자 모집과 선발에 활용될 수 있다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -464,70 +506,7 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 5,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1171,
-      "statement": "피한정후견인의 행위에서 한정후견인의 동의가 필요한 범위에 대한 변경 청구는 검사나 지방자치단체의 장도 할 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 5,
-        "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1172,
-      "statement": "피한정후견인이 한 법률행위가 일상생활에 필요하고 그 대가가 과도하지 않다면, 그 법 률행위는 한정후견인이 취소할 수 없다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 5,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1173,
-      "statement": "사단법인의 정관은 자치법규가 아니라 계약이다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
         "qid": 6,
         "option": "①"
@@ -535,92 +514,8 @@
       "related_videos": []
     },
     {
-      "id": 1174,
-      "statement": "재단법인의 정관은 특별한 사정이 없는 한, 그 변경방법을 정관에 정한 때에 한하여 변경할 수 있다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 6,
-        "option": "②"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1175,
-      "statement": "이사의 대표권에 대한 제한은 이를 정관에 기재하지 않더라도 등기하면 효력이 있다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 6,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1176,
-      "statement": "사단법인의 정관 변경은 법원의 허가를 얻지 않으면 효력이 없다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 6,
-        "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1177,
-      "statement": "재단법인의 존립시기나 해산사유는 정관의 필요적 기재사항이다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 6,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1178,
-      "statement": "사단법인은 사원이 없게 되거나 총회의 결의로도 해산한다.",
+      "id": 1491,
+      "statement": "환경 변화에 따라 직무가 변화되므로 직무분석 결과는 지속적인 점검과 보완이 필요하다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -632,7 +527,196 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 6,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1492,
+      "statement": "상황면접(situational interview)은 실제 직무에서 발생할 가능성이 있는 상황과 과제를 다루며, 지원자가 유사한 상황에서 어떻게 대처할지 파악한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 6,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1493,
+      "statement": "인턴십(internship)을 통해 기업은 우수 인재를 조기에 검증 또는 확보할 수 있고 지원자는 자신의 적성을 파악할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 6,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1494,
+      "statement": "선발도구의 예측타당도(predictive validity)는 측정하고자 하는 내용이 실제 업무 수행과 얼마나 연관되어 있는지를 나타낸다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 6,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1495,
+      "statement": "필요성 분석(needs analysis)은 교육훈련 절차의 첫 단계로, 확인된 교육 대상과 목표 등을 바탕으로 어떻게 교육할 것인지를 설계하는 단계이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 7,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1496,
+      "statement": "경력경로(career path)는 조직에서 개인들이 경력으로 쌓게 될 직무의 배열이나 승진 단계 등의 경력 기회 정보를 제공한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 7,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1497,
+      "statement": "과거 대비 개인의 경력 변화가 커지면서, 전통적으로 조직의 역할이 중요했던 경력관리에 있어 개인의 책임이 강조되고 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 7,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1498,
+      "statement": "교육훈련의 전이(transfer of training)가 잘 일어나려면 학습한 내용의 실제 활용 기회나 상사의 지원이 제공되어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 7,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1499,
+      "statement": "멘토링(mentoring)은 대인관계를 통한 직원 개발 방법으로, 멘토가 자신의 경험과 역량을 멘티와 공유하며 개발을 돕는 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 7,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1500,
+      "statement": "인사평가의 목적에는 직원 행동과 조직 목표의 연결, 보상·승진 등의 인사 결정, 피드백을 통한 직원 역량개발 및 성과향상이 포함된다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
       "source": {
         "qid": 8,
         "option": "①"
@@ -640,8 +724,8 @@
       "related_videos": []
     },
     {
-      "id": 1179,
-      "statement": "청산종결등기가 마쳐진 경우에도 청산사무가 종료되지 않았다면 청산법인으로 존속한다.",
+      "id": 1501,
+      "statement": "다면평가(multi-source evaluation)는 평가 과정에서 발생할 수 있는 주관적 편견이나 평가 오류를 줄일 수 있는 장점이 있다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -653,7 +737,7 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
         "qid": 8,
         "option": "②"
@@ -661,8 +745,8 @@
       "related_videos": []
     },
     {
-      "id": 1180,
-      "statement": "청산인은 채권자에 대하여 채권신고를 최고해야 하고, 알고 있는 채권자는 청산에서 제외할 수 있다.",
+      "id": 1502,
+      "statement": "인사평가에 대한 수용성(acceptability)이 높은 경우 직원들은 인사평가를 공정하고 필요한 것이라 믿고 평가목적에 동의하는 정도가 높다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -674,7 +758,7 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
         "qid": 8,
         "option": "③"
@@ -682,8 +766,29 @@
       "related_videos": []
     },
     {
-      "id": 1181,
-      "statement": "법인이 파산이 아닌 사유로 해산한 경우 정관 또는 총회의 결의로 달리 정한 바가 없으면, 이사가 청산인이 된다.",
+      "id": 1503,
+      "statement": "쌍대비교법(paired comparison)은 피평가자 2명씩 상호 비교하는 것을 반복하여 서열을 정하는 것으로, 피평가자의 수가 많아질수록 효과적인 방식이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 8,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1504,
+      "statement": "행동관찰척도법(behavioral observation scale: BOS)은 피평가자의 외부로 드러나는 행동을 중심으로 평가하는 행동접근법의 하나이다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -695,17 +800,227 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
         "qid": 8,
-        "option": "④"
+        "option": "⑤"
       },
       "related_videos": []
     },
     {
-      "id": 1182,
-      "statement": "민법상의 청산절차에 관한 규정은 강행규정이므로 이에 반하는 잔여재산의 처분행위는 특별한 사정이 없는 한 무효이다.",
+      "id": 1505,
+      "statement": "영업레버리지도(DOL)가 크다는 것은 매출액 대비 영업고정비가 높고, 영업위험이 높다는 것을 의미한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 10,
+        "option": "a"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1506,
+      "statement": "매출액이 크게 증가할 것으로 기대되는 성장기업은 유동자산에 대한 투자를 증가시킴으로써 높은 영업레버리지도(DOL)를 유지하여 이익폭을 확대할 수 있다.",
       "answer": "X",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 10,
+        "option": "b"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1507,
+      "statement": "재무레버리지도(DFL)가 크다는 것은 영업이익 대비 재무고정비가 높고, 재무위험이 높다는 것을 의미한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 10,
+        "option": "c"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1508,
+      "statement": "재무레버리지도(DFL)가 크다는 것은 영업이익과 주당순이익이 높다는 것을 의미한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 10,
+        "option": "d"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1509,
+      "statement": "재무고정비가 발생하지 않으면 재무레버리지도(DFL)는 1이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 10,
+        "option": "e"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1510,
+      "statement": "MM(1961)의 배당이론에 따르면 배당정책은 기업가치에 영향을 미치지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 11,
+        "option": "a"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1511,
+      "statement": "안정배당이론에 따르면 기업의 순이익이 급증하더라도 배당성향은 일정하게 유지된다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 11,
+        "option": "b"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1512,
+      "statement": "배당을 많이 지급하면 경영자의 특권적 소비와 주주의 경영자 감시에서 발생하는 대리인비용이 줄어들어 기업가치를 높일 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 11,
+        "option": "c"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1513,
+      "statement": "신호효과에 따르면 예상치 못한 배당의 감소는 기업의 미래 투자수익에 대한 경영자의 전망이 낙관적이라는 것을 암시하여 주가를 상승시키는 효과가 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 11,
+        "option": "d"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1514,
+      "statement": "자본소득세율이 배당소득세율보다 낮은 상황에서는 고배당 주식의 가격이 저배당 주식의 가격보다 더 낮게 형성될 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 11,
+        "option": "e"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1515,
+      "statement": "합병의 시너지효과가 없을 경우, 주가수익비율(PER)이 낮은 기업이 주가수익비율이 높은 기업을 주가 기준의 주식교환비율 (피합병기업 주식 1주당 합병기업 주식 수)로 합병하면 합병기업의 주당이익은 감소하고 피합병기업의 주당이익은 증가한다.",
+      "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
       "topic": null,
@@ -716,40 +1031,19 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
-        "qid": 8,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1183,
-      "statement": "주물과 종물은 동일한 소유자에 속한 것으로 법률상 하나의 물건으로 취급된다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 9,
+        "qid": 12,
         "option": "①"
       },
       "related_videos": []
     },
     {
-      "id": 1184,
-      "statement": "주물 소유자의 상용에 공여되고 있는 물건이라도 주물 자체의 효용과 직접 관계가 없다면 종물이 될 수 없다.",
-      "answer": "O",
+      "id": 1516,
+      "statement": "인수기업이 피인수기업에 인수대가를 지급할 때, 주식으로 지급 하는 것이 현금으로 지급하는 것보다 유리하다.",
+      "answer": "X",
       "explanation": "",
-      "qtype": "opt-correct",
+      "qtype": "opt-wrong",
       "topic": null,
       "tags": null,
       "theory": null,
@@ -758,79 +1052,16 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
-        "qid": 9,
+        "qid": 12,
         "option": "②"
       },
       "related_videos": []
     },
     {
-      "id": 1185,
-      "statement": "주물을 처분할 때 특약으로 종물을 제외할 수 없고 종물만을 별도로 처분할 수도 없다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 9,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1186,
-      "statement": "주물과 종물의 관계에 관한 법리는 주된 권리와 종된 권리 상호간에는 적용되지 않는다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 9,
-        "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1187,
-      "statement": "종물은 주물의 처분에 따른다는 법률효과는 주물의 권리관계가 공법상 처분에 의하여 생긴 경우에는 적용되지 않는다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 9,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1188,
-      "statement": "법률행위인 계약의 자유는 사적 자치의 주요한 발현 형식이다.",
+      "id": 1517,
+      "statement": "녹색편지(green mail)는 인수를 시도하는 기업이 피인수기업의 경영자나 대주주에게 프리미엄이 붙은 높은 가격으로 주식을 되팔아 이익을 얻는 것과 관련된다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -842,16 +1073,79 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
-        "qid": 10,
+        "qid": 12,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1518,
+      "statement": "독약조항(poison pill)은 기업인수에 성공할 경우 피인수기업이 인수기업에게 매우 불리한 결과를 초래하도록 하는 내규나 규정을 의미한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 12,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1519,
+      "statement": "황금낙하산(golden parachutes)은 기업인수 후 피인수기업의 경영진이 퇴진 시 거액의 퇴직보상금을 지급하도록 하는 규정과 관련된다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 12,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1520,
+      "statement": "현금흐름은 증분기준으로 측정한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 15,
         "option": "①"
       },
       "related_videos": []
     },
     {
-      "id": 1189,
-      "statement": "계약은 청약과 승낙의 의사표시가 합치하여 성립하는 법률행위이다.",
+      "id": 1521,
+      "statement": "현금흐름은 법인세 납부 후 기준으로 측정한다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -863,16 +1157,37 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
-        "qid": 10,
+        "qid": 15,
         "option": "②"
       },
       "related_videos": []
     },
     {
-      "id": 1190,
-      "statement": "단독행위는 법률행위의 일종으로서 법률효과를 발생시키는 법률요건이다.",
+      "id": 1522,
+      "statement": "새로운 투자에 따른 기회비용은 현금유출에 포함시킨다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 15,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1523,
+      "statement": "상품을 외상으로 매입한 경우 순운전자본이 증가하므로 현금흐름에서 상품매입 금액만큼 차감한다.",
       "answer": "X",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -884,37 +1199,16 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
-        "qid": 10,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1191,
-      "statement": "법률행위인 유언과 상속은 법률효과의 발생에 의사표시가 필수적이라는 점에서 공통점이 있다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 10,
+        "qid": 15,
         "option": "④"
       },
       "related_videos": []
     },
     {
-      "id": 1192,
-      "statement": "종기가 있는 법률행위는 기한이 도래한 때로부터 그 효력을 잃는다.",
+      "id": 1524,
+      "statement": "이자비용과 배당금은 현금유출에 포함시키지 않는다.",
       "answer": "O",
       "explanation": "",
       "qtype": "opt-wrong",
@@ -926,16 +1220,688 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
-        "qid": 10,
+        "qid": 15,
         "option": "⑤"
       },
       "related_videos": []
     },
     {
-      "id": 1193,
-      "statement": "특별한 사정이 없는 한 경매에도 불공정한 법률행위에 관한 민법 제104조가 적용된다.",
+      "id": 1525,
+      "statement": "장비 A의 설치비 55억원은 장비 B의 도입시기 결정에 영향을 미친다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 16,
+        "option": "a"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1526,
+      "statement": "장비 B의 내용연수 기간 동안 총비용의 현재가치는 약 63.18억원 이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 16,
+        "option": "b"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1527,
+      "statement": "장비 B의 내용연수 기간 동안 연간균등비용(equivalent annual cost: EAC)은 약 22.19억원이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 16,
+        "option": "c"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1528,
+      "statement": "장비 B를 지금 도입하는 것보다 1년 후에 도입하는 것이 유리하다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 16,
+        "option": "d"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1529,
+      "statement": "장비 B를 1년 후에 도입하는 것과 2년 후에 도입하는 것은 무차별하다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 16,
+        "option": "e"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1530,
+      "statement": "부채비율이 증가할 때 자기자본이익률(ROE)은 상승한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 17,
+        "option": "a"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1531,
+      "statement": "자기자본비율이 증가할 때 총자산이익률(ROA)은 하락한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 17,
+        "option": "b"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1532,
+      "statement": "매출액순이익률이 증가할 때 ROE는 상승한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 17,
+        "option": "c"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1533,
+      "statement": "총자산회전율의 증가는 ROE에 영향을 주지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 17,
+        "option": "d"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1534,
+      "statement": "순현재가치(NPV)법과 내부수익률(IRR)법에 따른 투자안 선택이 서로 상반된다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 18,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1535,
+      "statement": "수익성지수(PI)법에 따르면 투자안 A를 선택한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 18,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1536,
+      "statement": "보유자금이 200억원이고 중복투자가 불가능할 때 NPV법에 따라 투자안 B를 선택한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 18,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1537,
+      "statement": "보유자금이 200억원일 때 가중평균수익성지수(WAPI)법에 따라 투자안 A를 선택한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 18,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1538,
+      "statement": "증분 NPV법과 증분 IRR법에 따르면 투자안 B를 선택한다. 영학 ①형 5/16",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 18,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1539,
+      "statement": "투자자의 위험회피 성향에 따라 투자자의 최적포트폴리오 구성 종목이 달라진다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 19,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1540,
+      "statement": "접점포트폴리오(tangency portfolio)는 투자자의 효용함수와 객관적 시장 정보로 결정된다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 19,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1541,
+      "statement": "투자자의 위험회피 성향이 낮아질수록 더 위험한 접점포트폴리오를 선택한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 19,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1542,
+      "statement": "투자자의 위험회피 성향과 관계없이 접점포트폴리오에 투자하는 비중은 동일하다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 19,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1543,
+      "statement": "시장의 무위험이자율이 상승하면 투자자의 최적포트폴리오 내 개별 위험자산의 구성비도 변한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 19,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1544,
+      "statement": "항상성장모형(constant dividend growth model)에 따르면 기대수익률은 배당수익률과 배당성장률의 합으로 설명된다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 20,
+        "option": "a"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1545,
+      "statement": "성장기업 주가는 기업의 성장기회가 없다고 가정할 때의 주가에 성장기회의 순현재가치(NPVGO)를 합한 금액으로 설명된다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 20,
+        "option": "b"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1546,
+      "statement": "요구수익률이 자기자본이익률(ROE)보다 높을 때 성장기회의 순현재가치는 양(+)의 값을 가진다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 20,
+        "option": "c"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1547,
+      "statement": "성장기회의 순현재가치가 음(-)의 값을 가지는 경우 배당을 줄이고 유보이익을 증가시키면 현재 주가가 상승한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 20,
+        "option": "d"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1548,
+      "statement": "투자자의 효용은 부의 크기에 의해 결정되지 않고 준거점으로부터 부의 변화인 이익(gain)과 손실(loss)에 의해 결정된다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 24,
+        "option": "a"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1549,
+      "statement": "투자자는 손실이 나는 구간에서 위험을 회피하지 않고 선호하는 경향을 보인다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 24,
+        "option": "b"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1550,
+      "statement": "투자자의 효용함수는 이익 구간에서 볼록하고, 손실 구간에서 오목한 형태를 띤다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 24,
+        "option": "c"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1551,
+      "statement": "투자자는 이익이 나는 구간에서는 불확실한 이익을 선택하고 손실이 나는 구간에서는 확실한 손실을 선택한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 24,
+        "option": "d"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1552,
+      "statement": "액면이자율이 15%인 채권은 액면이자율이 10%인 채권보다 재투자위험이 더 작다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 27,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1553,
+      "statement": "전환사채는 일반사채의 특성에 더해 투자자가 전환가격으로 주식을 매도할 수 있는 풋옵션을 포함하고 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 27,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1554,
+      "statement": "수의상환사채는 일반사채보다 가격이 높다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 27,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1555,
+      "statement": "상환청구권부사채는 일반사채보다 가격이 낮다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 27,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1556,
+      "statement": "신용등급이 AA인 채권과 BBB인 채권 간의 수익률 차이가 감소할 것으로 예상될 때, AA등급 채권을 매도하고 BBB등급 채권을 매입하는 것이 유리하다. 영학 ①형 7/16",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 27,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1557,
+      "statement": "              ",
       "answer": "X",
       "explanation": "",
       "qtype": "opt-correct",
@@ -947,61 +1913,61 @@
       "meta_quality": 10,
       "star_rating": 2,
       "frequency": 2,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
-        "qid": 13,
-        "option": "①"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1194,
-      "statement": "매매계약이 약정된 대금의 과다로 인해 불공정한 법률행위에 해당하여 무효인 경우, 무효행위의 전환에 관한 민법 제138조는 적용될 여지가 없다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 13,
-        "option": "②"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1195,
-      "statement": "불공정한 법률행위는 원칙적으로 무효행위의 추인에 의해서 유효로 될 수 없다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 13,
+        "qid": 28,
         "option": "③"
       },
       "related_videos": []
     },
     {
-      "id": 1196,
-      "statement": "무상 증여계약도 불공정한 법률행위가 될 수 있다.",
+      "id": 1560,
+      "statement": "풋옵션의 시간가치는 음(-)의 값을 가질 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 30,
+        "option": "a"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1561,
+      "statement": "콜옵션의 시간가치는 음(-)의 값을 가질 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 30,
+        "option": "b"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 1562,
+      "statement": "풋옵션 1개 매입, 같은 조건의 콜옵션 1개 매도, 그리고 주식 A 1주 매입으로 구성된 포트폴리오의 비용과 현금흐름의 현재가치는  일치하고   가 성립한다. ",
       "answer": "X",
       "explanation": "",
-      "qtype": "opt-correct",
+      "qtype": "sub-all-correct",
       "topic": null,
       "tags": null,
       "theory": null,
@@ -1010,1109 +1976,17 @@
       "meta_quality": 10,
       "star_rating": 1,
       "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
+      "source_pdf": "경영학.pdf",
       "source": {
-        "qid": 13,
-        "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1197,
-      "statement": "불공정한 법률행위로서 무효인 경우에 선의의 제3자에 대해서는 무효를 주장할 수 없다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 13,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1198,
-      "statement": "진의 아닌 의사표시는 원칙적으로 표시된 대로 법적 효과가 발생한다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 14,
-        "option": "①"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1199,
-      "statement": "진의 아님을 알았다는 사실은 의사표시의 유효를 주장하는 사람이 증명해야 한다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 14,
-        "option": "②"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1200,
-      "statement": "진의는 특정 내용의 의사표시를 하고자 하는 표의자의 생각이지 표의자가 진정으로 마음속에서 바라는 사항을 뜻하는 것은 아니다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 14,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1201,
-      "statement": "표시가 진의와 다 름을 표의자가 알고 있다는 점은 착오와 구별된다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 14,
-        "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1202,
-      "statement": "표시와 진의의 불일치가 상대방과 합의된 것이라면 통정허위표시이다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 14,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1203,
-      "statement": "의사표시의 상대방이 없는 경우라면, 기망행위를 누가 했는지에 상관없이 취소할 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 15,
-        "option": "①"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1204,
-      "statement": "상대방의 대리인에 의한 사기는 민법 제110조 제2항에서 말하는 제3자의 사기에 해당하지 않는다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 15,
-        "option": "②"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1205,
-      "statement": "고지의무가 있는 사람이 알리지 않고 일부 러 침묵하였다면, 부작위라도 기망행위가 될 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 15,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1206,
-      "statement": "기망행위로 착오에 빠지게 된 경우이므로, 의사와 표시의 불일치가 아니라 의사표시의 동기에 착오가 있는 것이다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 15,
-        "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1207,
-      "statement": "표의자에게 특정한 의사표시를 하도록 하는 것을 넘어 재산상의 손실을 주려는 기망 행위자의 고의가 있 어야 한다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 15,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1208,
-      "statement": "권한을 넘은 표현대리에서 법정대리권도 기본 대리권이 될 수 있다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 16,
-        "option": "①"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1209,
-      "statement": "대리행위가 강행법규 위반으로 무효이더라도 표현대리 법리가 적용된다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 16,
-        "option": "②"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1210,
-      "statement": "처음부터 아무 대리권도 없 었던 사람의 대리행위에 대하여 대리권 소멸 후의 표현대리를 유추 적용할 수 있다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 16,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1211,
-      "statement": "대리권 수여의 표시로 인한 표현대리에서 대리권 존재에 대한 상대방의 선의 및 무과실은 요건이 아니다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 16,
-        "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1212,
-      "statement": "표현대리의 성립으로 본인이 이행책임을 질 때 상대방의 과실이 있는 경우에는 과실상 계의 법리에 따라 본인의 책임이 경 감된다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 16,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1213,
-      "statement": "법률행위의 일부분이 무효인 때에는 그 전부를 무효로 하지만, 무효부분이 없더라도 법 률행위를 하 였을 것이라고 인정될 때에는 나머지 부분은 무효가 되지 않는다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 17,
-        "option": "①"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1214,
-      "statement": "무효인 법률행위가 다른 법률행위의 요건을 구비하고, 당사자가 무효를 알았더라면 다른 욕 였 법률행위를 하는 것을 의 하 으리라고 인정될 때에는 다른 법률행위로서 효력을 가진다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 17,
-        "option": "②"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1215,
-      "statement": "무효인 법률행위는 추인하여도 효력이 생기지 않지만, 당사자가 무효임을 알고 추인한 때에는새로운 법률행위로 본다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 17,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1216,
-      "statement": "토지거래 허가구 역 내 토지에 대하여 허가를 받기 전에 한 매매가 처음부터 허가를 배제하는 내용의 계약인 경우, 그 매매는 유동적 무효이다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 17,
-        "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1217,
-      "statement": "무권리자가 타인의 권리를 처분하는 계약을 한 경우, 권리자가 추인하면 그 계약의 효과는 원칙적으로 계약체결시로 소급한다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 17,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1218,
-      "statement": "취소권은 추인할 수 있는 날로부터 3년 내에, 매매계약을 한 날로부터 10년 내에 행사해야 한다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 18,
-        "option": "①"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1219,
-      "statement": "추인할 수 있는 날은 취소 원인의 종료로 취소권행사에 관한 장애가 없 어져서 취소권자가 태 추인할 수도 있고 취소할 수도 있는 상 가 된 때이다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 18,
-        "option": "②"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1220,
-      "statement": "미성년자가 성년에 이른 날로부터 3년, 법정대리인이 미성년자의 매매계약을 안 날로부 터 3년, 그 매매계약을 한 날로부터 10년 중 어느 것이든 먼저 경과하면 취소권을 행사 할 수 없다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 18,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1221,
-      "statement": "민법 제146조의 취소권 소멸 규정은 제 척기간이 아니라 소멸시효기간에 관한 것이다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 18,
-        "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1222,
-      "statement": "취소권은 재판상이 든 재판외이든 민법 제146조가 규정하는 기간 내에 행사하면 된다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 18,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1223,
-      "statement": "해제조건이 있는 법률행위는 조건이 성취한 때부터 효력이 생긴다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 20,
-        "option": "①"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1224,
-      "statement": "조건의 성취가 미정한 권리의무는 일반규정에 의해 처분, 상속 또는 담보로 할 수 없다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 20,
-        "option": "②"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1225,
-      "statement": "선량한 풍속 기타 사회질서에 위반한 조건의 법률행위는 조건이 없는 법률행위이다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 20,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1226,
-      "statement": "해제조건이 법률행위의 당시에 이미 성취할 수 없는 것인 경우 그 법률행위는 무효이다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 20,
-        "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1227,
-      "statement": "기한은 특별한 사정이 없는 한 채무자의 이익을 위한 것으로 추정한다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 20,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1228,
-      "statement": "기간의 계산은 법령, 재판상의 처분 또는 법률행위에 다른 정한 바가 없으면 민법의 규정에 의한다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 21,
-        "option": "①"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1229,
-      "statement": "민법의 기간에 관한 규정은 사법관계 뿐만 아니라 공법관계에도 적용된다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 21,
-        "option": "②"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1230,
-      "statement": "나이는 출생일을 산입하여 만(滿) 나이로 계산한다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 21,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1231,
-      "statement": "기간을 일, 주, 월 또는 년으로 정한 때는 초일 불산입의 원칙이 적용되어 당사자간의 합의에 의해 이와 달리 정할 수 없다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 21,
-        "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1232,
-      "statement": "기간의 말일이 토요일 또는 공 휴일에 해당한 때는 기간은 그 익일로 만료한다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 21,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1233,
-      "statement": "소멸시효의 이익은 미리 포기할 수 있다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 22,
-        "option": "①"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1234,
-      "statement": "소멸시효는 그 기산일에 소급하여 효력이 생긴다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 2,
-      "frequency": 2,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 22,
-        "option": "②"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1235,
-      "statement": "제척기간이 경과한 때부터 장래에 향하여 권리가 소멸한다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 22,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1236,
-      "statement": "제척기간의 기산점은 특별한 사정이 없는 한 원칙적으로 권리가 발생한 때이다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 22,
-        "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1237,
-      "statement": "제척기간이 도과했는지 여부는 당사자의 주장이 없더라도 법원이 직권으로 조사하여 재판에 고려해야 한다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 22,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1238,
-      "statement": "이자 기타 1년 이내의 기간으로 정한 금전지급채권",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 23,
-        "option": "①"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1243,
-      "statement": "동시이행의 항변권이 붙은 채권의 소멸시효는 이행기부터 진행한다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 24,
-        "option": "①"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1244,
-      "statement": "이행불능으로 인한 전보배상청구권의 소멸시효는 이행불능시부터 진행한다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 24,
-        "option": "②"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1245,
-      "statement": "기한의 정 함이 없는 채권의 소멸시효는 채권이 성립한 때부터 진행한다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 24,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1246,
-      "statement": "형성권적 기한이익 상실의 특약이 있는 할부채무는 1회의 불이행시부터 바로 전액에 대해 소멸시효가 진행한다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 24,
-        "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1247,
-      "statement": "부작위를 목적으로 하는 채권의 소멸시효는 위반행위를 한 때부터 진행한다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 24,
-        "option": "⑤"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1248,
-      "statement": "재판상의 청구는 그 소송이 각하, 기각 또는 취하된 경우에는 그로부터 6월 내에 다시 재판상의 청구 등을 하지 않는 한 시효중단의 효력이 없다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 25,
-        "option": "①"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1249,
-      "statement": "시효중단의 효력있는 승인은 상대방의 권리에 관한 처분의 능력이나 권한이 있음을 요한다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 25,
-        "option": "②"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1250,
-      "statement": "시효의 중단은 원칙적으로 당사자 및 그 승계인간에만 효력이 있다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 25,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1251,
-      "statement": "압류는 시효의 이익을 받은 자에 대해 하지 않은 때에는 이를 그에게 통지한 후가 아니면 시효중단의 효력이 없다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 25,
-        "option": "④"
-      },
-      "related_videos": []
-    },
-    {
-      "id": 1252,
-      "statement": "재판상의 청구로 인해 중단한 시효는 재판이 확정된 때부터 새로이 진행한다.",
-      "answer": "O",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "2025_minbeop.pdf",
-      "source": {
-        "qid": 25,
-        "option": "⑤"
+        "qid": 30,
+        "option": "c"
       },
       "related_videos": []
     }
   ],
   "_meta": {
     "exported_at": "2026-05-16T08:59:48+00:00",
-    "total": 100,
+    "total": 94,
     "with_full_meta": 0,
     "source": "0gichul.com"
   }
