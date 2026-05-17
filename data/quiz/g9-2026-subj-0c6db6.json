@@ -1,0 +1,685 @@
+{
+  "slug": "g9-2026-subj-0c6db6",
+  "name": "재배학개론",
+  "exam_group": "국가직 9급 · 2026년",
+  "subject": "재배학개론",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 56,
+  "questions": [
+    {
+      "id": 27508,
+      "question": "습답에서는 휴립재배를 실시한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27509,
+      "question": "부식 또는 토양개량제를 시용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27510,
+      "question": "황산근 비료를 시용하고 심층시비를 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27511,
+      "question": "과산화석회를 종자에 분의해서 파종하거나 토양에 혼입한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27512,
+      "question": "광보상점에서는 이산화탄소의 흡수보다 방출이 많다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27513,
+      "question": "순광합성량은 총광합성량에 호흡량을 더한 값이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27514,
+      "question": "광포화점에서는 이산화탄소 농도와 온도가 광합성의 제한요인이 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27515,
+      "question": "일반적으로 음지식물은 양지식물보다 광보상점과 광포화점이 모두 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27516,
+      "question": "다양한 영양기관과 생식기관뿐 아니라 단세포도 조직배양에 사용 가능하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27517,
+      "question": "녹지삽과 숙지삽은 과다한 영양생장을 억제하기 위한 접목의 일종이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27518,
+      "question": "접수와 대목의 상호작용으로 인하여 나타나는 변이를 접목변이라 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27519,
+      "question": "약배양을 이용하면 동형접합체의 확보로 육종연한이 단축된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27520,
+      "question": "형매교배는 같은 기본집단에서 유래한 자식계통 간 교배이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27521,
+      "question": "계통은 잡종집단에서 특성이 다른 개체를 선발하여 증식한 개체군이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27522,
+      "question": "근교계는 계통 중에서 유전적으로 고정된 동형접합체이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27523,
+      "question": "영양번식 작물에서 영양계는 유전적으로 잡종상태라도 그대로 신품종으로 이용할 수 있다. 재배학개론 책형 1쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27524,
+      "question": "스터블멀칭은 건조지방에서 풍식과 수식을 경감시킨다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27525,
+      "question": "녹색필름의 멀칭은 투명필름 멀칭보다 지온상승 효과는 크고 잡초발생 억제 효과는 낮다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27526,
+      "question": "파의 배토는 도복을 방지하고 줄기 연백을 목적으로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27527,
+      "question": "맥류재배에서 해빙기에 얕게 골 속에 흙을 넣어주면 건조의 피해가 경감된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27528,
+      "question": "볏과목초, 피, 수수는 침수에 강하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27529,
+      "question": "수온이 높은 정체탁수에서 급히 고사할 때, 벼는 적고현상이 발생한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27530,
+      "question": "표토가 많이 씻겨 내렸을 때는 새 뿌리 발생 후 덧거름을 준다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27531,
+      "question": "질소질 비료를 많이 주면 관수해가 커진다. 2026년도 국가공무원 9급 공채 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27532,
+      "question": "(가)는 수분이 포화된 상태의 토양에서 중력수를 완전히 배제하고 남은 수분상태이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27533,
+      "question": "(나)는 작물이 이용할 수 있는 수분으로 유효수분이라 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27534,
+      "question": "(다)는 작물이 시들게 되는 토양수분상태이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27535,
+      "question": "(다)의 토양수분함량은 식토에서보다 사토에서 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27536,
+      "question": "요수량이 커지면 증산능률은 낮아진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27537,
+      "question": "기장의 요수량은 귀리보다 크고 흰명아주보다 작다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27538,
+      "question": "요수량은 작물 수분경제의 척도를 표시한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27539,
+      "question": "요수량은 일정 기간 내의 수분소비량과 건물축적량으로 산출한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27540,
+      "question": "같은 염색체상에서 함께 있는 유전자들은 서로 연관되어 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27541,
+      "question": "같은 염색체에 있는 유전자 간의 교차는 거리가 멀어질수록 적게 일어난다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27542,
+      "question": "완전연관인 경우 재조합빈도는 0%이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27543,
+      "question": "교차로 인해 상동염색체 간에 유전물질이 교환된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27544,
+      "question": "휴립구파법은 맥류의 동해를 방지할 목적으로 실시한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27545,
+      "question": "성휴법은 생육 초기의 장마철 습해를 막을 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27546,
+      "question": "누수가 심한 자갈논이나 벼의 만식재배의 경우에는 심경이 불리하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27547,
+      "question": "1모작답에서는 토양이 사질이고 겨울에 강수량이 많을 경우 추경이 춘경보다 유리하다. 재배학개론 책형 2쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27548,
+      "question": "양적 형질은 폴리진이 지배한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27549,
+      "question": "폴리진은 멘델식 유전분석을 할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27550,
+      "question": "표현형 분산은 유전분산과 환경분산을 포함한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27551,
+      "question": "유전력은 유전분산을 환경분산으로 나눈 것이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27552,
+      "question": "Bentazon은 선택성ㆍ이행성으로, 생육초기에 살포한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27553,
+      "question": "Simazine은 트리아진계이고 선택성으로, 파종 후 종자의 발아 전에 토양에 살포한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27554,
+      "question": "Linuron은 페녹시계이고, 일반 밭작물에 파종 후 토양처리제로 이용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27555,
+      "question": "Paraquat는 비피리딜리움계이고 비선택성으로, 국내에서는 판매금지 품목이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27556,
+      "question": "지베렐린은 ‘거봉’ 포도의 무핵과를 유도할 때 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27557,
+      "question": "Phosfon-D는 포인세티아의 줄기길이 단축에 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27558,
+      "question": "키네틴은 종자의 휴면을 연장하여 발아를 억제할 때 사용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27559,
+      "question": "에세폰은 오이의 암꽃 착생 수를 증가시킬 때 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27560,
+      "question": "웅성불임친, 웅성불임유지친, 임성회복친의 3종류가 필요하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27561,
+      "question": "육성된 F 품종의 핵은 rfrf 유전자형을 가지고 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27562,
+      "question": "웅성불임친은 조합능력이 높으면서 채종량이 많아야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27563,
+      "question": "임성회복친은 화분량이 많으면서 F 의 임성을 온전히 회복시킬 1 수 있어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

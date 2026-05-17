@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 20488,
+      "id": 29857,
       "statement": "℃, atm에서 A는 기체이다.",
       "answer": "X",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 20489,
+      "id": 29858,
       "statement": "℃에서 기체가 응축되는 압력이 존재한다.",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 20490,
+      "id": 29859,
       "statement": "대기압에서 고체가 승화하는 온도가 존재한다.",
       "answer": "X",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 20491,
+      "id": 29860,
       "statement": "T에서 A는 고체와 액체로만 존재한다.",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 20492,
+      "id": 29861,
       "statement": "atm보다 낮은 압력에서 A는 액체로 존재하지 않는다.",
       "answer": "O",
       "explanation": "",
@@ -116,7 +116,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 5,
     "with_full_meta": 0,
     "source": "0gichul.com"

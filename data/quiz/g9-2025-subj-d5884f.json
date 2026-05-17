@@ -10,7 +10,7 @@
   "count": 37,
   "questions": [
     {
-      "id": 4518,
+      "id": 38024,
       "question": "XML 문서는 데이터를 교환하는 용도로 활용되고 있다.",
       "answer": "O",
       "explanation": "",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": 4519,
+      "id": 38025,
       "question": "정형 데이터(structured data)는 미리 정해진 구조에 따라 데이터를 저장하며 관계 데이터베이스에서 널리 사용된다.",
       "answer": "O",
       "explanation": "",
@@ -34,7 +34,7 @@
       }
     },
     {
-      "id": 4520,
+      "id": 38026,
       "question": "비정형 데이터(unstructured data)에는 사전에 데이터 타입이 정해지지 않은 텍스트도 있다.",
       "answer": "O",
       "explanation": "",
@@ -46,7 +46,7 @@
       }
     },
     {
-      "id": 4521,
+      "id": 38027,
       "question": "반정형 데이터(semi-structured data)는 데이터 구조와 내용을 별도의 파일 형태로 저장한다.",
       "answer": "X",
       "explanation": "",
@@ -58,7 +58,7 @@
       }
     },
     {
-      "id": 4522,
+      "id": 38028,
       "question": "커밋된 후에도 해당 트랜잭션은 롤백(rollback)을 사용하여 취소가 가능하다.",
       "answer": "X",
       "explanation": "",
@@ -70,7 +70,7 @@
       }
     },
     {
-      "id": 4523,
+      "id": 38029,
       "question": "현재 수행 중인 트랜잭션을 롤백하면 트랜잭션에서 SQL 문에 의해 수행된 모든 갱신이 취소(undo)된다.",
       "answer": "O",
       "explanation": "",
@@ -82,7 +82,7 @@
       }
     },
     {
-      "id": 4524,
+      "id": 38030,
       "question": "현재 수행 중인 트랜잭션을 커밋하면 트랜잭션이 수행한 갱신을 데이터베이스에 영구적으로 반영한다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       }
     },
     {
-      "id": 4525,
+      "id": 38031,
       "question": "트랜잭션은 데이터베이스 관리 시스템(database management system)에서 데이터를 다루는 논리적인 작업의 단위이다.",
       "answer": "O",
       "explanation": "",
@@ -106,7 +106,7 @@
       }
     },
     {
-      "id": 4526,
+      "id": 38032,
       "question": "UNION은 UNION ALL과 달리 ORDER BY 절을 자동으로 추가한다.",
       "answer": "X",
       "explanation": "",
@@ -118,7 +118,7 @@
       }
     },
     {
-      "id": 4527,
+      "id": 38033,
       "question": "UNION은 UNION ALL보다 연산 결과 릴레이션의 속성 개수가 크다.",
       "answer": "X",
       "explanation": "",
@@ -130,7 +130,7 @@
       }
     },
     {
-      "id": 4528,
+      "id": 38034,
       "question": "UNION은 중복된 투플을 제거하며, UNION ALL은 중복된 투플을 포함한다.",
       "answer": "O",
       "explanation": "",
@@ -142,7 +142,7 @@
       }
     },
     {
-      "id": 4529,
+      "id": 38035,
       "question": "UNION은 두 릴레이션에서 서로 대응되는 속성의 도메인(domain)이 다를 때만 사용할 수 있다. 2025년도 국가공무원 9급 공채 필기시험",
       "answer": "X",
       "explanation": "",
@@ -154,7 +154,7 @@
       }
     },
     {
-      "id": 4530,
+      "id": 38036,
       "question": "홍길동 CS102 성춘향 CS101 Name CID",
       "answer": "O",
       "explanation": "",
@@ -166,7 +166,7 @@
       }
     },
     {
-      "id": 4531,
+      "id": 38037,
       "question": "홍길동 CS102 성춘향 CS101 Name CID",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       }
     },
     {
-      "id": 4532,
+      "id": 38038,
       "question": "이몽룡 MG201 장보고 MG202 Name CID",
       "answer": "X",
       "explanation": "",
@@ -190,7 +190,7 @@
       }
     },
     {
-      "id": 4533,
+      "id": 38039,
       "question": "문서 기반(document-based) 데이터베이스는 주로 노드(node)와 간선(edge)을 사용하여 데이터를 관리한다.",
       "answer": "X",
       "explanation": "",
@@ -202,7 +202,7 @@
       }
     },
     {
-      "id": 4534,
+      "id": 38040,
       "question": "키－값(key-value) 데이터베이스는 분산하여 저장하는 시스템 환경에 적용하기에는 적합하지 않다.",
       "answer": "X",
       "explanation": "",
@@ -214,7 +214,7 @@
       }
     },
     {
-      "id": 4535,
+      "id": 38041,
       "question": "트랜잭션을 지원하여 ACID(Atomicity Consistency Isolation Durability)를 필수적으로 보장한다.",
       "answer": "X",
       "explanation": "",
@@ -226,7 +226,7 @@
       }
     },
     {
-      "id": 4536,
+      "id": 38042,
       "question": "문서 기반 데이터베이스는 반정형 데이터 형식을 지원한다. 데이터베이스론 책형 2쪽",
       "answer": "O",
       "explanation": "",
@@ -238,7 +238,7 @@
       }
     },
     {
-      "id": 4537,
+      "id": 38043,
       "question": "SQL 표준에 채택된 적은 없으나 실무상 유용하게 사용한다.",
       "answer": "X",
       "explanation": "",
@@ -250,7 +250,7 @@
       }
     },
     {
-      "id": 4538,
+      "id": 38044,
       "question": "실행될 시점(event)과 이때 수행되어야 할 동작(action)으로 구성된다.",
       "answer": "O",
       "explanation": "",
@@ -262,7 +262,7 @@
       }
     },
     {
-      "id": 4539,
+      "id": 38045,
       "question": "무결성 제약 조건을 구현하는데 사용할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -274,7 +274,7 @@
       }
     },
     {
-      "id": 4540,
+      "id": 38046,
       "question": "데이터베이스에서 발생하는 특정 사건에 대하여 자동적으로 수행하는 구문이다.",
       "answer": "O",
       "explanation": "",
@@ -286,7 +286,7 @@
       }
     },
     {
-      "id": 4541,
+      "id": 38047,
       "question": "강제 접근제어는 정보를 유출 시키는 트로이 목마 공격에 대하여 임의 접근제어보다 취약하다.",
       "answer": "X",
       "explanation": "",
@@ -298,7 +298,7 @@
       }
     },
     {
-      "id": 4542,
+      "id": 38048,
       "question": "임의 접근제어는 데이터 소유자가 데이터에 대한 접근 권한을 제어하며, 주체 간 권한 위임이 가능하다.",
       "answer": "O",
       "explanation": "",
@@ -310,7 +310,7 @@
       }
     },
     {
-      "id": 4543,
+      "id": 38049,
       "question": "역할 기반 접근제어는 역할의 권한 변경 시 사용자마다 변경된 권한을 적용해야 한다.",
       "answer": "X",
       "explanation": "",
@@ -322,7 +322,7 @@
       }
     },
     {
-      "id": 4544,
+      "id": 38050,
       "question": "Bell-LaPadula 모델은 허가 등급이 높은 주체가 허가 등급이 낮은 객체를 기록할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -334,7 +334,7 @@
       }
     },
     {
-      "id": 4545,
+      "id": 38051,
       "question": "각 과제는 최소한 한 명의 직원에게 할당되어야 한다.",
       "answer": "O",
       "explanation": "",
@@ -346,7 +346,7 @@
       }
     },
     {
-      "id": 4546,
+      "id": 38052,
       "question": "동일한 과제가 여러 명에게 할당될 수도 있다.",
       "answer": "O",
       "explanation": "",
@@ -358,7 +358,7 @@
       }
     },
     {
-      "id": 4547,
+      "id": 38053,
       "question": "각 직원은 최소한 한 과제를 할당받아야 한다.",
       "answer": "X",
       "explanation": "",
@@ -370,7 +370,7 @@
       }
     },
     {
-      "id": 4548,
+      "id": 38054,
       "question": "어떤 직원은 과제를 여러 개 할당받을 수도 있다.",
       "answer": "O",
       "explanation": "",
@@ -382,7 +382,7 @@
       }
     },
     {
-      "id": 4551,
+      "id": 38057,
       "question": "삽입 이상(insertion anomaly)",
       "answer": "X",
       "explanation": "",
@@ -394,7 +394,7 @@
       }
     },
     {
-      "id": 4552,
+      "id": 38058,
       "question": "연쇄 복귀(cascading rollback) 2025년도 국가공무원 9급 공채 필기시험",
       "answer": "X",
       "explanation": "",
@@ -406,7 +406,7 @@
       }
     },
     {
-      "id": 4553,
+      "id": 38059,
       "question": "테이블에서 한 개 이상의 속성을 이용하여 생성한다.",
       "answer": "O",
       "explanation": "",
@@ -418,7 +418,7 @@
       }
     },
     {
-      "id": 4554,
+      "id": 38060,
       "question": "빠른 검색과 효율적인 레코드 접근을 가능하게 한다.",
       "answer": "O",
       "explanation": "",
@@ -430,7 +430,7 @@
       }
     },
     {
-      "id": 4555,
+      "id": 38061,
       "question": "희소 인덱스(sparse index)는 그 인덱스가 클러스터링 인덱스인 경우 사용할 수 없다.",
       "answer": "X",
       "explanation": "",
@@ -442,7 +442,7 @@
       }
     },
     {
-      "id": 4556,
+      "id": 38062,
       "question": "데이터에서 수정, 삭제 등의 변경이 발생하면 인덱스를 재구성할 수 있다.",
       "answer": "O",
       "explanation": "",

@@ -1,0 +1,733 @@
+{
+  "slug": "na5-2025-subj-8d5d23",
+  "name": "자료해석영역",
+  "exam_group": "국회직 5급 · 2025년",
+  "subject": "자료해석영역",
+  "phase": null,
+  "source": "국회직 5급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 60,
+  "questions": [
+    {
+      "id": 39525,
+      "question": "2024년 상반기 법안 처리율이 가장 높은 사무관은 A이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39526,
+      "question": "2024년 하반기 법안 처리율이 가장 높은 사무관은 C이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39527,
+      "question": "2024년 전체 기간 동안 법안 처리 건수가 가장 많은 사무관은 B이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39528,
+      "question": "2024년 전체 기간 동안 법안 처리율이 가장 높은 사무관은 C이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39529,
+      "question": "2024년 전체 기간 동안 법안 처리율이 가장 낮은 사무관은 E이다. 1 - 2025년도 제41회 입법고시 2교시 자료해석",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39530,
+      "question": "2020∼2023년 A국 전체 공공기관 수입 중 기금관리형 준정부기관 수입이 차지하는 비중은 매년 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39531,
+      "question": "2020∼2023년 A국 기타공공기관 임직원 정원 중 은행형 공공기관 정원이 차지하는 비중은 매년 감소한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39532,
+      "question": "2020∼2023년 A국 시장형 공기업의 장애인 의무고용인원 대비 장애인 고용인원의 비율은 매년 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39533,
+      "question": "2022년 A국 공기업과 준정부기관 장애인 고용인원의 합은 전년 대비 감소하였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39534,
+      "question": "2023년 A국 전체 공공기관 임직원 정원은 전년 대비 감소하였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39535,
+      "question": "C의 기본 요금 중 메모리와 네트워크 요금의 합은 B의 기본 요금 중 메모리 요금보다 작다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39536,
+      "question": "A∼C의기본 요금중 메모리요금의 비중은각각 40%를초과한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39537,
+      "question": "A의 기본 요금이 C의 기본 요금보다 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39538,
+      "question": "C가3년선결제계약을한경우C의월간비용절감액은1,300달러 보다 많다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39539,
+      "question": "A가 1년, B가 3년 선결제 계약을 한 경우 클라우드 서비스 가격은 A가 B보다 낮다. - 5 해석영역 책형 가",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39540,
+      "question": "2019년부터 2023년까지 발급 건수가 매년 전년 대비감소하는 발급 수단은 3개이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39541,
+      "question": "2019년부터 2023년까지 발급액이 매년 전년 대비 감소하는 발급 수단은 2개이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39542,
+      "question": "2019년부터 2022년까지 휴대폰을 통한 현금영수증 발급 건수 1건당 발급액은 매년 전년 대비 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39543,
+      "question": "2018년부터 2021년까지 현금영수증 전체 발급액 중 등록번호를 통한 발급액이 차지하는 비중은 매년 30% 이상이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39544,
+      "question": "2022년 현금영수증 전체 발급 건수 대비 발급 건수의 비중이 전년 대비 증가한 발급수단은 2개이다. 9 - 2025년도 제41회 입법고시 2교시 자료해석",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39545,
+      "question": "2019∼2023년 동안 마약 밀수 단속 건수 대비 마약 밀수 단속 금 액이 가장 낮은 해는 2022년이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39546,
+      "question": "2023년 12월에 항공여행자를 통하여 반입된 마약류의 단속 건수는 17건이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39547,
+      "question": "2023년 필로폰의 단속 건수 대비 중량은 전년 대비 증가하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39548,
+      "question": "2023년 12월에 2품목 이상 단속된 건수는 10건 이하이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39549,
+      "question": "2024년 12월에 특송화물을 통하여 반입된 마약류의 단속 건수가 2023년 12월과 동일하다면 2023년 대비 2024년 특송화물을 통하여 반입된 마약류 단속 건수의 증가율은 30% 이상이다. - 10 해석영역 책형 가 ※ 다음 <표 1>, <표 2> 및 <표 3>은 갑국의 학교폭력 실태조사 결과에 대한 자료이다. 다음 자료를 근거로 답하시오. [문 19. ～ 문 20.] <표 1> 연도별 참여율, 피해 응답률 및 피해 응답 인원 (단위: %, 만명) 구분 2019년 2020년 2021년 2022년 2023년 2024년 참여율 90.7 82.6 85.4 82.9 82.6 81.7 피해 응답률 1.6 0.9 1.1 1.7 1.9 2.1 피해 응답 인원 6.0 2.7 3.6 5.4 5.9 6.8 참여 인원 ※ 1) 참여율(%) = 실태조사 대상 인원 × 피해 응답 인원 2) 피해 응답률(%) = 참여 인원 × 3) 제시된 비율은 소수점 아래 둘째 자리에서 반올림한 값임 <표 2> 2024년 학교폭력 피해 유형별 비율 (단위: %) 언어 신체 집단 사이버 금품 구분 성폭력 스토킹 기타 폭력 폭력 따돌림 폭력 갈취 전체 39.4 15.5 15.5 7.4 5.9 5.4 5.3 5.6 초등학생 39.0 16.7 14.3 6.3 5.4 5.7 6.2 6.4 중학생 40.0 13.5 17.7 9.2 6.7 4.9 3.4 4.6 고등학생 41.3 11.6 17.6 10.4 7.2 4.0 3.7 4.2 ※ 1) 복수응답 없음 2) 제시된 비율은 소수점 아래 둘째 자리에서 반올림한 값임 <표 3> 2024년 학교폭력 가해자 유형 (단위: %) 같은 학교 같은 학교 같은 반 다른 학교 구분 같은 학년 다른 학년 기타 학생 학생 다른 반 학생 학생 전체 48.4 30.9 8.1 6.0 6.6 초등학생 48.8 29.7 9.2 5.3 7.0 중학생 48.3 33.3 5.8 7.0 5.6 고등학생 45.8 33.1 5.7 8.3 7.1 ※ 1) 복수응답 없음 2) 제시된 비율은 소수점 아래 둘째 자리에서 반올림한 값임 10 - 2025년도 제41회 입법고시 2교시 자료해석",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39551,
+      "question": "2020년부터 2024년까지 총수입은 매년 증가하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39552,
+      "question": "통합재정수지 적자 규모는 2021년이 2020년보다 크다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39553,
+      "question": "관리재정수지 적자 규모는 2023년이 2022년보다 작다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39554,
+      "question": "2024년의 총지출은 2023년보다 18.2조원 증가하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39555,
+      "question": "2020년의총수입대비통합재정수지적자규모의비율은15% 이상 이다. 12 - 2025년도 제41회 입법고시 2교시 자료해석",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39556,
+      "question": "2021년 교정국에 접수된 인권침해사건 중 기각 처리된 건수는 적 어도 120건 이상이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39557,
+      "question": "2019～2023년 중 인용률이 가장 높은 해에 이첩 건수가 가장 많다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39558,
+      "question": "2019～2023년 중 각하율이 50% 이하인 해는 3개이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39559,
+      "question": "기타를 제외하고 2020년 인권침해사건 접수 건수의 전년 대비 증 가율이 가장 큰 법무기관은 검찰국이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39560,
+      "question": "2022년 인권침해사건 총 접수 건수는 전년 대비 증가하였다. - 13 해석영역 책형 가",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39561,
+      "question": "2018년부터 2022년까지 매년 신재생에너지 외의 에너지 총발전 량은 신재생에너지 발전량의 11배 이상이었다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39562,
+      "question": "2019년부터 2022년까지 매년 재생에너지 발전량은 신에너지 발 전량의 6배 이상이었다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39563,
+      "question": "2023년 신재생에너지 발전량이 전체 에너지 총발전량에서 차지 하는 비중이 2022년과 같고 2023년 신재생에너지 발전량이 60,000 GWh라면, 2023년 전체 에너지 총발전량은 650,000GWh 이상일 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39564,
+      "question": "신재생에너지 발전량이 전체 에너지 총발전량에서 차지하는 비 중은 2019년부터 2022년까지 매년 전년 대비 증가하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39565,
+      "question": "2019년부터 2022년까지 재생에너지 발전량 대비 풍력 발전량의 비중은 매년 전년 대비 감소하였다. - 15 해석영역 책형 가",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39566,
+      "question": "갑은 E배터리를 구매할 것이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39567,
+      "question": "을은 G배터리를 구매할 것이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39568,
+      "question": "병은 D배터리를 구매할 것이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39569,
+      "question": "정은 C배터리를 구매할 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39570,
+      "question": "병이 구매한 배터리가 재입고 되어도, 정이 구매하는 배터리는 달라지지 않을 것이다. 16 - 2025년도 제41회 입법고시 2교시 자료해석",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39571,
+      "question": "2019년부터 2021년까지 리더연구의 과제 1개당 연구비지원금은 매년 전년 대비 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39572,
+      "question": "2019년부터 2022년까지 우수연구의 과제 수는 생애기본연구 과제 수의 1.5배보다 매년 많다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39573,
+      "question": "2020년생애기본연구의과제1개당연구비지원금은4,000만원이상 이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39574,
+      "question": "생애기본연구에 속한 연구유형 중 과제 1개당 연구비지원금이 가장 높은 연구유형은 2021년과 2022년에 서로 다르다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39575,
+      "question": "2020년 전체 연구비지원금에서 중견연구의 연구비지원금이 차지 하는 비중은 전년 대비 증가하였다. - 17 해석영역 책형 가",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39576,
+      "question": "2021년 공유재산 가액 중 시·군·구유 재산가액의 비중은 전년 대비 증가하였으며, 60% 미만이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39577,
+      "question": "2021년 일반재산의 재산가액은 전년 대비 7% 이상 증가하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39578,
+      "question": "2020년 대비 2021년 재산가액의 증가율이 가장 큰 공유재산의 종 류는 건물이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39579,
+      "question": "2021년 시·군·구유 재산가액 중 행정재산인 토지의 가액은 33조원 이상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39580,
+      "question": "2021년 행정재산 중 건물 한 개당 면적은 토지 한 개당 면적보다 크다. - 20 해석영역 책형 가",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39581,
+      "question": "C금속의 2022년 감소량이 8,000톤이었다면 C금속의 2022년 실제 재고량은 37,800톤 이상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39582,
+      "question": "E금속의 2023년 감소량은 10,000톤 미만이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39583,
+      "question": "2024년 목표재고량이 전년 대비 감소한 금속은 모두 2023년과 2024년 달성률이 각각 65% 이상이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39584,
+      "question": "2024년 실제재고량이 전년 대비 증가한 금속 중 2024년 신규비축 량이 전년 대비 증가한 금속은 2개이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 39585,
+      "question": "2024년 달성률이 가장 높은 금속은 2023년 달성률도 가장 높다. 20 - 2025년도 제41회 입법고시 2교시 자료해석 ※ 다음 <표1>, <표 2>는 2019∼2023년 갑국 50세 이상 노동시장 현황에 대한 자료이다. 다음 자료를 근거로 답하시오. [문 39. ～ 문 40.] <표 1> 50세 이상 경제활동인구 및 취업자 현황 (단위: 천명) 구 분 2019년 2020년 2021년 2022년 2023년 경제활동인구 11,604 11,917 12,350 12,900 13,298 취업자 11,354 11,664 12,116 12,753 13,129 임금근로자 7,141 7,503 7,907 8,463 8,706 비임금근로자 4,213 4,161 4,209 4,290 4,423 <표 2> 50세 이상 임금근로자의 인구사회학적 구성 (단위: 천명) 구 분 2019년 2020년 2021년 2022년 2023년 50~54세 2,378 2,413 2,550 2,703 2,664 연 55~59세 2,057 2,088 2,098 2,180 2,230 령 60~64세 1,288 1,399 1,501 1,632 1,739 별 65세 이상 1,418 1,603 1,758 1,948 2,073 성 남성 3,867 4,067 4,274 4,584 4,622 별 여성 3,274 3,436 3,633 3,879 4,084 중졸 이하 2,023 2,032 2,043 2,017 1,904 학 고졸 2,938 3,021 3,300 3,557 3,705 력 대졸 1,831 2,065 2,211 2,472 2,630 별 대학원졸 349 385 353 417 467 합계 7,141 7,503 7,907 8,463 8,706",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

@@ -10,7 +10,7 @@
   "count": 58,
   "questions": [
     {
-      "id": 14990,
+      "id": 23354,
       "question": "닳아 없어지지 않는다.",
       "answer": "O",
       "explanation": "",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": 14991,
+      "id": 23355,
       "question": "제조하는 것이 아니라 개발한다.",
       "answer": "O",
       "explanation": "",
@@ -34,7 +34,7 @@
       }
     },
     {
-      "id": 14992,
+      "id": 23356,
       "question": "개발 완료 후 시험이 어렵고 수정할 수 없다.",
       "answer": "X",
       "explanation": "",
@@ -46,7 +46,7 @@
       }
     },
     {
-      "id": 14993,
+      "id": 23357,
       "question": "유형의 매체에 저장되지만 개념적이고 무형적이다.",
       "answer": "O",
       "explanation": "",
@@ -58,7 +58,7 @@
       }
     },
     {
-      "id": 14994,
+      "id": 23358,
       "question": "유일한 제품이나 서비스를 만들기 위해 수행되어야 할 일시적 인 활동 과정이다.",
       "answer": "X",
       "explanation": "",
@@ -70,7 +70,7 @@
       }
     },
     {
-      "id": 14995,
+      "id": 23359,
       "question": "소프트웨어의 개발과 운용, 유지보수에 대하여 체계적이며, 훈 련된 계량화할 수 있는 접근 방식을 적용한 것이다.",
       "answer": "O",
       "explanation": "",
@@ -82,7 +82,7 @@
       }
     },
     {
-      "id": 14996,
+      "id": 23360,
       "question": "프로그램을 설계하고 개발하며, 운용, 유지보수에 관련된 문서 를 작성하는 데 필요한 과학적인 지식을 실용화한 것이다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       }
     },
     {
-      "id": 14997,
+      "id": 23361,
       "question": "효율적으로 작동하는 신뢰성 있는 소프트웨어를 경제적으로 획 득하기 위해 적절한 공학적 원리를 수립하여 활용하는 것이다.",
       "answer": "O",
       "explanation": "",
@@ -106,7 +106,7 @@
       }
     },
     {
-      "id": 15001,
+      "id": 23365,
       "question": "요구 분석 → 구조 설계 → 모듈 설계 → 구현",
       "answer": "X",
       "explanation": "",
@@ -118,7 +118,7 @@
       }
     },
     {
-      "id": 15002,
+      "id": 23366,
       "question": "변경에 대한 대응보다 계획 준수가 더욱 중요하다.",
       "answer": "X",
       "explanation": "",
@@ -130,7 +130,7 @@
       }
     },
     {
-      "id": 15003,
+      "id": 23367,
       "question": "문서화보다 동작하는 소프트웨어가 더욱 중요하다.",
       "answer": "O",
       "explanation": "",
@@ -142,7 +142,7 @@
       }
     },
     {
-      "id": 15004,
+      "id": 23368,
       "question": "프로세스나 도구보다 개인과 상호작용이 더욱 중요하다.",
       "answer": "O",
       "explanation": "",
@@ -154,7 +154,7 @@
       }
     },
     {
-      "id": 15005,
+      "id": 23369,
       "question": "계약 협상보다고객과의지속적인 협력이 더욱 중요하다.",
       "answer": "O",
       "explanation": "",
@@ -166,7 +166,7 @@
       }
     },
     {
-      "id": 15006,
+      "id": 23370,
       "question": "OCP(Open-Closed Principle)",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       }
     },
     {
-      "id": 15007,
+      "id": 23371,
       "question": "LSP(Liskov Substitution Principle)",
       "answer": "O",
       "explanation": "",
@@ -190,7 +190,7 @@
       }
     },
     {
-      "id": 15008,
+      "id": 23372,
       "question": "ISP(Interface Segregation Principle)",
       "answer": "X",
       "explanation": "",
@@ -202,7 +202,7 @@
       }
     },
     {
-      "id": 15009,
+      "id": 23373,
       "question": "DIP(Dependency Inversion Principle)",
       "answer": "X",
       "explanation": "",
@@ -214,7 +214,7 @@
       }
     },
     {
-      "id": 15010,
+      "id": 23374,
       "question": "ISO/IEC 25019는 소프트웨어 자체에 대한 품질평가보다 사용자가 소프트웨어를 사용하는 동안의 경험에 대한 품질 평가를 위한 것이다.",
       "answer": "O",
       "explanation": "",
@@ -226,7 +226,7 @@
       }
     },
     {
-      "id": 15011,
+      "id": 23375,
       "question": "효율성(efficiency)은 유용성, 신뢰성, 쾌적성,안정성 기반으로 설정된 목표와 제약조건에 대한 효과적인 달성 여부를 평가 한다.",
       "answer": "X",
       "explanation": "",
@@ -238,7 +238,7 @@
       }
     },
     {
-      "id": 15012,
+      "id": 23376,
       "question": "맥락 포괄성(context coverage)은 다른 상황이나 환경에서 얼마나 잘 적응하고 대응하는지, 유연하게 확장이나 변경할 수 있는지에 대하여 평가한다.",
       "answer": "O",
       "explanation": "",
@@ -250,7 +250,7 @@
       }
     },
     {
-      "id": 15013,
+      "id": 23377,
       "question": "위험 회피성(freedom from risk)은 소프트웨어가 예측 가능 한지, 소프트웨어 사용으로 인한 사용자의 건강과 안전, 경제적, 환경적 위험을 완화하는가에 대해 평가한다.",
       "answer": "O",
       "explanation": "",
@@ -262,7 +262,7 @@
       }
     },
     {
-      "id": 15014,
+      "id": 23378,
       "question": "MTTR(Mean Time To Repair)가 높을수록 정확성이 좋다.",
       "answer": "X",
       "explanation": "",
@@ -274,7 +274,7 @@
       }
     },
     {
-      "id": 15015,
+      "id": 23379,
       "question": "MTTF(Mean Time To Failure)가 낮을수록 가용성이 좋다.",
       "answer": "O",
       "explanation": "",
@@ -286,7 +286,7 @@
       }
     },
     {
-      "id": 15016,
+      "id": 23380,
       "question": "MTTC(Mean Time To Change)가 낮을수록 유지보수성이 좋다.",
       "answer": "O",
       "explanation": "",
@@ -298,7 +298,7 @@
       }
     },
     {
-      "id": 15017,
+      "id": 23381,
       "question": "MTBF(Mean Time Between Failure)가 높을수록 신뢰성이 좋다.",
       "answer": "O",
       "explanation": "",
@@ -310,7 +310,7 @@
       }
     },
     {
-      "id": 15018,
+      "id": 23382,
       "question": "‘가’ 작업의 EST는 ‘나’ 작업의 LST와 같다.",
       "answer": "O",
       "explanation": "",
@@ -322,7 +322,7 @@
       }
     },
     {
-      "id": 15019,
+      "id": 23383,
       "question": "‘다’ 작업의 EFT는 ‘가’ 작업의 LFT와 같다.",
       "answer": "O",
       "explanation": "",
@@ -334,7 +334,7 @@
       }
     },
     {
-      "id": 15020,
+      "id": 23384,
       "question": "‘라’ 작업의 EST는 ‘마’ 작업의 LST와 같다.",
       "answer": "X",
       "explanation": "",
@@ -346,7 +346,7 @@
       }
     },
     {
-      "id": 15021,
+      "id": 23385,
       "question": "‘마’ 작업의 EFT는 ‘다’ 작업의 LFT와 같다.",
       "answer": "O",
       "explanation": "",
@@ -358,7 +358,7 @@
       }
     },
     {
-      "id": 15022,
+      "id": 23386,
       "question": "과거 유사 프로젝트 수행 경험을 바탕으로 개발 비용을 추정 한다.",
       "answer": "O",
       "explanation": "",
@@ -370,7 +370,7 @@
       }
     },
     {
-      "id": 15023,
+      "id": 23387,
       "question": "전문가의 주관적인 판단으로 실제 개발 비용과 편차가 클 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -382,7 +382,7 @@
       }
     },
     {
-      "id": 15024,
+      "id": 23388,
       "question": "전문가 의견을 조정자가 수집하고 이를 조정하는 상향식 방법 이다.",
       "answer": "X",
       "explanation": "",
@@ -394,7 +394,7 @@
       }
     },
     {
-      "id": 15025,
+      "id": 23389,
       "question": "전문가들의 편견이나 분위기에 끌려가지 않도록 조정자가 필요 하다. - 27",
       "answer": "O",
       "explanation": "",
@@ -406,7 +406,7 @@
       }
     },
     {
-      "id": 15026,
+      "id": 23390,
       "question": "검증 가능성(verifiability)은 모든 요구사항이 구현 가능한지 검증해야 한다.",
       "answer": "X",
       "explanation": "",
@@ -418,7 +418,7 @@
       }
     },
     {
-      "id": 15027,
+      "id": 23391,
       "question": "일관성(consistency)은 모든 요구사항은 모순되지 않고 하나의 해석만 가능해야 한다.",
       "answer": "O",
       "explanation": "",
@@ -430,7 +430,7 @@
       }
     },
     {
-      "id": 15028,
+      "id": 23392,
       "question": "완전성(completeness)은 사용자의 모든 요구사항을 포함하고 있는지를 확인해야 한다.",
       "answer": "O",
       "explanation": "",
@@ -442,7 +442,7 @@
       }
     },
     {
-      "id": 15029,
+      "id": 23393,
       "question": "추적 가능성(traceability)은 설계문서 및 기능과 요구사항의 관계가 추적 가능해야 한다. 27 -",
       "answer": "O",
       "explanation": "",
@@ -454,7 +454,7 @@
       }
     },
     {
-      "id": 15030,
+      "id": 23394,
       "question": "자료사전은 자료 흐름도에 존재하는 데이터에 대한 자세한 설명을 기록한 것이다.",
       "answer": "O",
       "explanation": "",
@@ -466,7 +466,7 @@
       }
     },
     {
-      "id": 15031,
+      "id": 23395,
       "question": "배경도는 하나의 프로세스로 구성되며, 개발하게 될 시스템의 명칭을 부여한다.",
       "answer": "O",
       "explanation": "",
@@ -478,7 +478,7 @@
       }
     },
     {
-      "id": 15032,
+      "id": 23396,
       "question": "소단위 명세서는 자료 흐름도에서 프로세스의 실제 알고리즘 형태를 작성한다.",
       "answer": "O",
       "explanation": "",
@@ -490,7 +490,7 @@
       }
     },
     {
-      "id": 15033,
+      "id": 23397,
       "question": "E-R 다이어그램은 사용사례에 대하여 도식화하여 액터에 대한 설명을 작성한다.",
       "answer": "X",
       "explanation": "",
@@ -502,7 +502,7 @@
       }
     },
     {
-      "id": 15035,
+      "id": 23399,
       "question": "모든 필터가 동시에 작동하는 병렬처리 형식으로 처리 속도가 향상된다.",
       "answer": "X",
       "explanation": "",
@@ -514,7 +514,7 @@
       }
     },
     {
-      "id": 15036,
+      "id": 23400,
       "question": "서비스 크기를 작게 나눈 아키텍처로 서비스를 독립적으로 개발하고 확장할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -526,7 +526,7 @@
       }
     },
     {
-      "id": 15037,
+      "id": 23401,
       "question": "서브 시스템이 입력 데이터를 받아 처리하고 결과를 다른 시스템에 보내는 작업이 반복된다.",
       "answer": "O",
       "explanation": "",
@@ -538,7 +538,7 @@
       }
     },
     {
-      "id": 15038,
+      "id": 23402,
       "question": "소프트웨어 기능을 수직으로 상호작용하는 여러 층으로 분리한 구조로 각 층사이에 상호작용이 필요한 시스템에 가장 적합 하다. 28 -",
       "answer": "X",
       "explanation": "",
@@ -550,7 +550,7 @@
       }
     },
     {
-      "id": 15042,
+      "id": 23406,
       "question": "구현 관점(Implementation view)",
       "answer": "X",
       "explanation": "",
@@ -562,7 +562,7 @@
       }
     },
     {
-      "id": 15051,
+      "id": 23415,
       "question": "적응 유지보수(adaptive maintenance)",
       "answer": "O",
       "explanation": "",
@@ -574,7 +574,7 @@
       }
     },
     {
-      "id": 15052,
+      "id": 23416,
       "question": "완전 유지보수(perfective maintenance)",
       "answer": "O",
       "explanation": "",
@@ -586,7 +586,7 @@
       }
     },
     {
-      "id": 15053,
+      "id": 23417,
       "question": "수정 유지보수(corrective maintenance)",
       "answer": "O",
       "explanation": "",
@@ -598,7 +598,7 @@
       }
     },
     {
-      "id": 15054,
+      "id": 23418,
       "question": "예방 유지보수(preventive maintenance) - 31",
       "answer": "X",
       "explanation": "",
@@ -610,7 +610,7 @@
       }
     },
     {
-      "id": 15055,
+      "id": 23419,
       "question": "Middle Man Message Chains",
       "answer": "X",
       "explanation": "",
@@ -622,7 +622,7 @@
       }
     },
     {
-      "id": 15056,
+      "id": 23420,
       "question": "Middle Man Divergent Change",
       "answer": "X",
       "explanation": "",
@@ -634,7 +634,7 @@
       }
     },
     {
-      "id": 15057,
+      "id": 23421,
       "question": "Shotgun Surgery Message Chains",
       "answer": "X",
       "explanation": "",
@@ -646,7 +646,7 @@
       }
     },
     {
-      "id": 15058,
+      "id": 23422,
       "question": "Shotgun Surgery Divergent Change",
       "answer": "O",
       "explanation": "",
@@ -658,7 +658,7 @@
       }
     },
     {
-      "id": 15059,
+      "id": 23423,
       "question": "CMMI-DEV의 주요 프로세스 영역은 프로세스 관리, 프로젝 트 관리, 엔지니어링, 지원으로 구성된다.",
       "answer": "O",
       "explanation": "",
@@ -670,7 +670,7 @@
       }
     },
     {
-      "id": 15060,
+      "id": 23424,
       "question": "SPICE 모델에서 표준으로 정의된 프로세스를 사용하여 계획 하고 관리하는 단계는 관리(managed) 단계이다.",
       "answer": "X",
       "explanation": "",
@@ -682,7 +682,7 @@
       }
     },
     {
-      "id": 15061,
+      "id": 23425,
       "question": "CMMI와 SPICE의 중요한 차이점은 성숙도 레벨과 심사영역 의 구분에 있으며, 두 모델의 성숙도의 최고 수준은 모두 레 벨 5이다.",
       "answer": "O",
       "explanation": "",
@@ -694,7 +694,7 @@
       }
     },
     {
-      "id": 15062,
+      "id": 23426,
       "question": "CMMI 모델에서 표준화 프로젝트 프로세스는 존재하나 프로 젝트 목표와 활동에 대한 정량적 측정이 불가능한 단계는 정의(defined) 단계이다. 31 -",
       "answer": "O",
       "explanation": "",

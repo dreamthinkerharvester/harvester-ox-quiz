@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 5269,
+      "id": 38775,
       "statement": "자료의 제 백분위수는 중앙값보다 작거나 같다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 5270,
+      "id": 38776,
       "statement": "자료의 표준편차와 변동계수의 단위는 같다.",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 5271,
+      "id": 38777,
       "statement": "자료 , 의 산술평균은 기하평균보다 크다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 5272,
+      "id": 38778,
       "statement": "% 절사평균은 전체 자료의 %를 삭제한 자료의 평균이다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 5273,
+      "id": 38779,
       "statement": "제2종 오류는 대립가설이 참일 때 귀무가설을 기각하지 못하는 오류이다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 5274,
+      "id": 38780,
       "statement": "검정력(power)은 대립가설이 참일 때 귀무가설을 기각하는 확률이다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 5275,
+      "id": 38781,
       "statement": "유의확률(p-value)이 유의수준보다 작을 때 귀무가설을 기각한다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 5276,
+      "id": 38782,
       "statement": "자료를 관찰한 후 귀무가설과 대립가설을 설정한다. 통계학개론 책형 1쪽",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 5279,
+      "id": 38785,
       "statement": "   2025년도 국가공무원 9급 공채 필기시험",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 5280,
+      "id": 38786,
       "statement": "≤ 을 만족시키는 의 값은 이다.    ",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 5284,
+      "id": 38790,
       "statement": "교통수단에 따라 소요 시간에 차이가 있는지를 일표본(one sample) －검정으로 확인할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 5285,
+      "id": 38791,
       "statement": "성별과 교통수단이 관련이 있는지를 독립성검정으로 확인할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 5286,
+      "id": 38792,
       "statement": "출근 거리와 소요 시간 사이에 선형관계가 있는지를 상관분석으로 확인할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 5287,
+      "id": 38793,
       "statement": "교통수단이 대중교통, 자가용, 기타인 비율이 : : 인지를 적합도검정으로 확인할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 5288,
+      "id": 38794,
       "statement": "   이므로 귀무가설을 기각함    ",
       "answer": "X",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 5289,
+      "id": 38795,
       "statement": "   이므로 귀무가설을 기각하지 못함     ",
       "answer": "X",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 5290,
+      "id": 38796,
       "statement": "   이므로 귀무가설을 기각함       ",
       "answer": "X",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 5291,
+      "id": 38797,
       "statement": "   이므로 귀무가설을 기각하지 못함     ",
       "answer": "O",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 5292,
+      "id": 38798,
       "statement": "유의확률은 증가하다가 감소한다.",
       "answer": "O",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 5293,
+      "id": 38799,
       "statement": "유의확률은 감소하다가 증가한다.",
       "answer": "X",
       "explanation": "",
@@ -430,7 +430,7 @@
       "related_videos": []
     },
     {
-      "id": 5294,
+      "id": 38800,
       "statement": "유의확률은 지속적으로 증가한다.",
       "answer": "X",
       "explanation": "",
@@ -451,7 +451,7 @@
       "related_videos": []
     },
     {
-      "id": 5295,
+      "id": 38801,
       "statement": "유의확률은 지속적으로 감소한다.",
       "answer": "X",
       "explanation": "",
@@ -473,7 +473,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 22,
     "with_full_meta": 0,
     "source": "0gichul.com"

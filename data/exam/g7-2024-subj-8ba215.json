@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 9916,
+      "id": 43938,
       "statement": "㉠을 “기존과 동일하게 해석하여 이 문장에 대한 일반적 해석을 준수하는 방식”으로 고친다.",
       "answer": "X",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 9917,
+      "id": 43939,
       "statement": "㉡을 “인이 106회 언급되었다면 다른 어떤 것에 비해서도 드물다고 평가할 수 없다”로 고친다.",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 9918,
+      "id": 43940,
       "statement": "㉢을 “인에 대한 기록이 적어질 수밖에 없었다”로 고친다.",
       "answer": "X",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 9919,
+      "id": 43941,
       "statement": "㉣을 “논어를 편찬한 공자 제자들의 공통적 특성”으로 고친다.",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 9920,
+      "id": 43942,
       "statement": "㉤을 “이 문장을 기록했던 시점까지”로 고친다. 언어논리영역 책형 4쪽",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 9921,
+      "id": 43943,
       "statement": "(가): ‘좋아요’를 얻기 위해 현실의 나와 다른 전시용 나를 제작하는 셈이다 (나): ‘좋아요’를 거부하고 다른 의견을 내는 사람은 불편한 대상이자 배제의 대상이 된다",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 9922,
+      "id": 43944,
       "statement": "(가): ‘좋아요’를 얻기 위해 현실의 나와 다른 전시용 나를 제작하는 셈이다 (나): ‘좋아요’의 공동체에서는 어떠한 갈등이나 의견 대립도 발생하지 않는다",
       "answer": "X",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 9923,
+      "id": 43945,
       "statement": "(가): ‘좋아요’를 얻기 위해 나의 내면과 사생활까지도 타인에게 적극적으로 개방한다 (나): ‘좋아요’를 거부하고 다른 의견을 내는 사람은 불편한 대상이자 배제의 대상이 된다",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 9924,
+      "id": 43946,
       "statement": "(가): ‘좋아요’를 얻기 위해 나의 내면과 사생활까지도 타인에게 적극적으로 개방한다 (나): ‘좋아요’의 공동체에서는 어떠한 갈등이나 의견 대립도 발생하지 않는다",
       "answer": "X",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 9925,
+      "id": 43947,
       "statement": "(가): ‘좋아요’를 얻기 위해 현실의 내가 가진 매력적 콘텐츠를 더욱 많이 발굴하는 것이다 (나): ‘좋아요’의 공동체에서는 어떠한 갈등이나 의견 대립도 발생하지 않는다 2024년도 국가공무원 7급 공채 등 필기시험",
       "answer": "X",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 9926,
+      "id": 43948,
       "statement": "ACC를 덜 활성화시킨다",
       "answer": "X",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 9927,
+      "id": 43949,
       "statement": "더 적은 정보를 처리한다",
       "answer": "X",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 9928,
+      "id": 43950,
       "statement": "주변 환경에 더 친숙해진다",
       "answer": "X",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 9929,
+      "id": 43951,
       "statement": "기존의 세계 모델을 더 확신한다",
       "answer": "X",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 9930,
+      "id": 43952,
       "statement": "정보에 대한 판단을 더 지연시킨다 언어논리영역 책형 5쪽",
       "answer": "O",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 9931,
+      "id": 43953,
       "statement": "S의 정보 중 적어도 하나가 참일 확률을 S의 모든 정보가 참일 확률로 나눈 값",
       "answer": "X",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 9932,
+      "id": 43954,
       "statement": "S의 모든 정보가 참일 확률을 S의 정보 중 적어도 하나가 참일 확률로 나눈 값",
       "answer": "O",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 9933,
+      "id": 43955,
       "statement": "S의 정보 중 기껏해야 하나가 참일 확률을 S의 모든 정보가 참일 확률로 나눈 값",
       "answer": "X",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 9934,
+      "id": 43956,
       "statement": "S의 모든 정보가 참일 확률을 S의 정보 중 기껏해야 하나가 참일 확률로 나눈 값",
       "answer": "X",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 9935,
+      "id": 43957,
       "statement": "S의 정보 중 기껏해야 하나가 참일 확률을 S의 정보 중 적어도 하나가 참일 확률로 나눈 값 2024년도 국가공무원 7급 공채 등 필기시험",
       "answer": "X",
       "explanation": "",
@@ -430,7 +430,7 @@
       "related_videos": []
     },
     {
-      "id": 9936,
+      "id": 43958,
       "statement": "내 마음속 관념이 곧 신이다.",
       "answer": "X",
       "explanation": "",
@@ -451,7 +451,7 @@
       "related_videos": []
     },
     {
-      "id": 9937,
+      "id": 43959,
       "statement": "사람과 신 이외에 마음을 지닌 존재는 없다.",
       "answer": "O",
       "explanation": "",
@@ -472,7 +472,7 @@
       "related_videos": []
     },
     {
-      "id": 9938,
+      "id": 43960,
       "statement": "신의 마음은 나의 마음을 야기하는 원인이다.",
       "answer": "X",
       "explanation": "",
@@ -493,7 +493,7 @@
       "related_videos": []
     },
     {
-      "id": 9939,
+      "id": 43961,
       "statement": "감각기관을 통한 지각적 경험은 신뢰할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -514,7 +514,7 @@
       "related_videos": []
     },
     {
-      "id": 9940,
+      "id": 43962,
       "statement": "나 이외의 다른 마음만이 내가 지각하는 바를 조종할 수 있다. 언어논리영역 책형 6쪽",
       "answer": "X",
       "explanation": "",
@@ -535,7 +535,7 @@
       "related_videos": []
     },
     {
-      "id": 9941,
+      "id": 43963,
       "statement": "약화하지 않고 약화한다",
       "answer": "X",
       "explanation": "",
@@ -557,7 +557,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:06+00:00",
     "total": 26,
     "with_full_meta": 0,
     "source": "0gichul.com"

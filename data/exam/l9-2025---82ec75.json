@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 10175,
+      "id": 42562,
       "statement": "진동수는 0.5Hz이다.",
       "answer": "X",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 10176,
+      "id": 42563,
       "statement": "파동의 속력은 4m/s이다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 10177,
+      "id": 42564,
       "statement": "＝3m인 지점이 마루가 되는 순간, ＝0m인 지점도 마루가 된다.",
       "answer": "X",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 10178,
+      "id": 42565,
       "statement": "1초일 때 물체의 가속도의 크기는 5m/s2이다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 10179,
+      "id": 42566,
       "statement": "5초일 때 물체의 속력은 2.5m/s이다.",
       "answer": "X",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 10180,
+      "id": 42567,
       "statement": "0초부터 8초까지 물체의 이동 거리는 50m이다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 10181,
+      "id": 42568,
       "statement": "0초부터 8초까지 물체의 평균 속력은 6.25m/s이다. 2025년도 지방공무원 9급 등 경력경쟁임용 필기시험",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 10182,
+      "id": 42569,
       "statement": "p가 A를 당기는 힘의 크기는 p가 B를 당기는 힘의 크기보다 크다.",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 10183,
+      "id": 42570,
       "statement": "A가 p를 당기는 힘과 B가 p를 당기는 힘은 작용 반작용 관계이다.",
       "answer": "X",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 10184,
+      "id": 42571,
       "statement": "p가 A를 당기는 힘의 크기는 보다 작다. ",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 10187,
+      "id": 42574,
       "statement": "크립톤(Kr)의 중성자 수는 36이다. ",
       "answer": "X",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 10188,
+      "id": 42575,
       "statement": "핵반응 전후 질량 결손이 일어나지 않는다. 물 리 책형 3쪽",
       "answer": "X",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 10189,
+      "id": 42576,
       "statement": "O에서는 상쇄 간섭이 일어난다.",
       "answer": "X",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 10190,
+      "id": 42577,
       "statement": "Q에서 중첩되는 소리의 위상은 서로 반대이다.",
       "answer": "O",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 10191,
+      "id": 42578,
       "statement": "두 스피커 소리의 진동수를 2배로 하면, O에서 상쇄 간섭이 일어난다.",
       "answer": "X",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 10192,
+      "id": 42579,
       "statement": "A에 있는 스피커만 제거할 때, P에서 측정되는 소리의 세기는 A에 있는 스피커를 제거하기 전보다 작아진다.",
       "answer": "X",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 10193,
+      "id": 42580,
       "statement": "운동량의 크기는 A가 B의 2배이다.",
       "answer": "O",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 10194,
+      "id": 42581,
       "statement": "속력은 B가 A보다 크다.",
       "answer": "X",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 10195,
+      "id": 42582,
       "statement": "운동 에너지는 A와 B가 같다.",
       "answer": "X",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 10196,
+      "id": 42583,
       "statement": "운동량은 물질파의 파장에 비례한다.",
       "answer": "X",
       "explanation": "",
@@ -430,7 +430,7 @@
       "related_videos": []
     },
     {
-      "id": 10197,
+      "id": 42584,
       "statement": "X는 p형 반도체이다.",
       "answer": "X",
       "explanation": "",
@@ -451,7 +451,7 @@
       "related_videos": []
     },
     {
-      "id": 10198,
+      "id": 42585,
       "statement": "스위치를 a에 연결하면 다이오드 내부의 접합면에서 양공과 전자가 결합한다.",
       "answer": "X",
       "explanation": "",
@@ -472,7 +472,7 @@
       "related_videos": []
     },
     {
-      "id": 10199,
+      "id": 42586,
       "statement": "스위치를 b에 연결하면 저항에 전류가 흐르지 않는다.",
       "answer": "X",
       "explanation": "",
@@ -493,7 +493,7 @@
       "related_videos": []
     },
     {
-      "id": 10200,
+      "id": 42587,
       "statement": "스위치를 b에 연결하면 다이오드 내부에서 X의 전자는 접합면을 향하여 이동한다. 2025년도 지방공무원 9급 등 경력경쟁임용 필기시험",
       "answer": "O",
       "explanation": "",
@@ -514,7 +514,7 @@
       "related_videos": []
     },
     {
-      "id": 10201,
+      "id": 42588,
       "statement": "기체의 온도는 A에서가 C에서보다 높다.",
       "answer": "X",
       "explanation": "",
@@ -535,7 +535,7 @@
       "related_videos": []
     },
     {
-      "id": 10202,
+      "id": 42589,
       "statement": "기체가 한 일의 크기는 A→B 과정에서가 B→C 과정에서보다 크다.",
       "answer": "X",
       "explanation": "",
@@ -556,7 +556,7 @@
       "related_videos": []
     },
     {
-      "id": 10203,
+      "id": 42590,
       "statement": "A→B 과정에서 기체의 내부 에너지 변화량은 과 같다. ",
       "answer": "X",
       "explanation": "",
@@ -577,7 +577,7 @@
       "related_videos": []
     },
     {
-      "id": 10204,
+      "id": 42591,
       "statement": "B→C 과정에서 기체가 한 일의 크기는 와 같다. ",
       "answer": "O",
       "explanation": "",
@@ -599,7 +599,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:06+00:00",
     "total": 28,
     "with_full_meta": 0,
     "source": "0gichul.com"

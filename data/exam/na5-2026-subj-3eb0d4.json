@@ -1,0 +1,439 @@
+{
+  "category": {
+    "slug": "na5-2026-subj-3eb0d4",
+    "name": "언어논리영역",
+    "exam_group": "국회직 5급 · 2026년",
+    "subject": "언어논리영역",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 28515,
+      "statement": "질서를 유지하기 위해 끊임없이 파괴되는 것은 무엇인가",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 24,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 28516,
+      "statement": "질서가 유지되는 시스템은 생명의 흐름이라고 할 수 있는가",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 24,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 28517,
+      "statement": "끊임없이 파괴되는 질서는 어떻게 그 흐름을 유지하고 있는가",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 24,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 28518,
+      "statement": "동적 평형 상태에 있는 흐름이 만들어내는 뇌세포의 DNA는 무엇 인가",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 24,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 28519,
+      "statement": "자기복제시스템은끊임없이생명의영속을가능하게할수있는가 - 13 - 리영역 책형 가",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 24,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 28520,
+      "statement": "(가) - (라) - (나) - (마) - (바) - (다)",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 28,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 28521,
+      "statement": "(가) - (바) - (라) - (나) - (마) - (다)",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 28,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 28522,
+      "statement": "(가) - (바) - (마) - (라) - (나) - (다)",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 28,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 28523,
+      "statement": "(다) - (바) - (라) - (나) - (마) - (가)",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 28,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 28524,
+      "statement": "(다) - (바) - (마) - (라) - (나) - (가) - 2026년도 제42회 입법고시 1교시 언어논리영",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 28,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 28525,
+      "statement": "경제적위기로인해 사회적유대가붕괴된집단보다종교적규율로 인해 강력하게 통합되어 개인의 자율성이 극도로 억압된 집단에서 자살률이 더 높게 나타난다면, 이는 (가)를 강화한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 29,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 28526,
+      "statement": "자살시도자들에대한심층인터뷰결과그들이자살을통해죽음의 불확실성을 제거하고 통제 가능한 상태로 만들고자 했다는 점이 밝혀진다면, 이는 (나)를 강화한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 29,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 28527,
+      "statement": "인간이 자신의 유한한 조건을 인정하면서도 무한한 가치를 추구 하는 긴장 상태를 유지할 때 정신적 건강이 가장 양호하다는 임상 결과는 (다)를 약화한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 29,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 28528,
+      "statement": "고등 생물일수록 생존 본능이 복잡하게 진화하여 신체적·정신적 긴장을 완전히 해소하기보다는 적절한 긴장을 유지하며 생명을 연장하려는 메커니즘이 뇌의 핵심 기능임이 밝혀진다면, 이는 (라)를 강화한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 29,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 28529,
+      "statement": "(나)와(다)는모두자살을주체가자신의실존적과제(죽음의가능성 대면 혹은 자아의 통합)를 성공적으로 수행한 결과로 본다는 점 에서 일치한다. - 2026년도 제42회 입법고시 1교시 언어논리영",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 29,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 28530,
+      "statement": "㉠을 “가격 변동성이 크다는 특징”으로 수정한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 31,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 28531,
+      "statement": "㉡을 “중앙집중형 중개기관을 통해”로 수정한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 31,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 28532,
+      "statement": "㉢을 “혁신적인 금융시스템”으로 수정한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 31,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 28533,
+      "statement": "㉣을 “발행 주체인 은행권의 참여가 늘어남에 따라 금융기관 간의 정산 수단으로 활용이 국한되는 추세에 있다”로 수정한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 31,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 28534,
+      "statement": "㉤을 “발행 주체에 은행과 비은행을 모두 포함”으로 수정한다. - 2026년도 제42회 입법고시 1교시 언어논리영",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 31,
+        "option": "⑤"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T06:56:05+00:00",
+    "total": 20,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

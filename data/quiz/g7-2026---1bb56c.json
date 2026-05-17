@@ -10,7 +10,7 @@
   "count": 18,
   "questions": [
     {
-      "id": 6785,
+      "id": 26544,
       "question": "밀리컨(Millikan)의 기름 방울 실험으로 발견했다.",
       "answer": "X",
       "explanation": "",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": 6786,
+      "id": 26545,
       "question": "양성자의 수를 통해 원자 번호를 알 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -34,7 +34,7 @@
       }
     },
     {
-      "id": 6787,
+      "id": 26546,
       "question": "중성 원자에서 전자의 수와 양성자의 수는 같다.",
       "answer": "O",
       "explanation": "",
@@ -46,7 +46,7 @@
       }
     },
     {
-      "id": 6788,
+      "id": 26547,
       "question": "중성 원자의 질량수는 양성자의 수와 중성자의 수의 합이다.",
       "answer": "O",
       "explanation": "",
@@ -58,7 +58,7 @@
       }
     },
     {
-      "id": 6789,
+      "id": 26548,
       "question": "(가)의 반응은 환원 전극에서 일어난다.",
       "answer": "X",
       "explanation": "",
@@ -70,7 +70,7 @@
       }
     },
     {
-      "id": 6790,
+      "id": 26549,
       "question": "(나)의 반응에서 반응물의 산소의 산화수는 생성물의 산소의 산화수보다 작다.",
       "answer": "X",
       "explanation": "",
@@ -82,7 +82,7 @@
       }
     },
     {
-      "id": 6791,
+      "id": 26550,
       "question": "(다)의 반응에서 Fe2＋는 산화제로 작용한다.",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       }
     },
     {
-      "id": 6792,
+      "id": 26551,
       "question": "(다)의 반응에서 양론 계수 , , 의 합은 7이다.",
       "answer": "O",
       "explanation": "",
@@ -106,7 +106,7 @@
       }
     },
     {
-      "id": 6793,
+      "id": 26552,
       "question": "C H OC H ＋AlCl →(C H ) OAlCl 2 5 2 5 3 2 5 2 3",
       "answer": "O",
       "explanation": "",
@@ -118,7 +118,7 @@
       }
     },
     {
-      "id": 6796,
+      "id": 26555,
       "question": "H＋＋NH →NH ＋ 3 4 화학개론 책형 2쪽",
       "answer": "O",
       "explanation": "",
@@ -130,7 +130,7 @@
       }
     },
     {
-      "id": 6797,
+      "id": 26556,
       "question": "반응 시작물은 페놀을 질산과 반응시켜 합성할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -142,7 +142,7 @@
       }
     },
     {
-      "id": 6798,
+      "id": 26557,
       "question": "최종 생성물의 이름은 -aminophenol이다.",
       "answer": "X",
       "explanation": "",
@@ -154,7 +154,7 @@
       }
     },
     {
-      "id": 6799,
+      "id": 26558,
       "question": "첫 번째 반응에서 수소화붕소나트륨(sodium borohydride)은 환원제로 사용되었다.",
       "answer": "O",
       "explanation": "",
@@ -166,7 +166,7 @@
       }
     },
     {
-      "id": 6800,
+      "id": 26559,
       "question": "최종 생성물은 진통 및 해열효과가 있다.",
       "answer": "O",
       "explanation": "",
@@ -178,7 +178,7 @@
       }
     },
     {
-      "id": 6801,
+      "id": 26560,
       "question": "He ＋ He → He ＋ H    ",
       "answer": "O",
       "explanation": "",
@@ -190,7 +190,7 @@
       }
     },
     {
-      "id": 6802,
+      "id": 26561,
       "question": "N ＋ n → C＋ H    ",
       "answer": "O",
       "explanation": "",
@@ -202,7 +202,7 @@
       }
     },
     {
-      "id": 6803,
+      "id": 26562,
       "question": "N ＋ He → O＋ H    ",
       "answer": "X",
       "explanation": "",
@@ -214,7 +214,7 @@
       }
     },
     {
-      "id": 6804,
+      "id": 26563,
       "question": "Al＋He → P＋ n    ",
       "answer": "O",
       "explanation": "",

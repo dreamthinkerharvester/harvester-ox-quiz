@@ -802,6 +802,69 @@
               "total": 1,
               "total_raw": 4,
               "with_full_meta": 0
+            },
+            {
+              "slug": "g5-2026-subj-5df0ff",
+              "name": "상황판단영역",
+              "subject": "상황판단영역",
+              "phase": null,
+              "total": 32,
+              "total_raw": 35,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "g5-2026-subj-3eb0d4",
+              "name": "언어논리영역",
+              "subject": "언어논리영역",
+              "phase": null,
+              "total": 40,
+              "total_raw": 40,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "g5-2026-subj-8d5d23",
+              "name": "자료해석영역",
+              "subject": "자료해석영역",
+              "phase": null,
+              "total": 37,
+              "total_raw": 40,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "g5-2026-subj-534969",
+              "name": "헌법",
+              "subject": "헌법",
+              "phase": null,
+              "total": 92,
+              "total_raw": 93,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "g9-2026-subj-a961b4",
+              "name": "알고리즘",
+              "subject": "알고리즘",
+              "phase": null,
+              "total": 4,
+              "total_raw": 8,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "g9-2026-subj-bf6e59",
+              "name": "영어",
+              "subject": "영어",
+              "phase": null,
+              "total": 21,
+              "total_raw": 21,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "g9-2026-subj-0c6db6",
+              "name": "재배학개론",
+              "subject": "재배학개론",
+              "phase": null,
+              "total": 56,
+              "total_raw": 56,
+              "with_full_meta": 0
             }
           ]
         },
@@ -1843,6 +1906,33 @@
               "total": 10,
               "total_raw": 12,
               "with_full_meta": 0
+            },
+            {
+              "slug": "g5-2025-subj-e24185",
+              "name": "상황판단",
+              "subject": "상황판단",
+              "phase": null,
+              "total": 17,
+              "total_raw": 17,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "g5-2025-subj-8ba215",
+              "name": "언어논리",
+              "subject": "언어논리",
+              "phase": null,
+              "total": 20,
+              "total_raw": 20,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "g5-2025-subj-527138",
+              "name": "자료해석",
+              "subject": "자료해석",
+              "phase": null,
+              "total": 53,
+              "total_raw": 55,
+              "with_full_meta": 0
             }
           ]
         },
@@ -1893,6 +1983,33 @@
               "phase": null,
               "total": 45,
               "total_raw": 45,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "g5-2024-subj-e24185",
+              "name": "상황판단",
+              "subject": "상황판단",
+              "phase": null,
+              "total": 38,
+              "total_raw": 40,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "g5-2024-subj-8ba215",
+              "name": "언어논리",
+              "subject": "언어논리",
+              "phase": null,
+              "total": 30,
+              "total_raw": 30,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "g5-2024-subj-527138",
+              "name": "자료해석",
+              "subject": "자료해석",
+              "phase": null,
+              "total": 63,
+              "total_raw": 65,
               "with_full_meta": 0
             }
           ]
@@ -3166,6 +3283,119 @@
       ]
     },
     {
+      "exam": "국회직 5급",
+      "rounds": [
+        {
+          "year": 2026,
+          "round": null,
+          "categories": [
+            {
+              "slug": "na5-2026-subj-5df0ff",
+              "name": "상황판단영역",
+              "subject": "상황판단영역",
+              "phase": null,
+              "total": 17,
+              "total_raw": 17,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "na5-2026-subj-3eb0d4",
+              "name": "언어논리영역",
+              "subject": "언어논리영역",
+              "phase": null,
+              "total": 20,
+              "total_raw": 20,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "na5-2026-subj-8d5d23",
+              "name": "자료해석영역",
+              "subject": "자료해석영역",
+              "phase": null,
+              "total": 70,
+              "total_raw": 71,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "na5-2026-subj-534969",
+              "name": "헌법",
+              "subject": "헌법",
+              "phase": null,
+              "total": 100,
+              "total_raw": 100,
+              "with_full_meta": 0
+            }
+          ]
+        },
+        {
+          "year": 2025,
+          "round": null,
+          "categories": [
+            {
+              "slug": "na5-2025-subj-5df0ff",
+              "name": "상황판단영역",
+              "subject": "상황판단영역",
+              "phase": null,
+              "total": 36,
+              "total_raw": 37,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "na5-2025-subj-3eb0d4",
+              "name": "언어논리영역",
+              "subject": "언어논리영역",
+              "phase": null,
+              "total": 40,
+              "total_raw": 40,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "na5-2025-subj-8d5d23",
+              "name": "자료해석영역",
+              "subject": "자료해석영역",
+              "phase": null,
+              "total": 60,
+              "total_raw": 63,
+              "with_full_meta": 0
+            }
+          ]
+        },
+        {
+          "year": 2024,
+          "round": null,
+          "categories": [
+            {
+              "slug": "na5-2024-subj-5df0ff",
+              "name": "상황판단영역",
+              "subject": "상황판단영역",
+              "phase": null,
+              "total": 52,
+              "total_raw": 55,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "na5-2024-subj-3eb0d4",
+              "name": "언어논리영역",
+              "subject": "언어논리영역",
+              "phase": null,
+              "total": 15,
+              "total_raw": 15,
+              "with_full_meta": 0
+            },
+            {
+              "slug": "na5-2024-subj-8d5d23",
+              "name": "자료해석영역",
+              "subject": "자료해석영역",
+              "phase": null,
+              "total": 36,
+              "total_raw": 37,
+              "with_full_meta": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
       "exam": "행정사 1차",
       "rounds": [
         {
@@ -4216,10 +4446,10 @@
     }
   ],
   "_meta": {
-    "total_questions": 21106,
-    "categories_count": 432,
+    "total_questions": 22055,
+    "categories_count": 455,
     "with_full_meta": 5,
-    "updated_at": "2026-05-17T05:24:38+00:00",
+    "updated_at": "2026-05-17T06:56:06+00:00",
     "source": "0gichul.com"
   }
 }

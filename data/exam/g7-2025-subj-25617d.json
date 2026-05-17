@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 8270,
+      "id": 35871,
       "statement": "단일 책임(single-responsibility)의 원칙: 클래스를 변경해야 하는 이유는 오직 하나여야 한다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 8271,
+      "id": 35872,
       "statement": "개방 폐쇄(open-closed)의 원칙: 모듈은 수정에는 열려 있어야 하고 확장에는 닫혀 있어야 한다.",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 8272,
+      "id": 35873,
       "statement": "리스코프 대체(Liskov substitution)의 원칙: 상위 클래스의 객체는 자신의 하위 클래스로 대체할 수 있어야 한다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 8273,
+      "id": 35874,
       "statement": "의존 관계 역전(dependency inversion)의 원칙: 클라이언트는 구체적인 클래스가 아닌 추상 클래스에 의존해야 한다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 8274,
+      "id": 35875,
       "statement": "프로토타입을 통해 새로운 요구사항을 발견할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 8275,
+      "id": 35876,
       "statement": "시스템 개발 최종 종료 단계에서만 오류를 탐지할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 8276,
+      "id": 35877,
       "statement": "사용자가 초기 프로토타입을 최종 완성된 소프트웨어로 오인할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 8277,
+      "id": 35878,
       "statement": "개발자 입장에서 프로토타이핑 과정을 관리ㆍ통제하기 어렵다.",
       "answer": "O",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 8278,
+      "id": 35879,
       "statement": "프로젝트를 다수의 구성 요소로 분할하여 계층적으로 기술한 업무 구조이다.",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 8279,
+      "id": 35880,
       "statement": "프로젝트 수행 과정에서 요구되는 자원의 단위와 단가 정보를 작성한다.",
       "answer": "X",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 8280,
+      "id": 35881,
       "statement": "구성 요소를 산출물 중심으로 작성하거나 프로세스 중심으로 작성할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 8281,
+      "id": 35882,
       "statement": "프로젝트 전체 범위를 정의하고 프로젝트 계획과 관리를 위한 자료로 사용된다. 2025년도 국가공무원 7급 공채 제2차 필기시험",
       "answer": "O",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 8282,
+      "id": 35883,
       "statement": "기능점수의 기준이 되는 소프트웨어 기능은 데이터 측면의 기능과 트랜잭션 측면의 기능으로 구분된다.",
       "answer": "O",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 8283,
+      "id": 35884,
       "statement": "기능점수는 소프트웨어 개발 이전에 업무량을 측정할 수 있으며 소프트웨어 개발에 사용하는 언어와는 무관하다.",
       "answer": "O",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 8284,
+      "id": 35885,
       "statement": "기능점수 측정 대상 유형은 내부 논리파일, 내부 연계파일, 외부 입력, 외부 출력, 외부 조회이다.",
       "answer": "X",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 8285,
+      "id": 35886,
       "statement": "기능점수 방법은 소프트웨어 개발, 유지관리 및 재개발을 위한 비용을 산정하는 데 사용한다.",
       "answer": "O",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 8286,
+      "id": 35887,
       "statement": "논리적 관점은 시스템의 기능을 설명하기 위해 클래스 다이어그램 이나 시퀀스 다이어그램을 사용한다.",
       "answer": "O",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 8287,
+      "id": 35888,
       "statement": "개발 관점은 시스템이 사용자에게 제공하는 기능에 주목하며, 유스케이스 다이어그램이나 상태 다이어그램을 사용한다.",
       "answer": "X",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 8288,
+      "id": 35889,
       "statement": "물리적 관점은 시스템이 어떻게 개발되는지에 대한 관점이며, 클래스 다이어그램이나 유스케이스 다이어그램을 사용한다.",
       "answer": "X",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 8289,
+      "id": 35890,
       "statement": "프로세스 관점은 시스템에 필요한 하드웨어 환경을 나타내며, 배치 다이어그램이나 클래스 다이어그램을 사용한다.",
       "answer": "X",
       "explanation": "",
@@ -431,7 +431,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 20,
     "with_full_meta": 0,
     "source": "0gichul.com"

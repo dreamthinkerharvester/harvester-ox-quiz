@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 10316,
+      "id": 42703,
       "statement": "삼각망을 이루는 삼각형 내각의 합은 180°가 된다.",
       "answer": "X",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 10317,
+      "id": 42704,
       "statement": "하나의 측점 주위에서 측량한 모든 각의 합은 360°가 된다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 10318,
+      "id": 42705,
       "statement": "삼각망 중에서 임의의 한 변의 길이가 계산의 순서와 관계없이 동일하다.",
       "answer": "X",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 10319,
+      "id": 42706,
       "statement": "한 측점에서 측량한 여러 각의 합은 그 전체를 한 각으로 관측한 각과 180°의 차이가 난다.",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 10320,
+      "id": 42707,
       "statement": "곡선 형상에 따라 수직곡선으로 분류된다.",
       "answer": "X",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 10321,
+      "id": 42708,
       "statement": "렘니스케이트 곡선은 완화곡선 중의 하나이다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 10322,
+      "id": 42709,
       "statement": "직선과 곡선의 변화점에서 원심력이 급격하게 작용하는 것을 방지하기 위해 설치한다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 10323,
+      "id": 42710,
       "statement": "차량을 안전하고 원활하게 통과시키기 위하여 직선부와 곡선부 사이에 삽입하는 특수한 곡선이다. 2025년도 지방공무원 9급 등 경력경쟁임용 필기시험",
       "answer": "O",
       "explanation": "",
@@ -179,7 +179,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:06+00:00",
     "total": 8,
     "with_full_meta": 0,
     "source": "0gichul.com"

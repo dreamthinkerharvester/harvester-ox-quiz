@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 4748,
+      "id": 38254,
       "statement": "탐색 범위가 절반씩 줄어든다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 4749,
+      "id": 38255,
       "statement": "탐색할 데이터는 순서 없이 저장되어 있다.",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 4750,
+      "id": 38256,
       "statement": "시간 복잡도는 log이다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 4751,
+      "id": 38257,
       "statement": "1,000개의 데이터가 존재하는 경우, 최대 10회의 탐색으로 완료된다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 4752,
+      "id": 38258,
       "statement": "큰 문제를 작은 문제로 나눌 수 있어야 한다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 4753,
+      "id": 38259,
       "statement": "작은 문제들이 반복해서 사용되며, 이 작은 문제들의 결괏값을 저장해 두고 활용한다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 4754,
+      "id": 38260,
       "statement": "상향식(bottom-up) 접근 방식 또는 하향식(top-down) 접근 방식으로 구현할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 4755,
+      "id": 38261,
       "statement": "메모하기(memoization) 방법을 활용하여 연산과 탐색이 증가하고 실행속도가 저하된다.",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 4756,
+      "id": 38262,
       "statement": "널리 사용되는 것은 최악 시간 복잡도이다.",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 4757,
+      "id": 38263,
       "statement": "모든 알고리즘은 최악 시간 복잡도와 평균 시간 복잡도가 다르다.",
       "answer": "X",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 4758,
+      "id": 38264,
       "statement": "최악의 경우 실행 시간은 모든 입력에 대한 실행 시간의 하한을 제공한다.",
       "answer": "X",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 4759,
+      "id": 38265,
       "statement": "최선의 경우 실행 시간은 모든 입력에 대한 실행 시간의 상한을 제공한다. 2025년도 국가공무원 9급 공채 필기시험",
       "answer": "X",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 4762,
+      "id": 38268,
       "statement": "스택(stack)을 이용하여 구현할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 4763,
+      "id": 38269,
       "statement": "재귀적(recursive)으로 구현할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 4764,
+      "id": 38270,
       "statement": "제약 충족(constraint satisfaction) 문제에 유용하다.",
       "answer": "O",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 4765,
+      "id": 38271,
       "statement": "균형 탐색 트리(balanced search tree) 구조를 유지한다.",
       "answer": "X",
       "explanation": "",
@@ -347,7 +347,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 16,
     "with_full_meta": 0,
     "source": "0gichul.com"

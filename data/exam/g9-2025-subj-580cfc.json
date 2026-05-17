@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 4005,
+      "id": 37511,
       "statement": "강성이란 구조물이나 구조부재의 변형에 대한 저항능력이다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 4006,
+      "id": 37512,
       "statement": "가설구조물이란 건축구조물의 축조를 위하여 임시로 설치하는 시설이다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 4007,
+      "id": 37513,
       "statement": "강도란 구조물이나 구조부재가 외력에 의해 발생하는 힘 또는 모멘트에 저항하는 능력이다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 4008,
+      "id": 37514,
       "statement": "부재력이란 하중 및 외력에 의하여 구조부재에 생기는 단위면적당 힘의 세기이다.",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 4009,
+      "id": 37515,
       "statement": "거셋플레이트: 트러스의 부재, 스트럿 또는 가새재(브레이싱)를 보 또는 기둥에 연결하는 판요소",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 4010,
+      "id": 37516,
       "statement": "네킹: 재료의 압축시험 시 항복하중에 도달하여 시험체가 잘록해지는 부분",
       "answer": "X",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 4011,
+      "id": 37517,
       "statement": "필릿용접: 용접되는 부재의 교차되는 면 사이에 일반적으로 삼각형의 단면이 만들어지는 용접",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 4012,
+      "id": 37518,
       "statement": "비가새골조: 부재 및 접합부의 휨저항으로 수평하중에 저항하는 골조",
       "answer": "O",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 4015,
+      "id": 37521,
       "statement": "(한쪽으로 내민 플랜지 두께의 6배)＋  ",
       "answer": "O",
       "explanation": "",
@@ -200,7 +200,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 9,
     "with_full_meta": 0,
     "source": "0gichul.com"

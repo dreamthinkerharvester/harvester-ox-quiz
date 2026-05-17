@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 6311,
+      "id": 26070,
       "statement": "공은 축 방향으로 등속 운동을 한다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 6312,
+      "id": 26071,
       "statement": "투수의 손을 떠난 순간부터 공의 운동에너지는 일정하다.",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 6313,
+      "id": 26072,
       "statement": "공은 축 방향으로 등가속도 운동을 한다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 6314,
+      "id": 26073,
       "statement": "투수가 던진 공이 빠를수록 타자 위치에서 공의 높이 는 높아진다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 6315,
+      "id": 26074,
       "statement": "안경 제작에서 특정 방향으로 진동하는 빛을 제거하는 데 사용된다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 6316,
+      "id": 26075,
       "statement": "편광되지 않은 빛이 산란, 반사 또는 굴절로 인하여 편광될 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 6317,
+      "id": 26076,
       "statement": "두 편광판의 투과 축 사이의 각이 라면 두 편광판을 통과한 빛의 세기는 cos에 비례한다.",
       "answer": "X",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 6318,
+      "id": 26077,
       "statement": "편광은 횡파에서만 발생하고 종파에서는 발생하지 않는다.",
       "answer": "O",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 6319,
+      "id": 26078,
       "statement": "진동수가 큰 단색광을 사용한다.",
       "answer": "X",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 6320,
+      "id": 26079,
       "statement": "긴 파장의 단색광을 사용한다.",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 6321,
+      "id": 26080,
       "statement": "이중 슬릿과 스크린 사이의 거리를 늘린다.",
       "answer": "O",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 6322,
+      "id": 26081,
       "statement": "이중 슬릿에서 두 슬릿 사이의 간격을 줄인다. 근로감독 및 산업안전 분야 국가공무원 7급 공채 제2차시험",
       "answer": "O",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 6323,
+      "id": 26082,
       "statement": "B는 인체 내부를 보는 의료용으로도 사용된다.",
       "answer": "O",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 6324,
+      "id": 26083,
       "statement": "C는 세 전자기파 중에서 파장이 가장 짧다.",
       "answer": "X",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 6325,
+      "id": 26084,
       "statement": "A는 B보다 진동수가 작다.",
       "answer": "O",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 6327,
+      "id": 26086,
       "statement": "B에 충전된 전하량은 전원이 공급한 전하량의 배이다.   ",
       "answer": "X",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 6329,
+      "id": 26088,
       "statement": "A에 저장된 에너지는 B에 저장된 에너지의 배이다.",
       "answer": "O",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 6330,
+      "id": 26089,
       "statement": "전열기의 전압이 증가한다.",
       "answer": "X",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 6331,
+      "id": 26090,
       "statement": "전열기의 저항이 감소한다.",
       "answer": "X",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 6332,
+      "id": 26091,
       "statement": "전열기의 소비전력이 증가한다.",
       "answer": "X",
       "explanation": "",
@@ -430,7 +430,7 @@
       "related_videos": []
     },
     {
-      "id": 6333,
+      "id": 26092,
       "statement": "접점에서 많은 열이 발생한다.",
       "answer": "O",
       "explanation": "",
@@ -451,7 +451,7 @@
       "related_videos": []
     },
     {
-      "id": 6334,
+      "id": 26093,
       "statement": "유도용량은 전류 크기에 무관하게 일정하다.",
       "answer": "O",
       "explanation": "",
@@ -472,7 +472,7 @@
       "related_videos": []
     },
     {
-      "id": 6335,
+      "id": 26094,
       "statement": "만 배로 늘리면 유도용량도 배가 된다.",
       "answer": "X",
       "explanation": "",
@@ -493,7 +493,7 @@
       "related_videos": []
     },
     {
-      "id": 6336,
+      "id": 26095,
       "statement": "원통의 단면적만 배로 늘리면 유도용량은 배가 된다. ",
       "answer": "O",
       "explanation": "",
@@ -514,7 +514,7 @@
       "related_videos": []
     },
     {
-      "id": 6337,
+      "id": 26096,
       "statement": "길이 만 로 줄이면 유도용량은 배가 된다.  ",
       "answer": "O",
       "explanation": "",
@@ -536,7 +536,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 25,
     "with_full_meta": 0,
     "source": "0gichul.com"

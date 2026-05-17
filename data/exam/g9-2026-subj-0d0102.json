@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 3334,
+      "id": 27871,
       "statement": "평균은 중앙값보다 크다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 3335,
+      "id": 27872,
       "statement": "자료의 범위는  이상이다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 3336,
+      "id": 27873,
       "statement": "왜도(skewness)의 값은 양수이다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 3337,
+      "id": 27874,
       "statement": "중앙값은 제1사분위수보다 제3사분위수에 더 가깝다.  ",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 3338,
+      "id": 27875,
       "statement": "기울기의 추정값이 커지면 신뢰구간의 폭이 넓어진다.",
       "answer": "X",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 3339,
+      "id": 27876,
       "statement": "의 값이 커지면 신뢰구간의 폭이 넓어진다.",
       "answer": "X",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 3340,
+      "id": 27877,
       "statement": "평균제곱오차()의 값이 커지면 신뢰구간의 폭이 넓어진다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 3341,
+      "id": 27878,
       "statement": "독립변수의 편차의 제곱합이 커지면 신뢰구간의 폭이 넓어진다. 2026년도 국가공무원 9급 공채 필기시험",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 3342,
+      "id": 27879,
       "statement": "처리의 수가 일 경우 (가)의 값은 이다.",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 3343,
+      "id": 27880,
       "statement": "전체 자료의 수가 이고 처리의 수가 일 때, (나)의 값은 이다. ×(나)",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 3345,
+      "id": 27882,
       "statement": "확률변수 가 분자와 분모의 자유도가 각각 (가), (나)인 분포를 따를 때, (라)는 다이다.",
       "answer": "X",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 3346,
+      "id": 27883,
       "statement": "인자 의 수준수는 이다.",
       "answer": "X",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 3347,
+      "id": 27884,
       "statement": "인자 의 제곱합의 자유도는 이다.",
       "answer": "X",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 3348,
+      "id": 27885,
       "statement": "각 수준조합에서의 반복수는 이다.",
       "answer": "X",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 3349,
+      "id": 27886,
       "statement": "교호작용 ×는 유의수준 %에서 유의하지 않다.",
       "answer": "O",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 3350,
+      "id": 27887,
       "statement": "표본평균 는 이다.",
       "answer": "O",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 3351,
+      "id": 27888,
       "statement": "% 신뢰수준에서 의 오차한계는 이다.",
       "answer": "O",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 3352,
+      "id": 27889,
       "statement": "모평균 가 구간  에 포함될 확률은 이다.",
       "answer": "X",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 3353,
+      "id": 27890,
       "statement": "가설   대  ≠을 유의수준 %에서 검정할 때,   귀무가설을 기각하지 못한다.",
       "answer": "O",
       "explanation": "",
@@ -410,7 +410,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 19,
     "with_full_meta": 0,
     "source": "0gichul.com"

@@ -1,0 +1,445 @@
+{
+  "slug": "na5-2024-subj-8d5d23",
+  "name": "자료해석영역",
+  "exam_group": "국회직 5급 · 2024년",
+  "subject": "자료해석영역",
+  "phase": null,
+  "source": "국회직 5급",
+  "exam_year": 2024,
+  "exam_round": null,
+  "count": 36,
+  "questions": [
+    {
+      "id": 44096,
+      "question": "딸기의 수출량은 토마토의 국내소비량보다 많다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44097,
+      "question": "딸기의 일반 시설하우스 생산면적 비중이 토마토의 스마트팜 생 산면적 비중보다 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44098,
+      "question": "스마트팜 생산면적은 딸기가 토마토의 1.5배 미만이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44099,
+      "question": "총생산면적당 총생산량은 토마토보다 딸기가 더 많다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44100,
+      "question": "스마트팜에서 생산되는 양은 토마토가 딸기보다 많다. 3 - 2024년도 제40회 입법고시 2교시 자료해석",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44101,
+      "question": "제조사 A의 프린터 판매 대수는 제조사 B의 프린터 판매 대수의 50% 이상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44102,
+      "question": "제조사 B와 C의 전체 판매 대수의 평균은 775대이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44103,
+      "question": "제조사 A, B, C의 프린터 판매 대수의 합은 415대이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44104,
+      "question": "제조사 B와 D의 전체 판매 대수의 합에서 프린터 판매 대수의 합이 차지하는 비중은 23% 이상이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44105,
+      "question": "제조사 B와 D의 카메라 판매 대수 차이는 프린터 판매 대수 차 이보다 작다. 5 - 2024년도 제40회 입법고시 2교시 자료해석",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44106,
+      "question": "전체가구 중 저소득가구의 비율은 25% 미만이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44107,
+      "question": "전체가구의 총가계지출에서 소비지출이 차지하는 비율은 85%에 미치지 못한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44108,
+      "question": "소비지출 항목 중 저소득외가구의 평균 지출액 대비 저소득가구 의 평균 지출액의 비율이 가장 적은 항목은 교육비이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44109,
+      "question": "저소득가구의 총가계지출에서 식료품비, 주거비 및 광열수도비가 차지하는 비중의 합은 저소득외가구의 두 배 이상이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44110,
+      "question": "전체가구의 세금 평균 지출액(A)은 사회보장부담금 평균 지출액 (B)보다 작다. 6 - 2024년도 제40회 입법고시 2교시 자료해석",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44111,
+      "question": "㉤ 10 - 2024년도 제40회 입법고시 2교시 자료해석",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44113,
+      "question": "국공립 유치원의 경우, 유치원 수 대비 교사 수의 비율이 가장 높 은 시·도는 서울특별시이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44114,
+      "question": "각 광역시의 국공립 유치원 수 중 최댓값은 각 광역시의 사립 유 치원 수 중 최솟값보다 크다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44115,
+      "question": "국공립 유치원 교사 수가 사립 유치원 교사 수보다 많은 시·도는 2개이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44116,
+      "question": "경기도의 유치원 교사 1인당 5세 취원 아동 수는 전국 유치원 교 사 1인당 5세 취원 아동 수보다 적다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44117,
+      "question": "전국 유치원 교사 수에서 경상남도와 경상북도의 유치원 교사 수 의 합이 차지하는 비중은 국공립 유치원이 사립 유치원보다 높 다. - 13 해석영역 책형 가",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44118,
+      "question": "2019년 기준 세계 전기차 판매량 2위 국가 판매량이 4위 국가 판 매량의 4배 이상이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 28,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44119,
+      "question": "2017년 대비 2021년 전세계 전기차 판매량은 5배 이상 증가하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 28,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44120,
+      "question": "2021년 기준 세계 판매량 상위 6개국 중 2018∼2021년 동안 판매 량이 매년 전년 대비 증가하는 국가는 3개이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 28,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44121,
+      "question": "2018년전세계전기차판매량의전년대비증가율은70%이상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 28,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44122,
+      "question": "2021년 갑국의 전기차 판매량은 전세계 판매량의 50% 이상이다. - 15 해석영역 책형 가",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 28,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44123,
+      "question": "2023년 월평균 회의횟수가 가장 많은 위원회는 법무위원회이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44124,
+      "question": "2023년 1∼9월 동안 회의시간이 2시간 미만인 행정위원회의 회의 횟수는 최소 44회 이상이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44125,
+      "question": "2023년 10∼12월 회의횟수의 합이 가장 많은 위원회는 2023년 회 의당 평균 회의시간이 1시간 50분 이상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44126,
+      "question": "2023년 동안 건강위원회와 법무위원회의 회의횟수의 합이 행정 위원회와 경제위원회의 회의횟수의 합보다 많은 월은 5개이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44127,
+      "question": "2023년 각 위원회에서 연간 회의횟수 총합 중 회의시간이 1시간 이상 3시간 미만인 회의횟수의 합이 차지하는 비중은 모두 45% 이상이다. 16 - 2024년도 제40회 입법고시 2교시 자료해석",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44128,
+      "question": "2022년 기준 자립준비청년 유형 중 가정위탁이 차지하는 비중은 전년 대비 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 39,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44129,
+      "question": "2019∼2022년 아동양육시설 퇴소 자립준비청년 수는 매년 전년 대비 감소한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 39,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44130,
+      "question": "2022년 기준 퇴소 자립준비청년 수 중 여성 비율이 가장 높은 유 형은 공동생활가정이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 39,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44131,
+      "question": "2019년 전년 대비 자립준비청년 취업자 수 증가율이 가장 높은 직종은 서비스 판매직이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 39,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 44132,
+      "question": "2018～2021년 동안 자립준비청년 취업자 수가 많은 순서대로 직 종을 나열하면 매년 그 순서가 동일하다. 20 - 2024년도 제40회 입법고시 2교시 자료해석영역 책형 가",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 39,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

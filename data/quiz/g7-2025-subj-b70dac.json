@@ -10,7 +10,7 @@
   "count": 4,
   "questions": [
     {
-      "id": 8492,
+      "id": 36093,
       "question": "C점의 전단력은 0이다.",
       "answer": "O",
       "explanation": "",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": 8493,
+      "id": 36094,
       "question": "D점의 전단력은 16kN이다.",
       "answer": "X",
       "explanation": "",
@@ -34,7 +34,7 @@
       }
     },
     {
-      "id": 8494,
+      "id": 36095,
       "question": "C점의 휨모멘트는 16kNㆍm이다.",
       "answer": "O",
       "explanation": "",
@@ -46,7 +46,7 @@
       }
     },
     {
-      "id": 8495,
+      "id": 36096,
       "question": "D점의 휨모멘트는 16kNㆍm이다.",
       "answer": "O",
       "explanation": "",

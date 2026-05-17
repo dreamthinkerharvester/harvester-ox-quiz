@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 11338,
+      "id": 44157,
       "statement": "사용자로부터 작업이 요구되는 즉시 처리한다.",
       "answer": "X",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 11339,
+      "id": 44158,
       "statement": "일정량 또는 일정 기간의 작업을 모아 한꺼번에 처리한다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 11340,
+      "id": 44159,
       "statement": "네트워크로 연결된 여러 대의 컴퓨터에서 작업을 분산하여 처리 한다.",
       "answer": "X",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 11341,
+      "id": 44160,
       "statement": "CPU 운영시간을 골고루 할당하여 여러 사용자가 순환하며 작업을 수행한다.",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 11346,
+      "id": 44165,
       "statement": "주로 SRAM을 사용하여 구현된다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 11347,
+      "id": 44166,
       "statement": "주기억장치보다 용량은 작지만 접근 속도가 빠르다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 11348,
+      "id": 44167,
       "statement": "성능 향상을 위해 지역성의 원리(principle of locality)를 이용한다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 11349,
+      "id": 44168,
       "statement": "직접 사상(direct mapping) 방식을 사용하면, 특정 주기억장치 블록을 여러 개의 캐시기억장치 블록으로 사상할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 11350,
+      "id": 44169,
       "statement": "페이지 테이블의 캐시로서 동작한다.",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 11351,
+      "id": 44170,
       "statement": "한 시스템 내에 여러 개가 존재할 수 없다.",
       "answer": "X",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 11352,
+      "id": 44171,
       "statement": "TLB 실패(miss)가 발생할 때마다 페이지 부재(page fault)가 발생한다.",
       "answer": "X",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 11353,
+      "id": 44172,
       "statement": "물리 주소(physical address)를 가상 주소(virtual address)로 빠르게 변환하기 위한 것이다.",
       "answer": "X",
       "explanation": "",
@@ -263,7 +263,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:06+00:00",
     "total": 12,
     "with_full_meta": 0,
     "source": "0gichul.com"

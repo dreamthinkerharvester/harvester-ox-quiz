@@ -1,0 +1,61 @@
+{
+  "slug": "g9-2026-subj-a961b4",
+  "name": "알고리즘",
+  "exam_group": "국가직 9급 · 2026년",
+  "subject": "알고리즘",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 4,
+  "questions": [
+    {
+      "id": 27419,
+      "question": "log은 log을 포함한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27420,
+      "question": "log은 log를 포함하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27421,
+      "question": "log은 log을 포함하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 27425,
+      "question": "A⟶C⟶D⟶E⟶B⟶F⟶H⟶G 알고리즘 책형 2쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

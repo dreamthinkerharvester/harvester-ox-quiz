@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 13393,
+      "id": 40394,
       "statement": "파형으로부터 타이밍 정보를 추출할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 13394,
+      "id": 40395,
       "statement": "직류성분이 많이 포함되어 있다.",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 13395,
+      "id": 40396,
       "statement": "필요한 전송대역폭이 작다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 13396,
+      "id": 40397,
       "statement": "원하는 비트오류율(BER)을 얻기 위해 요구되는 신호 전력이 작다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 13397,
+      "id": 40398,
       "statement": "직류성분의 크기가 변동하는 현상이 발생하지 않는다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 13398,
+      "id": 40399,
       "statement": "변조과정에서 신호의 고주파 성분의 전력 스펙트럼이 약화되어",
       "answer": "X",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 13399,
+      "id": 40400,
       "statement": "수신된 펄스 열을 일정한 비트 구간마다 계속 겹치게 그린 것이다.",
       "answer": "X",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 13400,
+      "id": 40401,
       "statement": "채널 대역폭 크기가 적당한지 파악할 수 있게 해준다.",
       "answer": "O",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 13401,
+      "id": 40402,
       "statement": "수신신호를표본화하기위한최적의시점에대한정보를제공한다.",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 13402,
+      "id": 40403,
       "statement": "잡음의 전력이 클수록 눈 모양이 크게 열리게 된다.",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 13403,
+      "id": 40404,
       "statement": "심볼 간 간섭의 영향을 살펴볼 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 13404,
+      "id": 40405,
       "statement": "OOK(On-Off Keying) 변조는 진폭편이변조(ASK)이다.",
       "answer": "O",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 13405,
+      "id": 40406,
       "statement": "직교위상편이변조(QPSK)는 구형파(사각파)를 기저대역 신호로 사용한다.",
       "answer": "O",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 13406,
+      "id": 40407,
       "statement": "최소편이변조(MSK)는 불연속 위상 주파수편이변조(FSK)의 한 형태이다.",
       "answer": "X",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 13407,
+      "id": 40408,
       "statement": "MSK는 Offset QPSK(OQPSK)에 반주기의 정현파 펄스를 적용 한 형태이다.",
       "answer": "O",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 13408,
+      "id": 40409,
       "statement": "QPSK는 OQPSK에 비해 위상 변화 범위가 더 크다.",
       "answer": "O",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 13409,
+      "id": 40410,
       "statement": "넓은 주파수 대역을 여러 개의 좁은 부채널(subchannel)로 분할 한다.",
       "answer": "O",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 13410,
+      "id": 40411,
       "statement": "서로 직교하는 부반송파(subcarrier)로 여러 개의 데이터를 동시에 전송한다.",
       "answer": "O",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 13411,
+      "id": 40412,
       "statement": "송신 시 FFT 연산을 통해 병렬 데이터를 주파수 영역으로 변환 한다.",
       "answer": "X",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 13412,
+      "id": 40413,
       "statement": "송신 시 CP(Cyclic Prefix)를 삽입하여 다중경로 간섭을 완화한다.",
       "answer": "O",
       "explanation": "",
@@ -430,7 +430,7 @@
       "related_videos": []
     },
     {
-      "id": 13413,
+      "id": 40414,
       "statement": "PAPR(Peak-to-Average Power Ratio)이 높아 증폭기의 전력 효 율이 낮다. - 21 - 통신이론",
       "answer": "O",
       "explanation": "",
@@ -451,7 +451,7 @@
       "related_videos": []
     },
     {
-      "id": 13414,
+      "id": 40415,
       "statement": "자동 재전송 요청(ARQ) 방식은 단방향 통신(simplex)에서 사용 된다.",
       "answer": "X",
       "explanation": "",
@@ -472,7 +472,7 @@
       "related_videos": []
     },
     {
-      "id": 13415,
+      "id": 40416,
       "statement": "순방향 오류 정정(FEC) 방식은 디지털 이동전화에서 사용된다.",
       "answer": "O",
       "explanation": "",
@@ -493,7 +493,7 @@
       "related_videos": []
     },
     {
-      "id": 13416,
+      "id": 40417,
       "statement": "순방향 오류 정정 방식을 사용하면 원래의 메시지 비트 수보다 전송 비트 수가 증가한다.",
       "answer": "O",
       "explanation": "",
@@ -514,7 +514,7 @@
       "related_videos": []
     },
     {
-      "id": 13417,
+      "id": 40418,
       "statement": "신드롬(syndrome) 디코딩에서 오류가 없는 경우 신드롬의 모든 성분은 0이다.",
       "answer": "O",
       "explanation": "",
@@ -535,7 +535,7 @@
       "related_videos": []
     },
     {
-      "id": 13418,
+      "id": 40419,
       "statement": "선형블록코드에서 최소 해밍 거리가 3이면 1개 오류를 정정할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -556,7 +556,7 @@
       "related_videos": []
     },
     {
-      "id": 13419,
+      "id": 40420,
       "statement": "나이키스트 율(Nyquist rate)은 8kHz이다.",
       "answer": "O",
       "explanation": "",
@@ -577,7 +577,7 @@
       "related_videos": []
     },
     {
-      "id": 13420,
+      "id": 40421,
       "statement": "왜곡 없이 원래의 신호를 복원하기 위한 최대 표본화 주기는 125 sec이다.",
       "answer": "O",
       "explanation": "",
@@ -598,7 +598,7 @@
       "related_videos": []
     },
     {
-      "id": 13421,
+      "id": 40422,
       "statement": "표본화 주파수가 6kHz일 때, 에일리어싱(aliasing)이 발생한다.",
       "answer": "O",
       "explanation": "",
@@ -619,7 +619,7 @@
       "related_videos": []
     },
     {
-      "id": 13422,
+      "id": 40423,
       "statement": "표본화 다음에 양자화를 수행한다.",
       "answer": "O",
       "explanation": "",
@@ -640,7 +640,7 @@
       "related_videos": []
     },
     {
-      "id": 13423,
+      "id": 40424,
       "statement": "표본화 주파수가 10kHz일 때, 비트율은 160kbps이다.",
       "answer": "X",
       "explanation": "",
@@ -661,7 +661,7 @@
       "related_videos": []
     },
     {
-      "id": 13424,
+      "id": 40425,
       "statement": "표본화 과정을 통해 펄스진폭변조(PAM) 신호를 만든다.",
       "answer": "O",
       "explanation": "",
@@ -682,7 +682,7 @@
       "related_videos": []
     },
     {
-      "id": 13425,
+      "id": 40426,
       "statement": "-법칙 컴팬딩(companding)은 비균일 양자화 방식이다.",
       "answer": "O",
       "explanation": "",
@@ -703,7 +703,7 @@
       "related_videos": []
     },
     {
-      "id": 13426,
+      "id": 40427,
       "statement": "음성신호의 PCM은 전압 레벨이 낮은 부분을 더욱 세밀하게 표 현한다.",
       "answer": "O",
       "explanation": "",
@@ -724,7 +724,7 @@
       "related_videos": []
     },
     {
-      "id": 13427,
+      "id": 40428,
       "statement": "신호 cosV를 4비트로 균일 양자화할 때, 양자화 간격 은 1.0V이다.",
       "answer": "X",
       "explanation": "",
@@ -745,7 +745,7 @@
       "related_videos": []
     },
     {
-      "id": 13428,
+      "id": 40429,
       "statement": "균일 양자화에서 양자화 비트 수가 1비트 증가할 때마다 신호대 양자화잡음전력비(SQNR)는 6dB 개선된다.",
       "answer": "O",
       "explanation": "",
@@ -766,7 +766,7 @@
       "related_videos": []
     },
     {
-      "id": 13429,
+      "id": 40430,
       "statement": "극궤도 위성은 북극과 남극을 통과하는 궤도를 따라 지구 주위를 공전한다.",
       "answer": "O",
       "explanation": "",
@@ -787,7 +787,7 @@
       "related_videos": []
     },
     {
-      "id": 13430,
+      "id": 40431,
       "statement": "극궤도 위성의 고도는 저궤도에 속한다.",
       "answer": "O",
       "explanation": "",
@@ -808,7 +808,7 @@
       "related_videos": []
     },
     {
-      "id": 13431,
+      "id": 40432,
       "statement": "정지궤도 위성의 고도는 약 35,786km이다.",
       "answer": "O",
       "explanation": "",
@@ -829,7 +829,7 @@
       "related_videos": []
     },
     {
-      "id": 13432,
+      "id": 40433,
       "statement": "정지궤도 위성은 적도 상공을 따라 공전한다.",
       "answer": "O",
       "explanation": "",
@@ -850,7 +850,7 @@
       "related_videos": []
     },
     {
-      "id": 13433,
+      "id": 40434,
       "statement": "저궤도 위성은 정지궤도 위성에 비해 1개의 위성으로 넓은 지역 을 커버할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -872,7 +872,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:06+00:00",
     "total": 41,
     "with_full_meta": 0,
     "source": "0gichul.com"

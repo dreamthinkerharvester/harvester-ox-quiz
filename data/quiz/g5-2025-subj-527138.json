@@ -1,0 +1,649 @@
+{
+  "slug": "g5-2025-subj-527138",
+  "name": "자료해석",
+  "exam_group": "국가직 5급 · 2025년",
+  "subject": "자료해석",
+  "phase": null,
+  "source": "국가직 5급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 53,
+  "questions": [
+    {
+      "id": 34355,
+      "question": "모집인원은 B대학교가 A대학교보다 3명 많은 것으로 나타났으며,",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34356,
+      "question": "지원자 수는 A대학교가 B대학교의 1.2배 이상인 것으로 확인되었다. 한편, 두 대학교에서 ‘갑’전공의 입학전형은 ‘가’, ‘나’, ‘다’, ‘라’, ‘마’전형으로만 구성되는데,",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34357,
+      "question": "A, B대학교는 각각 모집인원이 가장 많은 전형이 지원자 수도 가장 많은 것으로 조사되었다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34358,
+      "question": "‘갑’전공 전체 경쟁률의 경우, A대학교는 지원자 수가 모집인원의 20배 이상으로 B대학교보다 높은 경쟁률을 보였다. 그러나 대학별로 지원자에게 유리한 전형은 다르게 나타났다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34359,
+      "question": "‘마’전형의 경우, A대학교에서는 경쟁률이 두 번째로 높았으나, B대학교에서는 경쟁률이 가장 낮은 것으로 나타났다. 2025년도 국가공무원 5급 공채 등 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34360,
+      "question": "미집행 인원이 가장 적은 연도는 2023년이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34361,
+      "question": "2016～2024년 감형 인원 합은 집행 인원 합의 3배 이상이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34362,
+      "question": "집행 인원이 1명 이상인 해의 미집행 인원은 모두 전년 대비 증가하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34363,
+      "question": "미집행 인원의 전년 대비 증가율은 2017년이 가장 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34364,
+      "question": "미집행 인원 대비 확정 인원 비율은 2020년이 2015년보다 높다. 자료해석영역 책형 5쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34365,
+      "question": "2020～ 2024년 ‘갑’국의 조세수입은 매년 증가하여, 2024년 총 456.9조 원 수준이다. 2023년 국세 수입은 전년 대비 소폭 감소하였으나, 이후 법인 영업실적 개선과 자산시장 호조 등의 영향으로",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34366,
+      "question": "2024년에는 국세 수입이 전년 대비 20% 이상 증가하였다. 같은 기간 지방세 수입은 지속해서 증가해왔는데,",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34367,
+      "question": "전년 대비 지방세 수입 증가율은 2023년에 가장 높았다. ‘갑’국의 조세수입 중 지방세 수입이 차지하는 비중은 매년 20% 이상을 유지해왔다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34368,
+      "question": "2021년 이후 조세수입 중 지방세 수입의 비중이 매년 증가해 왔으나,",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34369,
+      "question": "국세 수입과 지방세 수입의 격차는 2024년이 가장 컸다. 2025년도 국가공무원 5급 공채 등 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34370,
+      "question": "전체 발의 법률안 건수 중 정부 발의 법률안 건수의 비중은 5% 이하이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34371,
+      "question": "의원 발의 법률안 건수 중 계류 중인 건수의 비중은 80% 이하이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34372,
+      "question": "여성의원 발의 법률안 건수 중 법률반영 법률안 건수의 비중은 20% 이하이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34373,
+      "question": "의원 발의 법률안 건수 중 남성의원 발의 법률안 건수의 비중은 70% 이상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34374,
+      "question": "의원 발의 법률안 가운데 법률미반영 법률안의 평균처리기간은 80일 미만이다. 2025년도 국가공무원 5급 공채 등 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34376,
+      "question": "2023년 4개 주요 기관유형별 조정중재 전체 성립금액",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34378,
+      "question": "연도별 4개 주요 기관유형 조정중재성립 건수의 합",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34379,
+      "question": "종합병원의 전년 대비 건당 성립금액의 증가율 2025년도 국가공무원 5급 공채 등 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34380,
+      "question": "2024년 가맹점수의 전년 대비 증가율이 가장 높은 업종은 2024년 가맹점당 종사자수도 가장 많다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34381,
+      "question": "2024년 가맹점수 상위 3개 업종의 가맹점수 합은 2024년 전체 가맹점수의 75% 이상이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34382,
+      "question": "전체 가맹점수 중 커피/비알콜음료 가맹점수의 비중은 매년 15% 이상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34383,
+      "question": "2024년 가맹점수가 많은 업종일수록 종사자수도 많다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34384,
+      "question": "2024년 전체 프랜차이즈 가맹점당 종사자수는 4명 이상이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34385,
+      "question": "2024년 폐기물 발생량이 전년 대비 증가한 지역은 감소한 지역보다 많다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34386,
+      "question": "2024년 F지역의 폐기물 발생량은 전년보다 100만 톤 이상 적다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34387,
+      "question": "2023년 E지역의 폐기물 발생량은 2023년 전체 폐기물 발생량의 30% 이상이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34388,
+      "question": "2023년 대비 2024년 폐기물 발생량이 가장 큰 폭으로 증가한 지역은 C이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34389,
+      "question": "2024년 폐기물 발생량이 7개 지역 폐기물 발생량의 평균보다 많은 지역은 4곳이다. 자료해석영역 책형 12쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34390,
+      "question": "학부 재학생 수가 가장 많은 연령대는 40대이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34391,
+      "question": "대학원 재학생 수가 가장 많은 연령대는 학부 대비 대학원 재학생 수의 비율도 가장 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34392,
+      "question": "성인학습기 대학원 재학생 중 90%가 직장인이라면, 그중 40대는 200명 이상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34393,
+      "question": "학부 재학생 수는 성인학습기가 학령기의 5배 이상이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34394,
+      "question": "재학생 수가 가장 많은 연령대의 재학생 수는 가장 적은 연령대의 9배 이상이다. 2025년도 국가공무원 5급 공채 등 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34395,
+      "question": "A품종 생후 ‘24～36개월’ 감염 개체 수는 D품종 생후 ‘36～ 48개월’ 감염 개체 수보다 적다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 29,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34396,
+      "question": "C품종 생후개월별 감염률은 ‘48개월 이상’이 ‘24～36개월’보다 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 29,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34397,
+      "question": "성별 감염된 개체 수 차이는 A～D품종 중 D가 가장 적다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 29,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34398,
+      "question": "생후 ‘36～48개월’ 감염 개체 수는 A～D품종 중 B가 가장 많다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 29,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34399,
+      "question": "D품종 생후개월별 감염 개체 수는 ‘48개월 이상’이 가장 적다. 자료해석영역 책형 16쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 29,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34400,
+      "question": "2023년 지방직영기업 유형별 부채규모 순위와 부채비율 순위는 동일하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34401,
+      "question": "2022년에는 자본규모가 가장 큰 지방직영기업 유형과 부채규모가 가장 큰 지방직영기업 유형이 동일하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34402,
+      "question": "2020년 지방직영기업 유형별 부채비율은 하수도가 공영개발의 1.5배 이상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34403,
+      "question": "2020년 부채규모의 전년 대비 증감률이 가장 큰 지방직영기업 유형은 공영개발이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34404,
+      "question": "자본규모가 매년 증가한 지방직영기업 유형은 상수도뿐이다. 자료해석영역 책형 17쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34405,
+      "question": "전체 합격률은 2020년이 가장 높다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34406,
+      "question": "남성 응시자수는 2022년이 2023년보다 많다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34407,
+      "question": "남성 응시자수 대비 여성 응시자수 비율은 매년 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34408,
+      "question": "여성 합격자수 대비 남성 합격자수 비율은 2020년이 2021년보다 높다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 34409,
+      "question": "2022년 전체 합격자수는 전년 대비 3% 이상 감소하였다. 2025년도 국가공무원 5급 공채 등 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

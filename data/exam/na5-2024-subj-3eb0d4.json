@@ -1,0 +1,334 @@
+{
+  "category": {
+    "slug": "na5-2024-subj-3eb0d4",
+    "name": "언어논리영역",
+    "exam_group": "국회직 5급 · 2024년",
+    "subject": "언어논리영역",
+    "phase": null,
+    "exam_year": 2024,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 44081,
+      "statement": "집단 선호는 단지 개개인 선호의 총합에 불과하다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 9,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 44082,
+      "statement": "우리에게 내재된 순응편향은 매우 정확한 판단이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 9,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 44083,
+      "statement": "우리는 다른 사람의 기대를 정확히 평가할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 9,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 44084,
+      "statement": "집단 선호의 진실 여부는 중요하지 않다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 9,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 44085,
+      "statement": "우리는 일상에서 정확한 개인적 판단력을 가지고 있다. - 5 논리영역 책형 가",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 9,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 44086,
+      "statement": "정부는 국민저축채권을 통해 저축에 대한 플러스 실질금리를 보장해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 29,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 44087,
+      "statement": "정부는 연금 상품을 제공·관리하는 회사의 수수료에 대한 상한 선을 두는 등 사회적 시장경제를 적극 펼쳐야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 29,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 44088,
+      "statement": "정부는 기대되는 일인당 가계소득의 실질성장률이 국영 금융기 관 수익률과 일치하도록 해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 29,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 44089,
+      "statement": "정부는 연금 저축자들의 부가 뒷걸음질하지 않도록 즉시 인출 계좌 개설을 확대해야한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 29,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 44090,
+      "statement": "정부는 가계소득을 보장받도록 최저임금과 그 이상의 보수에 대한 실행 규칙이 있는 임금 정책을 펼쳐야 한다. - 15 논리영역 책형 가",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 29,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 44091,
+      "statement": "알룰로스를 중심으로 다른 소재들을 가감하여 소재 간 조합을 통해 맛의 밸런스를 확보하는 것은 불가능하다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 30,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 44092,
+      "statement": "당류 저감 소재를 취사선택하는 경우 맛보다 텍스처를 우선순 위로 고려하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 30,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 44093,
+      "statement": "실제로 알룰로스와 스테비올 배당체를 함께 사용하면 당류 함량 과 칼로리는 낮아지면서 설탕과 유사한 단맛을 구현할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 30,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 44094,
+      "statement": "라벨의 표시사항과 가격적인 부분을 고려하지 않고 맛과 텍스 처만을 고려한다면, 알룰로스를 최적의 당류 저감 소재로 보기 어렵다는 견해도 존재한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 30,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 44095,
+      "statement": "설탕과 유사한 프로파일을 가진 액상과당에 고감미 감미료를 소량 첨가하고 알룰로스로 균형을 잡는다면 가격적인 이점을 확보할 수 없다. 15 - 2024년도 제40회 입법고시 1교시 언어논리",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리영역(가형).pdf",
+      "source": {
+        "qid": 30,
+        "option": "⑤"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T06:56:06+00:00",
+    "total": 15,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

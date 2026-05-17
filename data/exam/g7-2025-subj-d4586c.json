@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 8700,
+      "id": 36301,
       "statement": "루트 노드의 번호는 17이다.",
       "answer": "X",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 8701,
+      "id": 36302,
       "statement": "중위 순회했을 때 네 번째 방문하는 노드의 번호는 15이다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 8702,
+      "id": 36303,
       "statement": "전위 순회했을 때 세 번째 방문하는 노드의 번호는 10이다.",
       "answer": "X",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 8703,
+      "id": 36304,
       "statement": "후위 순회했을 때 다섯 번째 방문하는 노드의 번호는 32이다. 2025년도 국가공무원 7급 공채 제2차 필기시험",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 8704,
+      "id": 36305,
       "statement": "B의 right_link→1030, C의 left_link→1020",
       "answer": "X",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 8705,
+      "id": 36306,
       "statement": "B의 right_link→1030, D의 left_link→1020",
       "answer": "X",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 8706,
+      "id": 36307,
       "statement": "C의 right_link→1020, D의 left_link→1030",
       "answer": "X",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 8707,
+      "id": 36308,
       "statement": "C의 right_link→1030, D의 left_link→1020 자료구조론 책형 6쪽",
       "answer": "O",
       "explanation": "",
@@ -179,7 +179,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 8,
     "with_full_meta": 0,
     "source": "0gichul.com"

@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 6482,
+      "id": 26241,
       "statement": "유효응력과 간극비는 직선적 비례관계이다.",
       "answer": "X",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 6483,
+      "id": 26242,
       "statement": "투수계수는 압밀이 진행되는 동안에 일정하다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 6484,
+      "id": 26243,
       "statement": "흙 입자는 비압축성이다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 6485,
+      "id": 26244,
       "statement": "흙 속에서 물의 흐름은 Darcy 법칙을 따른다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 6486,
+      "id": 26245,
       "statement": "일축압축시험에서 흙의 내부마찰각이 0°일 때, 점착력은 일축 압축강도와 같다.",
       "answer": "X",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 6487,
+      "id": 26246,
       "statement": "압밀배수 삼축압축시험은 전단 단계에서 간극수압이 발생하지 않는다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 6488,
+      "id": 26247,
       "statement": "베인전단시험은 점토의 전단강도를 측정하는 데 적합하다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 6489,
+      "id": 26248,
       "statement": "직접전단시험은 전단면이 미리 결정되어 있다.",
       "answer": "O",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 6490,
+      "id": 26249,
       "statement": "N값 측정과 동시에 시료를 채취할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 6491,
+      "id": 26250,
       "statement": "측정된 N값으로 모래의 내부마찰각을 추정할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 6492,
+      "id": 26251,
       "statement": "해머의 에너지 효율과 상관없이 측정된 N값은 동일하다.",
       "answer": "X",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 6493,
+      "id": 26252,
       "statement": "측정하는 N값은 해머를 자유낙하시켜 샘플러 30cm를 관입하는 데 필요한 타격횟수이다.",
       "answer": "O",
       "explanation": "",
@@ -263,7 +263,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 12,
     "with_full_meta": 0,
     "source": "0gichul.com"

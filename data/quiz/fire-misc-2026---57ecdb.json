@@ -10,7 +10,7 @@
   "count": 60,
   "questions": [
     {
-      "id": 20716,
+      "id": 30085,
       "question": "CPU와 주기억장치 사이에 위치한 장치로 데이터 접근 속도를 향상시킨다.",
       "answer": "O",
       "explanation": "",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": 20717,
+      "id": 30086,
       "question": "CPU와 주기억장치 간 처리속도의 차이로 인하여 발생하는 병목현상을 해결하기 위해 사용된다.",
       "answer": "O",
       "explanation": "",
@@ -34,7 +34,7 @@
       }
     },
     {
-      "id": 20718,
+      "id": 30087,
       "question": "수준-2(level-2) 캐시메모리가 수준-1(level-1) 캐시메모리 보다 CPU에 더 가깝게 있어 접근 속도가 더 빠르다.",
       "answer": "X",
       "explanation": "",
@@ -46,7 +46,7 @@
       }
     },
     {
-      "id": 20719,
+      "id": 30088,
       "question": "CPU가 데이터를 읽을 때, 주기억장치보다 캐시메모리를 먼저 조사하여 원하는 데이터가 있으면 바로 CPU로 전달 한다.",
       "answer": "O",
       "explanation": "",
@@ -58,7 +58,7 @@
       }
     },
     {
-      "id": 20720,
+      "id": 30089,
       "question": "인공신경망은 인간 두뇌의 생물학적 뉴런 작용을 모방 하였다.",
       "answer": "O",
       "explanation": "",
@@ -70,7 +70,7 @@
       }
     },
     {
-      "id": 20721,
+      "id": 30090,
       "question": "머신러닝의 학습 방법에는 지도학습, 비지도학습, 강화학습 등이 있다.",
       "answer": "O",
       "explanation": "",
@@ -82,7 +82,7 @@
       }
     },
     {
-      "id": 20722,
+      "id": 30091,
       "question": "지도학습은 보상을 얻기 위한 정책을 다음 행동에 반영 시키는 학습 방법이다.",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       }
     },
     {
-      "id": 20723,
+      "id": 30092,
       "question": "심층신경망은 입력층과 출력층 사이에 여러 개의 은닉층 으로 구성된 인공신경망이다.",
       "answer": "O",
       "explanation": "",
@@ -106,7 +106,7 @@
       }
     },
     {
-      "id": 20724,
+      "id": 30093,
       "question": "심층신경망을 기반으로 한다.",
       "answer": "O",
       "explanation": "",
@@ -118,7 +118,7 @@
       }
     },
     {
-      "id": 20725,
+      "id": 30094,
       "question": "Tensorflow는 딥러닝을 지원한다.",
       "answer": "O",
       "explanation": "",
@@ -130,7 +130,7 @@
       }
     },
     {
-      "id": 20726,
+      "id": 30095,
       "question": "랜덤 포레스트(random forest)는 인공신경망에 기반한 딥러닝의 한 모델이다.",
       "answer": "X",
       "explanation": "",
@@ -142,7 +142,7 @@
       }
     },
     {
-      "id": 20727,
+      "id": 30096,
       "question": "CNN(Convolutional Neural Network)은 이미지 처리 분야 등에 활용되는 딥러닝 모델이다. 37 / 터일반 】",
       "answer": "O",
       "explanation": "",
@@ -154,7 +154,7 @@
       }
     },
     {
-      "id": 20732,
+      "id": 30101,
       "question": "비트 수가 고정되었을 때 0에 대한 표현이 2가지이다.",
       "answer": "X",
       "explanation": "",
@@ -166,7 +166,7 @@
       }
     },
     {
-      "id": 20733,
+      "id": 30102,
       "question": "비트로 표현할 수 있는 정수의 범위는 -2     ~+2이다.",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       }
     },
     {
-      "id": 20734,
+      "id": 30103,
       "question": "최상위 비트가 1이면서 양의 값을 가지는 정수가 존재한다.",
       "answer": "X",
       "explanation": "",
@@ -190,7 +190,7 @@
       }
     },
     {
-      "id": 20735,
+      "id": 30104,
       "question": "2진 정수 X에 대한 2의 보수는 X에 대한 1의 보수에 1을 더하여 구할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -202,7 +202,7 @@
       }
     },
     {
-      "id": 20736,
+      "id": 30105,
       "question": "CPU에 가까울수록 기억장치의 용량이 증가한다.",
       "answer": "X",
       "explanation": "",
@@ -214,7 +214,7 @@
       }
     },
     {
-      "id": 20737,
+      "id": 30106,
       "question": "CPU에 가까울수록 기억장치로의 접근 시간이 빨라진다.",
       "answer": "O",
       "explanation": "",
@@ -226,7 +226,7 @@
       }
     },
     {
-      "id": 20738,
+      "id": 30107,
       "question": "CPU에 가까울수록 기억장치의 비트당 비용이 증가한다.",
       "answer": "O",
       "explanation": "",
@@ -238,7 +238,7 @@
       }
     },
     {
-      "id": 20739,
+      "id": 30108,
       "question": "지역성의 원리(principle of locality)를 이용하여 구축된다. 38 /",
       "answer": "O",
       "explanation": "",
@@ -250,7 +250,7 @@
       }
     },
     {
-      "id": 20742,
+      "id": 30111,
       "question": "파이프라인 위험으로 인해 파이프라인 지연(stall)이 발생 할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -262,7 +262,7 @@
       }
     },
     {
-      "id": 20743,
+      "id": 30112,
       "question": "분기(branch) 명령어는 제어 위험(control hazard)의 요인 이 될 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -274,7 +274,7 @@
       }
     },
     {
-      "id": 20744,
+      "id": 30113,
       "question": "데이터 전방전달(forwarding)을 사용하여 데이터 위험 (data hazard)으로 인한 성능 저하를 모두 제거할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -286,7 +286,7 @@
       }
     },
     {
-      "id": 20745,
+      "id": 30114,
       "question": "서로 다른 명령어가 같은 클록(clock) 사이클에 동일한 하드웨어 자원을 사용하려고 할 때 구조적 위험(structural hazard)이 발생한다.",
       "answer": "O",
       "explanation": "",
@@ -298,7 +298,7 @@
       }
     },
     {
-      "id": 20746,
+      "id": 30115,
       "question": "Python은 인터프리터 방식의 대화형 언어이다.",
       "answer": "O",
       "explanation": "",
@@ -310,7 +310,7 @@
       }
     },
     {
-      "id": 20747,
+      "id": 30116,
       "question": "Java의 시초는 가전제품을 제어하기 위한 언어로 개발된 것이다.",
       "answer": "O",
       "explanation": "",
@@ -322,7 +322,7 @@
       }
     },
     {
-      "id": 20748,
+      "id": 30117,
       "question": "C는 유닉스 운영체제의 작성을 위한 시스템 프로그래밍 언어로 설계된 것이다.",
       "answer": "O",
       "explanation": "",
@@ -334,7 +334,7 @@
       }
     },
     {
-      "id": 20749,
+      "id": 30118,
       "question": "COBOL은 초보자도 쉽게 배울 수 있도록 만들어진 대화형 언어이며, 게임이나 자연어 처리 등 인공지능 분야에 사용 된다. / 42",
       "answer": "X",
       "explanation": "",
@@ -346,7 +346,7 @@
       }
     },
     {
-      "id": 20750,
+      "id": 30119,
       "question": "a의 값==>100 a의 값==>100 a의 값 ==>200",
       "answer": "X",
       "explanation": "",
@@ -358,7 +358,7 @@
       }
     },
     {
-      "id": 20751,
+      "id": 30120,
       "question": "a의 값==>200 a의 값==>100 a의 값==>200",
       "answer": "X",
       "explanation": "",
@@ -370,7 +370,7 @@
       }
     },
     {
-      "id": 20752,
+      "id": 30121,
       "question": "메모리에 적재되어 프로세스 제어 블록(PCB)을 할당받은 상태이다.",
       "answer": "X",
       "explanation": "",
@@ -382,7 +382,7 @@
       }
     },
     {
-      "id": 20753,
+      "id": 30122,
       "question": "준비 상태의 프로세스가 스케줄링되어 CPU를 점유하는 실행 상태로 전환되는 것이다.",
       "answer": "O",
       "explanation": "",
@@ -394,7 +394,7 @@
       }
     },
     {
-      "id": 20754,
+      "id": 30123,
       "question": "CPU가 프로그램을 수행하는 동안 컴퓨터 시스템의 내부나 외부에서 발생하는 예기치 못한 사건이다.",
       "answer": "X",
       "explanation": "",
@@ -406,7 +406,7 @@
       }
     },
     {
-      "id": 20755,
+      "id": 30124,
       "question": "CPU의 지정된 할당 시간을 모두 사용한 프로세스가 다른 프로세스를 위해 다시 준비 완료 상태로 되돌아가는 것이다.",
       "answer": "X",
       "explanation": "",
@@ -418,7 +418,7 @@
       }
     },
     {
-      "id": 20756,
+      "id": 30125,
       "question": "DMA(Direct Memory Access)",
       "answer": "O",
       "explanation": "",
@@ -430,7 +430,7 @@
       }
     },
     {
-      "id": 20757,
+      "id": 30126,
       "question": "프로그램 입출력(programmed I/O)",
       "answer": "X",
       "explanation": "",
@@ -442,7 +442,7 @@
       }
     },
     {
-      "id": 20758,
+      "id": 30127,
       "question": "인터럽트 기반 입출력(interrupt driven I/O)",
       "answer": "X",
       "explanation": "",
@@ -454,7 +454,7 @@
       }
     },
     {
-      "id": 20759,
+      "id": 30128,
       "question": "A → B → C → D → E → F → G → H → I",
       "answer": "X",
       "explanation": "",
@@ -466,7 +466,7 @@
       }
     },
     {
-      "id": 20760,
+      "id": 30129,
       "question": "A → B → C → D → H → E → I → F → G",
       "answer": "X",
       "explanation": "",
@@ -478,7 +478,7 @@
       }
     },
     {
-      "id": 20761,
+      "id": 30130,
       "question": "A → B → E → C → D → F → G → H → I",
       "answer": "X",
       "explanation": "",
@@ -490,7 +490,7 @@
       }
     },
     {
-      "id": 20762,
+      "id": 30131,
       "question": "A → B → E → C → D → H → F → I → G",
       "answer": "O",
       "explanation": "",
@@ -502,7 +502,7 @@
       }
     },
     {
-      "id": 20763,
+      "id": 30132,
       "question": "속성 값으로 다중 값을 허용할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -514,7 +514,7 @@
       }
     },
     {
-      "id": 20764,
+      "id": 30133,
       "question": "하나의 릴레이션에는 동일한 튜플(tuple)이 존재할 수 없다.",
       "answer": "O",
       "explanation": "",
@@ -526,7 +526,7 @@
       }
     },
     {
-      "id": 20765,
+      "id": 30134,
       "question": "하나의 릴레이션에서 속성 사이의 순서는 바뀌어도 상관 없다.",
       "answer": "O",
       "explanation": "",
@@ -538,7 +538,7 @@
       }
     },
     {
-      "id": 20766,
+      "id": 30135,
       "question": "하나의 릴레이션에서 튜플 사이의 순서는 바뀌어도 상관 없다.",
       "answer": "O",
       "explanation": "",
@@ -550,7 +550,7 @@
       }
     },
     {
-      "id": 20767,
+      "id": 30136,
       "question": "응용 프로그램을 개발하기가 쉽지 않다.",
       "answer": "O",
       "explanation": "",
@@ -562,7 +562,7 @@
       }
     },
     {
-      "id": 20768,
+      "id": 30137,
       "question": "응용 프로그램이 데이터 파일에 종속적이다.",
       "answer": "O",
       "explanation": "",
@@ -574,7 +574,7 @@
       }
     },
     {
-      "id": 20769,
+      "id": 30138,
       "question": "같은 내용의 데이터는 단일 파일에만 저장해야 한다.",
       "answer": "X",
       "explanation": "",
@@ -586,7 +586,7 @@
       }
     },
     {
-      "id": 20770,
+      "id": 30139,
       "question": "데이터 파일에 대한 동시 공유, 보안, 회복 기능이 부족하다. 41 /",
       "answer": "O",
       "explanation": "",
@@ -598,7 +598,7 @@
       }
     },
     {
-      "id": 20774,
+      "id": 30143,
       "question": "Port 번호 MAC 주소 IPv4 주소 / 42",
       "answer": "X",
       "explanation": "",
@@ -610,7 +610,7 @@
       }
     },
     {
-      "id": 20782,
+      "id": 30151,
       "question": "비대칭 암호화 알고리즘이다.",
       "answer": "O",
       "explanation": "",
@@ -622,7 +622,7 @@
       }
     },
     {
-      "id": 20783,
+      "id": 30152,
       "question": "소인수 분해의 어려움에 기반을 둔 공개키 암호이다.",
       "answer": "O",
       "explanation": "",
@@ -634,7 +634,7 @@
       }
     },
     {
-      "id": 20784,
+      "id": 30153,
       "question": "리베스트(Rivest), 샤미르(Shamir), 애들먼(Adleman)이 고안 하였다.",
       "answer": "O",
       "explanation": "",
@@ -646,7 +646,7 @@
       }
     },
     {
-      "id": 20785,
+      "id": 30154,
       "question": "미국 NIST에서 DES를 대신할 수 있는 새로운 암호 알고 리즘을 공모하여 개발되었다.",
       "answer": "X",
       "explanation": "",
@@ -658,7 +658,7 @@
       }
     },
     {
-      "id": 20786,
+      "id": 30155,
       "question": "OTP는 외부 네트워크로부터 내부 네트워크를 보호한다.",
       "answer": "X",
       "explanation": "",
@@ -670,7 +670,7 @@
       }
     },
     {
-      "id": 20787,
+      "id": 30156,
       "question": "NAC는 접근제어 및 인증을 수행하여 네트워크 접속을 통제한다.",
       "answer": "O",
       "explanation": "",
@@ -682,7 +682,7 @@
       }
     },
     {
-      "id": 20788,
+      "id": 30157,
       "question": "VPN은 공중 네트워크를 이용하여 사설 네트워크를 구성 하는 솔루션이다.",
       "answer": "O",
       "explanation": "",
@@ -694,7 +694,7 @@
       }
     },
     {
-      "id": 20789,
+      "id": 30158,
       "question": "DLP는 사용자 수준에서 정보가 유출되는 것을 막는 솔루 션으로 사용자의 다양한 데이터 전송 인터페이스를 제어 한다.",
       "answer": "O",
       "explanation": "",
@@ -706,7 +706,7 @@
       }
     },
     {
-      "id": 20791,
+      "id": 30160,
       "question": "임의적 접근 통제(Discretionary Access Control)",
       "answer": "X",
       "explanation": "",
@@ -718,7 +718,7 @@
       }
     },
     {
-      "id": 20792,
+      "id": 30161,
       "question": "역할 기반 접근 통제(Role Based Access Control)",
       "answer": "X",
       "explanation": "",

@@ -10,7 +10,7 @@
   "count": 29,
   "questions": [
     {
-      "id": 12438,
+      "id": 41272,
       "question": "채널전송용량(Channel Capacity)",
       "answer": "X",
       "explanation": "",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": 12441,
+      "id": 41275,
       "question": "QPSK(Quadrature Phase Shift Keying)",
       "answer": "X",
       "explanation": "",
@@ -34,7 +34,7 @@
       }
     },
     {
-      "id": 12442,
+      "id": 41276,
       "question": "16-QAM(16-QuadratureAmplitudeModulation)",
       "answer": "O",
       "explanation": "",
@@ -46,7 +46,7 @@
       }
     },
     {
-      "id": 12443,
+      "id": 41277,
       "question": "8-QAM(8-Quadrature Amplitude Modulation)",
       "answer": "X",
       "explanation": "",
@@ -58,7 +58,7 @@
       }
     },
     {
-      "id": 12444,
+      "id": 41278,
       "question": "BPSK(Binary Phase Shift Keying)",
       "answer": "X",
       "explanation": "",
@@ -70,7 +70,7 @@
       }
     },
     {
-      "id": 12445,
+      "id": 41279,
       "question": "최대 전송속도는 1 Mbps(1,000 kbps)이다.",
       "answer": "X",
       "explanation": "",
@@ -82,7 +82,7 @@
       }
     },
     {
-      "id": 12446,
+      "id": 41280,
       "question": "최대 전송속도는 1 Gbps(1,000 Mbps)이다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       }
     },
     {
-      "id": 12447,
+      "id": 41281,
       "question": "브로드밴드(Broadband) 전송방식을 사용한다.",
       "answer": "X",
       "explanation": "",
@@ -106,7 +106,7 @@
       }
     },
     {
-      "id": 12448,
+      "id": 41282,
       "question": "FTP(FoiledTwistedPair)케이블만 사용한다.",
       "answer": "X",
       "explanation": "",
@@ -118,7 +118,7 @@
       }
     },
     {
-      "id": 12449,
+      "id": 41283,
       "question": "채널 부호화를 거친 신호는 데이터 압축 과정을 거친 후 전송된다.",
       "answer": "X",
       "explanation": "",
@@ -130,7 +130,7 @@
       }
     },
     {
-      "id": 12450,
+      "id": 41284,
       "question": "채널 부호화 과정을 거치면 전송해야 하는 데이터가 더 많아진다.",
       "answer": "O",
       "explanation": "",
@@ -142,7 +142,7 @@
       }
     },
     {
-      "id": 12451,
+      "id": 41285,
       "question": "송수신 과정에서 발생한 오류를 검출하고 수정할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -154,7 +154,7 @@
       }
     },
     {
-      "id": 12452,
+      "id": 41286,
       "question": "터보 코딩, LDPC 코딩 등이 최신 통신 시스템에 사용되고 있다.",
       "answer": "O",
       "explanation": "",
@@ -166,7 +166,7 @@
       }
     },
     {
-      "id": 12453,
+      "id": 41287,
       "question": "16QAM으로 전송하는 경우 데이터 전송속도 [bps]가 16PSK보다 높다.",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       }
     },
     {
-      "id": 12454,
+      "id": 41288,
       "question": "두 방식 모두 전송에 필요한 주파수 대역은 동일하다.",
       "answer": "O",
       "explanation": "",
@@ -190,7 +190,7 @@
       }
     },
     {
-      "id": 12455,
+      "id": 41289,
       "question": "동일한 평균 전송 전력을 갖는 경우 16PSK의 오류 확률이 더 낮다.",
       "answer": "X",
       "explanation": "",
@@ -202,7 +202,7 @@
       }
     },
     {
-      "id": 12456,
+      "id": 41290,
       "question": "두 변조 방식의 성상도는 동일하다.",
       "answer": "X",
       "explanation": "",
@@ -214,7 +214,7 @@
       }
     },
     {
-      "id": 12457,
+      "id": 41291,
       "question": "물리 계층에서는 ARQ 재전송이 수행된다.",
       "answer": "X",
       "explanation": "",
@@ -226,7 +226,7 @@
       }
     },
     {
-      "id": 12458,
+      "id": 41292,
       "question": "데이터 링크 계층에서는 라우팅 기능이 포함 된다.",
       "answer": "X",
       "explanation": "",
@@ -238,7 +238,7 @@
       }
     },
     {
-      "id": 12459,
+      "id": 41293,
       "question": "압축 및 암호화는 응용 계층의 기능이다.",
       "answer": "X",
       "explanation": "",
@@ -250,7 +250,7 @@
       }
     },
     {
-      "id": 12460,
+      "id": 41294,
       "question": "TCP는 전송 계층의 기능이다.",
       "answer": "O",
       "explanation": "",
@@ -262,7 +262,7 @@
       }
     },
     {
-      "id": 12461,
+      "id": 41295,
       "question": "시간 영역에서 사각 펄스는 주파수 영역에서 sinc 함수 형태를 갖는다.",
       "answer": "O",
       "explanation": "",
@@ -274,7 +274,7 @@
       }
     },
     {
-      "id": 12462,
+      "id": 41296,
       "question": "시간 영역에서 상수를 갖는 함수는 주파수 2 영역에서 임펄스 함수를 갖는다.",
       "answer": "O",
       "explanation": "",
@@ -286,7 +286,7 @@
       }
     },
     {
-      "id": 12463,
+      "id": 41297,
       "question": "시간 영역에서 cosine 함수의 곱은 주파수 영역에서 주파수 천이를 발생시킨다.",
       "answer": "O",
       "explanation": "",
@@ -298,7 +298,7 @@
       }
     },
     {
-      "id": 12464,
+      "id": 41298,
       "question": "시간 영역에서 미분한 것은 주파수 영역에서 적분한 것으로 표현된다. 통신공학(9급",
       "answer": "X",
       "explanation": "",
@@ -310,7 +310,7 @@
       }
     },
     {
-      "id": 12469,
+      "id": 41303,
       "question": "무선랜에 사용되는 전송방식이다.",
       "answer": "O",
       "explanation": "",
@@ -322,7 +322,7 @@
       }
     },
     {
-      "id": 12470,
+      "id": 41304,
       "question": "LTE에서 사용되는 전송방식이다.",
       "answer": "O",
       "explanation": "",
@@ -334,7 +334,7 @@
       }
     },
     {
-      "id": 12471,
+      "id": 41305,
       "question": "시간 영역에서 보호 구간이 필요하다.",
       "answer": "O",
       "explanation": "",
@@ -346,7 +346,7 @@
       }
     },
     {
-      "id": 12472,
+      "id": 41306,
       "question": "주파수 영역에서 서브캐리어 간 보호 대역이 필요하다. (9급) 4 - 4",
       "answer": "X",
       "explanation": "",

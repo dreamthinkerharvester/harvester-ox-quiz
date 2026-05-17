@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 8290,
+      "id": 35891,
       "statement": "프루드(Froude) 수가 1보다 큰 흐름의 수심",
       "answer": "X",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 8293,
+      "id": 35894,
       "statement": "평균유속이 장파의 전파속도보다 작은 흐름의 수심",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 8294,
+      "id": 35895,
       "statement": "사이펀 내 부압이 생기는 곳이 있다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 8295,
+      "id": 35896,
       "statement": "관의 일부가 동수경사선보다 높은 경우의 관수로를 의미한다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 8296,
+      "id": 35897,
       "statement": "관의 정점부의 위치가 높을수록 정점부에서의 압력은 증가한다.",
       "answer": "X",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 8297,
+      "id": 35898,
       "statement": "현장에서 사이펀의 정점부와 동수경사선의 고저차가 8.0～9.0m 이상일 경우, 사이펀을 적용하지 않는다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 8298,
+      "id": 35899,
       "statement": "온도가 상승하면 물의 점성계수는 작아진다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 8299,
+      "id": 35900,
       "statement": "온도가 상승하면 물의 동점성계수는 커진다.",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 8300,
+      "id": 35901,
       "statement": "동점성계수는 점성계수를 밀도로 나눈 값이며, 단위는 stokes를 사용한다.",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 8301,
+      "id": 35902,
       "statement": "액체의 점성계수와 기체의 점성계수는 온도에 따라 상반되는 변화관계를 보인다.",
       "answer": "O",
       "explanation": "",
@@ -221,7 +221,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 10,
     "with_full_meta": 0,
     "source": "0gichul.com"

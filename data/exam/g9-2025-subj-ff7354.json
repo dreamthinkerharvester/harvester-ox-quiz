@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 4432,
+      "id": 37938,
       "statement": "FTP(File Transfer Protocol)",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 4433,
+      "id": 37939,
       "statement": "SCTP(Stream Control Transmission Protocol)",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 4434,
+      "id": 37940,
       "statement": "SMTP(Simple Mail Transfer Protocol)",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 4438,
+      "id": 37944,
       "statement": "이메일 환경에서 S/MIME 사용 네트워크 보안 책형 1쪽",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 4445,
+      "id": 37951,
       "statement": "순서 번호(sequence number) 사용",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 4446,
+      "id": 37952,
       "statement": "IP 주소 고갈 문제를 해결하기 위해 도입되었다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 4447,
+      "id": 37953,
       "statement": "IP 주소를 클래스 구분 없이 지정할 수 있게 해 준다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 4448,
+      "id": 37954,
       "statement": "IPv4 주소체계에서만 지원하며, IPv6 주소체계에서는 지원하지 않는다.",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 4449,
+      "id": 37955,
       "statement": "슬래시(slash, ‘/’)를 사용하여 네트워크 프리픽스(prefix)의 길이를 표시한다.",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 4450,
+      "id": 37956,
       "statement": "VPN 구현을 위해 터널링 기술을 사용한다.",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 4451,
+      "id": 37957,
       "statement": "기밀성을 제공하기 위해 암호화 기술을 사용한다.",
       "answer": "O",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 4452,
+      "id": 37958,
       "statement": "VPN 구현을 위해 PPTP, L2TP 등을 사용할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 4453,
+      "id": 37959,
       "statement": "SSL VPN은 SA(Security Association)를 생성하기 위해 IKE (Internet Key Exchange)를 사용한다.",
       "answer": "X",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 4454,
+      "id": 37960,
       "statement": "네트워크 관리에 필요한 정보를 주고받기 위해 사용한다.",
       "answer": "O",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 4455,
+      "id": 37961,
       "statement": "하위 계층 프로토콜로 UDP를 사용한다.",
       "answer": "O",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 4456,
+      "id": 37962,
       "statement": "에이전트(agent)는 비정상적인 상황에 대한 경고 메시지를 관리자(manager)에게 보낼 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 4457,
+      "id": 37963,
       "statement": "관리자는 에이전트로부터 정보를 가져올 수 있으나, 에이전트에 있는 정보를 설정할 수 없다.",
       "answer": "X",
       "explanation": "",
@@ -368,7 +368,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 17,
     "with_full_meta": 0,
     "source": "0gichul.com"

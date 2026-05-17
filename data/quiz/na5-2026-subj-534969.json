@@ -1,0 +1,1213 @@
+{
+  "slug": "na5-2026-subj-534969",
+  "name": "헌법",
+  "exam_group": "국회직 5급 · 2026년",
+  "subject": "헌법",
+  "phase": null,
+  "source": "국회직 5급",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 100,
+  "questions": [
+    {
+      "id": 28606,
+      "question": "두개의집회신고가있는경우경찰이상호충돌을피한다는이유로 두 개의 집회신고를 모두 반려한 것은 법률의 근거 없이 집회의 자유를 침해한 것으로 헌법상 법률유보원칙에 위반된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28607,
+      "question": "집회의허용여부에대한법률적 제한이 실질적으로 행정청의허가 없는 옥외집회를 불가능하게 하는 것이라면 헌법 제21조제2항에 위반된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28608,
+      "question": "국회의장 공관의 경계 지점으로부터 100미터 이내의 장소에서의 옥외집회 또는 시위를 일률적으로 금지하고, 이를 위반한 집회· 시위의 참가자를 처벌하는 구｢집회 및 시위에 관한 법률｣ 조항은 집회의 자유를 침해한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28609,
+      "question": "대학 구내에서의 시위가 불특정 다수의 의견에 영향을 주는 행위 이더라도 대학의 자율성에 비추어 ｢집회 및 시위에 관한 법률｣의 규제 대상이 되지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28610,
+      "question": "옥외집회의사전신고의무위반을이유로형사처벌하는것은집회의 자유를 침해하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28611,
+      "question": "공직선거후보자로하여금실효된형까지포함하여100만원이상의 벌금형의 범죄경력을 제출하게 하는 ｢공직선거법｣ 조항은 인격권 및 개인정보자기결정권을 침해하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28612,
+      "question": "주민등록이되어있지않고국내거소신고도하지않은재외국민에게 국회의원 재·보궐선거의 선거권을 부여하지 않는 ｢공직선거법｣ 조항은 재외국민의 선거권을 침해하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28613,
+      "question": "지역구국회의원선거 예비후보자의 기탁금 반환 사유로 예비후보 5. 자가 당의 공천심사에서 탈락하여 후보자등록을 하지 않았을 경 우를 규정하지 않은 ｢공직선거법｣ 조항은 예비후보자의 재산권을 침해한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28614,
+      "question": "선거운동기간 전에 개별적으로 대면하여 말로 하는 선거운동을 처벌하는 ｢공직선거법｣ 조항은 정치적 표현의 자유를 침해하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28615,
+      "question": "당선되지 못하게 할 목적으로 후보자가 되고자 하는 자에 관하여 허위의 사실을 공표한 자를 처벌하는｢공직선거법｣ 조항은 정치적 표현의 자유를 침해하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28616,
+      "question": "헌법은정부가 예산안에변경을가할필요가 있을때에는 추가경정 예산안을 편성하여 국회에 제출할 수 있다고 규정하고 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28617,
+      "question": "새로운 회계연도가 개시될 때까지예산안이 의결되지 못한 때에는 정부는 국회에서 예산안이 의결될 때까지 법률상 지출의무의이 행을 위한 경비는 전년도 예산에 준하여 집행할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28618,
+      "question": "정부가 예산상 또는 기금상의 조치를 수반하는 의안을 제출하는 경우에는 그 의안의 시행에 수반될 것으로 예상되는 비용에 관한 추계요구서와 재원조달방안에 관한 자료를 의안에 첨부하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28619,
+      "question": "위원회는 예산안, 기금운용계획안, 임대형 민자사업 한도액안과 세입예산안 부수 법률안의 심사를 매년 12월 2일까지 마쳐야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28620,
+      "question": "예비비는 항목별로 국회의 의결을 얻어야 하며, 예비비의 지출은 차기국회의 승인을 얻어야 한다. - 1 - 법 책형 가",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28621,
+      "question": "감염병을 예방하기 위한 격리 조치를 위반한 감염병의심자를 1년 이하의징역또는1천만원이하의벌금에처하는것은감염병전파의 구체적 위험이 있다고보기 어려운 경우까지도 모두 처벌대상으로 삼고 있어 신체의 자유를 침해한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28622,
+      "question": "강제퇴거명령의 효율적 집행이라는 행정목적 때문에 기간의 제 한이 없는 보호를가능하게 하는 것은 행정의편의성과 획일성만을 강조한 것으로 피보호자의 신체의 자유를 침해한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28623,
+      "question": "교도소 내 엄중격리 대상자에 대하여 이동 시 계구를 사용하게 하는 것은 기본권을 부당하게 침해한다고 보기 어렵지만, 검사조 사실에서 원칙적으로 계구를사용하도록 하는 것은 신체의 자유를 과도하게 제한하여 헌법에 위반된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28624,
+      "question": "보호의무자 2인의 동의와 정신건강의학과 전문의 1인의 진단으로 정신질환자에 대한 보호입원이 가능하도록 하는 것은 정신질환 자를 신속·적정하게 치료하고 정신질환자 본인과 사회의 안전을 도모한다는 공익을 위한 것이나, 정신질환자의 신체의 자유 침해를 최소화할 수 있는 적절한 방안을 마련하지 아니한 것으로 정신질 환자의 신체의 자유를 침해한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28625,
+      "question": "외국에서 실제로 형의 집행을 받았음에도 불구하고 우리｢형법｣에 의한 처벌 시 이를 전혀 반영하지 않을 수 있도록 한 ｢형법｣ 조항 은 이로 인해 달성하고자 하는 국가형벌권의 적정한행사라는 공익 보다는 외국에서의 처벌이 전혀 반영되지 않을 수 있어 받게 되는 개인의 불이익이 훨씬 더 중대하다고 할 것이므로 신체의 자유를 침해한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28626,
+      "question": "헌법 제25조가 규정하는공무담임권은 재임기간 동안 충실한 공직 수행을담보하기위하여지방자치단체의장을위한퇴직급여제도를 마련하는 것을 그 보호영역으로 하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28627,
+      "question": "공무담임권의 보호영역에는 공직취임 기회의 자의적인 배제뿐 아니라 공무원 신분의 부당한 박탈까지 포함되는 것이라고 할 것 인데, 전자는 후자보다 해당 국민의 법적 지위에 미치는 영향이 더욱 크다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28628,
+      "question": "헌법 제7조에서 보장하는 직업공무원제도의 기본적 요소에 능력 주의가 포함되는 점에 비추어 헌법 제25조의 공무담임권 조항은 모든 국민이 누구나 그 능력과적성에 따라 공직에 취임할 수 있는 균등한 기회를 보장함을 내용으로 한다고 할 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28629,
+      "question": "공무원의 정치적 중립성 요청은 정권교체에 따른 국가작용의 중 단과 혼란을 예방하고, 일관성 있는 공무수행의 독자성과 영속성을 유지하며, 공무원 개인의 권리나 이익을 보호함에 그치지 아니하고 나아가 국가기능의 측면에서정치적 안정의 유지에 기여하기 위한 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28630,
+      "question": "수뢰죄를 범하여 금고 이상 형의 선고유예를 받은 국가공무원은 당연퇴직하도록 규정한 ｢국가공무원법｣ 조항은 수뢰죄를 범한 이들을 공직에서 배제함으로써 직무의 불가매수성, 공정성 및 이에 대한 국민의 신뢰를 확보하고자 하는 공익이 당연퇴직으로 인하여 공무원 개인이 입게 되는 불이익보다 훨씬 크므로 공무담임권을 침해하지 않는다. - 2026년도 제42회 입법고시 1교시 헌 법",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28631,
+      "question": "1억원 이상의 벌금형을 선고하는 경우 노역장유치기간의 하한을 정한 ｢형법｣ 조항을 그 시행 전에 행해진 범죄행위에 대해서도 공소제기의 시기가 노역장유치조항의 시행 이후이면 적용하도록 하고 있는 부칙조항은 헌법상 형벌불소급원칙에 위반된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28632,
+      "question": "헌법 제13조제1항에서의 가벌성을 결정하는 범죄구성요건과 형벌의 영역에서는 소급입법이 절대적으로 금지된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28633,
+      "question": "보안처분이라 하더라도 형벌적 성격이강하여 신체의 자유를 박탈 하거나 박탈에 준하는 정도로 신체의 자유를 제한하는 경우에는 소급입법금지원칙이 적용된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28634,
+      "question": "헌법 제13조제2항은 “모든 국민은 소급입법에 의하여 ……재산 권을 박탈당하지 아니한다.”라고 규정하고 있는바, 여기서 소급 입법은 진정소급효를 가지는 법률만 가리킨다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28635,
+      "question": "법 시행일 이후에 이행기가 도래하는 퇴직연금에 대하여 소득과 연계하여 그 일부의 지급을 정지할 수 있도록 한 ｢공무원연금법｣ 조항을 기존 퇴직연금 수급자에게도적용하도록 한 것은 진정소급 입법에 해당한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28636,
+      "question": "｢국회법｣ 제95조제5항의 수정이란 원안에 대하여 다른 의사를 가하는 것으로 새로 추가, 삭제 또는 변경하는 것을 모두 포함하는 개념이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28637,
+      "question": "부결된 안건은 같은 회기 중에 다시 발의하거나 제출할 수 없다는 일사부재의원칙은 헌법상의 원칙이므로 이를 변경하려면 헌법의 개정이 필요하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28638,
+      "question": "일사부재의원칙은 국회의 본회의를 비롯하여 상임위원회와 특별 위원회에도 적용되는 원칙이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28639,
+      "question": "법률안에 대한 1차 투표가 종료되어 재적의원 과반수의 출석에 미달되었음이 확인되었다면 해당 법률안에 대한 국회의 의사는 부결로 확정되었다고 보아야 하므로, 국회의장이 이를 무시하고 재표결을 실시하여 그 표결 결과에 따라 해당 법률안의 가결을 선포한 행위는 일사부재의원칙에 위배된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28640,
+      "question": "헌법과 ｢국회법｣에 따라국회는 어떠한 사항을 일반정족수가 아닌 특별정족수에 따라 의결할것인지 여부를 스스로 판단하여 법률로 정할 수 있으므로법률안의 중요성이 특별히 엄중한경우에 한하여 가중다수결이 요구된다고 볼 수 없다. - 2 - 법 책형 가",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28641,
+      "question": "사회국가란 경제·사회·문화의 모든 영역에서 정의로운 사회질서의 형성을 위하여 사회현상에 관여하고 간섭하고 분배하고 조정하는 국가이며, 궁극적으로는 국민 각자가 실제로 자유를 행사할 수 있는 그 실질적 조건을 마련해 줄 의무가 있는 국가를 의미한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28642,
+      "question": "사회적 법치국가이념을 추구하는 자유민주국가에서 공직제도란 사회국가의 실현수단일 뿐아니라 그 자체가 사회국가의 대상이며 과제이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28643,
+      "question": "고의나 과실로 타인에게 손해를 가한 경우에만 그 손해에 대한 배상책임을 가해자가 부담한다는 과실책임원칙은 사회적 정의를 실현하기 위한 것으로 사회국가원리에서 파생된 것이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28644,
+      "question": "세계인권선언은 인권의 보편적인 존중과 공통의 기준으로서 모든 국민과 모든 나라가 이를 달성하여야 한다고 선언하는 의미가 있 으나, 보편적인 법적 구속력을 갖는 것은 아니다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28645,
+      "question": "어떤 의식, 행사, 유형물 등이 비록 종교적인 의식, 행사 또는 상징 에서 유래되었다고 하더라도 사회공동체 구성원들 사이에서 관습 화된 문화요소로 인식되고 받아들여질 정도에 이르렀다면, 이에 대한 국가의 지원은 일정 범위 내에서 문화국가원리에 부합한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28646,
+      "question": "선거구 획정에 있어서 인구 이외의 다양한 요소를 고려해야 할 입법자의 입법형성의 자유는 헌법재판소가 제시하고 있는 인구 편차 허용기준의 범위 내에서만 가능하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28647,
+      "question": "｢공직선거법｣상 착신전환 등을 통한 중복 응답 등 범죄로 100만 원 이상의 벌금형의 선고를 받고 형이 확정된 후 5년이 경과하지 아니한 자의 선거권을 제한하는 것은 선거권 제한을 통하여 달성 하려는 선거의 공정성 확보라는 공익이 선거권을 행사하지 못함 으로써 침해되는 개인의 사익보다 크다는 점에서 선거권을 침해 하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28648,
+      "question": "선거권자의 연령을 선거일 현재를기준으로 산정하도록 하는 것은 국민 각자의 생일을 기준으로 선거권의 유무를 명확하게 판단할 수 있으므로 입법형성권의 한계를 벗어나 선거권을 침해한다고 볼 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28649,
+      "question": "사전투표자의 송달에 소요되는 시간을 고려하여 사전투표기간을 선거일전4일까지마치도록규정한것은선거권을침해하지않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28650,
+      "question": "신체의 장애로 인하여 자신이 기표할 수 없는 선거인에 대해 투 표보조인이 가족이 아닌 경우 반드시 2인을 동반하여서만 투표를 보조하게 할 수 있도록 하는 ｢공직선거법｣ 조항은 가족이 아닌 투표보조인 1인을 동반한 경우 투표사무원 중에서 투표보조인을 추가로 선정함으로써 아무런 신뢰관계가 없는 제3자에게 투표내 용을 공개하도록 하여 과잉금지원칙에 반해 선거권을 침해한다. - 3 - 법 책형 가",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28651,
+      "question": "국무총리 또는 국무위원의 직을겸한 의원은 상임위원회의 위원을 사임하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28652,
+      "question": "안건조정위원회에서 조정안이 의결된 안건에 대해서는 소위원회의 심사를 거친 것으로 보며, 국회의 위원회는 안건조정위원회의 조 정안이 의결된 날부터 30일 이내에 그 안건을 표결한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28653,
+      "question": "국회에 제출된 법률안 기타의 의안은 회기 중에 의결되지 못한 이유로 폐기되지 아니하며, 국회의원의 임기가 만료된 때에도 또 한 같다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28654,
+      "question": "국회의원은 둘 이상의 상임위원회의 위원이 될 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28655,
+      "question": "상임위원회의 위원 정수는 국회규칙으로 정하되, 정보위원회의 위원 정수는 15명으로 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28656,
+      "question": "공유수면의 행정구역 경계에 관한명시적인 법령상의 규정과 해상 경계에 관한 불문법이 존재하지 않으면 권한쟁의심판권을 가지고 있는 헌법재판소가 형평의 원칙에 따라 해상경계선을 획정할 수 밖에 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28657,
+      "question": "지방자치기관은 정치적 권력기관이긴 하지만 중앙·지방간 권력의 수직적 분배라고 하는 지방자치제의 권력분립적 속성상 중앙정치 기관의 구성과는 다소 상이한 방법으로 국민주권·민주주의원리가 구현될 수도 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28658,
+      "question": "헌법상 지방자치제도 보장의 핵심영역 내지 본질적 부분은 지방 자치단체에 의한 자치행정을 일반적으로 보장하는 것이지 특정 지방자치단체의 존속을 보장하는 것이 아니다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28659,
+      "question": "헌법은 자치입법권의 허용근거와 조례에 대한 법률의 구체적인 위임 방법을 규정하고 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28660,
+      "question": "광역지방자치단체가 기초지방자치단체의 자치사무에 대한 감사에 착수하기 위해서는 감사대상을 특정하여야 하나, 특정된 감사대상 을 사전에 통보할 것까지 요구된다고 볼 수는 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28661,
+      "question": "1948년 제헌헌법은 전문에서 기미 삼일운동으로 대한민국을 건립 하여 세계에 선포한 위대한 독립정신을 계승하여 민주독립국가를 재건한다는 점을 명시하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28662,
+      "question": "1952년 제1차 개정헌법은 주권의 제약·영토변경에 대한 개헌의 한계 및 국무위원에 대한 개별적 불신임제를 규정하였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28663,
+      "question": "1960년 제3차 개정헌법은 자유권에 대한 개별적 법률유보조항을 삭제하였고, 기본권의 본질적 내용 침해금지조항을 신설하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28664,
+      "question": "1972년제7차개정헌법은위헌법률심사권, 탄핵심판권및위헌정당 해산심판권을 가진 헌법위원회를 설치하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28665,
+      "question": "1987년 제9차 개정헌법은 대법원장이 대법관이 아닌 법관을 임명 할 때 대법관회의의 동의를 얻도록 규정하였다. - 2026년도 제42회 입법고시 1교시 헌 법",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28666,
+      "question": "가명정보는 원래의 상태로 복원하기 위한 추가 정보의 사용·결합 없이 그 자체만으로는 특정 개인을 알아볼 수 없고 극히 예외적인 경우에만 정보주체의 식별이 이루어지므로 개인정보자기결정권의 보호대상이 되는 개인정보에 해당하지 아니한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28667,
+      "question": "인터넷언론사가 선거운동기간 중 해당 홈페이지의 게시판 등에 정당·후보자에 대한 지지·반대 등의 정보를 게시할 수 있도록 하는 경우 실명을 확인받는 기술적 조치를 하도록 한 ｢공직선거법｣ 조 항은 인터넷언론사 홈페이지 게시판 등 이용자의 개인정보자기 결정권을 침해한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28668,
+      "question": "성명은 다른 위험스러운 정보에 접근하기 위한 식별자(識別子) 역할을 하거나 다른 개인정보들과 결합함으로써 개인의 전체적· 부분적 인격상을 추출해 내는 데 사용되지 않는 한 그 자체로 언 제나 엄격한 보호의 대상이 되는 것은 아니다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28669,
+      "question": "야당 소속 후보자 지지 혹은 정부 비판은 정치적 견해로서 개인의 인격주체성을 특징짓는 개인정보에 해당하고, 그것이 지지 선언 등의 형식으로 공개적으로 이루어진 것이라고 하더라도 여전히 개인정보자기결정권의 보호범위에 속한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28670,
+      "question": "통신매체이용음란죄로 유죄판결이 확정된 자는 필요적으로 신상 정보 등록대상자가 된다고 규정한 ｢성폭력범죄의 처벌 등에 관한 특례법｣ 조항은 개인정보자기결정권을 침해한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28671,
+      "question": "탄핵심판의 이익이 있는지 여부의 판단은 헌법 및 ｢헌법재판소법｣ 의 명문의 규정에 부합하여야 하고, 파면결정을 통하여 손상된 헌법질서를 회복하고, 피청구인에게 그 임기 동안 부여된 민주적 정당성을 임기 중에 박탈함으로써 헌법을 수호하고자 하는 탄핵 심판절차의 목적과 기능의 관점에도 부합하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28672,
+      "question": "국회가 탄핵소추사유에 대하여 별도의 조사를 하지 않았다거나 국정조사결과나 특별검사의 수사결과를 기다리지 않고 탄핵소추안 을 의결하였다고 하여 그 의결이 헌법이나 법률을 위반한것이라고 볼 수는 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28673,
+      "question": "의안·동의의 철회에 대한 ｢국회법｣ 조항은 해당 조항이 적용되는 의안의종류나유형에관하여아무런제한을두고있지아니하므로, 탄핵소추안에 대해서도 의안의 철회에 대한 일반 규정인 ｢국회법｣ 조항이 적용된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28674,
+      "question": "국회가 탄핵소추안을 법제사법위원회에 회부하기로 의결하지 않은 경우에는 본회의에 보고된 때부터 24시간이후 72시간이내에 탄핵 소추여부를무기명투표로표결하며, 이기간내에표결하지아니한 탄핵소추안은 폐기된 것으로 본다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28675,
+      "question": "국회의 탄핵소추의결 과정에서 법정 절차가 준수되고 피소추자의 헌법 내지 법률 위반행위가 일정한 수준 이상 소명되었더라도, 부수적으로 정치적 목적이나동기가 내포되어 있다면 그러한 점만 으로 탄핵소추권이 남용되었다고 볼 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28676,
+      "question": "법무부장관은귀화신청인이귀화요건을갖추었다하더라도귀화를 허가할 것인지 여부에 관하여 재량권을 가진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28677,
+      "question": "외국인이 대한민국의 국민인 배우자와 혼인한 후 2년이 지나고 혼인한 상태로 대한민국에 1년 이상 계속하여 주소가 있는 경우 간이귀화 허가를 받을 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28678,
+      "question": "‘외국에서 영주할 목적’이 없다고 함은 다른 나라에서 오랫동안 살고자 하는 목적이 없다는 것이므로, 일시적인 유학이나 파견, 출장 등의 목적으로 외국에 머무르는 경우에는영주할 목적이 인정 되지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28679,
+      "question": "외국인이복수국적을누릴자유는우리헌법상행복추구권에의하여 보호되는 기본권이라고 보기 어렵다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28680,
+      "question": "출생에 의하여 대한민국 국적을 취득한 자가 국가안보, 외교관계 및 국민경제 등에 있어서 대한민국의 국익에 반하는 행위를 하더 라도 법무부장관은 대한민국 국적의 상실을 결정할 수 없다. - 2026년도 제42회 입법고시 1교시 헌 법",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28681,
+      "question": "고등학교 퇴학일부터 검정고시 공고일까지의 기간이 6개월 이상이 되지 않은 사람은 고졸검정고시에 응시할 수 없도록 하는 것은 고등학교 퇴학자의 고졸검정고시응시 증가를 억제하여 정규 학교 교육 과정의 이수를 유도함으로써 공교육의 내실화를 도모하고자 하는 것으로 교육을 받을 권리를 침해하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28682,
+      "question": "군인이 자비 해외유학을 위하여휴직하는 경우 다른 국가공무원과 달리 봉급을 지급하지 않도록 하는 것은 교육을 받을 권리에 자비 해외유학을 위한 휴직기간 중에 보수를 받을 권리까지 포함되어 있다고 할 수는 없으므로 교육을 받을 권리를 침해하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28683,
+      "question": "교육을 받을 권리는 국가로 하여금 재정능력이 허용하는 범위 내 에서 모든 국민에게 취학의 기회가골고루 주어지도록 그에 필요한 교육시설 및 제도를 마련할 의무를 부과하는 것이지만 국민이 국 가에 대해 직접 특정한 교육제도나 교육과정을 요구할 수 있는 것을 포함하지는 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28684,
+      "question": "국립교육대학교가 검정고시로 고등학교 졸업학력을 취득한 사람 들의 수시모집 지원을 제한하는 것은 정규 고등학교 학교생활기 록부가 있는지 여부, 공교육 정상화, 비교내신 문제 등의 요소를 고려하면 균등하게 교육을 받을 권리를 침해하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28685,
+      "question": "의무교육의 무상성에 관한헌법상 규정은 교육을받을권리를보다 실효성 있게 보장하기 위해 의무교육 비용을 학령아동 보호자의 부담으로부터 공동체 전체의부담으로 이전하라는 명령일 뿐 의무 교육의모든비용을조세로해결해야함을의미하는것은아니므로, 학교용지부담금의 부과대상을 수분양자가 아닌 개발사업자로 정한 것은 의무교육의 무상원칙에 위배되지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28686,
+      "question": "이륜자동차 운전자가 고속도로 등을통행하는 것을 금지하고 있는 ｢도로교통법｣ 조항은 퀵서비스 배달업의 직업수행행위를 직접적 으로 제한한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28687,
+      "question": "대학생이 방학기간을 이용하여 또는 휴학 중에 학비 등을 벌기 위해 학원강사로서 일하는 행위는 계속성을 띤 소득활동이 아니 므로 직업의 자유의 보호영역에 속하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28688,
+      "question": "｢문화재수리 등에 관한 법률｣ 위반으로 형의 집행유예를 선고받은 문화재수리기술자의 자격을 필요적으로 취소하는 구｢문화재수리 등에 관한 법률｣ 조항은 과잉금지원칙을 위반하여 직업선택의 자유를 침해한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28689,
+      "question": "전문과목을 표시한 치과의원은 그 표시한 전문과목에 해당하는 환자만을진료하여야한다고규정한｢의료법｣ 조항은명확성원칙에 위배되어 직업수행의 자유를 침해한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28690,
+      "question": "자동차운전전문학원을 졸업하고 운전면허를 받은 사람 중 교통 사고를 일으킨 비율이대통령령이 정하는 비율을 초과하는 때에는 학원의 등록을 취소하거나 1년 이내의 운영정지를 명할 수 있도록 한 ｢도로교통법｣ 조항은 비례의 원칙에 위배되어 직업의 자유를 침해한다. - 5 - 법 책형 가",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28691,
+      "question": "1960년 제3차 개정헌법을 통해 중앙선거위원회가 처음으로 도입 되었다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28692,
+      "question": "중앙선거관리위원회에는 헌법과 ｢선거관리위원회법｣에 의하여 행정부등외부기관의부당한간섭없이선거관리사무는물론인사, 조직 운영, 내부 규율 등에 관한 각종 사무를 독립적으로 수행할 권한이 부여되어 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28693,
+      "question": "선거관리위원회 공무원에 대하여 정당이나 후보자를 지지·반대 하는 단체에의 가입·활동 등을 금지한 규정은 선거관리위원회 공무 원의 경우 다른 공무원보다 정치적으로 중립적인 입장에서 공정 하고 객관적으로 직무를 수행할 의무가 있으므로 선거관리위원회 공무원의 정치적 표현의 자유를 침해한다고 할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28694,
+      "question": "중앙선거관리위원회가제정한｢공직선거관리규칙｣은 헌법제114조 제6항 소정의 규칙제정권에 따라 ｢공직선거법｣에서 위임된 사항과 선거의 관리에 필요한 세부사항을 규정함을 목적으로 하여 제정 된 법규명령이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28695,
+      "question": "감사원의 직무감찰권은 행정부 내부의 통제장치로서의 성격을 가지므로, 입법부와 사법부에 속하는 국회, 법원, 헌법재판소와 달리 행정기관인 선거관리위원회는 감사원의 직무감찰 대상에 포함된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28696,
+      "question": "국회의장이국회에서의결된법률안의조문이나자구·숫자, 법률안의 체계나 형식 등을 정비하려면 반드시 국회의 위임 의결이 있어야 하는 것은 아니다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28697,
+      "question": "국회 소수파에게 의견 제시의 기회를 보장하여 의사의 진행을 지 연할 수 있도록 기회를 부여하는 무제한토론의 취지를 고려할 때, 무제한토론은 특별한 사정이 없는 한 모든 의안에 대해서 인정되 어야 하므로 ‘회기결정의 건’도 무제한토론의 대상이 된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28698,
+      "question": "정보위원회의회의는공개하지아니한다고규정한｢국회법｣ 조항은 헌법 제50조제1항의 의사공개원칙에 위배되지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28699,
+      "question": "무제한토론을실시하는본회의에서회의중재적의원5분의1 이상이 출석하지 아니한 경우에는 국회의장은 회의의 중지를 선포할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28700,
+      "question": "국회의상임위원회와특별위원회의위원은위원회에서같은의제에 대하여 2회에 한하여 발언할 수 있다. - 2026년도 제42회 입법고시 1교시 헌 법",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28701,
+      "question": "가점 합격자비율의 상한을 30퍼센트로하면서 동시에 가점에따른 선발 인원을 산정하는 경우 소수점 이하는 버리도록 하는 ｢국가 유공자 등 예우 및 지원에 관한 법률｣상 가산점 제도는 선발예정 인원에 따라 취업지원 대상자를 차별취급하여 평등권을 침해한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28702,
+      "question": "국가라 할지라도 국고작용으로 인한 민사관계에 있어서는 일반 인과 같이 원칙적으로 대등하게 다루어져야 하며 국가라고 하여 우대하여야 할 헌법상의 근거가 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28703,
+      "question": "특별시장·광역시장·특별자치시장·도지사·특별자치도지사 선거의 예비후보자를 후원회지정권자에서 제외하는 ｢정치자금법｣ 조항은 예비후보자의 평등권을 침해한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28704,
+      "question": "병원·치과병원또는종합병원과달리정신병원의경우에는한의사를 두어 한의과 진료과목을 추가로 설치·운영할 수 있도록 규정하지 아니한 ｢의료법｣ 조항은 평등권을 침해한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 28705,
+      "question": "국가유공자의 유족 중 보상금을 받을 유족의 순위를 정함에 있어 같은 순위 유족이 2명 이상인 경우 같은 순위의 유족 간 협의로 지정된 유족이 없고국가유공자를 주로 부양하거나 양육한 유족도 없는 때에는 나이가 많은 사람에게 보상금을 지급하도록 한 ｢국가 유공자 등 예우 및 지원에 관한 법률｣ 조항은 평등권을 침해한다. - 6 - 법 책형 가",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

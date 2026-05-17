@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 11150,
+      "id": 43537,
       "statement": "부호는 두 개의 자기상관 값을 갖는다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 11151,
+      "id": 43538,
       "statement": "한 칩 지연 시 부호의 자기상관 값이 최대가 된다.",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 11152,
+      "id": 43539,
       "statement": "주로 무선 LAN에서 사용된다.",
       "answer": "X",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 11153,
+      "id": 43540,
       "statement": "충돌이 발생하면 각 호스트에 충돌 발생 정보를 통지한다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 11154,
+      "id": 43541,
       "statement": "충돌이 발생하면 임의의 대기 시간을 기다린 후 다시 매체접근을 시도한다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 11155,
+      "id": 43542,
       "statement": "데이터 전송 중 공유 매체에서 발생할 수 있는 충돌을 감지하는 기능이 있다.",
       "answer": "O",
       "explanation": "",
@@ -137,7 +137,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:06+00:00",
     "total": 6,
     "with_full_meta": 0,
     "source": "0gichul.com"

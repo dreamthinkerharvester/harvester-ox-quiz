@@ -10,7 +10,7 @@
   "count": 15,
   "questions": [
     {
-      "id": 17017,
+      "id": 32646,
       "question": "110101010111111 - 18 신 이 론 사 이 버",
       "answer": "X",
       "explanation": "",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": 17018,
+      "id": 32647,
       "question": "에너지 신호의 전력은 ∞이다.",
       "answer": "X",
       "explanation": "",
@@ -34,7 +34,7 @@
       }
     },
     {
-      "id": 17019,
+      "id": 32648,
       "question": "전력 신호의 에너지는 0이다.",
       "answer": "X",
       "explanation": "",
@@ -46,7 +46,7 @@
       }
     },
     {
-      "id": 17020,
+      "id": 32649,
       "question": "에너지 신호도 아니고 전력 신호도 아닌 신호가 존재한다.",
       "answer": "O",
       "explanation": "",
@@ -58,7 +58,7 @@
       }
     },
     {
-      "id": 17021,
+      "id": 32650,
       "question": "주기 신호는 에너지 신호이다.",
       "answer": "X",
       "explanation": "",
@@ -70,7 +70,7 @@
       }
     },
     {
-      "id": 17029,
+      "id": 32658,
       "question": "B : 440[MHz] K : 10 - 19",
       "answer": "X",
       "explanation": "",
@@ -82,7 +82,7 @@
       }
     },
     {
-      "id": 17030,
+      "id": 32659,
       "question": "펄스부호변조(Pulse Code Modulation)",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       }
     },
     {
-      "id": 17033,
+      "id": 32662,
       "question": "펄스폭변조(Pulse Width Modulation) - 22",
       "answer": "X",
       "explanation": "",
@@ -106,7 +106,7 @@
       }
     },
     {
-      "id": 17039,
+      "id": 32668,
       "question": "ARP(Address Resolution Protocol)",
       "answer": "X",
       "explanation": "",
@@ -118,7 +118,7 @@
       }
     },
     {
-      "id": 17040,
+      "id": 32669,
       "question": "DHCP(Dynamic Host Configuration Protocol)",
       "answer": "O",
       "explanation": "",
@@ -130,7 +130,7 @@
       }
     },
     {
-      "id": 17041,
+      "id": 32670,
       "question": "RARP(Reverse Address Resolution Protocol) - 23",
       "answer": "X",
       "explanation": "",
@@ -142,7 +142,7 @@
       }
     },
     {
-      "id": 17042,
+      "id": 32671,
       "question": "SMTP(Simple Mail Transfer Protocol)",
       "answer": "X",
       "explanation": "",
@@ -154,7 +154,7 @@
       }
     },
     {
-      "id": 17043,
+      "id": 32672,
       "question": "MIME(Multipurpose Internet Mail Extention)",
       "answer": "X",
       "explanation": "",
@@ -166,7 +166,7 @@
       }
     },
     {
-      "id": 17044,
+      "id": 32673,
       "question": "POP(Post Office Protocol)",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       }
     },
     {
-      "id": 17045,
+      "id": 32674,
       "question": "IMAP(Internet Mail Access Protocol)",
       "answer": "O",
       "explanation": "",

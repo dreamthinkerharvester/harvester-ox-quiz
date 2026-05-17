@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 22351,
+      "id": 30531,
       "statement": "내용연수가 유한한 무형자산의 잔존가치는 장부금액보다 더 클 수는 없다.",
       "answer": "X",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 22353,
+      "id": 30533,
       "statement": "내용연수가 비한정인 무형자산을 유한 내 징후에 해당되지 않으므로 손상차손을 인식",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 22354,
+      "id": 30534,
       "statement": "경제적 효익이 소비될 것으로 예상되는 형태 비한정인 무형자산은 정액법을 적용하여 상",
       "answer": "X",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 22355,
+      "id": 30535,
       "statement": "내용연수가 유한한 무형자산을 내용연수 종 우, 잔존가치는 영(0)으로 보지 않는다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 22356,
+      "id": 30536,
       "statement": "리스이용자의 규모, 특성, 상황이 서 상대적 기준에 따라 평가한다.",
       "answer": "X",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 22357,
+      "id": 30537,
       "statement": "소액 기초자산 리스에 대한 리스회 용해야 한다.",
       "answer": "X",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 22358,
+      "id": 30538,
       "statement": "리스약정일은 리스계약일과 리스의 의한 날 중 이른 날을 말한다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 22359,
+      "id": 30539,
       "statement": "리스이용자는 리스부채의 원금에 재무활동으로 분류하고, 리스부채 액자산 리스료, 변동리스료는 현금",
       "answer": "O",
       "explanation": "",
@@ -179,7 +179,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 8,
     "with_full_meta": 0,
     "source": "0gichul.com"

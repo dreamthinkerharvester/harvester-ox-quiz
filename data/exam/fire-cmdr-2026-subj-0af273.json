@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 19802,
+      "id": 29171,
       "statement": "배강도유리를 사용하는 경우, 그 두께가 5mm 이하여야 한다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 19803,
+      "id": 29172,
       "statement": "소방차 진입로 또는 소방차 진입이 가능한 공터에 면해야 한다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 19804,
+      "id": 29173,
       "statement": "창문의 양쪽 모서리에 타격지점을 지름 3cm 이상의 사각형으로 표시해야 한다.",
       "answer": "X",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 19805,
+      "id": 29174,
       "statement": "창문의 가운데에 지름 20cm 이상의 역삼각형을 야간에도 알아볼 수 있도록 빛 반사 등으로 붉은색 으로 표시해야 한다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 19806,
+      "id": 29175,
       "statement": "2층 이상 11층 이하인 층에 각각 1개소 이상을 설치 하되, 직접 지상으로 통하는 출입구가 있는 층 및 바닥구조체 윗면의 높이가 지표면으로부터 44m를 초과하는 층에는 설치하지 않을 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 19807,
+      "id": 29176,
       "statement": "배연기에는 예비전원을 설치한다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 19808,
+      "id": 29177,
       "statement": "배연구 및 배연풍도는 준불연재료로 한다.",
       "answer": "X",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 19809,
+      "id": 29178,
       "statement": "배연구는 평상시에는 닫힌 상태를 유지하도록 한다.",
       "answer": "O",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 19810,
+      "id": 29179,
       "statement": "배연기는 배연구의 열림에 따라 자동적으로 작동 하도록 한다.",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 19811,
+      "id": 29180,
       "statement": "배연구에 설치하는 수동개방장치 또는 자동개방 장치는 손으로도 열고 닫을 수 있도록 한다. 자연계열 16 / 공학개론 】",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 19817,
+      "id": 29186,
       "statement": "강구조보다 내화성이 우수하다.",
       "answer": "O",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 19818,
+      "id": 29187,
       "statement": "벽돌구조, 블록구조, 돌구조 등이 있다.",
       "answer": "O",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 19819,
+      "id": 29188,
       "statement": "인장력에 취약하여 장경간 구조에는 적합하지 않다.",
       "answer": "O",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 19820,
+      "id": 29189,
       "statement": "내력벽으로 사용되는 조적벽체는 횡력저항능력이 우수하다.",
       "answer": "X",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 19821,
+      "id": 29190,
       "statement": "벽돌이나 석재 등과 같은 재료를 모르타르 등으로 접착하여 축조한 구조이다.",
       "answer": "O",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 19822,
+      "id": 29191,
       "statement": "S트랩은 P트랩에 비하여 봉수가 안정적이다.",
       "answer": "X",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 19823,
+      "id": 29192,
       "statement": "고가수조방식은 수질오염 가능성이 작고 정전 시 단수된다.",
       "answer": "X",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 19824,
+      "id": 29193,
       "statement": "중수도설비 배관계획 시 크로스커넥션을 통해 적합한 수질을 확보한다.",
       "answer": "X",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 19825,
+      "id": 29194,
       "statement": "급탕관의 침식을 최소화하기 위해 급탕온도는 최대한 높이는 것이 좋다.",
       "answer": "X",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 19826,
+      "id": 29195,
       "statement": "순간적으로 개폐하는 수전･밸브 등을 사용하는 곳은 수격작용(water hammer)이 발생하기 쉽다. 열-선택 / 33",
       "answer": "O",
       "explanation": "",
@@ -430,7 +430,7 @@
       "related_videos": []
     },
     {
-      "id": 19827,
+      "id": 29196,
       "statement": "유인 유닛방식은 각 실별로 개별제어가 가능하다.",
       "answer": "O",
       "explanation": "",
@@ -451,7 +451,7 @@
       "related_videos": []
     },
     {
-      "id": 19828,
+      "id": 29197,
       "statement": "2중 덕트방식은 냉풍과 온풍의 혼합에 의한 에너지 손실이 작다.",
       "answer": "X",
       "explanation": "",
@@ -472,7 +472,7 @@
       "related_videos": []
     },
     {
-      "id": 19829,
+      "id": 29198,
       "statement": "단일 덕트방식 중 변풍량방식은 송풍량 변화로 에너지 손실이 크다.",
       "answer": "X",
       "explanation": "",
@@ -493,7 +493,7 @@
       "related_videos": []
     },
     {
-      "id": 19830,
+      "id": 29199,
       "statement": "팬코일 유닛방식은 많은 양의 외기를 필요로 하는 장소에 적합하다.",
       "answer": "X",
       "explanation": "",
@@ -514,7 +514,7 @@
       "related_videos": []
     },
     {
-      "id": 19831,
+      "id": 29200,
       "statement": "복사패널방식은 쾌감도가 높고 잠열부하가 큰 건축물에 효과적이다. 자연계열 18 /",
       "answer": "X",
       "explanation": "",
@@ -535,7 +535,7 @@
       "related_videos": []
     },
     {
-      "id": 19832,
+      "id": 29201,
       "statement": "도피 통기방식은 가장 안정적인 방식이며, 배수 수직관의 관내 압력이 높아질 위험을 방지한다.",
       "answer": "X",
       "explanation": "",
@@ -556,7 +556,7 @@
       "related_videos": []
     },
     {
-      "id": 19833,
+      "id": 29202,
       "statement": "회로(루프) 통기방식은 가장 일반적으로 사용되는 방식이며, 유도사이펀 작용의 방지에 효과가 있다.",
       "answer": "O",
       "explanation": "",
@@ -577,7 +577,7 @@
       "related_videos": []
     },
     {
-      "id": 19834,
+      "id": 29203,
       "statement": "각개 통기방식에 있어 통기관의 취출 위치는 기구 트랩위어로부터 관경의 2배 이내로 최대한 가까운 곳으로 한다.",
       "answer": "X",
       "explanation": "",
@@ -598,7 +598,7 @@
       "related_videos": []
     },
     {
-      "id": 19835,
+      "id": 29204,
       "statement": "신정 통기방식은 통기수직관을 복수로 설치하는 방식이며, 통기관은 접속되는 배수수직관의 관경 보다 작게 한다.",
       "answer": "X",
       "explanation": "",
@@ -619,7 +619,7 @@
       "related_videos": []
     },
     {
-      "id": 19836,
+      "id": 29205,
       "statement": "소벤트방식은 1본의 배수수직관에서 배수와 통기가 행해지는 방식이며, 수류에 선회력을 주어 관내 통기를 위한 공기 코어를 유지하도록 한다. 열-선택 / 33",
       "answer": "X",
       "explanation": "",
@@ -640,7 +640,7 @@
       "related_videos": []
     },
     {
-      "id": 19837,
+      "id": 29206,
       "statement": "벽이음은 수직방향 6m, 수평방향 8m 이내마다 설치한다.",
       "answer": "O",
       "explanation": "",
@@ -661,7 +661,7 @@
       "related_videos": []
     },
     {
-      "id": 19838,
+      "id": 29207,
       "statement": "주틀 간에 교차 가새를 설치하고, 최상층 및 5층 이내마다 수평재를 설치한다.",
       "answer": "O",
       "explanation": "",
@@ -682,7 +682,7 @@
       "related_videos": []
     },
     {
-      "id": 19839,
+      "id": 29208,
       "statement": "중량물의 적재를 수반하는 작업을 할 경우, 주틀 간의 간격을 1.8m 이하로 한다.",
       "answer": "O",
       "explanation": "",
@@ -703,7 +703,7 @@
       "related_videos": []
     },
     {
-      "id": 19840,
+      "id": 29209,
       "statement": "밑받침에 고저차가 있는 경우, 조절형 밑받침 철물을 사용하여 각각의 강관틀비계가 항상 수평 및 수직을 유지하도록 한다.",
       "answer": "O",
       "explanation": "",
@@ -724,7 +724,7 @@
       "related_videos": []
     },
     {
-      "id": 19841,
+      "id": 29210,
       "statement": "높이가 10m 이상이고 길이가 띠장방향으로 4m를 초과하는 경우, 띠장방향으로 높이 10m 이내마다 띠장틀을 설치한다. 자연계열 19 /",
       "answer": "X",
       "explanation": "",
@@ -745,7 +745,7 @@
       "related_videos": []
     },
     {
-      "id": 19842,
+      "id": 29211,
       "statement": "세로줄눈의 모르타르는 벽돌 마구리면에 충분히 발라 쌓도록 한다.",
       "answer": "O",
       "explanation": "",
@@ -766,7 +766,7 @@
       "related_videos": []
     },
     {
-      "id": 19843,
+      "id": 29212,
       "statement": "하루의 쌓기 높이는 1.5m가 표준이나 최대 1.8m 까지 쌓을 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -787,7 +787,7 @@
       "related_videos": []
     },
     {
-      "id": 19844,
+      "id": 29213,
       "statement": "벽돌벽이 블록벽과 서로 직각으로 만날 경우, 블록 4단마다 연결철물로 보강한다.",
       "answer": "X",
       "explanation": "",
@@ -808,7 +808,7 @@
       "related_videos": []
     },
     {
-      "id": 19845,
+      "id": 29214,
       "statement": "도면이나 공사시방서에 정한 바가 없는 경우, 벽돌 쌓기는 불식 쌓기를 표준으로 한다.",
       "answer": "X",
       "explanation": "",
@@ -829,7 +829,7 @@
       "related_videos": []
     },
     {
-      "id": 19846,
+      "id": 29215,
       "statement": "도면이나 공사시방서에 정한 바가 없는 경우, 가로 및 세로줄눈의 너비는 8mm를 표준으로 한다.",
       "answer": "X",
       "explanation": "",
@@ -850,7 +850,7 @@
       "related_videos": []
     },
     {
-      "id": 19848,
+      "id": 29217,
       "statement": "시공 장소의 습도는 85% 이하, 풍속은 5m/sec 이하에서 시공하여야 한다.",
       "answer": "O",
       "explanation": "",
@@ -871,7 +871,7 @@
       "related_videos": []
     },
     {
-      "id": 19849,
+      "id": 29218,
       "statement": "시공 시 온도는 5℃~40℃에서 시공하여야 하며, 도료가 칠해지는 표면은 이슬점보다 3 ℃ 이상 높아야 한다.",
       "answer": "O",
       "explanation": "",
@@ -892,7 +892,7 @@
       "related_videos": []
     },
     {
-      "id": 19850,
+      "id": 29219,
       "statement": "작업 중에는 습도막두께 측정기구로, 건조 후에는 검･교정된 건조도막두께 측정기로 도장두께를 측정하여야 한다.",
       "answer": "O",
       "explanation": "",
@@ -913,7 +913,7 @@
       "related_videos": []
     },
     {
-      "id": 19851,
+      "id": 29220,
       "statement": "에어리스 스프레이 도장 시 피도체와의 거리는 약 300 mm 정도로 유지하고, 피도 면에 항상 직각이 된 상태에서 도장하여야 한다.",
       "answer": "O",
       "explanation": "",
@@ -934,7 +934,7 @@
       "related_videos": []
     },
     {
-      "id": 19852,
+      "id": 29221,
       "statement": "에어리스 스프레이건의 이동속도는 300~400mm/sec 정도로 하고, 먼저 도장된 부분과 중첩되지 않도록 도장하여야 한다.",
       "answer": "X",
       "explanation": "",
@@ -955,7 +955,7 @@
       "related_videos": []
     },
     {
-      "id": 19853,
+      "id": 29222,
       "statement": "콘크리트의 타설 속도가 빠르거나 슬럼프가 클수록 측압은 증가한다.",
       "answer": "O",
       "explanation": "",
@@ -976,7 +976,7 @@
       "related_videos": []
     },
     {
-      "id": 19854,
+      "id": 29223,
       "statement": "콘크리트헤드(concrete head)는 타설된 콘크리트 윗면으로부터 최대 측압면까지의 거리이다.",
       "answer": "O",
       "explanation": "",
@@ -997,7 +997,7 @@
       "related_videos": []
     },
     {
-      "id": 19855,
+      "id": 29224,
       "statement": "콘크리트 측압은 굳지 않은 콘크리트를 타설할 때, 기둥이나 벽 등의 거푸집에 가해지는 수평하중이다.",
       "answer": "O",
       "explanation": "",
@@ -1018,7 +1018,7 @@
       "related_videos": []
     },
     {
-      "id": 19856,
+      "id": 29225,
       "statement": "먼저 타설된 콘크리트 아랫면의 경화가 시작되면 콘크리트의 최대 측압면은 점차 아랫면으로 이동 한다.",
       "answer": "X",
       "explanation": "",
@@ -1039,7 +1039,7 @@
       "related_videos": []
     },
     {
-      "id": 19857,
+      "id": 29226,
       "statement": "폼타이(form tie)는 벽체 또는 보 거푸집에서 거푸집판의 간격을 일정하게 유지해 주고, 콘크리트 측압을 지탱하는 역할을 한다. 자연계열 20 /",
       "answer": "O",
       "explanation": "",
@@ -1061,7 +1061,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 50,
     "with_full_meta": 0,
     "source": "0gichul.com"

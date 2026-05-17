@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 2601,
+      "id": 27053,
       "statement": "공격자는 적절한 시퀀스 넘버를 얻기 위해 스니핑을 한다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 2602,
+      "id": 27054,
       "statement": "TCP 세션 하이재킹은 공격자가 동기화 상태를 무너뜨리는 것에서 시작한다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 2603,
+      "id": 27055,
       "statement": "공격자는 네트워크에서 직접 클라이언트의 세션 ID를 수정하여 새로운 세션을 생성한다.",
       "answer": "X",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 2604,
+      "id": 27056,
       "statement": "서버와 클라이언트의 통신 시에 시퀀스 넘버의 제어에 문제점이 있음을 파악하고 악용한다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 2605,
+      "id": 27057,
       "statement": "SMTP는 네트워크의 두 메일 서버 간에 이메일을 송수신할 때 사용되는 프로토콜이다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 2606,
+      "id": 27058,
       "statement": "DHCP는 네트워크의 각 노드에 IP 주소를 자동으로 할당하고 관리한다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 2607,
+      "id": 27059,
       "statement": "ARP를 이용하여 LAN에 연결되어 있는 다른 노드의 포트 번호를 획득할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 2608,
+      "id": 27060,
       "statement": "ICMP의 송신지 억제(Source Quench) 메시지는 송신 노드에 혼잡 가능성을 알리고 전송 속도를 늦출 것을 요구한다.",
       "answer": "O",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 2609,
+      "id": 27061,
       "statement": "랜드 공격은 패킷을 전송할 때 출발지 MAC 주소와 목적지 MAC 주소의 값을 같게 만들어서 공격 대상에게 보내는 공격이다.",
       "answer": "X",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 2610,
+      "id": 27062,
       "statement": "스위치 재밍 공격은 스위치가 MAC 주소 테이블을 기반으로 패킷을 포트에 스위칭할 때 정상적인 스위칭 기능을 마비시키는 공격이다.",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 2611,
+      "id": 27063,
       "statement": "IP 스푸핑은 신뢰 관계에 있는 두 개의 호스트 사이에서 하나의 시스템을 마비시킨 후 자신이 신뢰 관계에 있는 호스트인 것처럼 속이는 공격이다.",
       "answer": "O",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 2612,
+      "id": 27064,
       "statement": "HTTP GET 플러딩은 웹서버에서 처리할 수 없는 최대 성능 이상의 과도한 HTTP GET 요청을 전송함으로써 웹 서버가 자원을 모두 소비하여 정상적인 기능을 발휘하지 못하도록 하는 공격이다.",
       "answer": "O",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 2613,
+      "id": 27065,
       "statement": "배스천 호스트는 내부 네트워크와 외부 네트워크 간의 게이트웨이 역할을 한다.",
       "answer": "O",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 2614,
+      "id": 27066,
       "statement": "스크리닝 라우터는 배스천 호스트에 비하여 통과하거나 거절당한 패킷의 기록을 관리하기 쉽다.",
       "answer": "X",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 2615,
+      "id": 27067,
       "statement": "스크리닝 라우터는 네트워크 계층과 전송 계층에서 동작하는 프로토콜인 IP, TCP 또는 UDP의 헤더에 포함된 내용을 분석한다.",
       "answer": "O",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 2616,
+      "id": 27068,
       "statement": "배스천 호스트가 손상되면 내부 네트워크를 보호할 수 없다.",
       "answer": "O",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 2617,
+      "id": 27069,
       "statement": "호스트의 ARP 캐시가 업데이트된다.",
       "answer": "X",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 2618,
+      "id": 27070,
       "statement": "특정 호스트의 MAC 주소가 도용된다.",
       "answer": "X",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 2619,
+      "id": 27071,
       "statement": "스위치의 주소 테이블이 가득 차게 된다.",
       "answer": "X",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 2620,
+      "id": 27072,
       "statement": "호스트의 라우팅 테이블 정보가 업데이트된다.",
       "answer": "O",
       "explanation": "",
@@ -430,7 +430,7 @@
       "related_videos": []
     },
     {
-      "id": 2621,
+      "id": 27073,
       "statement": "IPv4에서 192.168.0.0은 사설 주소 영역에 해당된다.",
       "answer": "O",
       "explanation": "",
@@ -451,7 +451,7 @@
       "related_videos": []
     },
     {
-      "id": 2622,
+      "id": 27074,
       "statement": "IPv4에서 IP 데이터그램의 최대 길이는 65,535바이트이다.",
       "answer": "O",
       "explanation": "",
@@ -472,7 +472,7 @@
       "related_videos": []
     },
     {
-      "id": 2623,
+      "id": 27075,
       "statement": "IPv6에서 주소 FCBB:0000:0000:0000:0000:0000:1ABC:BBCB는 FCBB:0:0:0:0:0:1ABC:BBCB으로 축약할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -493,7 +493,7 @@
       "related_videos": []
     },
     {
-      "id": 2624,
+      "id": 27076,
       "statement": "IPv6에서 홉 제한은 패킷이 라우터에 의해 중개될 때마다 1씩 증가하여 128을 넘는 순간 패킷을 폐기한다.",
       "answer": "X",
       "explanation": "",
@@ -514,7 +514,7 @@
       "related_videos": []
     },
     {
-      "id": 2625,
+      "id": 27077,
       "statement": "trap 메시지를 이용하여 매니저가 에이전트에게 특정 상황 발생을 알린다.",
       "answer": "X",
       "explanation": "",
@@ -535,7 +535,7 @@
       "related_videos": []
     },
     {
-      "id": 2626,
+      "id": 27078,
       "statement": "setRequest 메시지를 이용하여 매니저가 특정 변숫값의 변경을 요청한다.",
       "answer": "O",
       "explanation": "",
@@ -556,7 +556,7 @@
       "related_videos": []
     },
     {
-      "id": 2627,
+      "id": 27079,
       "statement": "getResponse 메시지를 이용하여 에이전트가 매니저의 요청에 해당하는 변숫값을 전송한다.",
       "answer": "O",
       "explanation": "",
@@ -577,7 +577,7 @@
       "related_videos": []
     },
     {
-      "id": 2628,
+      "id": 27080,
       "statement": "getRequest 메시지를 이용하여 매니저가 변숫값을 읽어올 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -598,7 +598,7 @@
       "related_videos": []
     },
     {
-      "id": 2629,
+      "id": 27081,
       "statement": "203.237.10.128은 브로드캐스트 주소이다.",
       "answer": "X",
       "explanation": "",
@@ -619,7 +619,7 @@
       "related_videos": []
     },
     {
-      "id": 2630,
+      "id": 27082,
       "statement": "3개의 서브넷을 만들 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -640,7 +640,7 @@
       "related_videos": []
     },
     {
-      "id": 2631,
+      "id": 27083,
       "statement": "서브넷 마스크는 255.255.255.128이다.",
       "answer": "O",
       "explanation": "",
@@ -661,7 +661,7 @@
       "related_videos": []
     },
     {
-      "id": 2632,
+      "id": 27084,
       "statement": "서브넷의 호스트 가용 IP 주소는 124개이다.",
       "answer": "X",
       "explanation": "",
@@ -682,7 +682,7 @@
       "related_videos": []
     },
     {
-      "id": 2633,
+      "id": 27085,
       "statement": "Basic Constraints: 인증 주체가 CA인지를 식별한다.",
       "answer": "O",
       "explanation": "",
@@ -703,7 +703,7 @@
       "related_videos": []
     },
     {
-      "id": 2634,
+      "id": 27086,
       "statement": "Authority Key Identifier: 인증서를 서명하는 데 사용하는 공개 키를 식별한다.",
       "answer": "O",
       "explanation": "",
@@ -724,7 +724,7 @@
       "related_videos": []
     },
     {
-      "id": 2635,
+      "id": 27087,
       "statement": "Key Usage: 인증서에 있는 암호화, 서명, 인증서 서명과 같은 키의 목적을 정의한다.",
       "answer": "O",
       "explanation": "",
@@ -745,7 +745,7 @@
       "related_videos": []
     },
     {
-      "id": 2636,
+      "id": 27088,
       "statement": "Subject Alternative Name: 인증서의 발급자에 대한 다양한 대체 이름을 제공하는 역할을 한다.",
       "answer": "X",
       "explanation": "",
@@ -767,7 +767,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 36,
     "with_full_meta": 0,
     "source": "0gichul.com"

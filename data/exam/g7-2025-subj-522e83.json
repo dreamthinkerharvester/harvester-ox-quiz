@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 8860,
+      "id": 36461,
       "statement": "차단주파수 f  이다. c  R C ",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 8861,
+      "id": 36462,
       "statement": "수동필터이다. V s R R out  ",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 8862,
+      "id": 36463,
       "statement": "전달함수  이다.  V s sCR  in ",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 8863,
+      "id": 36464,
       "statement": "A 지점에는 총 2개의 주파수 성분이 존재한다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 8864,
+      "id": 36465,
       "statement": "A 지점에는 10[kHz]의 주파수 성분이 존재한다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 8865,
+      "id": 36466,
       "statement": "V 에는 총 3개의 주파수 성분이 존재한다.",
       "answer": "X",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 8866,
+      "id": 36467,
       "statement": "V 에는 4.99[MHz]의 주파수 성분이 존재한다. out 2025년도 국가공무원 7급 공채 제2차 필기시험",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 8867,
+      "id": 36468,
       "statement": "공통 베이스(common－base) 증폭기이다.",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 8868,
+      "id": 36469,
       "statement": "전압이득은 1보다 약간 작거나 대략 같다.",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 8869,
+      "id": 36470,
       "statement": "입력전압과 출력전압의 위상차는 90°이다.",
       "answer": "X",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 8870,
+      "id": 36471,
       "statement": "낮은 저항값을 갖는 부하를 구동하기에 적당하지 않다. 전자회로 책형 2쪽  V  out",
       "answer": "X",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 8871,
+      "id": 36472,
       "statement": "저항 R 양단에 걸리는 전압은 ±8.0[V]이다. ",
       "answer": "O",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 8872,
+      "id": 36473,
       "statement": "저항 R 에 흐르는 전류는 ±0.2[mA]이다. ",
       "answer": "O",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 8873,
+      "id": 36474,
       "statement": "상측 및 하측 트리거 전압은 ±2.0[V]이다.",
       "answer": "O",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 8874,
+      "id": 36475,
       "statement": "출력전압은 ±14.0[V]이다.",
       "answer": "X",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 8875,
+      "id": 36476,
       "statement": "3개의 귀환 RC 회로는 각각 최대 90°의 위상차를 가진다.",
       "answer": "O",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 8876,
+      "id": 36477,
       "statement": "반전증폭기 위상변이가 180°, 3개의 귀환 RC 회로의 위상변이가 180°가 되는 경우 전체 360°(또는 0°) 위상변이가 발생하여 발진조건을 만족하게 된다. ",
       "answer": "O",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 8877,
+      "id": 36478,
       "statement": "발진주파수에서 3개의 귀환 RC 회로의 감쇠율은 이며, 발진을   시작하려면 반전증폭기의 전압이득 절댓값은 29보다 커야 한다. ",
       "answer": "O",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 8878,
+      "id": 36479,
       "statement": "발진주파수는 이다.   RC V s out",
       "answer": "X",
       "explanation": "",
@@ -410,7 +410,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 19,
     "with_full_meta": 0,
     "source": "0gichul.com"

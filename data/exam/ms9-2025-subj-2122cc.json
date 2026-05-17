@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 11804,
+      "id": 40638,
       "statement": "건축 과정은 크게 기획-설계-시공으로 구분 할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 11805,
+      "id": 40639,
       "statement": "설계는 기본계획-기본설계-실시설계 단계로 세분화할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 11806,
+      "id": 40640,
       "statement": "기획의 단계는 건축사에 의해서 건축 과정의 모든 프로그램을 만드는 것이다.",
       "answer": "X",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 11807,
+      "id": 40641,
       "statement": "시공은 건설공사의 과정으로서 설계도서에 표현된 내용을 실제 건축물로 구현하는 과정이다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 11808,
+      "id": 40642,
       "statement": "동선은 일상 생활의 움직임을 표시하는 선이다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 11809,
+      "id": 40643,
       "statement": "동선이 가지는 요소는 빈도, 속도, 하중이 있다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 11810,
+      "id": 40644,
       "statement": "동선에는 공간이 필요하고 편의를 위해 가구를 두는 것이 좋다.",
       "answer": "X",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 11811,
+      "id": 40645,
       "statement": "개인, 사회, 가사 노동권의 3개 동선이 서로 분리되어 간섭이 없어야 한다. 건축계획학(9 획 학 (9 급 ) 드 : 001) 성명 : 은 4. 실내공기 오염물질에 대한 설명으로 가장 적절하지 않은 것은? 분 ① 실내 분진은 대기에서 실내로 유입되거나 실내 바닥의 먼지, 담뱃재 등에 의해 발생한다. 로 ② 포름알데하이드는 각종 건축자재 등에서 발생하며 현기증, 구토 등의 증상을 유발한다. 의 ③ 석면은 폐암 등 심각한 건강상의 위험을 주지만 현재에도 단열재의 주된 원료로 사용 된 되고 있는 만큼 사용에 주의해야 한다. ④ 실내공기에 의한 건강 장애에 관해 SBS (Sick Building System), SHS(Sick House Syndrome) 등의 용어가 널리 알려져 있다. 이 .",
       "answer": "O",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 11812,
+      "id": 40646,
       "statement": "도시와 농촌의 장점을 결합한 전원도시(Garden 장 City) 계획안",
       "answer": "X",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 11813,
+      "id": 40647,
       "statement": "프랑스 마르세유의 유니테 다비타시옹(Unité d’Habitation)",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 11814,
+      "id": 40648,
       "statement": "철근 콘크리트 구조의 구축성을 명료하게 를 표현한 도미노(Dom-ino)시스템",
       "answer": "O",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 11815,
+      "id": 40649,
       "statement": "근대건축의 5원칙(필로티, 자유로운 평면, 로 자유로운 건축입면, 수평 연속창, 옥상정원) 학(9급) 4 - 1",
       "answer": "O",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 11816,
+      "id": 40650,
       "statement": "‘녹색건축물’이란 「기후위기 대응을 위한 탄소 중립·녹색성장 기본법」 제31조에 따른 건축물과 환경에 미치는 영향을 최소화하고 동시에 쾌적하고 건강한 거주환경을 제공하는 건축물을 말한다.",
       "answer": "O",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 11817,
+      "id": 40651,
       "statement": "‘녹색건축물 조성’이란 녹색건축물을 건축하거나 녹색건축물의 성능을 유지하기 위한 건축활동 또는 기존 건축물을 녹색 건축물로 전환하기 위한 활동을 말한다.",
       "answer": "O",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 11818,
+      "id": 40652,
       "statement": "‘건축물에너지기술사’란 제로에너지건축물 인증 평가 등 건축물의 건축·기계·전기·신재생 분야의 효율적인 에너지 관리를 위한 업무를 하는 사람으로 일정 자격을 취득한 사람을 말한다.",
       "answer": "X",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 11819,
+      "id": 40653,
       "statement": "‘제로에너지건축물’이란 건축물에 필요한 에너지 부하를 최소화하고 신에너지 및 재생에너지를 활용하여 에너지 소요량을 최소화하는 녹색 1 건축물을 말한다.",
       "answer": "O",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 11824,
+      "id": 40658,
       "statement": "레지덴셜 호텔(residential hotel)은 상업상 여행자나 관광객 등이 이용하는 여행자용 호텔로 도심을 피하여 안정된 곳에 위치한다.",
       "answer": "O",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 11825,
+      "id": 40659,
       "statement": "터미널 호텔(terminal hotel)은 교통기관의 의 발착지점에 위치한 호텔로 공항 호텔(airport 로 hotel), 부두 호텔(harbor hotel), 철도 호텔 (station hotel) 등이 있다.",
       "answer": "O",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 11826,
+      "id": 40660,
       "statement": "커머셜 호텔(commercial hotel)은 여행자용 호텔이며, 번화한 교통 중심에 위치한다.",
       "answer": "O",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 11827,
+      "id": 40661,
       "statement": "아파트먼트 호텔(apartment hotel)은 단기 체류자용으로 숙박뿐만 아니라 연회, 집회 등과 같은 다목적 이용을 목적으로 하는 호텔이다.",
       "answer": "X",
       "explanation": "",
@@ -430,7 +430,7 @@
       "related_videos": []
     },
     {
-      "id": 11832,
+      "id": 40666,
       "statement": "하모니카(Harmonica) 전시 건축계획학(9 딜 16. 집합주택의 단면 형식에 의한 유형 중, 각 주호가 의 반 층씩 서로 교차되어 구성되는 형식으로 통풍, 채광면에서 유리한 평면계획이 가능하며, 주택의 전용 면적비가 높고 피난에는 다소 불리한 유형은? ① 플랫형(Flat type) ② 메조네트형(Maisonette type) ③ 트리플랙스형(Triplex type) ④ 스킵 플로어형(Skip Floor type) 한 17. 국토교통부에서 고시한 「에너지절약형 친환경 주택의 건설기준」에서 명시하는 에너지절약형 m 친환경 주택의 구성기술 요소로 적절하지 않은 의 것은? m ① 고효율 설비기술 ② 저에너지 건물 조성기술 분 ③ 신·재생에너지 이용기술 ④ 높은 개발 밀도 소 는 야",
       "answer": "X",
       "explanation": "",
@@ -451,7 +451,7 @@
       "related_videos": []
     },
     {
-      "id": 11833,
+      "id": 40667,
       "statement": "접근로의 유효폭은 1.2미터 이상으로 하여야 한다.",
       "answer": "O",
       "explanation": "",
@@ -472,7 +472,7 @@
       "related_videos": []
     },
     {
-      "id": 11834,
+      "id": 40668,
       "statement": "접근로와 차도의 경계 부분에는 연석·울타리 실 기타 차도와 분리할 수 있는 공작물을 일체 여 설치하지 않도록 한다.",
       "answer": "X",
       "explanation": "",
@@ -493,7 +493,7 @@
       "related_videos": []
     },
     {
-      "id": 11835,
+      "id": 40669,
       "statement": "접근로의 기울기는 기본적으로 18분의 1 이하로 하여야 한다. 단, 지형상 곤란한 경우 12분의 1 까지 완화할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -514,7 +514,7 @@
       "related_videos": []
     },
     {
-      "id": 11836,
+      "id": 40670,
       "statement": "접근로에 가로등·전주·간판 등을 설치하는 경우에는 장애인 등의 통행에 지장을 주지 않도록 설치하여야 한다. 학(9급) 4 - 3",
       "answer": "O",
       "explanation": "",
@@ -535,7 +535,7 @@
       "related_videos": []
     },
     {
-      "id": 11837,
+      "id": 40671,
       "statement": "계단은 내화구조로 하고 피난층 또는 지상까지 직접 연결되도록 할 것",
       "answer": "O",
       "explanation": "",
@@ -556,7 +556,7 @@
       "related_videos": []
     },
     {
-      "id": 11838,
+      "id": 40672,
       "statement": "건축물의 내부에서 계단실로 통하는 출입구의 유효너비는 0.9미터 이상으로 언제나 개방된 상태를 유지할 것",
       "answer": "X",
       "explanation": "",
@@ -577,7 +577,7 @@
       "related_videos": []
     },
     {
-      "id": 11839,
+      "id": 40673,
       "statement": "계단실의 실내에 접하는 부분의 마감은 불연 재료로 할 것",
       "answer": "O",
       "explanation": "",
@@ -598,7 +598,7 @@
       "related_videos": []
     },
     {
-      "id": 11840,
+      "id": 40674,
       "statement": "계단실에는 예비전원에 의한 조명설비를 할 것",
       "answer": "O",
       "explanation": "",
@@ -619,7 +619,7 @@
       "related_videos": []
     },
     {
-      "id": 11841,
+      "id": 40675,
       "statement": "상점가나 번화가에 인접한 곳에 위치하는 2 것이 좋다.",
       "answer": "O",
       "explanation": "",
@@ -640,7 +640,7 @@
       "related_videos": []
     },
     {
-      "id": 11842,
+      "id": 40676,
       "statement": "도로폭이 넓은 곳에 위치하는 것은 좋으나, 보안을 위해 길모퉁이는 피해야 한다.",
       "answer": "X",
       "explanation": "",
@@ -661,7 +661,7 @@
       "related_videos": []
     },
     {
-      "id": 11843,
+      "id": 40677,
       "statement": "은행의 시설 규모를 결정하는 요인은 행원수, 내점 고객수, 고객 서비스를 위한 시설 규모, 장래의 예비 스페이스 등이다.",
       "answer": "O",
       "explanation": "",
@@ -682,7 +682,7 @@
       "related_videos": []
     },
     {
-      "id": 11844,
+      "id": 40678,
       "statement": "은행의 출입문은 도난 방지를 위해 안여닫이로 한다. 건축계획학(9 는 23. 「범죄예방 건축기준 고시」에서 규정하고 있는 한 범죄예방 공통기준에 대한 내용으로 가장 적절하지 않은 것은? 지 ① 보행로는 자연적 감시가 강화하도록 계획 되어야 한다. 의 ② 지역 공동체(커뮤니티)가 증진되도록 지역 된 특성에 맞는 적정한 외부시설을 선정하여 배치하여야 한다. 연 ③ 공적 공간과 사적 공간의 위계를 명확하게 인지할 수 있도록 설계하여야 한다. ④ 접근 통제를 위하여 건축물 주변에는 최대한 많은 수목을 식재하도록 한다.",
       "answer": "O",
       "explanation": "",
@@ -703,7 +703,7 @@
       "related_videos": []
     },
     {
-      "id": 11845,
+      "id": 40679,
       "statement": "건물 및 시설과 관련된 정보를 디지털 3D 모델로 표현한다.",
       "answer": "O",
       "explanation": "",
@@ -724,7 +724,7 @@
       "related_videos": []
     },
     {
-      "id": 11846,
+      "id": 40680,
       "statement": "건물의 성능을 시뮬레이션하여 에너지 효율성 로 등의 지속가능성 향상을 도모할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -745,7 +745,7 @@
       "related_videos": []
     },
     {
-      "id": 11847,
+      "id": 40681,
       "statement": "중복되는 정보로 인한 설계도서 간의 불일치 및 설계 오류의 발생 우려가 크다.",
       "answer": "X",
       "explanation": "",
@@ -766,7 +766,7 @@
       "related_videos": []
     },
     {
-      "id": 11848,
+      "id": 40682,
       "statement": "건물 또는 시설의 운영 및 유지보수 분야에서도 활용 가능하다. 은 는 25. 스페인의 대표적인 건축가인 안토니오 가우디 (A. Gaudi)의 건축 작품에 해당하지 않는 것은? , ① 바르셀로나 파빌리온(Barcelona Pavilion) ② 구엘공원(Park Guell) , ③ 사그라다 파밀리아(Sagrada Familia) , ④ 카사 밀라(Casa Mila) 로 학(9급) 4 - 4",
       "answer": "O",
       "explanation": "",
@@ -788,7 +788,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:06+00:00",
     "total": 37,
     "with_full_meta": 0,
     "source": "0gichul.com"

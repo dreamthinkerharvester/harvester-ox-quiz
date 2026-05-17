@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 4955,
+      "id": 38461,
       "statement": "반발력이 작용하고, 크기는 배가 된다.",
       "answer": "X",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 4956,
+      "id": 38462,
       "statement": "반발력이 작용하고, 크기는 배가 된다.",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 4957,
+      "id": 38463,
       "statement": "흡인력이 작용하고, 크기는 배가 된다.",
       "answer": "X",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 4958,
+      "id": 38464,
       "statement": "흡인력이 작용하고, 크기는 배가 된다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 4963,
+      "id": 38469,
       "statement": "순시전력은 복소전력의 크기이다.",
       "answer": "X",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 4964,
+      "id": 38470,
       "statement": "유효전력은 저항에서 실제로 소비되는 전력이다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 4965,
+      "id": 38471,
       "statement": "피상전력은 전압 실횻값과 전류 실횻값의 곱이다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 4966,
+      "id": 38472,
       "statement": "무효전력은 리액턴스에서 전원과 교환되는 전력이다.",
       "answer": "O",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 4967,
+      "id": 38473,
       "statement": "각 선전류의 위상차는 120°이다.",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 4968,
+      "id": 38474,
       "statement": "상전압과 선간전압의 크기가 같다.",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 4969,
+      "id": 38475,
       "statement": "상전류 크기는 선전류 크기의  배이다.",
       "answer": "X",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 4970,
+      "id": 38476,
       "statement": "상전류와 선전류 사이의 위상차가 존재한다.",
       "answer": "O",
       "explanation": "",
@@ -263,7 +263,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 12,
     "with_full_meta": 0,
     "source": "0gichul.com"

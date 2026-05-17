@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 12843,
+      "id": 44133,
       "statement": "전계와 전위의 관계식은 이다.",
       "answer": "X",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 12844,
+      "id": 44134,
       "statement": "전위 분포가  [V]로 주어졌을 때 전계의 세기는  [V/m]이다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 12845,
+      "id": 44135,
       "statement": "전계의 전기력선은 폐곡선을 이루지 않는다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 12846,
+      "id": 44136,
       "statement": "전계의 방향은 전위가 감소하는 방향으로 향한다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 12847,
+      "id": 44137,
       "statement": "자계의 세기에 관계없이 급격히 자성을 잃는 점을 퀴리점(Curie point)이라 한다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 12848,
+      "id": 44138,
       "statement": "강자성체는 히스테리시스, 고투자율, 자기포화 특성이 있다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 12849,
+      "id": 44139,
       "statement": "히스테리스 곡선에서 횡축과 만나는 점을 보자력 이라 한다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 12850,
+      "id": 44140,
       "statement": "강자성체의 히스테리시스 루프의 면적은 단위 면적당의 필요한 에너지이다.",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 12851,
+      "id": 44141,
       "statement": "반지름  [m]인 도체구의 정전용량[F]은  이다.  ",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 12852,
+      "id": 44142,
       "statement": " [nF]의 정전용량을 가진 도체구의 반지름  [m]은 1[m]이다.",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 12853,
+      "id": 44143,
       "statement": "동심 구형 커패시터의 내외 반지름을 각각  배로 하면 정전용량은 배가 된다. ",
       "answer": "X",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 12854,
+      "id": 44144,
       "statement": "정전용량은 커패시터가 전하를 축적하는 능력으로 도체의 전위를 1[V]로 하는 데 필요한 전하량을 말한다.",
       "answer": "O",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 12855,
+      "id": 44145,
       "statement": "송전계통의 전달 리액턴스를 증가시킨다.",
       "answer": "X",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 12856,
+      "id": 44146,
       "statement": "고속 재폐로 방식을 채용한다.",
       "answer": "O",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 12857,
+      "id": 44147,
       "statement": "전원측 원동기용 조속기의 작동을 느리게 한다.",
       "answer": "X",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 12858,
+      "id": 44148,
       "statement": "고장을 줄이기 위하여 각 계통을 분리시킨다.",
       "answer": "X",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 12864,
+      "id": 44154,
       "statement": "          ",
       "answer": "X",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 12865,
+      "id": 44155,
       "statement": "            ",
       "answer": "O",
       "explanation": "",
@@ -389,7 +389,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:06+00:00",
     "total": 18,
     "with_full_meta": 0,
     "source": "0gichul.com"

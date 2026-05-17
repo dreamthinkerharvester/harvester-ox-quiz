@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 10492,
+      "id": 42879,
       "statement": "진료비에 본인부담률을 높인다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 10493,
+      "id": 42880,
       "statement": "건강증진사업을 확대 실시한다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 10494,
+      "id": 42881,
       "statement": "고가의료장비의 과도한 도입을 억제한다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 10495,
+      "id": 42882,
       "statement": "진료비 지불방식을 사전보상보다는 사후보상으로 전환한다.",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 10503,
+      "id": 42890,
       "statement": "보건진료소는 지역보건법 에 의하여 설치한다.",
       "answer": "X",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 10504,
+      "id": 42891,
       "statement": "보건소, 보건지소는 정부조직법 에 의하여 설치 및 운영한다.",
       "answer": "X",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 10505,
+      "id": 42892,
       "statement": "보건의료원은 의료법 에 의하여 병원의 요건을 갖춘 보건소이다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 10506,
+      "id": 42893,
       "statement": "보건소는 읍ㆍ면ㆍ동별로 1개소씩 설치하되 필요한 지역에 추가로 설치할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -179,7 +179,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:06+00:00",
     "total": 8,
     "with_full_meta": 0,
     "source": "0gichul.com"

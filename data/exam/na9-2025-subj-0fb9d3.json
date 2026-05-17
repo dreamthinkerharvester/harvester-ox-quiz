@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 13097,
+      "id": 40098,
       "statement": "최대 2비트의 오류를 정정할 수 있으며, 최대 4비트의 오류를 검 출할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 13098,
+      "id": 40099,
       "statement": "최대 2비트의 오류를 정정할 수 있으며, 최대 5비트의 오류를 검 출할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 13099,
+      "id": 40100,
       "statement": "최대 3비트의 오류를 정정할 수 있으며, 최대 4비트의 오류를 검 출할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 13100,
+      "id": 40101,
       "statement": "최대 3비트의 오류를 정정할 수 있으며, 최대 5비트의 오류를 검 출할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 13101,
+      "id": 40102,
       "statement": "최대 4비트의 오류를 정정할 수 있으며, 최대 5비트의 오류를 검 출할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 13102,
+      "id": 40103,
       "statement": "급전선에서 전압 정재파비(VSWR)는 1보다 클수록 좋다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 13103,
+      "id": 40104,
       "statement": "급전선 외부로 전파 복사 및 누설이 없어야 한다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 13104,
+      "id": 40105,
       "statement": "급전선 길이가 길어질수록 신호 손실(감쇠)은 증가할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 13105,
+      "id": 40106,
       "statement": "급전선의 특성 임피던스를 안테나의 입력 임피던스에 정합시키면 반사도가 최소화된다.",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 13106,
+      "id": 40107,
       "statement": "고출력 전송을 위해 급전선의 절연 내력은 커야 한다. - 20 - 방송통신공학",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 13107,
+      "id": 40108,
       "statement": "송신기의전력증폭기설계가간단하여전력효율이높기때문이다.",
       "answer": "X",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 13108,
+      "id": 40109,
       "statement": "단일 반송파 방식에 비해 점유 주파수 대역폭이 좁기 때문이다.",
       "answer": "X",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 13109,
+      "id": 40110,
       "statement": "여러 사용자가 동일 주파수 자원을 직교 코드로 나누어 사용하기 위함이다.",
       "answer": "X",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 13110,
+      "id": 40111,
       "statement": "다중 경로 페이딩으로 인한 심볼 간 간섭(ISI)에 강하기 때문이다.",
       "answer": "O",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 13111,
+      "id": 40112,
       "statement": "모든 부반송파가 동일한 위상을 가져 수신기에서의 동기화가 용 이하기 때문이다.",
       "answer": "X",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 13112,
+      "id": 40113,
       "statement": "리드-솔로몬 부호 (207, 187)의 오류정정 능력은 10심볼이다.",
       "answer": "O",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 13113,
+      "id": 40114,
       "statement": "짝수 패리티 부호의 오류검출 능력은 1비트이다.",
       "answer": "O",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 13114,
+      "id": 40115,
       "statement": "5회 반복 부호의 오류정정 능력은 2비트이다.",
       "answer": "O",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 13115,
+      "id": 40116,
       "statement": "해밍 부호 (7, 4)의 오류정정 능력은 1비트이다.",
       "answer": "O",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 13116,
+      "id": 40117,
       "statement": "길쌈 부호 (2, 1, 3)의 오류정정 능력은 1비트이다.",
       "answer": "X",
       "explanation": "",
@@ -430,7 +430,7 @@
       "related_videos": []
     },
     {
-      "id": 13122,
+      "id": 40123,
       "statement": "움직임 예측을 위해 B-프레임을 처음으로 도입하였다.",
       "answer": "X",
       "explanation": "",
@@ -451,7 +451,7 @@
       "related_videos": []
     },
     {
-      "id": 13123,
+      "id": 40124,
       "statement": "영상의 공간적 중복성을 제거하기 위해 DCT를 사용한다.",
       "answer": "X",
       "explanation": "",
@@ -472,7 +472,7 @@
       "related_videos": []
     },
     {
-      "id": 13124,
+      "id": 40125,
       "statement": "압축 블록 크기를 유연하게 조절하는 CTU(Coding Tree Unit)를 사용한다.",
       "answer": "O",
       "explanation": "",
@@ -493,7 +493,7 @@
       "related_videos": []
     },
     {
-      "id": 13125,
+      "id": 40126,
       "statement": "디블로킹 필터를 제거하여 블록 경계 처리시간을 줄인다.",
       "answer": "X",
       "explanation": "",
@@ -514,7 +514,7 @@
       "related_videos": []
     },
     {
-      "id": 13126,
+      "id": 40127,
       "statement": "인코딩 속도 향상을 위해 프레임 예측기능을 단순화한다.",
       "answer": "X",
       "explanation": "",
@@ -536,7 +536,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:06+00:00",
     "total": 25,
     "with_full_meta": 0,
     "source": "0gichul.com"

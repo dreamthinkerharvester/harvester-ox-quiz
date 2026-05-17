@@ -10,7 +10,7 @@
   "count": 19,
   "questions": [
     {
-      "id": 10602,
+      "id": 42989,
       "question": "City Parking Ticket Payment Methods",
       "answer": "X",
       "explanation": "",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": 10603,
+      "id": 42990,
       "question": "How to Avoid Getting Parking Tickets",
       "answer": "X",
       "explanation": "",
@@ -34,7 +34,7 @@
       }
     },
     {
-      "id": 10604,
+      "id": 42991,
       "question": "Save Time and Money! Helpful Parking Tips",
       "answer": "X",
       "explanation": "",
@@ -46,7 +46,7 @@
       }
     },
     {
-      "id": 10605,
+      "id": 42992,
       "question": "Alert! Fake Parking Ticket Payment Text Messages",
       "answer": "O",
       "explanation": "",
@@ -58,7 +58,7 @@
       }
     },
     {
-      "id": 10606,
+      "id": 42993,
       "question": "의료비 지원이 필요한 사람들을 위한 기부를 독려하려고",
       "answer": "X",
       "explanation": "",
@@ -70,7 +70,7 @@
       }
     },
     {
-      "id": 10607,
+      "id": 42994,
       "question": "행복하고 건강한 삶을 위한 캠페인을 제안하려고",
       "answer": "X",
       "explanation": "",
@@ -82,7 +82,7 @@
       }
     },
     {
-      "id": 10609,
+      "id": 42996,
       "question": "NHC의 파트너를 선정하려고 영 어 책형 2쪽",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       }
     },
     {
-      "id": 10610,
+      "id": 42997,
       "question": "to submit an application form",
       "answer": "X",
       "explanation": "",
@@ -106,7 +106,7 @@
       }
     },
     {
-      "id": 10611,
+      "id": 42998,
       "question": "to set up an interview appointment",
       "answer": "X",
       "explanation": "",
@@ -118,7 +118,7 @@
       }
     },
     {
-      "id": 10612,
+      "id": 42999,
       "question": "to inquire about updates on the decision process",
       "answer": "O",
       "explanation": "",
@@ -130,7 +130,7 @@
       }
     },
     {
-      "id": 10613,
+      "id": 43000,
       "question": "to request more information about the company’s business 2025년도 지방공무원 9급 등 공개경쟁임용 필기시험",
       "answer": "X",
       "explanation": "",
@@ -142,7 +142,7 @@
       }
     },
     {
-      "id": 10614,
+      "id": 43001,
       "question": "Sunlight’s help in fighting artificial blue light effects",
       "answer": "O",
       "explanation": "",
@@ -154,7 +154,7 @@
       }
     },
     {
-      "id": 10615,
+      "id": 43002,
       "question": "The dangers of using devices during the day",
       "answer": "X",
       "explanation": "",
@@ -166,7 +166,7 @@
       }
     },
     {
-      "id": 10616,
+      "id": 43003,
       "question": "How screens affect children’s sleep cycles",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       }
     },
     {
-      "id": 10617,
+      "id": 43004,
       "question": "Why melatonin levels drop in the evening",
       "answer": "X",
       "explanation": "",
@@ -190,7 +190,7 @@
       }
     },
     {
-      "id": 10618,
+      "id": 43005,
       "question": ") If you’re feeling the heat and somebody offers you a fan, it’s likely that you’ll try and cool your face first. (",
       "answer": "X",
       "explanation": "",
@@ -202,7 +202,7 @@
       }
     },
     {
-      "id": 10619,
+      "id": 43006,
       "question": ") Certainly, all that breeze on your face will stimulate cold receptors there, which will give you a very powerful sensation of comfort. But actually, it’s not going to extract the heat from your body. Instead, a better cooling strategy is to immerse your hands in cold water for 15 to 20 minutes. (",
       "answer": "O",
       "explanation": "",
@@ -214,7 +214,7 @@
       }
     },
     {
-      "id": 10620,
+      "id": 43007,
       "question": ") Your hands have a high surface area to mass area―they have lots of blood flowing in them when you’re hot. (",
       "answer": "X",
       "explanation": "",
@@ -226,7 +226,7 @@
       }
     },
     {
-      "id": 10621,
+      "id": 43008,
       "question": ") If your core temperature is hot, your body will send blood to the extremities in order to lose heat. 영 어 책형 4쪽",
       "answer": "X",
       "explanation": "",

@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 10444,
+      "id": 42831,
       "statement": "밸브를 완전히 열었을 때 유체의 에너지 손실이 적다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 10445,
+      "id": 42832,
       "statement": "밸브 디스크의 승강 길이가 길어져 개폐 시간이 증가한다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 10446,
+      "id": 42833,
       "statement": "밸브 디스크가 유체의 관로를 수직으로 막아서 개폐한다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 10447,
+      "id": 42834,
       "statement": "유체압력이 일정압 초과 시 자동으로 열려 압력을 조절한다.",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 10448,
+      "id": 42835,
       "statement": "축기준 치수이며, h5공차가 h7공차보다 더 크다.",
       "answer": "X",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 10449,
+      "id": 42836,
       "statement": "축기준 치수이며, h7공차가 h5공차보다 더 크다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 10450,
+      "id": 42837,
       "statement": "구멍기준 치수이며, h5공차가 h7공차보다 더 크다.",
       "answer": "X",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 10451,
+      "id": 42838,
       "statement": "구멍기준 치수이며, h7공차가 h5공차보다 더 크다.",
       "answer": "X",
       "explanation": "",
@@ -179,7 +179,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:06+00:00",
     "total": 8,
     "with_full_meta": 0,
     "source": "0gichul.com"

@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 10111,
+      "id": 42498,
       "statement": "철근의 공칭직경은 10mm이다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 10112,
+      "id": 42499,
       "statement": "수평 방향으로 철근을 배근한다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 10113,
+      "id": 42500,
       "statement": "철근의 중심 간격을 300mm로 배근한다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 10114,
+      "id": 42501,
       "statement": "힘의 3요소는 크기, 방향, 작용점이다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 10115,
+      "id": 42502,
       "statement": "합력의 방향과 크기를 구하는 것을 힘의 합성이라고 한다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 10116,
+      "id": 42503,
       "statement": "힘은 화살표로 표현할 수 있으며, 힘의 크기는 선분의 굵기로 나타낸다.",
       "answer": "X",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 10117,
+      "id": 42504,
       "statement": "힘이란 물체의 형상이나 운동 상태를 변화시키는 원인이 되는 작용을 말한다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 10118,
+      "id": 42505,
       "statement": "함수율에 따른 변형이 적다.",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 10119,
+      "id": 42506,
       "statement": "부패 및 충해가 발생하지 않는다.",
       "answer": "X",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 10120,
+      "id": 42507,
       "statement": "하루의 벽돌쌓기 높이는 최대 1.5m 이하로 한다.",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 10121,
+      "id": 42508,
       "statement": "네덜란드식 쌓기는 길이쌓기의 모서리에 칠오토막을 사용한다.",
       "answer": "O",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 10122,
+      "id": 42509,
       "statement": "하중의 집중현상을 막기 위해 세로줄눈은 통줄눈이 되도록 쌓는다.",
       "answer": "X",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 10123,
+      "id": 42510,
       "statement": "영국식 쌓기는 길이쌓기와 마구리쌓기를 한 켜씩 번갈아 쌓아 올리는 방식을 사용한다.",
       "answer": "O",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 10124,
+      "id": 42511,
       "statement": "콘크리트와 철근 사이에는 부착력이 크다.",
       "answer": "O",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 10125,
+      "id": 42512,
       "statement": "콘크리트와 철근의 탄성계수가 비슷하다.",
       "answer": "X",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 10126,
+      "id": 42513,
       "statement": "콘크리트가 약산성이어서 철근이 잘 부식되지 않는다.",
       "answer": "X",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 10127,
+      "id": 42514,
       "statement": "콘크리트는 인장력을, 철근은 압축력을 각각 부담한다. 2025년도 지방공무원 9급 등 경력경쟁임용 필기시험",
       "answer": "X",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 10128,
+      "id": 42515,
       "statement": "주로 축방향 압축력을 받는 부재이다.",
       "answer": "O",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 10129,
+      "id": 42516,
       "statement": "장주보다 단주에서 좌굴이 발생하기 쉽다.",
       "answer": "X",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 10130,
+      "id": 42517,
       "statement": "슬래브 또는 보에서 전달되는 하중을 아래층 기둥이나 기초에 전달하는 수직부재이다.",
       "answer": "O",
       "explanation": "",
@@ -430,7 +430,7 @@
       "related_videos": []
     },
     {
-      "id": 10131,
+      "id": 42518,
       "statement": "기둥의 주근을 둘러싼 횡보강근 형태에 따라 띠철근 기둥, 나선철근 기둥으로 구분된다.",
       "answer": "O",
       "explanation": "",
@@ -451,7 +451,7 @@
       "related_videos": []
     },
     {
-      "id": 10132,
+      "id": 42519,
       "statement": "(가)는 게이지 라인을 나타낸다.",
       "answer": "O",
       "explanation": "",
@@ -472,7 +472,7 @@
       "related_videos": []
     },
     {
-      "id": 10133,
+      "id": 42520,
       "statement": "(나)는 피치를 나타낸다.",
       "answer": "X",
       "explanation": "",
@@ -493,7 +493,7 @@
       "related_videos": []
     },
     {
-      "id": 10134,
+      "id": 42521,
       "statement": "(다)는 게이지를 나타낸다.",
       "answer": "X",
       "explanation": "",
@@ -514,7 +514,7 @@
       "related_videos": []
     },
     {
-      "id": 10135,
+      "id": 42522,
       "statement": "용접 치수는 6mm이다.",
       "answer": "O",
       "explanation": "",
@@ -535,7 +535,7 @@
       "related_videos": []
     },
     {
-      "id": 10136,
+      "id": 42523,
       "statement": "병렬 단속 맞댐 용접이다.",
       "answer": "X",
       "explanation": "",
@@ -556,7 +556,7 @@
       "related_videos": []
     },
     {
-      "id": 10137,
+      "id": 42524,
       "statement": "용접 길이는 150mm이다.",
       "answer": "X",
       "explanation": "",
@@ -578,7 +578,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:06+00:00",
     "total": 27,
     "with_full_meta": 0,
     "source": "0gichul.com"

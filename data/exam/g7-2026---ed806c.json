@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 6443,
+      "id": 26202,
       "statement": "전자파는 × 방향으로 진행한다.     ",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 6444,
+      "id": 26203,
       "statement": "전계 와 자계 의 비는  이다.    ",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 6445,
+      "id": 26204,
       "statement": "전계와 자계는 공존하면서 상호 직각 방향으로 진동한다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 6446,
+      "id": 26205,
       "statement": "진공에서 전계와 자계의 위상차는 없다.  ",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 6447,
+      "id": 26206,
       "statement": "둘 다 영(zero)이다.",
       "answer": "X",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 6448,
+      "id": 26207,
       "statement": "전속밀도에 대해서는 영이다.",
       "answer": "X",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 6449,
+      "id": 26208,
       "statement": "자속밀도에 대해서는 영이다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 6450,
+      "id": 26209,
       "statement": "둘 다 시간상으로 변하지 않으면 영이고, 시변 상태에서는 영이 아니다. 전기자기학 책형 2쪽",
       "answer": "X",
       "explanation": "",
@@ -179,7 +179,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 8,
     "with_full_meta": 0,
     "source": "0gichul.com"

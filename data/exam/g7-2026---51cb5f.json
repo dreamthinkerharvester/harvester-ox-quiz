@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 6413,
+      "id": 26172,
       "statement": "속도가 증가하면 계자자속이 감소한다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 6414,
+      "id": 26173,
       "statement": "부하변동에 따른 속도변화가 작다.",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 6415,
+      "id": 26174,
       "statement": "무부하상태에서 정상운전이 가능하다.",
       "answer": "X",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 6416,
+      "id": 26175,
       "statement": "직류 분권전동기에 비해 기동토크가 작다.",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 6420,
+      "id": 26179,
       "statement": "조속기의 동작을 신속하게 할 것 전기기기 책형 1쪽",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 6421,
+      "id": 26180,
       "statement": "회전속도는 입력 펄스 주파수에 반비례한다.",
       "answer": "X",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 6422,
+      "id": 26181,
       "statement": "위치센서나 피드백 시스템이 필요하다.",
       "answer": "X",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 6423,
+      "id": 26182,
       "statement": "기동, 정지 및 회전 방향 변경이 쉽다.",
       "answer": "O",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 6424,
+      "id": 26183,
       "statement": "정밀한 위치제어가 어렵다.",
       "answer": "X",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 6425,
+      "id": 26184,
       "statement": "각 변압기의 극성이 같아야 한다.",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 6426,
+      "id": 26185,
       "statement": "각 변압기의 저항과 리액턴스의 비가 같아야 한다.",
       "answer": "O",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 6427,
+      "id": 26186,
       "statement": "각 변압기의 백분율 임피던스 강하가 같아야 한다.",
       "answer": "O",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 6428,
+      "id": 26187,
       "statement": "각 변압기의 1차와 2차 정격전류가 같아야 한다.",
       "answer": "X",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 6430,
+      "id": 26189,
       "statement": "기계적으로 더 튼튼하다.",
       "answer": "O",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 6431,
+      "id": 26190,
       "statement": "기전력의 파형이 더 우수하다.",
       "answer": "X",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 6432,
+      "id": 26191,
       "statement": "전기자권선의 결선구조가 더 간단하다.",
       "answer": "O",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 6433,
+      "id": 26192,
       "statement": "전기자권선의 절연이 더 용이하다.",
       "answer": "O",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 6434,
+      "id": 26193,
       "statement": "자기 기동능력이 없다.",
       "answer": "O",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 6435,
+      "id": 26194,
       "statement": "난조가 일어나기 쉽다.",
       "answer": "O",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 6436,
+      "id": 26195,
       "statement": "역률을 조정할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -430,7 +430,7 @@
       "related_videos": []
     },
     {
-      "id": 6437,
+      "id": 26196,
       "statement": "계자 손실은 주로 철손이다.",
       "answer": "X",
       "explanation": "",
@@ -451,7 +451,7 @@
       "related_videos": []
     },
     {
-      "id": 6438,
+      "id": 26197,
       "statement": "IGBT 근로감독 및 산업안전 분야 국가공무원 7급 공채 제2차시험",
       "answer": "X",
       "explanation": "",
@@ -472,7 +472,7 @@
       "related_videos": []
     },
     {
-      "id": 6439,
+      "id": 26198,
       "statement": "일정 출력에서 전기자전류와 계자전류의 관계를 나타낸다.",
       "answer": "O",
       "explanation": "",
@@ -493,7 +493,7 @@
       "related_videos": []
     },
     {
-      "id": 6440,
+      "id": 26199,
       "statement": "일정 출력이고 역률이 1일 때, 전기자전류는 최소가 된다.",
       "answer": "O",
       "explanation": "",
@@ -514,7 +514,7 @@
       "related_videos": []
     },
     {
-      "id": 6441,
+      "id": 26200,
       "statement": "일정 출력이고 역률이 진상일 때, 계자전류가 증가하면 역률은 증가한다.",
       "answer": "X",
       "explanation": "",
@@ -535,7 +535,7 @@
       "related_videos": []
     },
     {
-      "id": 6442,
+      "id": 26201,
       "statement": "일정 출력이고 역률이 지상일 때, 계자전류가 감소하면 역률은 감소한다.",
       "answer": "O",
       "explanation": "",
@@ -557,7 +557,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 26,
     "with_full_meta": 0,
     "source": "0gichul.com"

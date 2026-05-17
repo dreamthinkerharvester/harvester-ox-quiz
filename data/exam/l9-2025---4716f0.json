@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 10205,
+      "id": 42592,
       "statement": "상염색체는 22개이다.",
       "answer": "X",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 10206,
+      "id": 42593,
       "statement": "이 사람은 어머니에게서 Y를 물려받았다.",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 10207,
+      "id": 42594,
       "statement": "핵형 분석을 통해 페닐케톤뇨증 여부를 확인할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 10208,
+      "id": 42595,
       "statement": "염색체에는 생물의 형질을 결정하는 유전자가 있다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 10209,
+      "id": 42596,
       "statement": "단백질을 가지고 있다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 10210,
+      "id": 42597,
       "statement": "세포의 구조를 갖는다.",
       "answer": "X",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 10211,
+      "id": 42598,
       "statement": "유전물질인 핵산을 가지고 있다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 10212,
+      "id": 42599,
       "statement": "키는 우성과 열성이 뚜렷하게 구분된다.",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 10213,
+      "id": 42600,
       "statement": "키의 형질 발현은 환경의 영향을 받는다.",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 10214,
+      "id": 42601,
       "statement": "ABO식 혈액형은 다인자 유전이다.",
       "answer": "X",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 10215,
+      "id": 42602,
       "statement": "ABO식 혈액형은 여러 쌍의 대립 유전자에 의해 표현형이 결정된다. 생 물 책형 1쪽",
       "answer": "X",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 10216,
+      "id": 42603,
       "statement": "개체 간 경쟁은 구간 A에서 가장 심하다.",
       "answer": "X",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 10217,
+      "id": 42604,
       "statement": "개체군의 밀도가 높아지면 환경저항이 감소한다.",
       "answer": "X",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 10218,
+      "id": 42605,
       "statement": "개체군의 밀도는 구간 D에서도 계속해서 증가한다.",
       "answer": "X",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 10219,
+      "id": 42606,
       "statement": "개체 수의 증가 속도는 구간 B가 구간 D보다 빠르다.",
       "answer": "O",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 10220,
+      "id": 42607,
       "statement": "1일 대사량은 Q가 P보다 크다.",
       "answer": "X",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 10221,
+      "id": 42608,
       "statement": "휴식 중 심장 박동에 필요한 에너지는 활동대사량에 포함된다.",
       "answer": "X",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 10222,
+      "id": 42609,
       "statement": "생명을 유지하는 데 필요한 최소한의 에너지양은 P가 Q보다 크다.",
       "answer": "O",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 10223,
+      "id": 42610,
       "statement": "에너지 대사가 이 상태로 지속되면 P와 Q 중 비만이 될 가능성은 P가 더 높다.",
       "answer": "X",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 10224,
+      "id": 42611,
       "statement": "(가)는 뇌하수체 후엽이다.",
       "answer": "X",
       "explanation": "",
@@ -430,7 +430,7 @@
       "related_videos": []
     },
     {
-      "id": 10225,
+      "id": 42612,
       "statement": "(나)는 중추 신경계에 속한다.",
       "answer": "X",
       "explanation": "",
@@ -451,7 +451,7 @@
       "related_videos": []
     },
     {
-      "id": 10226,
+      "id": 42613,
       "statement": "호르몬 B는 심장박동을 촉진한다.",
       "answer": "O",
       "explanation": "",
@@ -472,7 +472,7 @@
       "related_videos": []
     },
     {
-      "id": 10227,
+      "id": 42614,
       "statement": "모세 혈관의 수축으로 열 발생량은 감소한다.",
       "answer": "X",
       "explanation": "",
@@ -493,7 +493,7 @@
       "related_videos": []
     },
     {
-      "id": 10228,
+      "id": 42615,
       "statement": "세포Ⅰ의 핵상은 2n이다.",
       "answer": "O",
       "explanation": "",
@@ -514,7 +514,7 @@
       "related_videos": []
     },
     {
-      "id": 10229,
+      "id": 42616,
       "statement": "P는 부모로부터 각각 4개씩의 염색체를 물려받았다.",
       "answer": "O",
       "explanation": "",
@@ -535,7 +535,7 @@
       "related_videos": []
     },
     {
-      "id": 10230,
+      "id": 42617,
       "statement": "세포Ⅳ에서 2가 염색체가 관찰된다.",
       "answer": "X",
       "explanation": "",
@@ -556,7 +556,7 @@
       "related_videos": []
     },
     {
-      "id": 10231,
+      "id": 42618,
       "statement": "P에서 감수분열을 통해 24가지의 서로 다른 염색체 조합을 가진 생식 세포가 만들어질 수 있다. 생 물 책형 2쪽",
       "answer": "O",
       "explanation": "",
@@ -577,7 +577,7 @@
       "related_videos": []
     },
     {
-      "id": 10232,
+      "id": 42619,
       "statement": "A는 질산화 세균이다.",
       "answer": "X",
       "explanation": "",
@@ -598,7 +598,7 @@
       "related_videos": []
     },
     {
-      "id": 10233,
+      "id": 42620,
       "statement": "(가)는 질산 이온(NO -)이다.",
       "answer": "O",
       "explanation": "",
@@ -619,7 +619,7 @@
       "related_videos": []
     },
     {
-      "id": 10235,
+      "id": 42622,
       "statement": "대부분의 식물은 (나)를 직접 흡수하여 단백질 합성에 이용한다.",
       "answer": "X",
       "explanation": "",
@@ -640,7 +640,7 @@
       "related_videos": []
     },
     {
-      "id": 10236,
+      "id": 42623,
       "statement": "(가)는 편리공생이다.",
       "answer": "X",
       "explanation": "",
@@ -661,7 +661,7 @@
       "related_videos": []
     },
     {
-      "id": 10237,
+      "id": 42624,
       "statement": "스라소니와 눈신토끼 사이의 상호 작용은 (나)에 해당한다.",
       "answer": "X",
       "explanation": "",
@@ -682,7 +682,7 @@
       "related_videos": []
     },
     {
-      "id": 10238,
+      "id": 42625,
       "statement": "종A와 종B 사이에 (다)와 같은 상호 작용이 일어난다.",
       "answer": "O",
       "explanation": "",
@@ -703,7 +703,7 @@
       "related_videos": []
     },
     {
-      "id": 10240,
+      "id": 42627,
       "statement": "정상 염색체와 비교하여 ㉡은 유전자 배열이 뒤집혀 있다.",
       "answer": "O",
       "explanation": "",
@@ -724,7 +724,7 @@
       "related_videos": []
     },
     {
-      "id": 10241,
+      "id": 42628,
       "statement": "(가)는 상동 염색체 사이에서 유전자 교환이 일어났다.",
       "answer": "X",
       "explanation": "",
@@ -745,7 +745,7 @@
       "related_videos": []
     },
     {
-      "id": 10242,
+      "id": 42629,
       "statement": "㉢과 같은 구조 이상의 예로는 고양이 울음 증후군이 있다. 2025년도 지방공무원 9급 등 경력경쟁임용 필기시험",
       "answer": "O",
       "explanation": "",
@@ -766,7 +766,7 @@
       "related_videos": []
     },
     {
-      "id": 10243,
+      "id": 42630,
       "statement": "기러기가 집단으로 이동할 때, 한 마리의 리더를 따라 이동하는 현상은 (가)에 해당한다.",
       "answer": "O",
       "explanation": "",
@@ -787,7 +787,7 @@
       "related_videos": []
     },
     {
-      "id": 10244,
+      "id": 42631,
       "statement": "텃세는 (나)에 해당한다.",
       "answer": "X",
       "explanation": "",
@@ -808,7 +808,7 @@
       "related_videos": []
     },
     {
-      "id": 10245,
+      "id": 42632,
       "statement": "지렁이가 토양의 통기성을 높이는 것은 (다)에 해당한다.",
       "answer": "X",
       "explanation": "",
@@ -829,7 +829,7 @@
       "related_videos": []
     },
     {
-      "id": 10246,
+      "id": 42633,
       "statement": "분해자인 세균과 곰팡이는 비생물적 환경 요인에 속한다.",
       "answer": "X",
       "explanation": "",
@@ -850,7 +850,7 @@
       "related_videos": []
     },
     {
-      "id": 10247,
+      "id": 42634,
       "statement": "A는 (가)의 Ⅲ에 해당한다.",
       "answer": "X",
       "explanation": "",
@@ -871,7 +871,7 @@
       "related_videos": []
     },
     {
-      "id": 10248,
+      "id": 42635,
       "statement": "㉠의 말단에서 분비되는 신경 전달 물질은 아세틸콜린이다.",
       "answer": "X",
       "explanation": "",
@@ -892,7 +892,7 @@
       "related_videos": []
     },
     {
-      "id": 10249,
+      "id": 42636,
       "statement": "㉡이 흥분하면 동공의 크기는 작아진다.",
       "answer": "O",
       "explanation": "",
@@ -913,7 +913,7 @@
       "related_videos": []
     },
     {
-      "id": 10252,
+      "id": 42639,
       "statement": "ⓒ는 주로 ㉡을 통해 몸 밖으로 배출된다.",
       "answer": "X",
       "explanation": "",
@@ -934,7 +934,7 @@
       "related_videos": []
     },
     {
-      "id": 10253,
+      "id": 42640,
       "statement": "탄수화물이 세포 호흡에 사용되면 ⓐ와 ⓑ가 생성된다. 생 물 책형 3쪽",
       "answer": "X",
       "explanation": "",
@@ -955,7 +955,7 @@
       "related_videos": []
     },
     {
-      "id": 10254,
+      "id": 42641,
       "statement": "헌팅턴 무도병은 우성 형질이다.",
       "answer": "O",
       "explanation": "",
@@ -976,7 +976,7 @@
       "related_videos": []
     },
     {
-      "id": 10255,
+      "id": 42642,
       "statement": "낫 모양 적혈구 빈혈증의 발현 여부는 핵형 분석으로 확인할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -997,7 +997,7 @@
       "related_videos": []
     },
     {
-      "id": 10256,
+      "id": 42643,
       "statement": "터너 증후군이 나타나는 사람의 성염색체 구성은 XXY이다.",
       "answer": "X",
       "explanation": "",
@@ -1018,7 +1018,7 @@
       "related_videos": []
     },
     {
-      "id": 10257,
+      "id": 42644,
       "statement": "클라인펠터 증후군은 5번 염색체의 특정 부분이 결실되어 나타난다.",
       "answer": "X",
       "explanation": "",
@@ -1039,7 +1039,7 @@
       "related_videos": []
     },
     {
-      "id": 10258,
+      "id": 42645,
       "statement": "(가)는 세포성 면역이다.",
       "answer": "O",
       "explanation": "",
@@ -1060,7 +1060,7 @@
       "related_videos": []
     },
     {
-      "id": 10260,
+      "id": 42647,
       "statement": "이 사람이 X에 다시 감염되었을 때 ㉡이 ㉢으로 분화된다.",
       "answer": "X",
       "explanation": "",
@@ -1082,7 +1082,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:06+00:00",
     "total": 51,
     "with_full_meta": 0,
     "source": "0gichul.com"

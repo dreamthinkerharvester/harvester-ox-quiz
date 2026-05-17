@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 3104,
+      "id": 27641,
       "statement": "공개키 기반 암호 방식이다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 3105,
+      "id": 27642,
       "statement": "개인키는 공개하지 않고 비밀로 유지한다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 3106,
+      "id": 27643,
       "statement": "큰 수의 소인수분해가 어렵다는 특성을 이용한다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 3107,
+      "id": 27644,
       "statement": "공개키로 암호화한 메시지는 전자서명 기능을 제공한다.",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 3108,
+      "id": 27645,
       "statement": "컴퓨터와 사람을 구분하기 위한 자동화된 공개 튜링 테스트라 할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 3109,
+      "id": 27646,
       "statement": "기밀성을 보장하기 위한 암호의 한 형태이다.",
       "answer": "X",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 3110,
+      "id": 27647,
       "statement": "다양한 이미지, 왜곡된 문자, 잡음 섞인 소리를 사용할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 3111,
+      "id": 27648,
       "statement": "대부분의 사람들이 통과하기에는 쉽지만 컴퓨터가 통과하기에는 불가능하거나 어려워야 한다.",
       "answer": "O",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 3114,
+      "id": 27651,
       "statement": "디지털 증거의 원본성 유지 2026년도 국가공무원 9급 공채 필기시험",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 3115,
+      "id": 27652,
       "statement": "법률에 따라 열람이 금지되거나 제한되는 경우",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 3116,
+      "id": 27653,
       "statement": "다른 사람의 재산과 그 밖의 이익을 부당하게 침해할 우려가 있는 경우",
       "answer": "O",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 3117,
+      "id": 27654,
       "statement": "공공기관이 조세의 부과ㆍ징수 또는 환급에 관한 업무를 수행할 때 중대한 지장을 초래하는 경우",
       "answer": "O",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 3118,
+      "id": 27655,
       "statement": "개인정보처리자의 정당한 이익을 달성하기 위하여 필요한 경우로서 명백하게 정보주체의 권리보다 우선하는 경우",
       "answer": "X",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 3121,
+      "id": 27658,
       "statement": "보안관제 수행능력 평가기준에 따라 실시한 심사에서 70점 이상을 받을 것",
       "answer": "O",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 3122,
+      "id": 27659,
       "statement": "자격기준을 갖춘 기술인력을 15명 이상 보유할 것(고급기술자 3명 이상, 중급기술자 6명 이상을 포함하여야 한다)",
       "answer": "O",
       "explanation": "",
@@ -326,7 +326,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 15,
     "with_full_meta": 0,
     "source": "0gichul.com"

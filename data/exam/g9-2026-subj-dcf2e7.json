@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 2233,
+      "id": 26685,
       "statement": "1,2－다이브로모에테인(CH BrCH Br) 2 2",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 2237,
+      "id": 26689,
       "statement": "LTC(리튬염화싸이오닐) 배터리 공업화학 책형 2쪽",
       "answer": "X",
       "explanation": "",
@@ -53,7 +53,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 2,
     "with_full_meta": 0,
     "source": "0gichul.com"

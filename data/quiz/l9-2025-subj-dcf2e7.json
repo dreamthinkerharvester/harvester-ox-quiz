@@ -10,7 +10,7 @@
   "count": 20,
   "questions": [
     {
-      "id": 10348,
+      "id": 42735,
       "question": "NaCl →NaCl ",
       "answer": "O",
       "explanation": "",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": 10349,
+      "id": 42736,
       "question": "Na OH O→NaOH  ",
       "answer": "X",
       "explanation": "",
@@ -34,7 +34,7 @@
       }
     },
     {
-      "id": 10350,
+      "id": 42737,
       "question": "HNO NaOH→NaNO H O   ",
       "answer": "X",
       "explanation": "",
@@ -46,7 +46,7 @@
       }
     },
     {
-      "id": 10351,
+      "id": 42738,
       "question": "PbNO  KI→PbI KNO     ",
       "answer": "X",
       "explanation": "",
@@ -58,7 +58,7 @@
       }
     },
     {
-      "id": 10352,
+      "id": 42739,
       "question": "단계 중합에 사용된다.",
       "answer": "X",
       "explanation": "",
@@ -70,7 +70,7 @@
       }
     },
     {
-      "id": 10353,
+      "id": 42740,
       "question": "라디칼 중합의 개시제로 작용한다.",
       "answer": "X",
       "explanation": "",
@@ -82,7 +82,7 @@
       }
     },
     {
-      "id": 10354,
+      "id": 42741,
       "question": "나일론의 합성에 사용된다.",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       }
     },
     {
-      "id": 10355,
+      "id": 42742,
       "question": "고밀도 폴리에틸렌의 합성에 사용된다.",
       "answer": "O",
       "explanation": "",
@@ -106,7 +106,7 @@
       }
     },
     {
-      "id": 10356,
+      "id": 42743,
       "question": "진성 반도체는 온도가 높을수록 전기 전도도가 높다.",
       "answer": "O",
       "explanation": "",
@@ -118,7 +118,7 @@
       }
     },
     {
-      "id": 10357,
+      "id": 42744,
       "question": "규소(Si)에 인(P)을 도핑하면 -형 반도체로 된다.",
       "answer": "O",
       "explanation": "",
@@ -130,7 +130,7 @@
       }
     },
     {
-      "id": 10358,
+      "id": 42745,
       "question": "-형 반도체의 주된 전하 운반체는 전자다.",
       "answer": "O",
       "explanation": "",
@@ -142,7 +142,7 @@
       }
     },
     {
-      "id": 10359,
+      "id": 42746,
       "question": "- 접합 정류기는 직류를 교류로 바꿀 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -154,7 +154,7 @@
       }
     },
     {
-      "id": 10360,
+      "id": 42747,
       "question": "유지는 비누화 반응을 통해 친수성이 증가한다.",
       "answer": "O",
       "explanation": "",
@@ -166,7 +166,7 @@
       }
     },
     {
-      "id": 10361,
+      "id": 42748,
       "question": "지방산 분자의 탄소 수가 같을 때, 이중 결합이 많을수록 녹는점이 높다.",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       }
     },
     {
-      "id": 10362,
+      "id": 42749,
       "question": "불포화 지방산에서 이중 결합은 모두 트랜스(trans)-형이다.",
       "answer": "X",
       "explanation": "",
@@ -190,7 +190,7 @@
       }
     },
     {
-      "id": 10363,
+      "id": 42750,
       "question": "포화 지방산은 불포화 지방산을 산화시켜 만든다.",
       "answer": "X",
       "explanation": "",
@@ -202,7 +202,7 @@
       }
     },
     {
-      "id": 10364,
+      "id": 42751,
       "question": "유화(emulsion) 중합에서는 물이 사용되지 않는다.",
       "answer": "X",
       "explanation": "",
@@ -214,7 +214,7 @@
       }
     },
     {
-      "id": 10365,
+      "id": 42752,
       "question": "괴상(bulk) 중합에서는 반응계의 온도 제어가 쉽다.",
       "answer": "X",
       "explanation": "",
@@ -226,7 +226,7 @@
       }
     },
     {
-      "id": 10366,
+      "id": 42753,
       "question": "용액(solution) 중합에서는 반응에서 발생한 열의 분산이 용이하지 않다.",
       "answer": "X",
       "explanation": "",
@@ -238,7 +238,7 @@
       }
     },
     {
-      "id": 10367,
+      "id": 42754,
       "question": "현탁(suspension) 중합은 비수용성 단량체를 물에 분산시켜 중합하는 공정이다.",
       "answer": "O",
       "explanation": "",

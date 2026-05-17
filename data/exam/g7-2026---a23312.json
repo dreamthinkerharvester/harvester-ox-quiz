@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 6453,
+      "id": 26212,
       "statement": "한 구성 성분이 고농도 영역에서 저농도 영역으로 이동하는 것을 물질전달이라 할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 6454,
+      "id": 26213,
       "statement": "한 잔의 블랙커피에 각설탕을 넣고 스푼으로 저으면 물질전달속도는 빨라진다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 6455,
+      "id": 26214,
       "statement": "액액 추출(liquid-liquid extraction)은 물질전달의 원리를 이용한다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 6456,
+      "id": 26215,
       "statement": "복사(radiation)는 물질전달 현상이다. 근로감독 및 산업안전 분야 국가공무원 7급 공채 제2차시험",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 6460,
+      "id": 26219,
       "statement": "수소의 질량 플럭스＝질소의 질량 플럭스 전달현상 책형 2쪽",
       "answer": "X",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 6461,
+      "id": 26220,
       "statement": "구형 분자 크기 근로감독 및 산업안전 분야 국가공무원 7급 공채 제2차시험",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 6462,
+      "id": 26221,
       "statement": "유체의 점도는 전단응력과 전단률에 의해 결정된다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 6463,
+      "id": 26222,
       "statement": "Newton 유체의 점도는 전단률이 변해도 일정하다.",
       "answer": "O",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 6464,
+      "id": 26223,
       "statement": "팽창성유체(dilatant)는 전단률이 증가하면 점도가 감소한다.",
       "answer": "X",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 6465,
+      "id": 26224,
       "statement": "점탄성 유체는 외부전단응력이 사라질 경우 원래 형태로 돌아가려는 거동을 나타낸다.",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 6466,
+      "id": 26225,
       "statement": "가 성분 의 분배계수일 때,   이다.      ′",
       "answer": "O",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 6467,
+      "id": 26226,
       "statement": "′가 성분 의 포화증기압일 때,    이다.    ′ ",
       "answer": "O",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 6468,
+      "id": 26227,
       "statement": "와 가 각각 평형상태에서 성분 의 액상과 기상의 몰분율일 때,         이다.      ",
       "answer": "X",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 6469,
+      "id": 26228,
       "statement": " 값이 클수록 두 물질의 혼합물을 증류로 분리하기 위한  최소 이론단수는 감소한다.",
       "answer": "O",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 6474,
+      "id": 26233,
       "statement": "자연대류에서 Nusselt 수는 Rayleigh 수()와 상관관계가 있으며, 기하학적 형상과 무관하게 에 비례하여 증가한다.",
       "answer": "X",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 6475,
+      "id": 26234,
       "statement": "Lewis 수는 열확산도와 물질확산도의 비를 나타내며, 물질과 에너지가 동시에 전달되는 공정의 해석에 사용된다.",
       "answer": "O",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 6476,
+      "id": 26235,
       "statement": "자연대류에서 Nusselt 수는 Reynolds 수와 Prandtl 수의 곱으로 정의된다.",
       "answer": "X",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 6477,
+      "id": 26236,
       "statement": "Prandtl 수는 고체 내의 열전도율과 열에너지 저장률의 비를 나타낸다.",
       "answer": "X",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 6478,
+      "id": 26237,
       "statement": "강제대류 상황에서 승화 속도는 Reynolds 수()와 Schmidt 수 ()가 증가함에 따라 빨라지며, 그 증가율은 점차 감소한다.",
       "answer": "O",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 6479,
+      "id": 26238,
       "statement": "강제대류 상황에서 대류물질전달 계수는 기체의 동점도 변화보다 유속 변화에 더 큰 영향을 받는다.",
       "answer": "O",
       "explanation": "",
@@ -430,7 +430,7 @@
       "related_videos": []
     },
     {
-      "id": 6480,
+      "id": 26239,
       "statement": "강제대류 상황에서 구의 반지름은 대류물질전달 계수에 영향을 주지 않는다.",
       "answer": "X",
       "explanation": "",
@@ -451,7 +451,7 @@
       "related_videos": []
     },
     {
-      "id": 6481,
+      "id": 26240,
       "statement": "관계식에서 강제대류전달이 없는 경우 는 2이다.",
       "answer": "O",
       "explanation": "",
@@ -473,7 +473,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 22,
     "with_full_meta": 0,
     "source": "0gichul.com"

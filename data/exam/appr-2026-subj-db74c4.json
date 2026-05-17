@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 22287,
+      "id": 30467,
       "statement": "세금은 모두 공급자가 부담한다.",
       "answer": "X",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 22292,
+      "id": 30472,
       "statement": "기펜재(Giffen goods)는 가격이 하락할 때 소",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 22295,
+      "id": 30475,
       "statement": "가격 상승 시 소득효과는 모든 재화의 수요    ",
       "answer": "X",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 22296,
+      "id": 30476,
       "statement": "H사는 우월전략을 가지고 있다.",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 22301,
+      "id": 30481,
       "statement": "시간당 임금이 하락할 경우, 소득효 증가한다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 22302,
+      "id": 30482,
       "statement": "시간당 임금이 상승할 경우, 소득효 공급은 증가한다.",
       "answer": "X",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 22314,
+      "id": 30494,
       "statement": "장ㆍ단기 모두 물가와 국민소득은 상승한다",
       "answer": "X",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 22318,
+      "id": 30498,
       "statement": "고정환율제도에서는 순수출이 증가한다.",
       "answer": "X",
       "explanation": "",
@@ -179,7 +179,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 8,
     "with_full_meta": 0,
     "source": "0gichul.com"

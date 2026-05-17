@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 11112,
+      "id": 43499,
       "statement": "IPv4는 8바이트 주소 체계이다.",
       "answer": "X",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 11113,
+      "id": 43500,
       "statement": "IPv6는 16바이트 주소 체계이다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 11114,
+      "id": 43501,
       "statement": "IPv6의 헤더 크기는 20바이트이다.",
       "answer": "X",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 11115,
+      "id": 43502,
       "statement": "IPv4 주소가 143.248.166.12이면 클래스 C에 해당한다.",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 11116,
+      "id": 43503,
       "statement": "TCP는 연결 지향적(connection-oriented)인 프로토콜이다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 11117,
+      "id": 43504,
       "statement": "ARP는 IP 주소로부터 MAC 주소를 구하기 위한 프로토콜이다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 11118,
+      "id": 43505,
       "statement": "ICMP는 MAC 주소로부터 IP 주소를 구하기 위한 프로토콜이다.",
       "answer": "X",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 11119,
+      "id": 43506,
       "statement": "IPv4에서 클래스 B는 마지막 16비트를 호스트 주소로 사용한다.",
       "answer": "O",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 11121,
+      "id": 43508,
       "statement": "(00110000) ×(00000010) 2 2",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 11122,
+      "id": 43509,
       "statement": "(46) 에 대하여 왼쪽 산술 시프트 1회 10",
       "answer": "X",
       "explanation": "",
@@ -221,7 +221,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:06+00:00",
     "total": 10,
     "with_full_meta": 0,
     "source": "0gichul.com"

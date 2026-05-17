@@ -10,7 +10,7 @@
   "count": 8,
   "questions": [
     {
-      "id": 16695,
+      "id": 32324,
       "question": "확인은 사용자 관점에서 설계명세서들을 점검하는 작업이다.",
       "answer": "X",
       "explanation": "",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": 16696,
+      "id": 32325,
       "question": "검증과 확인은 모두 계획단계에서 명세서를 점검하는 작업이다.",
       "answer": "X",
       "explanation": "",
@@ -34,7 +34,7 @@
       }
     },
     {
-      "id": 16697,
+      "id": 32326,
       "question": "확인은 사용자 관점에서 발주자와 합의한 요구사항들을 점검 하는 작업이다.",
       "answer": "O",
       "explanation": "",
@@ -46,7 +46,7 @@
       }
     },
     {
-      "id": 16698,
+      "id": 32327,
       "question": "검증은 개발자 관점에서 계획서를 점검하는작업이다.",
       "answer": "X",
       "explanation": "",
@@ -58,7 +58,7 @@
       }
     },
     {
-      "id": 16699,
+      "id": 32328,
       "question": "MSA(Microservice Architecture)",
       "answer": "O",
       "explanation": "",
@@ -70,7 +70,7 @@
       }
     },
     {
-      "id": 16700,
+      "id": 32329,
       "question": "ROA(Resource Oriented Architecture)",
       "answer": "X",
       "explanation": "",
@@ -82,7 +82,7 @@
       }
     },
     {
-      "id": 16701,
+      "id": 32330,
       "question": "MDA(Model Driven Architecture)",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       }
     },
     {
-      "id": 16702,
+      "id": 32331,
       "question": "Data-flow architecture 29 -",
       "answer": "X",
       "explanation": "",

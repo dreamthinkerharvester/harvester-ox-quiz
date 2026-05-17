@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 15072,
+      "id": 23436,
       "statement": "lsattr - 7 트 워 크 보 안 사 이 버",
       "answer": "X",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 15075,
+      "id": 23439,
       "statement": "Destination Unreachable 메시지",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 15077,
+      "id": 23441,
       "statement": "PMTUD(Path MTU Discovery)",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 15078,
+      "id": 23442,
       "statement": "DSD(Duplicate Security Detection)",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 15079,
+      "id": 23443,
       "statement": "MLD(Multicast Listener Discovery)",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 15080,
+      "id": 23444,
       "statement": "NDP(Neighbor Discovery Protocol)",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 15081,
+      "id": 23445,
       "statement": "현재 로그인한 사용자 정보는 로그인을 수행할 때 utmp 로그 파일에 로그인 정보가 기록된다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 15082,
+      "id": 23446,
       "statement": "wtmp 로그는 로그인과 로그아웃 정보를 가지고 있는 로그 파일로 접속정보를 계속 기록하는 파일이다.",
       "answer": "O",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 15083,
+      "id": 23447,
       "statement": "btmp 로그는 리눅스 로그인시 실패한 정보를 가지고 있는 로그파일로 텍스트 형태로 저장되어 vi 에디터를 실행하여 확인할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 15084,
+      "id": 23448,
       "statement": "pacct 로그는 시스템에 로그인한 모든 사용자가 수행한 프 로그램 정보를 저장하는 로그이다.",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 15085,
+      "id": 23449,
       "statement": "MUA － 사용자 역할이나 사용자 응용 프로그램을 대표하며 이들을 위해 동작한다.",
       "answer": "O",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 15086,
+      "id": 23450,
       "statement": "MDA － MHS로부터 MS로 메시지 전달을 책임지고 수행한다.",
       "answer": "O",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 15087,
+      "id": 23451,
       "statement": "MTA －응용 프로그램 수준의 한 홉(hop)간에 메일을 중계한다.",
       "answer": "O",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 15088,
+      "id": 23452,
       "statement": "MSA －장기 메시지 저장소로 POP이나 IMAP을 이용해 원 격서버에 있는 메시지를 검색한다.",
       "answer": "X",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 15089,
+      "id": 23453,
       "statement": "매주 월요일 새벽 0시 1분에 /home/clean.sh 명령을 실행",
       "answer": "X",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 15090,
+      "id": 23454,
       "statement": "매월 2일 새벽 0시 1분에 /home/clean.sh 명령을 실행",
       "answer": "X",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 15091,
+      "id": 23455,
       "statement": "매주 화요일 새벽 0시 1분에 /home/clean.sh 명령을 실행",
       "answer": "O",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 15092,
+      "id": 23456,
       "statement": "매일 새벽 0시 1분에 /home/clean.sh 명령을 실행",
       "answer": "X",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 15093,
+      "id": 23457,
       "statement": "TFTP는 FTP와 같이 TCP 포트 21번을 사용한다.",
       "answer": "X",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 15094,
+      "id": 23458,
       "statement": "TFTP는 자체 디스크가 없는 워크스테이션의 부팅 이미지 전달에 주로 사용한다.",
       "answer": "O",
       "explanation": "",
@@ -430,7 +430,7 @@
       "related_videos": []
     },
     {
-      "id": 15095,
+      "id": 23459,
       "statement": "TFTP는 사용자명/비밀번호 방식의 간단한 인증을 제공한다.",
       "answer": "X",
       "explanation": "",
@@ -451,7 +451,7 @@
       "related_videos": []
     },
     {
-      "id": 15096,
+      "id": 23460,
       "statement": "TFTP는 파일을 받고, 보내고, 삭제하기 등을 위한 다양한 명령을 지원한다.",
       "answer": "X",
       "explanation": "",
@@ -472,7 +472,7 @@
       "related_videos": []
     },
     {
-      "id": 15097,
+      "id": 23461,
       "statement": "DKIM(Domain Keys Identified Mail)",
       "answer": "X",
       "explanation": "",
@@ -493,7 +493,7 @@
       "related_videos": []
     },
     {
-      "id": 15098,
+      "id": 23462,
       "statement": "DNSSEC(DNS Security Extensions)",
       "answer": "X",
       "explanation": "",
@@ -514,7 +514,7 @@
       "related_videos": []
     },
     {
-      "id": 15099,
+      "id": 23463,
       "statement": "S/MIME(Secure/Multipurpose Internet Mail Extension)",
       "answer": "X",
       "explanation": "",
@@ -535,7 +535,7 @@
       "related_videos": []
     },
     {
-      "id": 15100,
+      "id": 23464,
       "statement": "SPF(Sender Policy Framework)",
       "answer": "O",
       "explanation": "",
@@ -556,7 +556,7 @@
       "related_videos": []
     },
     {
-      "id": 15111,
+      "id": 23475,
       "statement": "CSS(Cross Site Scripting)",
       "answer": "X",
       "explanation": "",
@@ -577,7 +577,7 @@
       "related_videos": []
     },
     {
-      "id": 15112,
+      "id": 23476,
       "statement": "CSRF(Cross Site Request Forgery)",
       "answer": "X",
       "explanation": "",
@@ -598,7 +598,7 @@
       "related_videos": []
     },
     {
-      "id": 15113,
+      "id": 23477,
       "statement": "SSRF(Server Side Request Forgery)",
       "answer": "O",
       "explanation": "",
@@ -619,7 +619,7 @@
       "related_videos": []
     },
     {
-      "id": 15114,
+      "id": 23478,
       "statement": "출발지와 목적지의 IP 주소를 동일하게 공격대상의 IP 주소로 변조하여 전송한다.",
       "answer": "O",
       "explanation": "",
@@ -640,7 +640,7 @@
       "related_videos": []
     },
     {
-      "id": 15115,
+      "id": 23479,
       "statement": "패킷의 시퀀스 넘버를 조작해 데이터 부분이 중첩되도록 전송함으로써, 재조립하는데 CPU 과부하를 유발한다.",
       "answer": "X",
       "explanation": "",
@@ -661,7 +661,7 @@
       "related_videos": []
     },
     {
-      "id": 15116,
+      "id": 23480,
       "statement": "패킷을 수신한 시스템은 응답하기 위해 출발지 IP 주소를 참조 하는데, 출발지 IP 주소가 자신의 IP 주소이기 때문에 자신에게 응답하게 되고 이 과정을 반복하게 하여 과부하를 유발한다.",
       "answer": "O",
       "explanation": "",
@@ -682,7 +682,7 @@
       "related_videos": []
     },
     {
-      "id": 15117,
+      "id": 23481,
       "statement": "동시 사용자 수를 점유하고 루프 상태가 되도록 함으로써, 시스템 과부하를 유발한다.",
       "answer": "O",
       "explanation": "",
@@ -703,7 +703,7 @@
       "related_videos": []
     },
     {
-      "id": 15119,
+      "id": 23483,
       "statement": "가 - 나 - 라 - 다",
       "answer": "O",
       "explanation": "",
@@ -724,7 +724,7 @@
       "related_videos": []
     },
     {
-      "id": 15120,
+      "id": 23484,
       "statement": "나 - 가 - 라 - 다",
       "answer": "X",
       "explanation": "",
@@ -745,7 +745,7 @@
       "related_videos": []
     },
     {
-      "id": 15123,
+      "id": 23487,
       "statement": "SDO(STIX Domain Objects)",
       "answer": "O",
       "explanation": "",
@@ -766,7 +766,7 @@
       "related_videos": []
     },
     {
-      "id": 15124,
+      "id": 23488,
       "statement": "SAO(STIX Attribute Objects)",
       "answer": "X",
       "explanation": "",
@@ -787,7 +787,7 @@
       "related_videos": []
     },
     {
-      "id": 15125,
+      "id": 23489,
       "statement": "SCO(STIX Cyber-observable Objects)",
       "answer": "O",
       "explanation": "",
@@ -808,7 +808,7 @@
       "related_videos": []
     },
     {
-      "id": 15126,
+      "id": 23490,
       "statement": "SRO(STIX Relationship Objects)",
       "answer": "O",
       "explanation": "",
@@ -829,7 +829,7 @@
       "related_videos": []
     },
     {
-      "id": 15128,
+      "id": 23492,
       "statement": "㉠은 1970년 1월 1일부터 마지막으로 패스워드를 변경한 날 까지의 일 수이다.",
       "answer": "O",
       "explanation": "",
@@ -850,7 +850,7 @@
       "related_videos": []
     },
     {
-      "id": 15129,
+      "id": 23493,
       "statement": "㉡은 패스워드를 변경하기 전에 최소 사용 기간의 일 수이다.",
       "answer": "O",
       "explanation": "",
@@ -871,7 +871,7 @@
       "related_videos": []
     },
     {
-      "id": 15130,
+      "id": 23494,
       "statement": "㉢은 패스워드를 변경하지 않고 최대한 사용할 수 있는 기간의 일 수이다.",
       "answer": "O",
       "explanation": "",
@@ -892,7 +892,7 @@
       "related_videos": []
     },
     {
-      "id": 15131,
+      "id": 23495,
       "statement": "㉣은 계정의 사용 제한을 결정하고 며칠 후에 완전히 사용을 정지할지 설정한다.",
       "answer": "X",
       "explanation": "",
@@ -913,7 +913,7 @@
       "related_videos": []
     },
     {
-      "id": 15135,
+      "id": 23499,
       "statement": "서버와 순서번호를 주기적으로 검사하여 비동기화 상태인지 탐지한다.",
       "answer": "O",
       "explanation": "",
@@ -934,7 +934,7 @@
       "related_videos": []
     },
     {
-      "id": 15136,
+      "id": 23500,
       "statement": "전송 중 윈도우 크기와 순서번호가 맞지 않는 상태가 되면 교정 패킷이 정상적으로 동작하지 못하게 되어, 무한루프에 빠지기 때문에 ACK 패킷의 비율이 감소하는지 탐지한다.",
       "answer": "X",
       "explanation": "",
@@ -955,7 +955,7 @@
       "related_videos": []
     },
     {
-      "id": 15137,
+      "id": 23501,
       "statement": "공격자가 중간에 끼어있기 때문에 패킷의 유실과 재전송 발생, 서버와의 응답 시간이 증가하는지 탐지한다.",
       "answer": "O",
       "explanation": "",
@@ -976,7 +976,7 @@
       "related_videos": []
     },
     {
-      "id": 15138,
+      "id": 23502,
       "statement": "접속 초기에 예상하지 못한 세션의 리셋이 발생하는지 탐지 한다. 12 -",
       "answer": "O",
       "explanation": "",
@@ -998,7 +998,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 47,
     "with_full_meta": 0,
     "source": "0gichul.com"

@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 12034,
+      "id": 40868,
       "statement": "자체적인 랜섬웨어 개발 능력이 부족해도 쉽게 공격을 실행할 수 있기 때문이다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 12035,
+      "id": 40869,
       "statement": "암호화된 데이터의 복호화 키를 안전하게 관리 하기 위해서이다.",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 12036,
+      "id": 40870,
       "statement": "공격 대상 시스템의 취약점을 분석하는 시간을 단축하기 위해서이다.",
       "answer": "X",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 12037,
+      "id": 40871,
       "statement": "법적 추적을 피하기 위해 익명성을 강화하는 효과가 있기 때문이다.",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 12038,
+      "id": 40872,
       "statement": "IPv4의 주소 클래스를 사용하지 않는다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 12039,
+      "id": 40873,
       "statement": "‘/’ 문자를 통해 네트워크 ID의 길이를 표시한다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 12040,
+      "id": 40874,
       "statement": "접두어 합침을 통해 라우팅 테이블이 유지해야 하는 정보의 수를 클래스 기반 주소 지정에 비해 감소시킨다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 12041,
+      "id": 40875,
       "statement": "IPv6 주소 클래스 단위로 주소를 할당한다.",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 12042,
+      "id": 40876,
       "statement": "호스트 기반 방화벽 네트워크보안( 보 안 (9 급 ) 드 : 142) 성명 : 용 4. 다음 설명의 보안 공격 기법으로 가장 적절한 것은? 한 사용자는 어느 블로그 댓글 입력창에 글을 작성 게 했다. 그런데 해당 입력창에 숨겨진 악성 스크립트가 삽입되어 있었고, 사용자가 댓글을 등록하자마자 그의 리 브라우저에서 스크립트가 실행되어 쿠키 정보가 공격 자에게 전송되었다. 을 ① SQL 인젝션(SQL Injection) ② 사이트 간 스크립팅(Cross Site Scripting) 는 ③ 무차별 대입 공격(Brute Force Attack) ④ 사이트간요청위조(Cross Site Request Forgery)",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 12046,
+      "id": 40880,
       "statement": "DNS 서버 자체의 가용성 보장 안(9급) 4 - 1",
       "answer": "X",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 12047,
+      "id": 40881,
       "statement": "공격자가 최신 기술을 사용하여 공격한다.",
       "answer": "X",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 12048,
+      "id": 40882,
       "statement": "공격 배후에 숙련되고 목적의식이 뚜렷한 주체가 있다.",
       "answer": "X",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 12049,
+      "id": 40883,
       "statement": "공격자가 탐지를 회피하며 장기간에 걸쳐 시스템에 침입 상태를 유지한다.",
       "answer": "O",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 12050,
+      "id": 40884,
       "statement": "공격이 일회성으로 끝나지만 피해 규모가 크다.",
       "answer": "X",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 12052,
+      "id": 40886,
       "statement": "충돌에 관여된 다른 모든 장치에 충돌 발생을 용 확실히 알리기 위해",
       "answer": "O",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 12053,
+      "id": 40887,
       "statement": "특정 시간 동안 매체를 독점적으로 쓰기 위한 한 예약 신호로 사용하기 위해",
       "answer": "X",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 12054,
+      "id": 40888,
       "statement": "손상된 프레임을 즉시 복구하기 위한 정보를 포함하기 위해 고 을 13. 포트 미러링에 대한 설명으로 가장 적절한 것은? 는 ① 네트워크 속도를 증가시킨다. ② 특정 포트의 트래픽을 복사하여 다른 포트로 전달한다. ③ 트래픽 모니터링과 암호화를 통해 기밀성을 제공한다. ④ 여러 포트에서 유입되는 트래픽을 모아 보관 하는 것이 목적이다. 절 여 환 안(9급) 4 - 2",
       "answer": "X",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 12055,
+      "id": 40889,
       "statement": "서버나 네트워크 장비의 성능에 영향을 줄 수 있는 시스템 상태를 사전에 감지하기 위해 수행하는 것을 리소스 모니터링이라고 한다.",
       "answer": "O",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 12056,
+      "id": 40890,
       "statement": "서버나 네트워크 장비가 정상적으로 작동 하는지 확인하기 위해 네트워크 트래픽 흐름과 병목 발생 여부를 감시하는 것을 트래픽 모니터링이라고 한다.",
       "answer": "O",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 12057,
+      "id": 40891,
       "statement": "웹 서버나 애플리케이션 서버의 상태를 주기적 1 으로 점검하여 정상 동작 여부를 확인하는 것을 헬스 체크라고 한다.",
       "answer": "O",
       "explanation": "",
@@ -430,7 +430,7 @@
       "related_videos": []
     },
     {
-      "id": 12058,
+      "id": 40892,
       "statement": "ping이나 HTTP 요청을 외부에서 보내 응답 상태를 확인하는 방식은 일반적으로 내부 모니터링이라고 한다.",
       "answer": "X",
       "explanation": "",
@@ -451,7 +451,7 @@
       "related_videos": []
     },
     {
-      "id": 12062,
+      "id": 40896,
       "statement": "체크섬(Checksum) 네트워크보안( 지 17. 클라우드 환경에서 발생할 수 있는 여러 보안 위협 중 가장 적절하지 않은 것은? 을 ① 시스템 취약점(System Vulnerabilities) ② 잘못된 설정(Misconfiguration) 한 ③ 서버과열로 인한 성능저하(Server Overheating) 로 ④ APT(Advanced Persistent Threats) 드",
       "answer": "O",
       "explanation": "",
@@ -472,7 +472,7 @@
       "related_videos": []
     },
     {
-      "id": 12063,
+      "id": 40897,
       "statement": "가장 마지막에 설정된 규칙이 우선 적용된다.",
       "answer": "X",
       "explanation": "",
@@ -493,7 +493,7 @@
       "related_videos": []
     },
     {
-      "id": 12064,
+      "id": 40898,
       "statement": "트래픽 정보와 가장 많이 일치하는 규칙이 적용된다.",
       "answer": "X",
       "explanation": "",
@@ -514,7 +514,7 @@
       "related_videos": []
     },
     {
-      "id": 12065,
+      "id": 40899,
       "statement": "룰셋의 위에서부터 순서대로 규칙을 평가하며 해 가장 먼저 일치하는 규칙의 액션이 적용된다.",
       "answer": "O",
       "explanation": "",
@@ -535,7 +535,7 @@
       "related_videos": []
     },
     {
-      "id": 12066,
+      "id": 40900,
       "statement": "설정된 모든 규칙을 동시에 평가하여 최종 동 액션을 결정한다. 과 픽 적 19. 네트워크 보안 위협에 대한 설명으로 가장 적절 는 하지 않은 것은? ① 악성코드: 바이러스, 웜 등 시스템에 피해를 답 주거나 정보를 탈취하는 해로운 소프트웨어 부 ② 제로데이 공격: 아직 공개되지 않은 보안 취약점 을 악용해 공격하는 것으로 기존 보안 시스템이 탐지하기 어려움 ③ 권한 상승: 공격자가 일반 사용자 권한을 탈취한 후 관리자 수준의 권한으로 상승시켜 시스템을 의 제어함 ④ DDoS: 조직 내부자가 시스템에 접근해 데이터를 탈취하거나 오용하는 내부자 위협 안(9급) 4 - 3",
       "answer": "X",
       "explanation": "",
@@ -556,7 +556,7 @@
       "related_videos": []
     },
     {
-      "id": 12067,
+      "id": 40901,
       "statement": "IP 헤더 필드: Fragment Offset, 신 ICMP 메시지: Destination Unreachable 장",
       "answer": "X",
       "explanation": "",
@@ -577,7 +577,7 @@
       "related_videos": []
     },
     {
-      "id": 12068,
+      "id": 40902,
       "statement": "IP 헤더 필드: Differentiated Services Field, ICMP 메시지: Echo Reply",
       "answer": "X",
       "explanation": "",
@@ -598,7 +598,7 @@
       "related_videos": []
     },
     {
-      "id": 12069,
+      "id": 40903,
       "statement": "IP 헤더 필드: Time To Live(TTL), ICMP 메시지: Time Exceeded",
       "answer": "O",
       "explanation": "",
@@ -619,7 +619,7 @@
       "related_videos": []
     },
     {
-      "id": 12070,
+      "id": 40904,
       "statement": "IP 헤더 필드: Protocol, ICMP 메시지: Redirect 의 를 의 안(9급) 4 - 4",
       "answer": "X",
       "explanation": "",
@@ -641,7 +641,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:06+00:00",
     "total": 30,
     "with_full_meta": 0,
     "source": "0gichul.com"

@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 6594,
+      "id": 26353,
       "statement": "중앙정부가 교부할 때 지출 용도를 제한한다.",
       "answer": "X",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 6595,
+      "id": 26354,
       "statement": "지방자치단체의 고유 재원이라는 성격을 가진다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 6596,
+      "id": 26355,
       "statement": "지역 간의 재정력 격차를 완화하는 기능을 수행한다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 6597,
+      "id": 26356,
       "statement": "재정적 결함이 있는 지방자치단체에 필요한 재원을 교부한다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 6598,
+      "id": 26357,
       "statement": "생활급은 노동 대가의 원칙을 적용한 것이다.",
       "answer": "X",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 6599,
+      "id": 26358,
       "statement": "직무급은 동일 직무에 대한 동일 보수의 원칙에 충실하다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 6600,
+      "id": 26359,
       "statement": "연공급은 능력 개발이나 생산성 향상을 위한 동기 부여에 효과적이다.",
       "answer": "X",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 6601,
+      "id": 26360,
       "statement": "직능급을 적용한 예로는 물가상승률에 연동하여 보수를 조정하는 경우를 들 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 6602,
+      "id": 26361,
       "statement": "부하의 욕구에 관심을 가지고 지원한다.",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 6603,
+      "id": 26362,
       "statement": "부하가 창의적인 사고를 할 수 있도록 자극한다.",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 6604,
+      "id": 26363,
       "statement": "부하에게 조직의 비전을 제시하고 동기를 유발한다.",
       "answer": "O",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 6605,
+      "id": 26364,
       "statement": "부하에게 조직의 목표와 목표 달성 시 보상이 무엇인지를 명확히 제시한다. 행 정 학 책형 1쪽",
       "answer": "X",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 6606,
+      "id": 26365,
       "statement": "예산총계주의 원칙의 예외에 해당한다.",
       "answer": "X",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 6607,
+      "id": 26366,
       "statement": "양곡관리특별회계, 조달특별회계 등이 있다.",
       "answer": "O",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 6608,
+      "id": 26367,
       "statement": "재정에 대한 외부통제가 용이하나 재정운영의 자율성을 침해한다는 단점이 있다.",
       "answer": "X",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 6609,
+      "id": 26368,
       "statement": "법령에 따라 국가가 지급하여야 하는 지출이 발생하거나 증가하는 경우 설치할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 6610,
+      "id": 26369,
       "statement": "비용과 편익은 가치의 공통단위인 화폐가치로 측정된다.",
       "answer": "O",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 6611,
+      "id": 26370,
       "statement": "정책의 능률성과 형평성의 판단기준으로 사용할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 6612,
+      "id": 26371,
       "statement": "미래 시점에서 발생하는 비용과 편익을 현재가치로 환산한다.",
       "answer": "O",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 6613,
+      "id": 26372,
       "statement": "정책대안에 관련된 유ㆍ무형의 비용과 편익을 계량화하여 측정한다.",
       "answer": "O",
       "explanation": "",
@@ -430,7 +430,7 @@
       "related_videos": []
     },
     {
-      "id": 6614,
+      "id": 26373,
       "statement": "직무 스트레스는 이직의도를 증가시키는 요인이 된다.",
       "answer": "O",
       "explanation": "",
@@ -451,7 +451,7 @@
       "related_videos": []
     },
     {
-      "id": 6615,
+      "id": 26374,
       "statement": "직무 스트레스는 역할 모호성 때문에 발생하기도 한다.",
       "answer": "O",
       "explanation": "",
@@ -472,7 +472,7 @@
       "related_videos": []
     },
     {
-      "id": 6616,
+      "id": 26375,
       "statement": "직무 소진은 직무 스트레스보다 단기적으로 발생하는 현상이다.",
       "answer": "X",
       "explanation": "",
@@ -493,7 +493,7 @@
       "related_videos": []
     },
     {
-      "id": 6617,
+      "id": 26376,
       "statement": "직무 소진은 구성원들이 직무로부터 느끼는 피로감과 탈진을 의미한다.",
       "answer": "O",
       "explanation": "",
@@ -514,7 +514,7 @@
       "related_videos": []
     },
     {
-      "id": 6618,
+      "id": 26377,
       "statement": "전통적 견해는 갈등을 부정적인 것으로 본다.",
       "answer": "O",
       "explanation": "",
@@ -535,7 +535,7 @@
       "related_videos": []
     },
     {
-      "id": 6619,
+      "id": 26378,
       "statement": "조직의 혁신과 창의성을 제고하는 순기능이 있다.",
       "answer": "O",
       "explanation": "",
@@ -556,7 +556,7 @@
       "related_videos": []
     },
     {
-      "id": 6620,
+      "id": 26379,
       "statement": "조직구조 측면에서는 계선과 참모 조직 간 갈등이 발생할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -577,7 +577,7 @@
       "related_videos": []
     },
     {
-      "id": 6621,
+      "id": 26380,
       "statement": "최근에는 민사소송의 한 종류인 대안적 갈등해결 방식(Alternative Dispute Resolution)이 주목받고 있다.",
       "answer": "X",
       "explanation": "",
@@ -598,7 +598,7 @@
       "related_videos": []
     },
     {
-      "id": 6622,
+      "id": 26381,
       "statement": "규제는 법률에 근거하여야 한다.",
       "answer": "O",
       "explanation": "",
@@ -619,7 +619,7 @@
       "related_videos": []
     },
     {
-      "id": 6623,
+      "id": 26382,
       "statement": "규제내용은 쉬운 용어로 구체적이고 명확하게 규정되어야 한다.",
       "answer": "O",
       "explanation": "",
@@ -640,7 +640,7 @@
       "related_videos": []
     },
     {
-      "id": 6624,
+      "id": 26383,
       "statement": "기술적 사항이나 경미한 사항일지라도 고시 등으로 정할 수 없다.",
       "answer": "X",
       "explanation": "",
@@ -661,7 +661,7 @@
       "related_videos": []
     },
     {
-      "id": 6625,
+      "id": 26384,
       "statement": "행정기관은 법률에 근거하지 아니한 규제로 국민의 권리를 제한 하거나 의무를 부과할 수 없다.",
       "answer": "O",
       "explanation": "",
@@ -682,7 +682,7 @@
       "related_videos": []
     },
     {
-      "id": 6626,
+      "id": 26385,
       "statement": "정책집행을 담당하는 일선 관료도 순응의 대상이다.",
       "answer": "O",
       "explanation": "",
@@ -703,7 +703,7 @@
       "related_videos": []
     },
     {
-      "id": 6627,
+      "id": 26386,
       "statement": "정책대상집단의 경제적 부담은 불응을 초래하기 쉽다.",
       "answer": "O",
       "explanation": "",
@@ -724,7 +724,7 @@
       "related_videos": []
     },
     {
-      "id": 6628,
+      "id": 26387,
       "statement": "정책의 내용에 대한 긍정적 판단은 순응을 유도하는 요인이다.",
       "answer": "O",
       "explanation": "",
@@ -745,7 +745,7 @@
       "related_videos": []
     },
     {
-      "id": 6629,
+      "id": 26388,
       "statement": "던칸(Duncan)은 정책대상집단의 내면적 가치관의 변화를 순응에 포함한다.",
       "answer": "X",
       "explanation": "",
@@ -766,7 +766,7 @@
       "related_videos": []
     },
     {
-      "id": 6630,
+      "id": 26389,
       "statement": "영기준 예산제도는 점증주의를 극복하기 위한 경제적 합리성에 초점을 둔 제도이다.",
       "answer": "O",
       "explanation": "",
@@ -787,7 +787,7 @@
       "related_videos": []
     },
     {
-      "id": 6631,
+      "id": 26390,
       "statement": "품목별 예산제도는 지출대상을 품목별로 분류해서 지출대상과 한계를 규정하는 제도이다.",
       "answer": "O",
       "explanation": "",
@@ -808,7 +808,7 @@
       "related_videos": []
     },
     {
-      "id": 6632,
+      "id": 26391,
       "statement": "성과주의 예산제도는 투입 요소 중심이 아니라 성과를 중심으로 예산을 운용하는 제도이다.",
       "answer": "O",
       "explanation": "",
@@ -829,7 +829,7 @@
       "related_videos": []
     },
     {
-      "id": 6633,
+      "id": 26392,
       "statement": "계획 예산제도는 계획에 기반한 상향식 접근을 선택하여 재원 배분 권한의 분권화를 강조하는 제도이다. 행 정 학 책형 2쪽",
       "answer": "X",
       "explanation": "",
@@ -850,7 +850,7 @@
       "related_videos": []
     },
     {
-      "id": 6634,
+      "id": 26393,
       "statement": "4급 이상 일반직공무원은 근무성적평가 적용 대상이다.",
       "answer": "X",
       "explanation": "",
@@ -871,7 +871,7 @@
       "related_videos": []
     },
     {
-      "id": 6635,
+      "id": 26394,
       "statement": "성과계약 등 평가는 매년 1회 실시되며, 평가 결과는 성과급 등급 결정에 활용된다.",
       "answer": "O",
       "explanation": "",
@@ -892,7 +892,7 @@
       "related_videos": []
     },
     {
-      "id": 6636,
+      "id": 26395,
       "statement": "채용시험성적과 임용 후의 근무성적을 비교함으로써 공무원 선발 도구의 신뢰성을 검증할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -913,7 +913,7 @@
       "related_videos": []
     },
     {
-      "id": 6637,
+      "id": 26396,
       "statement": "평정 오류 중 시간적 오류는 평정자가 일정한 규칙에 입각해서 특정 오류를 계속 범하는 것을 의미한다.",
       "answer": "X",
       "explanation": "",
@@ -934,7 +934,7 @@
       "related_videos": []
     },
     {
-      "id": 6638,
+      "id": 26397,
       "statement": "집행기관과 정책수단의 부적절한 선정이 문제가 되었다.",
       "answer": "O",
       "explanation": "",
@@ -955,7 +955,7 @@
       "related_videos": []
     },
     {
-      "id": 6639,
+      "id": 26398,
       "statement": "많은 기관과 사람이 참여하여 이해관계의 복잡성이 증가하였다.",
       "answer": "O",
       "explanation": "",
@@ -976,7 +976,7 @@
       "related_videos": []
     },
     {
-      "id": 6640,
+      "id": 26399,
       "statement": "주요 지위에 있는 이들의 교체로 집행에 대한 지지와 협조가 약해졌다.",
       "answer": "O",
       "explanation": "",
@@ -997,7 +997,7 @@
       "related_videos": []
     },
     {
-      "id": 6641,
+      "id": 26400,
       "statement": "정책이 지나치게 단순하여 정책추진 과정에서 예상하지 못한 갈등이 발생하였다.",
       "answer": "X",
       "explanation": "",
@@ -1018,7 +1018,7 @@
       "related_videos": []
     },
     {
-      "id": 6642,
+      "id": 26401,
       "statement": "사회보험 원리와 부양 원리가 혼합된 제도로 운영된다.",
       "answer": "O",
       "explanation": "",
@@ -1039,7 +1039,7 @@
       "related_videos": []
     },
     {
-      "id": 6643,
+      "id": 26402,
       "statement": "2010년 이후 신규임용자의 퇴직연금 지급 개시 연령은 60세다.",
       "answer": "X",
       "explanation": "",
@@ -1060,7 +1060,7 @@
       "related_videos": []
     },
     {
-      "id": 6644,
+      "id": 26403,
       "statement": "공무원 연금제도의 운영에 관한 사항은 인사혁신처장이 주관한다.",
       "answer": "O",
       "explanation": "",
@@ -1081,7 +1081,7 @@
       "related_videos": []
     },
     {
-      "id": 6645,
+      "id": 26404,
       "statement": "퇴직연금 수급 자격을 갖추기 위해서는 10년 이상 재직하여야 한다.",
       "answer": "O",
       "explanation": "",
@@ -1102,7 +1102,7 @@
       "related_videos": []
     },
     {
-      "id": 6646,
+      "id": 26405,
       "statement": "정책집행 이후에 관리절차 또는 관리전략 등을 평가한다.",
       "answer": "X",
       "explanation": "",
@@ -1123,7 +1123,7 @@
       "related_videos": []
     },
     {
-      "id": 6647,
+      "id": 26406,
       "statement": "영향평가는 의도된 효과뿐만 아니라 부수적 효과도 평가한다.",
       "answer": "O",
       "explanation": "",
@@ -1144,7 +1144,7 @@
       "related_videos": []
     },
     {
-      "id": 6648,
+      "id": 26407,
       "statement": "산출평가는 계량적으로 측정이 용이한 단기적인 산출물을 평가한다.",
       "answer": "O",
       "explanation": "",
@@ -1165,7 +1165,7 @@
       "related_videos": []
     },
     {
-      "id": 6649,
+      "id": 26408,
       "statement": "결과평가는 정책대상의 행동이나 태도에서 실제로 일어난 변화를 평가한다.",
       "answer": "O",
       "explanation": "",
@@ -1186,7 +1186,7 @@
       "related_videos": []
     },
     {
-      "id": 6650,
+      "id": 26409,
       "statement": "국가가 특정한 목적을 위하여 특정한 자금을 신축적으로 운용할 필요가 있을 때 설치한다.",
       "answer": "O",
       "explanation": "",
@@ -1207,7 +1207,7 @@
       "related_videos": []
     },
     {
-      "id": 6651,
+      "id": 26410,
       "statement": "예산과 마찬가지로 국회의 심의ㆍ의결을 받는다.",
       "answer": "O",
       "explanation": "",
@@ -1228,7 +1228,7 @@
       "related_videos": []
     },
     {
-      "id": 6652,
+      "id": 26411,
       "statement": "국가재정법 상 세입세출예산에 의하지 아니하고 운용할 수 없도록 하고 있다.",
       "answer": "X",
       "explanation": "",
@@ -1249,7 +1249,7 @@
       "related_videos": []
     },
     {
-      "id": 6653,
+      "id": 26412,
       "statement": "기금운용계획안을 제출할 때 기금의 성과계획서 및 성과보고서를 함께 제출하여야 한다.",
       "answer": "O",
       "explanation": "",
@@ -1270,7 +1270,7 @@
       "related_videos": []
     },
     {
-      "id": 6654,
+      "id": 26413,
       "statement": "정당은 공식적 통제 기능을 수행한다.",
       "answer": "X",
       "explanation": "",
@@ -1291,7 +1291,7 @@
       "related_videos": []
     },
     {
-      "id": 6655,
+      "id": 26414,
       "statement": "감사원의 회계 검사는 내부통제 방식이다.",
       "answer": "O",
       "explanation": "",
@@ -1312,7 +1312,7 @@
       "related_videos": []
     },
     {
-      "id": 6656,
+      "id": 26415,
       "statement": "통제상황에 맞는 통제과정의 신축성이 필요하다.",
       "answer": "O",
       "explanation": "",
@@ -1333,7 +1333,7 @@
       "related_videos": []
     },
     {
-      "id": 6657,
+      "id": 26416,
       "statement": "통제는 책임 이행을 보장하려는 활동이다. 행 정 학 책형 3쪽",
       "answer": "O",
       "explanation": "",
@@ -1354,7 +1354,7 @@
       "related_videos": []
     },
     {
-      "id": 6658,
+      "id": 26417,
       "statement": "선거관리위원회 소속 6급 이하의 공무원은 중앙선거관리위원회 위원장이 임용한다.",
       "answer": "X",
       "explanation": "",
@@ -1375,7 +1375,7 @@
       "related_videos": []
     },
     {
-      "id": 6659,
+      "id": 26418,
       "statement": "금고 이상의 형의 선고유예를 받은 경우에 그 선고유예 기간 중에 있는 자는 공무원으로 임용될 수 없다.",
       "answer": "O",
       "explanation": "",
@@ -1396,7 +1396,7 @@
       "related_videos": []
     },
     {
-      "id": 6660,
+      "id": 26419,
       "statement": "공무원의 임용은 시험성적ㆍ근무성적, 그 밖의 능력의 실증에 따라 행한다고 함으로써 실적주의 원칙을 천명하고 있다.",
       "answer": "O",
       "explanation": "",
@@ -1417,7 +1417,7 @@
       "related_videos": []
     },
     {
-      "id": 6661,
+      "id": 26420,
       "statement": "고위공무원단에 속하는 일반직공무원의 경우 소속 장관은 해당 기관에 소속되지 아니한 공무원에 대하여도 임용제청할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -1438,7 +1438,7 @@
       "related_videos": []
     },
     {
-      "id": 6662,
+      "id": 26421,
       "statement": "규제등록제는 정부가 관리대상 규제를 등록하는 방법이다.",
       "answer": "O",
       "explanation": "",
@@ -1459,7 +1459,7 @@
       "related_videos": []
     },
     {
-      "id": 6663,
+      "id": 26422,
       "statement": "규제유예제는 규제의 효력을 한시적으로 중지해 규제 적용을 유예하는 방법이다.",
       "answer": "O",
       "explanation": "",
@@ -1480,7 +1480,7 @@
       "related_videos": []
     },
     {
-      "id": 6664,
+      "id": 26423,
       "statement": "규제일몰제는 규제의 존속기간을 정해 기존 규제의 타당성을 주기적으로 관리하는 방법이다.",
       "answer": "O",
       "explanation": "",
@@ -1501,7 +1501,7 @@
       "related_videos": []
     },
     {
-      "id": 6665,
+      "id": 26424,
       "statement": "규제비용관리제는 규제의 총량을 정하고 규제의 건수가 그 이하로 감소하지 않도록 관리하는 방법이다.",
       "answer": "X",
       "explanation": "",
@@ -1523,7 +1523,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 72,
     "with_full_meta": 0,
     "source": "0gichul.com"

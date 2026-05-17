@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 17017,
+      "id": 32646,
       "statement": "110101010111111 - 18 신 이 론 사 이 버",
       "answer": "X",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 17018,
+      "id": 32647,
       "statement": "에너지 신호의 전력은 ∞이다.",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 17019,
+      "id": 32648,
       "statement": "전력 신호의 에너지는 0이다.",
       "answer": "X",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 17020,
+      "id": 32649,
       "statement": "에너지 신호도 아니고 전력 신호도 아닌 신호가 존재한다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 17021,
+      "id": 32650,
       "statement": "주기 신호는 에너지 신호이다.",
       "answer": "X",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 17029,
+      "id": 32658,
       "statement": "B : 440[MHz] K : 10 - 19",
       "answer": "X",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 17030,
+      "id": 32659,
       "statement": "펄스부호변조(Pulse Code Modulation)",
       "answer": "X",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 17033,
+      "id": 32662,
       "statement": "펄스폭변조(Pulse Width Modulation) - 22",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 17039,
+      "id": 32668,
       "statement": "ARP(Address Resolution Protocol)",
       "answer": "X",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 17040,
+      "id": 32669,
       "statement": "DHCP(Dynamic Host Configuration Protocol)",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 17041,
+      "id": 32670,
       "statement": "RARP(Reverse Address Resolution Protocol) - 23",
       "answer": "X",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 17042,
+      "id": 32671,
       "statement": "SMTP(Simple Mail Transfer Protocol)",
       "answer": "X",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 17043,
+      "id": 32672,
       "statement": "MIME(Multipurpose Internet Mail Extention)",
       "answer": "X",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 17044,
+      "id": 32673,
       "statement": "POP(Post Office Protocol)",
       "answer": "X",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 17045,
+      "id": 32674,
       "statement": "IMAP(Internet Mail Access Protocol)",
       "answer": "O",
       "explanation": "",
@@ -326,7 +326,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:06+00:00",
     "total": 15,
     "with_full_meta": 0,
     "source": "0gichul.com"

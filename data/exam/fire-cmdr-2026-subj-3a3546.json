@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 19862,
+      "id": 29231,
       "statement": "㉠의 소비에 있어 무임승차 문제가 발생한다.",
       "answer": "X",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 19863,
+      "id": 29232,
       "statement": "㉡의 사례로 유료 인터넷 동영상 서비스(OTT)를 들 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 19864,
+      "id": 29233,
       "statement": "㉡의 소비 행태에서 부정적 외부 효과가 발생한다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 19865,
+      "id": 29234,
       "statement": "㉢은 사회적으로 효율적인 수준에서 생산된다.",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 19870,
+      "id": 29239,
       "statement": "대체재 가격 하락 생산 기술의 향상 인문사회계열 31 / 제 학 】",
       "answer": "X",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 19871,
+      "id": 29240,
       "statement": "시장 균형 거래량은 3개, 균형 가격은 5만 원이다.",
       "answer": "X",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 19872,
+      "id": 29241,
       "statement": "시장 균형에서 사회적 잉여는 6만 원이다.",
       "answer": "X",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 19873,
+      "id": 29242,
       "statement": "시장 균형에서 생산자 잉여는 소비자 잉여보다 크다.",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 19874,
+      "id": 29243,
       "statement": "정부가 소비자에게 X재 1개당 2만 원의 보조금을 지급할 경우, 시장 균형 거래량은 증가하고 균형 가격은 하락한다.",
       "answer": "X",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 19875,
+      "id": 29244,
       "statement": "정부가 소비자에게 지급하는 X재 1개당 보조금이 커질수록 시장 균형에서 생산자 잉여는 증가한다.",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 19880,
+      "id": 29249,
       "statement": "W －W L －L 0 2 3 2 계열-선택 / 44",
       "answer": "X",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 19881,
+      "id": 29250,
       "statement": "이윤 극대화를 위해 A기업은 생산량을 늘려야 한다.",
       "answer": "X",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 19882,
+      "id": 29251,
       "statement": "현재 생산량 수준에서 A기업의 한계 비용은 3,000원 이다.",
       "answer": "O",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 19883,
+      "id": 29252,
       "statement": "현재 생산량 수준에서 A기업의 평균 가변 비용은 2,000원이다.",
       "answer": "O",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 19884,
+      "id": 29253,
       "statement": "현재 생산량 수준에서 A기업은 5,000원의 손실을 실현하고 있다.",
       "answer": "O",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 19885,
+      "id": 29254,
       "statement": "A기업이 생산을 중단한다면 10,000원의 손실이 발생할 것이다. 인문사회계열 32 /",
       "answer": "O",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 19886,
+      "id": 29255,
       "statement": "X재의 가격을 3만 원으로 설정한다.",
       "answer": "X",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 19887,
+      "id": 29256,
       "statement": "Y재의 가격을 10만 원으로 설정한다.",
       "answer": "X",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 19888,
+      "id": 29257,
       "statement": "X재와 Y재를 묶은 상품의 가격을 15만 원으로 설정한다.",
       "answer": "O",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 19889,
+      "id": 29258,
       "statement": "갑, 을, 병이 각각 X재와 Y재를 모두 구입하도록 가격을 설정한다.",
       "answer": "X",
       "explanation": "",
@@ -430,7 +430,7 @@
       "related_videos": []
     },
     {
-      "id": 19890,
+      "id": 29259,
       "statement": "기업이 극대화하는 이윤은 21만 원이다. 계열-선택 / 44",
       "answer": "X",
       "explanation": "",
@@ -451,7 +451,7 @@
       "related_videos": []
     },
     {
-      "id": 19891,
+      "id": 29260,
       "statement": "내쉬 균형은 A와 B 모두 오염을 배출하지 않는 것이다.",
       "answer": "X",
       "explanation": "",
@@ -472,7 +472,7 @@
       "related_videos": []
     },
     {
-      "id": 19892,
+      "id": 29261,
       "statement": "B의 우월 전략은 오염을 배출하는 것이다.",
       "answer": "O",
       "explanation": "",
@@ -493,7 +493,7 @@
       "related_videos": []
     },
     {
-      "id": 19893,
+      "id": 29262,
       "statement": "두 기업 간 우월 전략 균형은 존재하지 않고, 내쉬 균형은 존재한다.",
       "answer": "X",
       "explanation": "",
@@ -514,7 +514,7 @@
       "related_videos": []
     },
     {
-      "id": 19894,
+      "id": 29263,
       "statement": "각 기업의 입장에서 최적 선택을 하면, A와 B 모두 가장 큰 보수를 얻게 된다.",
       "answer": "X",
       "explanation": "",
@@ -535,7 +535,7 @@
       "related_videos": []
     },
     {
-      "id": 19895,
+      "id": 29264,
       "statement": "각 기업의 입장에서 최적 선택을 하면, 정부의 개입 없이 오염 배출 문제가 해결된다.",
       "answer": "X",
       "explanation": "",
@@ -556,7 +556,7 @@
       "related_videos": []
     },
     {
-      "id": 19896,
+      "id": 29265,
       "statement": "갑의 기대 가치의 효용은 기대 효용보다 크다.",
       "answer": "O",
       "explanation": "",
@@ -577,7 +577,7 @@
       "related_videos": []
     },
     {
-      "id": 19897,
+      "id": 29266,
       "statement": "갑의 부동산에 대한 확실성 등가는 81억 원이다.",
       "answer": "O",
       "explanation": "",
@@ -598,7 +598,7 @@
       "related_videos": []
     },
     {
-      "id": 19898,
+      "id": 29267,
       "statement": "갑의 부동산에 대한 위험 프리미엄은 4억 원이다.",
       "answer": "O",
       "explanation": "",
@@ -619,7 +619,7 @@
       "related_videos": []
     },
     {
-      "id": 19899,
+      "id": 29268,
       "statement": "갑의 부동산에 대한 공정 보험료는 15억 원이다.",
       "answer": "O",
       "explanation": "",
@@ -640,7 +640,7 @@
       "related_videos": []
     },
     {
-      "id": 19900,
+      "id": 29269,
       "statement": "갑의 부동산에 대한 최대 보험료는 20억 원보다 크다. 인문사회계열 33 /",
       "answer": "X",
       "explanation": "",
@@ -661,7 +661,7 @@
       "related_videos": []
     },
     {
-      "id": 19901,
+      "id": 29270,
       "statement": "A국 정부는 소득 재분배 정책을 실행하고 있다.",
       "answer": "O",
       "explanation": "",
@@ -682,7 +682,7 @@
       "related_videos": []
     },
     {
-      "id": 19902,
+      "id": 29271,
       "statement": "B국은 역진적 소득세 정책을 적용한다.",
       "answer": "O",
       "explanation": "",
@@ -703,7 +703,7 @@
       "related_videos": []
     },
     {
-      "id": 19903,
+      "id": 29272,
       "statement": "C국은 모든 국민에 대해 동일한 세율을 적용한다.",
       "answer": "O",
       "explanation": "",
@@ -724,7 +724,7 @@
       "related_videos": []
     },
     {
-      "id": 19904,
+      "id": 29273,
       "statement": "B국은 고소득자에게, C국은 저소득자에게 유리 하다.",
       "answer": "X",
       "explanation": "",
@@ -745,7 +745,7 @@
       "related_videos": []
     },
     {
-      "id": 19905,
+      "id": 29274,
       "statement": "A국의 소득 대비 처분 가능 소득 비율은 저소득자가 고소득자보다 높다.",
       "answer": "O",
       "explanation": "",
@@ -766,7 +766,7 @@
       "related_videos": []
     },
     {
-      "id": 19906,
+      "id": 29275,
       "statement": "t시기에 긍정적 외부 효과가 발생하였다.",
       "answer": "X",
       "explanation": "",
@@ -787,7 +787,7 @@
       "related_videos": []
     },
     {
-      "id": 19907,
+      "id": 29276,
       "statement": "t시기에 생산자에게 개당 25만큼의 세금을 부과 하면 외부 효과가 해소될 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -808,7 +808,7 @@
       "related_videos": []
     },
     {
-      "id": 19908,
+      "id": 29277,
       "statement": "t＋1시기에 사회적 최적 거래량은 60개이다.",
       "answer": "O",
       "explanation": "",
@@ -829,7 +829,7 @@
       "related_videos": []
     },
     {
-      "id": 19909,
+      "id": 29278,
       "statement": "t＋1시기에 생산자에게 개당 50만큼의 보조금을 지급하면 외부 효과가 해소될 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -850,7 +850,7 @@
       "related_videos": []
     },
     {
-      "id": 19910,
+      "id": 29279,
       "statement": "t＋1시기에 사회적 최적 거래량에서의 사회적 한계 비용은 t시기보다 25만큼 크다. 인문사회계열 34 /",
       "answer": "X",
       "explanation": "",
@@ -871,7 +871,7 @@
       "related_videos": []
     },
     {
-      "id": 19911,
+      "id": 29280,
       "statement": "갑과 을이 모두 X재만 생산한다.",
       "answer": "O",
       "explanation": "",
@@ -892,7 +892,7 @@
       "related_videos": []
     },
     {
-      "id": 19912,
+      "id": 29281,
       "statement": "갑과 을이 모두 Y재만 생산한다.",
       "answer": "O",
       "explanation": "",
@@ -913,7 +913,7 @@
       "related_videos": []
     },
     {
-      "id": 19913,
+      "id": 29282,
       "statement": "갑과 을이 각각 자신의 노동력을 1/2씩 투입하여 X재와 Y재를 생산한다.",
       "answer": "X",
       "explanation": "",
@@ -934,7 +934,7 @@
       "related_videos": []
     },
     {
-      "id": 19914,
+      "id": 29283,
       "statement": "갑은 자신의 노동력을 1/2씩 투입하여 X재와 Y재를 생산하고, 을은 Y재만 생산한다.",
       "answer": "O",
       "explanation": "",
@@ -955,7 +955,7 @@
       "related_videos": []
     },
     {
-      "id": 19915,
+      "id": 29284,
       "statement": "을은 자신의 노동력을 각각 1/3과 2/3로 투입하여 X재와 Y재를 생산하고, 갑은 X재만 생산한다.",
       "answer": "O",
       "explanation": "",
@@ -976,7 +976,7 @@
       "related_videos": []
     },
     {
-      "id": 19916,
+      "id": 29285,
       "statement": "2024년 명목 GDP는 실질 GDP보다 크다.",
       "answer": "X",
       "explanation": "",
@@ -997,7 +997,7 @@
       "related_videos": []
     },
     {
-      "id": 19917,
+      "id": 29286,
       "statement": "2024년 경제 성장률은 양(＋)의 값이다.",
       "answer": "X",
       "explanation": "",
@@ -1018,7 +1018,7 @@
       "related_videos": []
     },
     {
-      "id": 19918,
+      "id": 29287,
       "statement": "2025년 실질 GDP는 100억 원이다.",
       "answer": "X",
       "explanation": "",
@@ -1039,7 +1039,7 @@
       "related_videos": []
     },
     {
-      "id": 19919,
+      "id": 29288,
       "statement": "2025년 물가 상승률은 2024년 대비 감소하였다. 계열-선택 / 44",
       "answer": "O",
       "explanation": "",
@@ -1060,7 +1060,7 @@
       "related_videos": []
     },
     {
-      "id": 19920,
+      "id": 29289,
       "statement": "국내 총생산과 국민 소득은 동일한 금액으로 나타난다.",
       "answer": "X",
       "explanation": "",
@@ -1081,7 +1081,7 @@
       "related_videos": []
     },
     {
-      "id": 19921,
+      "id": 29290,
       "statement": "폐쇄 경제에서는 국민 총생산과 국내 총생산이 일치한다.",
       "answer": "O",
       "explanation": "",
@@ -1102,7 +1102,7 @@
       "related_videos": []
     },
     {
-      "id": 19922,
+      "id": 29291,
       "statement": "중고품, 주식이나 채권과 같은 금융 자산은 국내 총생산에 포함되지 않는다.",
       "answer": "O",
       "explanation": "",
@@ -1123,7 +1123,7 @@
       "related_videos": []
     },
     {
-      "id": 19923,
+      "id": 29292,
       "statement": "시장에서 거래되지 않은 가사 노동, 봉사 활동은 국내 총생산에 포함되지 않는다.",
       "answer": "O",
       "explanation": "",
@@ -1144,7 +1144,7 @@
       "related_videos": []
     },
     {
-      "id": 19924,
+      "id": 29293,
       "statement": "국민 소득은 국민 순생산에서 간접세는 차감하고 정부 보조금을 합한 금액이다.",
       "answer": "O",
       "explanation": "",
@@ -1165,7 +1165,7 @@
       "related_videos": []
     },
     {
-      "id": 19925,
+      "id": 29294,
       "statement": "조세 부과 전 정기 예금의 실질 이자율은 A국 상품이 연 －3%이다.",
       "answer": "X",
       "explanation": "",
@@ -1186,7 +1186,7 @@
       "related_videos": []
     },
     {
-      "id": 19926,
+      "id": 29295,
       "statement": "조세 부과 후 정기 예금의 명목 이자율은 B국 상품이 연 3%이다.",
       "answer": "X",
       "explanation": "",
@@ -1207,7 +1207,7 @@
       "related_videos": []
     },
     {
-      "id": 19927,
+      "id": 29296,
       "statement": "조세 부과 후 정기 예금의 실질 이자율은 A국 상품이 연 7.2%이다.",
       "answer": "X",
       "explanation": "",
@@ -1228,7 +1228,7 @@
       "related_videos": []
     },
     {
-      "id": 19928,
+      "id": 29297,
       "statement": "조세 부과로 인해 B국 정기 예금 상품의 연 실질 이자율은 조세 부과 전에 비해 0.8%p 하락하였다.",
       "answer": "X",
       "explanation": "",
@@ -1249,7 +1249,7 @@
       "related_videos": []
     },
     {
-      "id": 19929,
+      "id": 29298,
       "statement": "조세 부과 후 정기 예금의 연 실질 이자율은 B국 상품이 A국 상품보다 0.4%p 높다. 인문사회계열 35 /",
       "answer": "O",
       "explanation": "",
@@ -1270,7 +1270,7 @@
       "related_videos": []
     },
     {
-      "id": 19930,
+      "id": 29299,
       "statement": "t＋1년 고용률은 50%이다.",
       "answer": "X",
       "explanation": "",
@@ -1291,7 +1291,7 @@
       "related_videos": []
     },
     {
-      "id": 19931,
+      "id": 29300,
       "statement": "t＋1년 비경제 활동 인구는 32만 명이다.",
       "answer": "O",
       "explanation": "",
@@ -1312,7 +1312,7 @@
       "related_videos": []
     },
     {
-      "id": 19932,
+      "id": 29301,
       "statement": "t＋1년 경제 활동 참가율은 50%보다 높다.",
       "answer": "O",
       "explanation": "",
@@ -1333,7 +1333,7 @@
       "related_videos": []
     },
     {
-      "id": 19933,
+      "id": 29302,
       "statement": "t＋1년 실업률은 t년 대비 5%p 상승하였다.",
       "answer": "O",
       "explanation": "",
@@ -1354,7 +1354,7 @@
       "related_videos": []
     },
     {
-      "id": 19934,
+      "id": 29303,
       "statement": "t＋1년 경제 활동 참가율은 t년 고용률과 같다. 계열-선택 / 44",
       "answer": "O",
       "explanation": "",
@@ -1375,7 +1375,7 @@
       "related_videos": []
     },
     {
-      "id": 19935,
+      "id": 29304,
       "statement": "A국의 Y재 1단위 생산의 기회비용은 X재 1/2단위 이다.",
       "answer": "O",
       "explanation": "",
@@ -1396,7 +1396,7 @@
       "related_videos": []
     },
     {
-      "id": 19936,
+      "id": 29305,
       "statement": "B국은 X재 생산에 비교 우위를 갖는다.",
       "answer": "O",
       "explanation": "",
@@ -1417,7 +1417,7 @@
       "related_videos": []
     },
     {
-      "id": 19937,
+      "id": 29306,
       "statement": "B국은 X재 30단위와 Y재 60단위를 동시에 생산할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -1438,7 +1438,7 @@
       "related_videos": []
     },
     {
-      "id": 19938,
+      "id": 29307,
       "statement": "양국 간 X재와 Y재의 교환 비율이 1:3이면 무역이 이루어지지 않는다.",
       "answer": "O",
       "explanation": "",
@@ -1459,7 +1459,7 @@
       "related_videos": []
     },
     {
-      "id": 19939,
+      "id": 29308,
       "statement": "양국 간 X재와 Y재의 교환 비율이 1:1이면 A국은 X재 1단위당 Y재 1/2단위의 이익을 얻는다.",
       "answer": "X",
       "explanation": "",
@@ -1480,7 +1480,7 @@
       "related_videos": []
     },
     {
-      "id": 19940,
+      "id": 29309,
       "statement": "한국을 여행하는 일본인 여행자의 수가 늘어날 것이다.",
       "answer": "X",
       "explanation": "",
@@ -1501,7 +1501,7 @@
       "related_videos": []
     },
     {
-      "id": 19941,
+      "id": 29310,
       "statement": "미국인 여행자는 일본보다 한국 여행을 선호할 것이다.",
       "answer": "X",
       "explanation": "",
@@ -1522,7 +1522,7 @@
       "related_videos": []
     },
     {
-      "id": 19942,
+      "id": 29311,
       "statement": "미국으로부터 농산물을 수입하는 일본인 수입 업자는 유리해질 것이다.",
       "answer": "X",
       "explanation": "",
@@ -1543,7 +1543,7 @@
       "related_videos": []
     },
     {
-      "id": 19943,
+      "id": 29312,
       "statement": "미국 시장에서 일본 제품의 가격 경쟁력이 한국 제품보다 높아질 것이다.",
       "answer": "O",
       "explanation": "",
@@ -1564,7 +1564,7 @@
       "related_videos": []
     },
     {
-      "id": 19944,
+      "id": 29313,
       "statement": "일본인 투자자가 한국과 미국에 동시 상장된 ☆☆전자 주식을 살 때 한국에서 사는 것이 유리할 것이다.",
       "answer": "X",
       "explanation": "",
@@ -1585,7 +1585,7 @@
       "related_videos": []
     },
     {
-      "id": 19945,
+      "id": 29314,
       "statement": "(가)는 해외 직접 투자액이 포함되는 항목이다.",
       "answer": "X",
       "explanation": "",
@@ -1606,7 +1606,7 @@
       "related_videos": []
     },
     {
-      "id": 19946,
+      "id": 29315,
       "statement": "B국의 경상 수지는 5억 달러 적자이다.",
       "answer": "O",
       "explanation": "",
@@ -1627,7 +1627,7 @@
       "related_videos": []
     },
     {
-      "id": 19947,
+      "id": 29316,
       "statement": "상품 수출액이 포함되는 항목은 A국이 흑자이다.",
       "answer": "X",
       "explanation": "",
@@ -1648,7 +1648,7 @@
       "related_videos": []
     },
     {
-      "id": 19948,
+      "id": 29317,
       "statement": "해외 지식 재산권 사용료가 포함되는 항목은 B국이 적자이다.",
       "answer": "X",
       "explanation": "",
@@ -1669,7 +1669,7 @@
       "related_videos": []
     },
     {
-      "id": 19949,
+      "id": 29318,
       "statement": "해외 주식 투자에 따른 배당금이 포함되는 항목은 A국과 C국 모두 적자이다. 인문사회계열-선택 37 / 44",
       "answer": "X",
       "explanation": "",
@@ -1691,7 +1691,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 80,
     "with_full_meta": 0,
     "source": "0gichul.com"

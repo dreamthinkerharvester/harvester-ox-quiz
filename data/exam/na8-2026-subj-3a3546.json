@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 13637,
+      "id": 28706,
       "statement": "열등재의 엥겔곡선은 우하향한다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 13638,
+      "id": 28707,
       "statement": "엥겔곡선의 기울기는 수요의 소득탄력성 부호에 의해 결정된다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 13639,
+      "id": 28708,
       "statement": "필수재의 엥겔곡선은 사치재의 엥겔곡선보다 기울기가 더 가파 르다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 13640,
+      "id": 28709,
       "statement": "X재의 엥겔곡선이 우하향하면, Y재의 엥겔곡선은 반드시 우상향 한다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 13641,
+      "id": 28710,
       "statement": "효용함수가 U=XαY(1-α)의 형태를 갖는 경우(0<α<1), X재의 엥겔 곡선은 원점을 통과하지 않는다.",
       "answer": "X",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 13642,
+      "id": 28711,
       "statement": "X재의 보상수요곡선이 수직이면, X재와 Y재는 서로 완전대체재 이다.",
       "answer": "X",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 13643,
+      "id": 28712,
       "statement": "X재가 정상재라면 X재의 보통수요곡선보다 X재 보상수요곡선의 기울기가 더욱 가파르다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 13644,
+      "id": 28713,
       "statement": "X재에 소득효과가 존재하지 않는다면, X재의 보상수요곡선은 X재의 보통수요곡선과 같다.",
       "answer": "O",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 13645,
+      "id": 28714,
       "statement": "X재 가격변화에 따른 소비자 A의 잉여변화를 정확히 측정하기 위해서는 보상수요곡선을 사용해야 한다.",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 13646,
+      "id": 28715,
       "statement": "X재가 기펜재라면 보상수요곡선은 우하향한다. - 10 - 학 책형 가",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 13647,
+      "id": 28716,
       "statement": "이윤을 얻고 있어 생산을 계속한다.",
       "answer": "X",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 13648,
+      "id": 28717,
       "statement": "0의 이윤을 얻고 있지만 생산을 계속한다.",
       "answer": "X",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 13649,
+      "id": 28718,
       "statement": "손실이 발생하고 있어 생산을 중단한다.",
       "answer": "X",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 13650,
+      "id": 28719,
       "statement": "손실이 발생하고 있지만 생산을 계속한다.",
       "answer": "O",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 13651,
+      "id": 28720,
       "statement": "생산을 계속하거나 중단하거나 이윤은 동일하다. - 11 - 학 책형 가",
       "answer": "X",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 13652,
+      "id": 28721,
       "statement": "Q >0일 때, 공장 A의 한계비용은 공장 A의 로봇 생산량이 증가 A 해도 일정하다.",
       "answer": "O",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 13653,
+      "id": 28722,
       "statement": "공장 B의 한계비용은 공장 B의 로봇 생산량(Q ) 증가에 비례하 B 여 증가한다.",
       "answer": "O",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 13654,
+      "id": 28723,
       "statement": "F=1인 경우, 이 기업에서 로봇 3대를 생산하려면 공장 A에서 2대, 공장 B에서 1대를 생산하는 것이 비용극소화 측면에서 유리하다.",
       "answer": "O",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 13655,
+      "id": 28724,
       "statement": "F=10인 경우, 이 기업에서 로봇 3대를 생산하려면 공장 A에서 0대, 공장 B에서 3대를 생산하는 것이 비용극소화 측면에서 유리하다.",
       "answer": "O",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 13656,
+      "id": 28725,
       "statement": "비용극소화를 추구하는 이 기업이 로봇 3대를 생산한다고 할 때, 공장 A와 공장 B 모두에서 로봇을 생산하기 위해서는 F>4이어 야 한다. - 2026년도 8급 공개경쟁채용시험 경 제 학",
       "answer": "X",
       "explanation": "",
@@ -430,7 +430,7 @@
       "related_videos": []
     },
     {
-      "id": 13657,
+      "id": 28726,
       "statement": "실질임금의 경직성이 경제 전체의 신축성을 저하시키는 원인이 될 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -451,7 +451,7 @@
       "related_videos": []
     },
     {
-      "id": 13658,
+      "id": 28727,
       "statement": "사람들로 하여금 ‘스스로 실현하는 예측(self-fulfilling prophecy)’을 하게 하여 인플레이션을 촉발할 위험성이 있다.",
       "answer": "O",
       "explanation": "",
@@ -472,7 +472,7 @@
       "related_videos": []
     },
     {
-      "id": 13659,
+      "id": 28728,
       "statement": "다양한 물가지수 중 어떤 지수에 연동해야 하는지에 대한 선택의 문제가 발생한다.",
       "answer": "O",
       "explanation": "",
@@ -493,7 +493,7 @@
       "related_videos": []
     },
     {
-      "id": 13660,
+      "id": 28729,
       "statement": "물가상승에 대한 예방적 조치보다는 사후적 조치의 성격이 강하다.",
       "answer": "O",
       "explanation": "",
@@ -514,7 +514,7 @@
       "related_videos": []
     },
     {
-      "id": 13661,
+      "id": 28730,
       "statement": "생산성 하락으로 인한 경기침체가 발생할 경우, 실질임금의 조정을 통해 원래의 균형수준으로 회복할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -535,7 +535,7 @@
       "related_videos": []
     },
     {
-      "id": 13663,
+      "id": 28732,
       "statement": "15:1 - 2026년도 8급 공개경쟁채용시험 경 제 학",
       "answer": "X",
       "explanation": "",
@@ -556,7 +556,7 @@
       "related_videos": []
     },
     {
-      "id": 13664,
+      "id": 28733,
       "statement": "통화정책 변화로 명목환율 변동이 실물경제에 즉각 반영되지 않 았기 때문이다.",
       "answer": "X",
       "explanation": "",
@@ -577,7 +577,7 @@
       "related_videos": []
     },
     {
-      "id": 13665,
+      "id": 28734,
       "statement": "외환시장에서 달러 수요 증가가 일시적으로 완화되었기 때문이다.",
       "answer": "X",
       "explanation": "",
@@ -598,7 +598,7 @@
       "related_videos": []
     },
     {
-      "id": 13666,
+      "id": 28735,
       "statement": "해외로부터의 자본유입이 감소하여 환율 변동성이 확대되었기 때문이다.",
       "answer": "X",
       "explanation": "",
@@ -619,7 +619,7 @@
       "related_videos": []
     },
     {
-      "id": 13667,
+      "id": 28736,
       "statement": "경상수지 흑자가 축소되면서 외환시장의 불확실성이 커졌기 때문 이다.",
       "answer": "X",
       "explanation": "",
@@ -640,7 +640,7 @@
       "related_videos": []
     },
     {
-      "id": 13668,
+      "id": 28737,
       "statement": "국내 물가상승률이 해외 물가상승률을 상회하였기 때문이다. - 2026년도 8급 공개경쟁채용시험 경 제 학",
       "answer": "O",
       "explanation": "",
@@ -661,7 +661,7 @@
       "related_videos": []
     },
     {
-      "id": 13669,
+      "id": 28738,
       "statement": "A국은 모든 재화에 대해 B국보다 절대우위에 있다.",
       "answer": "X",
       "explanation": "",
@@ -682,7 +682,7 @@
       "related_videos": []
     },
     {
-      "id": 13670,
+      "id": 28739,
       "statement": "교역조건이 X재1개당 Y재1.5개일때, A국은교역의 이득이있다.",
       "answer": "O",
       "explanation": "",
@@ -703,7 +703,7 @@
       "related_videos": []
     },
     {
-      "id": 13671,
+      "id": 28740,
       "statement": "A국은 Y재 생산에 비교우위가 있다.",
       "answer": "X",
       "explanation": "",
@@ -724,7 +724,7 @@
       "related_videos": []
     },
     {
-      "id": 13672,
+      "id": 28741,
       "statement": "B국의 Y재 1개 생산에 대한 기회비용은 X재 2개이다. ",
       "answer": "X",
       "explanation": "",
@@ -745,7 +745,7 @@
       "related_videos": []
     },
     {
-      "id": 13673,
+      "id": 28742,
       "statement": "Y재 1개의 교역조건은 X재 개에서 2개 사이이다.   - 14 - 학 책형 가",
       "answer": "X",
       "explanation": "",
@@ -767,7 +767,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 36,
     "with_full_meta": 0,
     "source": "0gichul.com"

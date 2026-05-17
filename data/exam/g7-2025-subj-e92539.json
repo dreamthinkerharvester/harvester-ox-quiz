@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 9028,
+      "id": 36629,
       "statement": "토양 pH가 높은 알칼리성 토양에서 유효도는 낮다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 9029,
+      "id": 36630,
       "statement": "산성 토양에 석회를 시용하여 중화하면 유효도가 증가한다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 9030,
+      "id": 36631,
       "statement": "깁사이트(gibbsite)는 H PO -을 특이적으로 흡착하여 불용화 2 4 시킨다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 9031,
+      "id": 36632,
       "statement": "산화상태의 토양이 환원되면 철의 수산화물(goethite)에 결합된 인의 유효도가 점점 감소한다.",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 9032,
+      "id": 36633,
       "statement": "토양 콜로이드에 흡착된 교환성 양이온은 쉽게 용탈된다.",
       "answer": "X",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 9033,
+      "id": 36634,
       "statement": "중금속이온(Cd2+, Zn2+, Ni2+, Pb2+)을 흡착하여 오염확산을 방지한다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 9034,
+      "id": 36635,
       "statement": "비료로 시용한 K+과 NH +의 이동성은 급격하게 증가한다.",
       "answer": "X",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 9035,
+      "id": 36636,
       "statement": "산성토양의 pH를 높이기 위한 석회요구량은 양이온교환용량(CEC)이 낮을수록 증가한다. 토 양 학 책형 1쪽",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 9036,
+      "id": 36637,
       "statement": "근권을 확장하여 양분 흡수율이 증가한다.",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 9037,
+      "id": 36638,
       "statement": "Arbuscular mycorrhizae는 양분교환장소인 수지상체를 형성한다.",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 9038,
+      "id": 36639,
       "statement": "균사가 아주 작은 공극까지 침투하여 토양의 입단화를 억제한다.",
       "answer": "X",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 9039,
+      "id": 36640,
       "statement": "외생균근은 식물의 뿌리 피층에 침투하여 하티그망(hartig net)을 형성한다.",
       "answer": "O",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 9040,
+      "id": 36641,
       "statement": "화산회토는 산화작용으로 붉은색을 띤다.",
       "answer": "X",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 9041,
+      "id": 36642,
       "statement": "망간 함량이 높은 밭토양은 검은색을 띤다.",
       "answer": "X",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 9042,
+      "id": 36643,
       "statement": "건조한 토양은 과습한 토양에 비해 더 짙은 색을 띤다.",
       "answer": "X",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 9043,
+      "id": 36644,
       "statement": "배수가 불량한 지역의 토양은 회색과 청회색 계통의 색을 띤다.",
       "answer": "O",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 9044,
+      "id": 36645,
       "statement": "표면시비보다 심층시비를 통해 암모니아 휘산이 감소할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 9045,
+      "id": 36646,
       "statement": "토양용액 내 NH +은 토양 pH와 온도가 높을수록 휘산되는 4 양이 증가한다.",
       "answer": "O",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 9046,
+      "id": 36647,
       "statement": "NH +은 물에 잘 녹는 성질이 있으므로, 밭이나 과수원보다 논이나 4 습지에서 휘산되는 양이 감소한다.",
       "answer": "X",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 9047,
+      "id": 36648,
       "statement": "요소와 같은 무기질 질소비료뿐만 아니라 유박과 같은 유기질 질소비료의 시용에 의해서도 암모니아 휘산이 발생한다.",
       "answer": "O",
       "explanation": "",
@@ -430,7 +430,7 @@
       "related_videos": []
     },
     {
-      "id": 9048,
+      "id": 36649,
       "statement": "입단화로 통기성은 향상되지만 보수성은 억제된다.",
       "answer": "X",
       "explanation": "",
@@ -451,7 +451,7 @@
       "related_videos": []
     },
     {
-      "id": 9049,
+      "id": 36650,
       "statement": "입단이 잘 발달된 토양은 식물의 생육에 적합하다.",
       "answer": "O",
       "explanation": "",
@@ -472,7 +472,7 @@
       "related_videos": []
     },
     {
-      "id": 9050,
+      "id": 36651,
       "statement": "입단화가 진행된 토양에 Na+이 다량으로 공급되면 대공극이 감소한다.",
       "answer": "O",
       "explanation": "",
@@ -493,7 +493,7 @@
       "related_videos": []
     },
     {
-      "id": 9051,
+      "id": 36652,
       "statement": "토양의 여러 입자들이 유기물, 철산화물, 탄산염 등에 의하여 결합된 덩어리 형태를 입단이라 한다. 2025년도 국가공무원 7급 공채 제2차 필기시험",
       "answer": "O",
       "explanation": "",
@@ -514,7 +514,7 @@
       "related_videos": []
     },
     {
-      "id": 9056,
+      "id": 36657,
       "statement": "부식의 유입은 토양의 CEC를 감소시킨다.",
       "answer": "X",
       "explanation": "",
@@ -535,7 +535,7 @@
       "related_videos": []
     },
     {
-      "id": 9057,
+      "id": 36658,
       "statement": "리그닌 함량이 높을수록 분해속도가 빨라진다.",
       "answer": "X",
       "explanation": "",
@@ -556,7 +556,7 @@
       "related_videos": []
     },
     {
-      "id": 9058,
+      "id": 36659,
       "statement": "유기물이 분해될 때 생성되는 유기산은 양분의 유효도를 증가시킨다.",
       "answer": "O",
       "explanation": "",
@@ -577,7 +577,7 @@
       "related_videos": []
     },
     {
-      "id": 9059,
+      "id": 36660,
       "statement": "부식은 Al3+을 흡착하거나 킬레이트화합물을 형성하여 그 독성을 증대시킨다.",
       "answer": "X",
       "explanation": "",
@@ -598,7 +598,7 @@
       "related_videos": []
     },
     {
-      "id": 9060,
+      "id": 36661,
       "statement": "비소(As)는 AsO 3-이 AsO 3-보다 강한 독성을 나타낸다.",
       "answer": "O",
       "explanation": "",
@@ -619,7 +619,7 @@
       "related_videos": []
     },
     {
-      "id": 9061,
+      "id": 36662,
       "statement": "크롬(Cr)은 산화상태에서 Cr3+이 되어 독성이 강해진다.",
       "answer": "X",
       "explanation": "",
@@ -640,7 +640,7 @@
       "related_videos": []
     },
     {
-      "id": 9062,
+      "id": 36663,
       "statement": "중금속오염은 주로 광산폐기물의 유입으로부터 발생한다.",
       "answer": "O",
       "explanation": "",
@@ -661,7 +661,7 @@
       "related_videos": []
     },
     {
-      "id": 9063,
+      "id": 36664,
       "statement": "광산폐수와 함께 배출되는 철(Fe)은 산화되어 토양의 표면에 Yellow Boy 현상을 초래한다.",
       "answer": "O",
       "explanation": "",
@@ -682,7 +682,7 @@
       "related_videos": []
     },
     {
-      "id": 9064,
+      "id": 36665,
       "statement": "모세관 지름이 클수록 수면이 상승한다.",
       "answer": "X",
       "explanation": "",
@@ -703,7 +703,7 @@
       "related_videos": []
     },
     {
-      "id": 9065,
+      "id": 36666,
       "statement": "용액의 밀도에 반비례하여 수면이 상승한다.",
       "answer": "O",
       "explanation": "",
@@ -724,7 +724,7 @@
       "related_videos": []
     },
     {
-      "id": 9066,
+      "id": 36667,
       "statement": "메니스커스(meniscus) 밑의 압력이 낮을수록 수면이 상승한다.",
       "answer": "O",
       "explanation": "",
@@ -745,7 +745,7 @@
       "related_videos": []
     },
     {
-      "id": 9067,
+      "id": 36668,
       "statement": "물 표면의 부착력과 물 분자들 사이의 응집력 때문에 생기는 현상이다.",
       "answer": "O",
       "explanation": "",
@@ -766,7 +766,7 @@
       "related_videos": []
     },
     {
-      "id": 9068,
+      "id": 36669,
       "statement": "생물학적 질소고정은 nitrogenase에 의한 환원반응이다.",
       "answer": "O",
       "explanation": "",
@@ -787,7 +787,7 @@
       "related_videos": []
     },
     {
-      "id": 9069,
+      "id": 36670,
       "statement": "Azotobacter는 비콩과식물과 공생하는 대표적인 질소고정 세균이다.",
       "answer": "X",
       "explanation": "",
@@ -808,7 +808,7 @@
       "related_videos": []
     },
     {
-      "id": 9070,
+      "id": 36671,
       "statement": "불용성 질소유기화합물이 미생물에 의해 NH + 형태의 질소로 4 전환되는 과정이다.",
       "answer": "X",
       "explanation": "",
@@ -829,7 +829,7 @@
       "related_videos": []
     },
     {
-      "id": 9071,
+      "id": 36672,
       "statement": "토양 내 질소 유효도가 증가하면 콩과식물 뿌리혹 내 Rhizobium 속에 의한 질소고정은 촉진된다.",
       "answer": "X",
       "explanation": "",
@@ -850,7 +850,7 @@
       "related_videos": []
     },
     {
-      "id": 9072,
+      "id": 36673,
       "statement": "토양구조는 모양, 크기, 수분함량을 기준으로 분류한다.",
       "answer": "X",
       "explanation": "",
@@ -871,7 +871,7 @@
       "related_videos": []
     },
     {
-      "id": 9073,
+      "id": 36674,
       "statement": "판상구조는 토층을 수평방향으로 분리하는 힘에 의해 생성된다.",
       "answer": "O",
       "explanation": "",
@@ -892,7 +892,7 @@
       "related_videos": []
     },
     {
-      "id": 9074,
+      "id": 36675,
       "statement": "입상구조는 유기물의 결합작용으로 형성된 것으로 경운의 영향은 거의 없다.",
       "answer": "X",
       "explanation": "",
@@ -913,7 +913,7 @@
       "related_videos": []
     },
     {
-      "id": 9075,
+      "id": 36676,
       "statement": "토양구조는 토양집합체의 반복적인 수축과 팽창에 의해 형성되므로 식물의 뿌리와 미생물의 영향을 받지 않는다. 2025년도 국가공무원 7급 공채 제2차 필기시험",
       "answer": "X",
       "explanation": "",
@@ -934,7 +934,7 @@
       "related_videos": []
     },
     {
-      "id": 9076,
+      "id": 36677,
       "statement": "식물 생육 초기에 암모늄독성이 증가한다.",
       "answer": "X",
       "explanation": "",
@@ -955,7 +955,7 @@
       "related_videos": []
     },
     {
-      "id": 9077,
+      "id": 36678,
       "statement": "볏짚의 분해로 질소의 순 부동화 반응이 일어난다.",
       "answer": "O",
       "explanation": "",
@@ -976,7 +976,7 @@
       "related_videos": []
     },
     {
-      "id": 9078,
+      "id": 36679,
       "statement": "작물 재배에 필요한 요소 비료의 요구량이 감소한다.",
       "answer": "X",
       "explanation": "",
@@ -997,7 +997,7 @@
       "related_videos": []
     },
     {
-      "id": 9079,
+      "id": 36680,
       "statement": "토양의 암모늄태 질소의 농도는 증가하지만, 질산태 질소의 농도는 감소한다. 토 양 학 책형 3쪽",
       "answer": "X",
       "explanation": "",
@@ -1018,7 +1018,7 @@
       "related_videos": []
     },
     {
-      "id": 9083,
+      "id": 36684,
       "statement": "중질유－soil vapor extraction",
       "answer": "X",
       "explanation": "",
@@ -1039,7 +1039,7 @@
       "related_videos": []
     },
     {
-      "id": 9084,
+      "id": 36685,
       "statement": "감자의 더뎅이병은 방선균에 의한 것이다.",
       "answer": "O",
       "explanation": "",
@@ -1060,7 +1060,7 @@
       "related_videos": []
     },
     {
-      "id": 9085,
+      "id": 36686,
       "statement": "토양에서 흙냄새가 나는 것은 방선균이 분비하는 물질에 의한 것이다.",
       "answer": "O",
       "explanation": "",
@@ -1081,7 +1081,7 @@
       "related_videos": []
     },
     {
-      "id": 9086,
+      "id": 36687,
       "statement": "물에 녹지 않는 점착 물질을 분비하여 토양의 내수성 입단 형성에 기여한다.",
       "answer": "O",
       "explanation": "",
@@ -1102,7 +1102,7 @@
       "related_videos": []
     },
     {
-      "id": 9087,
+      "id": 36688,
       "statement": "주로 pH5.0 이하에서 cellulose, hemicellulose, keratin 등의 난분해성 물질을 분해한다.",
       "answer": "X",
       "explanation": "",
@@ -1123,7 +1123,7 @@
       "related_videos": []
     },
     {
-      "id": 9088,
+      "id": 36689,
       "statement": "흑갈색의 고분자물질이다.",
       "answer": "O",
       "explanation": "",
@@ -1144,7 +1144,7 @@
       "related_videos": []
     },
     {
-      "id": 9089,
+      "id": 36690,
       "statement": "Na+ 등 1가 양이온과는 가용성 염을 형성한다.",
       "answer": "O",
       "explanation": "",
@@ -1165,7 +1165,7 @@
       "related_videos": []
     },
     {
-      "id": 9090,
+      "id": 36691,
       "statement": "산성 및 알칼리성 용액에 대하여 모두 가용성을 띤다.",
       "answer": "X",
       "explanation": "",
@@ -1186,7 +1186,7 @@
       "related_videos": []
     },
     {
-      "id": 9091,
+      "id": 36692,
       "statement": "Ca2+, Mg2+, Fe3+ 등 다가 양이온과는 난용성 염을 형성한다.",
       "answer": "O",
       "explanation": "",
@@ -1208,7 +1208,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 57,
     "with_full_meta": 0,
     "source": "0gichul.com"

@@ -1,0 +1,769 @@
+{
+  "slug": "g5-2024-subj-527138",
+  "name": "자료해석",
+  "exam_group": "국가직 5급 · 2024년",
+  "subject": "자료해석",
+  "phase": null,
+  "source": "국가직 5급",
+  "exam_year": 2024,
+  "exam_round": null,
+  "count": 63,
+  "questions": [
+    {
+      "id": 43823,
+      "question": "여행객 1명당 여행지출액 여행지출액 ※ 여행객 1명당 여행지출액(만 원/명)＝ 전체 여행객 총계 자료해석영역 책형 4쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43824,
+      "question": "전체 개별여행객 중 ‘사업’ 목적 개별여행객 비율 및 전체 단체여행객 중 ‘사업’ 목적 단체여행객 비율 (단위: %) 연도 2019 2020 2021 2022 2023 구분 개별여행 44 38 31 31 23 단체여행 4 5 3 2 3",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43827,
+      "question": "전체 여행객 중 여행횟수가 3회 이하인 여행객 비율 2024년도 국가공무원 5급 공채 등 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43828,
+      "question": "2018～2022년 전체 친환경차 등록대수는 매년 30% 이상 증가하였다. 친환경차의 유형별로 살펴보면, 2018년 대비 2022년에 등록대수가 가장 많이 증가한 친환경차 유형은 ‘하이브리드차’였으나,",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43829,
+      "question": "2018년 대비 2022년 등록대수의 증가율이 가장 높은 친환경차 유형은 ‘수소차’였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43830,
+      "question": "친환경차 수출대수는 2018년 195,361대에서 매년 증가하여 2022년에는 553,722대가 되었다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43831,
+      "question": "2018～2022년 친환경차 유형별 수출대수는 ‘전기차’와 ‘수소차’만 매년 증가하였다. 세계 친환경차 시장에서 우리나라의 수출 순위는 2019년 수출액 기준 ‘하이브리드차’ 6위, ‘플러그인 하이브리드차’ 5위, ‘전기차’ 4위로 나타났다. 이는 우리나라가 세계 친환경차 시장에서 경쟁력을 확보하고 있음을 보여준다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43832,
+      "question": "2019년 ‘하이브리드차’, ‘플러그인 하이브리드차’, ‘전기차’ 각각의 수출액 상위 10개 수출국에 모두 들어가는 국가는 한국을 포함하여 5개국이었다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43833,
+      "question": "보수총액이 많은 임원일수록 상여도 많다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43834,
+      "question": "‘마’사업부 임원의 보수총액 합에서 급여 합이 차지하는 비중은 60% 미만이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43835,
+      "question": "임원 1인당 보수총액이 가장 적은 사업부는 임원 1인당 급여도 가장 적다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43836,
+      "question": "보수총액에서 상여가 차지하는 비중이 가장 큰 임원은 B이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43837,
+      "question": "미등기 임원의 급여 합은 등기 임원의 급여 합보다 많다. 2024년도 국가공무원 5급 공채 등 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43838,
+      "question": "‘5인 이상’을 제외하고, 1995년 대비 2020년 가구원수별 농가수 증감률은 ‘2인’이 가장 작다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43839,
+      "question": "매 조사연도에서 ‘3인’ 농가수는 그 외 농가수 합의 25% 이하이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43840,
+      "question": "2000년 전체 농가 가구원수는 2020년 전체 농가 가구원수의 2배 이상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43841,
+      "question": "2020년 전체 농가수 중 경영주 연령대가 40대 이하인 농가수가 차지하는 비중은 10% 이하이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43842,
+      "question": "경영주 연령대가 30대 이하인 농가수는 1995년 대비 2020년에 95% 이상 감소하였다. 자료해석영역 책형 7쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43843,
+      "question": "철거가 가능한 빈집은 3개이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43844,
+      "question": "‘가’, ‘바’, ‘사’ 구역의 빈집은 철거가 가능하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43845,
+      "question": "‘다’ 구역의 빈집은 활용이 불가능하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43846,
+      "question": "활용이 가능한 빈집은 4개이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43847,
+      "question": "‘마’ 구역의 빈집은 철거가 가능하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43848,
+      "question": "7～12월 전력판매 단가는 ‘농사’가 매월 가장 낮고, ‘일반’이 매월 가장 높다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43849,
+      "question": "2월 ‘심야’ 전력판매 단가는 2월 ‘주택’ 전력판매 단가의 60% 이상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43850,
+      "question": "전력판매 단가의 전월 대비 증가율은 11월 ‘교육’이 4월 ‘가로등’의 2배 이상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43851,
+      "question": "전력판매 단가는 매월 ‘주택’이 ‘농사’의 1.5배 이상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43852,
+      "question": "7～12월 ‘교육’ 전력판매 단가와 ‘산업’ 전력판매 단가의 전월 대비 증감 방향은 동일하다. 2024년도 국가공무원 5급 공채 등 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43853,
+      "question": "유효무수율이 가장 낮은 도시는 누수율이 가장 높다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43854,
+      "question": "유수율이 가장 낮은 도시의 부정사용률은 유수율이 세 번째로 높은 도시의 부정사용률보다 높다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43855,
+      "question": "무수율과 부정사용률의 차이가 가장 큰 도시는 G이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43856,
+      "question": "계량기 불감수율이 가장 높은 도시는 유효무수율도 가장 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43857,
+      "question": "부정사용률이 가장 높은 도시는 무수율도 가장 높다. 자료해석영역 책형 10쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43858,
+      "question": "수상작품 수가 50개 미만인 공모전은 상금총액이 많을수록 수상작품 수도 많다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43859,
+      "question": "수상률이 가장 높은 공모전은 ‘문화 다양성’이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43860,
+      "question": "공모전 전체 상금총액 중 ‘평화통일’ 상금총액이 차지하는 비중은 25% 이상이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43861,
+      "question": "상금총액 대비 응모작품 수 비율이 두 번째로 높은 공모전의 수상작품 수는 20개 이상이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43862,
+      "question": "수상률 하위 2개 공모전의 상금총액 합은 6,000만 원 이하이다. 2024년도 국가공무원 5급 공채 등 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43863,
+      "question": "우럭 소매단가의 전월 대비 감소율이 가장 큰 달과 광어 소매단가의 전월 대비 감소율이 가장 큰 달은 같다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 32,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43864,
+      "question": "3개 어종 어획량의 합은 매월 증가하였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 32,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43865,
+      "question": "조업선박 1척당 3개 어종 어획량의 합은 3월과 비교해 6월에 20% 이상 감소하였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 32,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43866,
+      "question": "우럭의 도매단가 대비 소매단가 비율은 매월 증가하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 32,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43867,
+      "question": "고등어 어획량은 우럭과 광어의 어획량 합보다 매월 많다. 자료해석영역 책형 16쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 32,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43868,
+      "question": "2018년 소득은 전년 대비 25% 이상 증가하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43869,
+      "question": "2016년부터 2021년까지 소득은 매년 증가하였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43870,
+      "question": "2017년 대비 2021년 경영비 증가율은 20% 이상이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43871,
+      "question": "2020년 총수입과 경영비의 전년 대비 증감 방향은 동일하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43872,
+      "question": "총수입의 전년 대비 증가율이 가장 낮은 해와 소득의 전년 대비 감소폭이 가장 큰 해는 같다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43873,
+      "question": "1,001～2,000권의 장서를 보유한 병영도서관 수는 2,001～3,000권의 장서를 보유한 병영도서관 수보다 많다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43874,
+      "question": "육군 이외 모든 국군 병영도서관 수의 합은 2,001권 이상의 장서를 보유한 육군 병영도서관 수의 70% 이하이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43875,
+      "question": "해군 병영도서관 중 장서 보유량 상위 50개소의 장서 보유량 합이 20만 권이라면, 해군 병영도서관당 장서 보유량은 2,000권 이상이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43876,
+      "question": "공군 병영도서관의 장서 보유량 합은 30만 권 이상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43877,
+      "question": "국직 병영도서관의 장서 보유량 합이 21만 권이라면, 5,300권 이상의 장서를 보유한 국직 병영도서관은 1개소 이상이다. 자료해석영역 책형 17쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43878,
+      "question": "직업학교 A～E의 전체 지원자 수의 합이 가장 많은 연도는 2020년이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 36,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43879,
+      "question": "2020년 전체 지원자 수 대비 2023년 전체 지원자 수 비율이 가장 낮은 직업학교는 D이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 36,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43880,
+      "question": "직업학교 E에서 성별 모집정원 대비 지원자 수 비율이 가장 낮은 연도는 남성과 여성이 동일하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 36,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43881,
+      "question": "직업학교 A는 남성 지원자 수의 전년 대비 증감률이 가장 큰 연도에 여성 지원자 수의 전년 대비 증감률도 가장 크다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 36,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43882,
+      "question": "직업학교 B에서 여성 모집정원 대비 여성 지원자 수 비율이 가장 낮은 연도와 직업학교 C에서 여성 모집정원 대비 여성 지원자 수 비율이 가장 높은 연도는 동일하다. 2024년도 국가공무원 5급 공채 등 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 36,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43883,
+      "question": "‘상’등급에 해당하는 학생 수는 1학기가 2학기보다 많다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43884,
+      "question": "1학기와 2학기의 점수 차이가 가장 큰 학생은 H이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43885,
+      "question": "학생 E의 2학기 등급은 ‘중’이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43886,
+      "question": "‘하’등급의 평균점수는 1학기가 2학기보다 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 43887,
+      "question": "학생 A～J는 모두 1학기 점수가 2학기 점수보다 높다. 2024년도 국가공무원 5급 공채 등 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

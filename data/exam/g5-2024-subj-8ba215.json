@@ -1,0 +1,649 @@
+{
+  "category": {
+    "slug": "g5-2024-subj-8ba215",
+    "name": "언어논리",
+    "exam_group": "국가직 5급 · 2024년",
+    "subject": "언어논리",
+    "phase": null,
+    "exam_year": 2024,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 43793,
+      "statement": "부모로부터 획득한 유전적 요인에 따라 사회적 성취의 질적 수준이 결정된다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 7,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43794,
+      "statement": "뇌 기관 발달을 촉진함으로써 저소득층 아이들이 유전적 자질의 차이를 극복할 수 있도록 해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 7,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43795,
+      "statement": "학습 능력의 차이는 사회경제적 환경과 밀접하게 관련되어 있으며, 이는 소득 불평등으로 이어질 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 7,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43796,
+      "statement": "소득 불평등의 문제는 학습 과정을 담당하는 뇌 기관 발달의 정도와 가구의 소득수준이 반비례하기 때문에 생겨난다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 7,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43797,
+      "statement": "소득 불평등의 문제는 개인의 능력 차이로 생겨난 결과여서 이를 해결하기 위한 제도적 장치의 효용은 제한적이다. 언어논리영역 책형 4쪽",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 7,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43798,
+      "statement": "㉠을 “평생 나의 직을 무엇으로 삼을지 진지하게 고민하겠다”로 수정한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 8,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43799,
+      "statement": "㉡을 “점유하고 있는 직장 내 영향력과 그것이 미치는 범위를 뜻한다”로 수정한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 8,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43800,
+      "statement": "㉢을 “평생을 두고 다른 사람과의 경쟁에서 이길 수 있는 역량을 뜻한다”로 수정한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 8,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43801,
+      "statement": "㉣을 “무엇을 해야 하는지가 아니라 어떤 자리에서 일을 더 잘할 수 있는지”로 수정한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 8,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43802,
+      "statement": "㉤을 “자신의 업을 파악하지 못한다면”으로 수정한다. 2024년도 국가공무원 5급 공채 등 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 8,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43803,
+      "statement": "무모한 의사결정을 내렸지만 운이 좋아 성공한 사람들은 비판받아야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 10,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43804,
+      "statement": "의사결정의 질을 평가할 때는 결과뿐만 아니라 과정의 정당성을 고려해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 10,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43805,
+      "statement": "타인을 대신하여 합리적 의사결정을 하는 사람들에 대한 평가에서 그 의사결정의 결과를 고려해서는 안 된다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 10,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43806,
+      "statement": "의사결정자들은 의사결정 과정에서 위험을 회피하는 선택을 하여 사회 전체의 위험을 감소시켜야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 10,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43807,
+      "statement": "이해관계자들 간 갈등을 완화시킴으로써 사후확신 편향을 극복할 수 있어야 한다. 2024년도 국가공무원 5급 공채 등 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 10,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43808,
+      "statement": "질소 원자의 선 스펙트럼에는 빨강과 녹색 선은 전혀 안 나타나지 않는가",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 12,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43809,
+      "statement": "수증기나 이산화탄소를 제거한 공기 중에 비활성의 기체가 남아 있을 수도 있는 것 아닌가",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 12,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43810,
+      "statement": "암모니아를 뜨거운 구리로 가열하여 만들어지는 질소에 아르곤이 섞여 있을 수도 있지 않겠는가",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 12,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43811,
+      "statement": "화학적으로 얻은 질소의 원료가 되는 암모니아 속에 수소가 더 많이 포함되어 있었을 수도 있지 않는가",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 12,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43812,
+      "statement": "공기 중에서 마그네슘을 가열하여 질소산화물을 만들 때, 기존에 알려진 원소로 구성된 새로운 물질이 형성될 수도 있지 않는가 2024년도 국가공무원 5급 공채 등 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 12,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43813,
+      "statement": "㉠을 “세포의 탄생이나 분열에 비해 드문 현상”으로 수정한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 27,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43814,
+      "statement": "㉡을 “세포들, 때로는 세포 대부분을 발생시키는 작업”으로 수정한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 27,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43815,
+      "statement": "㉢을 “덧붙임과 덜어냄, 두 가지 모두에 초점을 맞춘다”로 수정한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 27,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43816,
+      "statement": "㉣을 “물과 당분은 속이 꽉 들어찬 관을 통해”로 수정한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 27,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43817,
+      "statement": "㉤을 “이 세포들이 재생됨으로써”로 수정한다. 언어논리영역 책형 14쪽",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 27,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43818,
+      "statement": "환자가 신체 일부의 움직임을 현상적으로 경험하는가를 확인할 방법이 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 28,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43819,
+      "statement": "운동피질은 자신의 몸 움직임을 현상적으로 경험하지 않아도 활성화될 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 28,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43820,
+      "statement": "운동피질은 언어 능력과 같은 상위 인지적 기능이 있어야만 활성화될 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 28,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43821,
+      "statement": "자신의 신체 일부의 움직임을 현상적으로 경험하지 못하는 환자에게는 상위 인지적 기능도 없다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 28,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 43822,
+      "statement": "운동피질의 활성화 여부는 정상에 가까운 의식을 회복할 가능성을 추정하는 지표이다. 2024년도 국가공무원 5급 공채 등 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "언어논리(나).pdf",
+      "source": {
+        "qid": 28,
+        "option": "⑤"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T06:56:06+00:00",
+    "total": 30,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

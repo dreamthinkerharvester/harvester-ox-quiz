@@ -10,7 +10,7 @@
   "count": 23,
   "questions": [
     {
-      "id": 4041,
+      "id": 37547,
       "question": "산화수는 정수로만 표현된다.",
       "answer": "X",
       "explanation": "",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": 4042,
+      "id": 37548,
       "question": "중성 분자에서 원자들의 산화수 합은 0이다.",
       "answer": "O",
       "explanation": "",
@@ -34,7 +34,7 @@
       }
     },
     {
-      "id": 4043,
+      "id": 37549,
       "question": "이온 화합물에서 원자들의 산화수 합은 이온 화합물의 전하량과 같다.",
       "answer": "O",
       "explanation": "",
@@ -46,7 +46,7 @@
       }
     },
     {
-      "id": 4044,
+      "id": 37550,
       "question": "산화수를 이용하여 물질을 구성하는 성분 원소의 산화 또는 환원 정도를 비교할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -58,7 +58,7 @@
       }
     },
     {
-      "id": 4045,
+      "id": 37551,
       "question": "계면활성제는 친수성 작용기만으로 이루어져 있다.",
       "answer": "X",
       "explanation": "",
@@ -70,7 +70,7 @@
       }
     },
     {
-      "id": 4046,
+      "id": 37552,
       "question": "물에 음이온성 계면활성제를 혼합하면 적시는 능력(wetting power)이 증가한다.",
       "answer": "O",
       "explanation": "",
@@ -82,7 +82,7 @@
       }
     },
     {
-      "id": 4047,
+      "id": 37553,
       "question": "음이온성 계면활성제 수용액 내 형성된 구형 마이셀에서 탄소 사슬의 친수성 말단은 중심을 향하고 있다.",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       }
     },
     {
-      "id": 4048,
+      "id": 37554,
       "question": "임계 마이셀 농도(critical micelle concentration) 이상에서 계면활성제 농도가 증가할수록 표면장력은 증가한다.",
       "answer": "X",
       "explanation": "",
@@ -106,7 +106,7 @@
       }
     },
     {
-      "id": 4049,
+      "id": 37555,
       "question": "비료의 3요소는 인, 질소, 칼륨이다.",
       "answer": "O",
       "explanation": "",
@@ -118,7 +118,7 @@
       }
     },
     {
-      "id": 4050,
+      "id": 37556,
       "question": "배합비료는 비료 성분을 단순 혼합한 것이다.",
       "answer": "O",
       "explanation": "",
@@ -130,7 +130,7 @@
       }
     },
     {
-      "id": 4051,
+      "id": 37557,
       "question": "화성비료는 화학반응을 통해 제조할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -142,7 +142,7 @@
       }
     },
     {
-      "id": 4052,
+      "id": 37558,
       "question": "비료의 3요소 성분의 함량이 50% 미만인 것은 저도화성비료로, 50% 이상인 것은 고도화성비료로 구분한다.",
       "answer": "X",
       "explanation": "",
@@ -154,7 +154,7 @@
       }
     },
     {
-      "id": 4053,
+      "id": 37559,
       "question": "파이프, 필름 제조에 사용될 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -166,7 +166,7 @@
       }
     },
     {
-      "id": 4054,
+      "id": 37560,
       "question": "라디칼 중합법으로 합성될 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -178,7 +178,7 @@
       }
     },
     {
-      "id": 4055,
+      "id": 37561,
       "question": "용도에 맞게 가소제를 혼합하여 가공할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -190,7 +190,7 @@
       }
     },
     {
-      "id": 4056,
+      "id": 37562,
       "question": "질소비료로 사용될 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -202,7 +202,7 @@
       }
     },
     {
-      "id": 4057,
+      "id": 37563,
       "question": "카프로락탐 제조 공정에서 얻을 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -214,7 +214,7 @@
       }
     },
     {
-      "id": 4058,
+      "id": 37564,
       "question": "황산과 암모니아를 반응시켜 얻을 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -226,7 +226,7 @@
       }
     },
     {
-      "id": 4059,
+      "id": 37565,
       "question": "암모니아 소다법(Solvay process)에서 얻을 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -238,7 +238,7 @@
       }
     },
     {
-      "id": 4060,
+      "id": 37566,
       "question": "O-alkylation 반응을 통해 에터(ether) 화합물을 합성할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -250,7 +250,7 @@
       }
     },
     {
-      "id": 4061,
+      "id": 37567,
       "question": "C-alkylation 반응은 탄소 원자를 알킬기로 치환시키는 반응이다.",
       "answer": "X",
       "explanation": "",
@@ -262,7 +262,7 @@
       }
     },
     {
-      "id": 4062,
+      "id": 37568,
       "question": "C-alkylation 반응은 가솔린의 옥탄가를 높이는 데 활용될 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -274,7 +274,7 @@
       }
     },
     {
-      "id": 4063,
+      "id": 37569,
       "question": "N-alkylation 반응을 통해 아민기의 수소 원자를 알킬기로 치환 시킬 수 있다.",
       "answer": "O",
       "explanation": "",

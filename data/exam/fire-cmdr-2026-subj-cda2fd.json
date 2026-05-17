@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 20167,
+      "id": 29536,
       "statement": " 이 일정하면  은 저항 의 크기에 반비례한다.  ",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 20168,
+      "id": 29537,
       "statement": "의 주파수가 배가 되면, 의 위상이 달라 진다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 20169,
+      "id": 29538,
       "statement": "인덕터 의 값이 배가 되고 커패시터 의 값이 배가 되면, 의 위상은 달라지지 않는다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 20170,
+      "id": 29539,
       "statement": " 이 바뀌어도 의 위상은 달라지지 않는다. ",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 20171,
+      "id": 29540,
       "statement": "주파수가 일정하면 커패시터 의 서셉턴스  와  인덕터 의 서셉턴스  은 같다.  자연계열 22 /",
       "answer": "X",
       "explanation": "",
@@ -116,7 +116,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 5,
     "with_full_meta": 0,
     "source": "0gichul.com"

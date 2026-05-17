@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 5807,
+      "id": 39313,
       "statement": "1단계는 일분자 반응이고, 2단계는 이분자 반응이다.",
       "answer": "X",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 5808,
+      "id": 39314,
       "statement": "실험으로 측정한 전체반응의 속도법칙이 속도＝ NO 라면  속도결정단계는 1단계이다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 5811,
+      "id": 39317,
       "statement": "HNO 의 짝염기는 H O이다.  ",
       "answer": "X",
       "explanation": "",
@@ -74,7 +74,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 3,
     "with_full_meta": 0,
     "source": "0gichul.com"

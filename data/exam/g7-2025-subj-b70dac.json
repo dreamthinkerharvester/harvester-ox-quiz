@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 8492,
+      "id": 36093,
       "statement": "C점의 전단력은 0이다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 8493,
+      "id": 36094,
       "statement": "D점의 전단력은 16kN이다.",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 8494,
+      "id": 36095,
       "statement": "C점의 휨모멘트는 16kNㆍm이다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 8495,
+      "id": 36096,
       "statement": "D점의 휨모멘트는 16kNㆍm이다.",
       "answer": "O",
       "explanation": "",
@@ -95,7 +95,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 4,
     "with_full_meta": 0,
     "source": "0gichul.com"

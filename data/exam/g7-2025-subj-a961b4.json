@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 8425,
+      "id": 36026,
       "statement": "입력: 외부에서 제공되는 자료가 0개 이상이어야 한다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 8426,
+      "id": 36027,
       "statement": "출력: 적어도 1개 이상의 결과를 만들어야 한다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 8427,
+      "id": 36028,
       "statement": "명확성: 명령어들은 현재 실행 가능한 연산이어야 한다.",
       "answer": "X",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 8428,
+      "id": 36029,
       "statement": "유한성: 한정된 수의 단계 후에는 반드시 종료되어야 한다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 8429,
+      "id": 36030,
       "statement": "알고리즘의 수행 시간을 대략적으로 나타내는 방법이다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 8430,
+      "id": 36031,
       "statement": "O(Big-oh) 표기는 최소한의 알고리즘 수행 시간을 나타내기 위해 사용한다.",
       "answer": "X",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 8431,
+      "id": 36032,
       "statement": "n개 정수 배열에 대한 순차 탐색 알고리즘은 O(1) 시간 복잡도를 가진다.",
       "answer": "X",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 8432,
+      "id": 36033,
       "statement": "증가 함수 는 O으로 표기할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 8436,
+      "id": 36037,
       "statement": "기수 정렬(radix sort) 알고리즘 책형 1쪽",
       "answer": "X",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 8437,
+      "id": 36038,
       "statement": "알고리즘의 수행에 따른 노드의 방문 순서는 1→2→5→9→ 8→4→7→6→3이다.",
       "answer": "X",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 8438,
+      "id": 36039,
       "statement": "너비 우선 탐색(BFS, Breadth First Search) 알고리즘이다.",
       "answer": "O",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 8439,
+      "id": 36040,
       "statement": "시작 정점으로부터 가까운 정점들을 먼저 방문하고 멀리 떨어져 있는 정점들을 나중에 방문하는 탐색방법이다.",
       "answer": "O",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 8440,
+      "id": 36041,
       "statement": "알고리즘은 그래프의 모든 정점을 방문한다.",
       "answer": "O",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 8441,
+      "id": 36042,
       "statement": "코드 수행 완료 후, A[0]에는 가장 큰 원소가 저장되어 있다.",
       "answer": "O",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 8442,
+      "id": 36043,
       "statement": "코드 수행 완료 후, 배열 A의 원소는 오름차순으로 정렬되어 있다.",
       "answer": "X",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 8443,
+      "id": 36044,
       "statement": "최선의 경우와 최악의 경우의 수행 시간 복잡도가 다르다.",
       "answer": "X",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 8444,
+      "id": 36045,
       "statement": "코드는 삽입 정렬(insertion sort)을 구현한 것이다.",
       "answer": "X",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 8445,
+      "id": 36046,
       "statement": "2-way 합병 정렬의 분할은 분할 대상을 반으로 나눈다.",
       "answer": "O",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 8446,
+      "id": 36047,
       "statement": "퀵정렬(quick sort)의 분할은 분할 대상에 대하여 피봇(pivot)을 기준으로 나눈다.",
       "answer": "O",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 8447,
+      "id": 36048,
       "statement": "합병 정렬과 다르게 퀵정렬에서는 모든 분할이 완료되면 정렬도 완료된다.",
       "answer": "O",
       "explanation": "",
@@ -430,7 +430,7 @@
       "related_videos": []
     },
     {
-      "id": 8448,
+      "id": 36049,
       "statement": "합병 정렬은 추가 데이터 저장공간이 필요 없는 제자리 정렬 알고리즘이다.",
       "answer": "X",
       "explanation": "",
@@ -451,7 +451,7 @@
       "related_videos": []
     },
     {
-      "id": 8451,
+      "id": 36052,
       "statement": "후위 순회(postorder traversal) 알고리즘",
       "answer": "X",
       "explanation": "",
@@ -472,7 +472,7 @@
       "related_videos": []
     },
     {
-      "id": 8455,
+      "id": 36056,
       "statement": "min(D[v], D[w]＋A[w][v]) 2025년도 국가공무원 7급 공채 제2차 필기시험",
       "answer": "O",
       "explanation": "",
@@ -493,7 +493,7 @@
       "related_videos": []
     },
     {
-      "id": 8456,
+      "id": 36057,
       "statement": "KMP 알고리즘은 패턴 문자열의 첫 문자부터 순차적으로 대상 문자열과 부분 문자열의 일치 여부를 판단한다.",
       "answer": "O",
       "explanation": "",
@@ -514,7 +514,7 @@
       "related_videos": []
     },
     {
-      "id": 8457,
+      "id": 36058,
       "statement": "KMP 알고리즘은 패턴 문자열과 대상 문자열을 한 차례 비교한 후 얻을 수 있는 추가 정보로 비교 횟수를 감소시킨다.",
       "answer": "O",
       "explanation": "",
@@ -535,7 +535,7 @@
       "related_videos": []
     },
     {
-      "id": 8458,
+      "id": 36059,
       "statement": "보이어－무어 알고리즘은 패턴 문자열의 마지막 문자부터 역순으로 대상 문자열과 부분 문자열의 일치 여부를 판단한다.",
       "answer": "O",
       "explanation": "",
@@ -556,7 +556,7 @@
       "related_videos": []
     },
     {
-      "id": 8459,
+      "id": 36060,
       "statement": "보이어－무어 알고리즘은 전처리(preprocessing) 과정 없이 곧바로 일치 여부를 판단할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -577,7 +577,7 @@
       "related_videos": []
     },
     {
-      "id": 8460,
+      "id": 36061,
       "statement": "   min      if ≤≤       if",
       "answer": "O",
       "explanation": "",
@@ -598,7 +598,7 @@
       "related_videos": []
     },
     {
-      "id": 8461,
+      "id": 36062,
       "statement": "   min      if ≤≤       if",
       "answer": "X",
       "explanation": "",
@@ -619,7 +619,7 @@
       "related_videos": []
     },
     {
-      "id": 8462,
+      "id": 36063,
       "statement": "   min      if ≤≤       if",
       "answer": "X",
       "explanation": "",
@@ -640,7 +640,7 @@
       "related_videos": []
     },
     {
-      "id": 8463,
+      "id": 36064,
       "statement": "   min      if ≤≤     ",
       "answer": "X",
       "explanation": "",
@@ -661,7 +661,7 @@
       "related_videos": []
     },
     {
-      "id": 8464,
+      "id": 36065,
       "statement": "0－1 배낭 문제와 분할 가능 배낭 문제는 다항식 시간(polynomial- time) 문제이다.",
       "answer": "X",
       "explanation": "",
@@ -682,7 +682,7 @@
       "related_videos": []
     },
     {
-      "id": 8465,
+      "id": 36066,
       "statement": "분할 가능 배낭 문제는 최적 부분 구조를 갖지만, 0－1 배낭 문제는 그렇지 않다.",
       "answer": "X",
       "explanation": "",
@@ -703,7 +703,7 @@
       "related_videos": []
     },
     {
-      "id": 8466,
+      "id": 36067,
       "statement": "0－1 배낭 문제는 물건을 나눌 수 없어서 그리디(greedy) 알고리즘을 적용하여 해결할 수 있으며, 분할 가능 배낭 문제는 물건을 나눌 수 있어 동적 프로그래밍으로 해결해야 한다.",
       "answer": "X",
       "explanation": "",
@@ -724,7 +724,7 @@
       "related_videos": []
     },
     {
-      "id": 8467,
+      "id": 36068,
       "statement": "분할 가능 배낭 문제는 ‘단위 무게당 가치가 가장 높은 물건을 선택’하는 방식이 항상 최적해를 보장하지만, 0－1 배낭 문제는 그렇지 않다.",
       "answer": "O",
       "explanation": "",
@@ -745,7 +745,7 @@
       "related_videos": []
     },
     {
-      "id": 8468,
+      "id": 36069,
       "statement": "크루스칼의 최소 신장 트리 알고리즘은 가중치가 가장 작으면서 사이클을 만들지 않는 간선을 추가하여 트리를 구성한다.",
       "answer": "O",
       "explanation": "",
@@ -766,7 +766,7 @@
       "related_videos": []
     },
     {
-      "id": 8469,
+      "id": 36070,
       "statement": "프림(Prim)의 최소 신장 트리 알고리즘은 현재까지 만들어진 트리에 최소 가중치로 연결되는 정점을 트리에 추가한다.",
       "answer": "O",
       "explanation": "",
@@ -787,7 +787,7 @@
       "related_videos": []
     },
     {
-      "id": 8470,
+      "id": 36071,
       "statement": "허프만(Huffman) 압축에서 파일에 빈번히 나타나는 문자는 긴 이진코드를 할당하고, 드물게 나타나는 문자는 짧은 이진코드를 할당한다.",
       "answer": "X",
       "explanation": "",
@@ -808,7 +808,7 @@
       "related_videos": []
     },
     {
-      "id": 8471,
+      "id": 36072,
       "statement": "벨만－포드(Bellman-Ford)의 최단 경로 알고리즘은 음의 가중치를 갖는 간선이 존재하는 상황에서도 단일 출발점 최단 경로 문제를 해결하는 알고리즘이다.",
       "answer": "O",
       "explanation": "",
@@ -830,7 +830,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 39,
     "with_full_meta": 0,
     "source": "0gichul.com"

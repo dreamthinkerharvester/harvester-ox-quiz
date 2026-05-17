@@ -10,7 +10,7 @@
   "count": 4,
   "questions": [
     {
-      "id": 10312,
+      "id": 42699,
       "question": "선전류는 [A]이다.",
       "answer": "O",
       "explanation": "",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": 10313,
+      "id": 42700,
       "question": "선간전압은   [V]이다.",
       "answer": "O",
       "explanation": "",
@@ -34,7 +34,7 @@
       }
     },
     {
-      "id": 10314,
+      "id": 42701,
       "question": "역률은 [%]이다.",
       "answer": "O",
       "explanation": "",
@@ -46,7 +46,7 @@
       }
     },
     {
-      "id": 10315,
+      "id": 42702,
       "question": "무효전력은 [kVAR]이다. 2025년도 지방공무원 9급 등 경력경쟁임용 필기시험",
       "answer": "X",
       "explanation": "",

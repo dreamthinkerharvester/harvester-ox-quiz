@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 2208,
+      "id": 26660,
       "statement": "배제성과 경합성이 있다.",
       "answer": "X",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 2209,
+      "id": 26661,
       "statement": "배제성은 있으나 경합성이 없다.",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 2210,
+      "id": 26662,
       "statement": "배제성은 없으나 경합성이 있다.",
       "answer": "X",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 2211,
+      "id": 26663,
       "statement": "배제성도 없고 경합성도 없다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 2214,
+      "id": 26666,
       "statement": "노동시장에서 가격통제 시 실업자가 늘어날 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 2215,
+      "id": 26667,
       "statement": "노동시장에서 가격통제 시 이미 고용된 숙련 노동자들의 소득이 감소한다.",
       "answer": "X",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 2216,
+      "id": 26668,
       "statement": "투자가 이자율에 민감하게 반응할수록 IS곡선의 기울기는 수평에 가까워진다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 2217,
+      "id": 26669,
       "statement": "화폐수요가 이자율에 민감하게 반응할수록 LM곡선의 기울기는 수직에 가까워진다.",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 2218,
+      "id": 26670,
       "statement": "통화정책이 국민소득에 미치는 효과는 IS곡선의 기울기가 수평에 가까울수록 크다.",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 2219,
+      "id": 26671,
       "statement": "재정정책이 국민소득에 미치는 효과는 LM곡선의 기울기가 수평에 가까울수록 크다.",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 2220,
+      "id": 26672,
       "statement": "규모에 대한 수확불변의 생산함수를 가정한다.",
       "answer": "O",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 2221,
+      "id": 26673,
       "statement": "자본의 황금률 수준에서 1인당 소비가 극대화된다.",
       "answer": "O",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 2222,
+      "id": 26674,
       "statement": "저축률, 인구증가율, 감가상각률이 일정할 때 1인당 자본량의 증가율은 자본의 평균생산성에 의해 결정된다.",
       "answer": "O",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 2223,
+      "id": 26675,
       "statement": "인구증가를 고려한 경우에는 자본의 황금률 수준에서 순한계 생산물(MPK－감가상각률)이 인구증가율보다 크다.",
       "answer": "X",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 2224,
+      "id": 26676,
       "statement": "소득의 증가는 이자율을 하락시킨다.",
       "answer": "X",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 2225,
+      "id": 26677,
       "statement": "통화공급의 증가는 이자율을 하락시킨다.",
       "answer": "O",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 2226,
+      "id": 26678,
       "statement": "투기적 동기(speculative motive)의 화폐수요에 의해 화폐수요 곡선은 우하향한다.",
       "answer": "O",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 2227,
+      "id": 26679,
       "statement": "화폐공급곡선은 화폐공급이 중앙은행에 의해 외생적으로 결정되기 때문에 수직이다.",
       "answer": "O",
       "explanation": "",
@@ -389,7 +389,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 18,
     "with_full_meta": 0,
     "source": "0gichul.com"

@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 8839,
+      "id": 36440,
       "statement": "유동 방향으로 속도가 변하지 않는다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 8840,
+      "id": 36441,
       "statement": "속도 분포는 플러그 유동의 형태이다.",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 8841,
+      "id": 36442,
       "statement": "마찰계수는 Reynolds 수에 반비례한다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 8842,
+      "id": 36443,
       "statement": "입구길이(entrance length)는 Reynolds 수에 비례한다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 8843,
+      "id": 36444,
       "statement": "항력계수는 항력과 관성력의 비이다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 8844,
+      "id": 36445,
       "statement": "Lewis 수는 관성력과 표면장력의 비이다.",
       "answer": "X",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 8845,
+      "id": 36446,
       "statement": "Reynolds 수는 관성력과 점성력의 비이다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 8846,
+      "id": 36447,
       "statement": "Prandtl 수는 운동량 확산도와 열 확산도의 비이다.",
       "answer": "O",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 8847,
+      "id": 36448,
       "statement": "빛의 속도로 전달된다.",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 8848,
+      "id": 36449,
       "statement": "흑체의 흡수율은 1이다.",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 8849,
+      "id": 36450,
       "statement": "회색체의 단색 흡수율은 일정하다.",
       "answer": "O",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 8850,
+      "id": 36451,
       "statement": "장파장 복사보다 단파장 복사의 에너지가 작다.",
       "answer": "X",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 8851,
+      "id": 36452,
       "statement": "유맥선(streakline)과 항상 일치한다.",
       "answer": "X",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 8852,
+      "id": 36453,
       "statement": "속도 포텐셜의 등선(isoline)이다.",
       "answer": "X",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 8853,
+      "id": 36454,
       "statement": "개별 유체 입자의 운동 궤적이다.",
       "answer": "X",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 8854,
+      "id": 36455,
       "statement": "유동장의 모든 곳에서 속도 벡터와 접한다. 2025년도 국가공무원 7급 공채 제2차 필기시험",
       "answer": "O",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 8857,
+      "id": 36458,
       "statement": "와 만 각각 2배가 되면,  는 증가한다. ",
       "answer": "X",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 8858,
+      "id": 36459,
       "statement": "와 만 각각 0.25배, 2배가 되면,  는 변하지 않는다. ",
       "answer": "O",
       "explanation": "",
@@ -389,7 +389,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 18,
     "with_full_meta": 0,
     "source": "0gichul.com"

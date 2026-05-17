@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 4795,
+      "id": 38301,
       "statement": "마찰력은 접촉면의 크기에 상관없다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 4796,
+      "id": 38302,
       "statement": "최대정지마찰력은 운동마찰력보다 작다.",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 4797,
+      "id": 38303,
       "statement": "마찰력은 항상 움직이는 방향의 반대 방향으로 작용한다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 4798,
+      "id": 38304,
       "statement": "마찰력이 최대정지마찰력에 도달했을 때 마찰각도 최댓값을 갖는다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 4801,
+      "id": 38307,
       "statement": "탄성좌굴하중 P  cr  L ED",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 4802,
+      "id": 38308,
       "statement": "탄성좌굴응력   cr  L 응용역학개론 책형 4쪽",
       "answer": "O",
       "explanation": "",
@@ -137,7 +137,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 6,
     "with_full_meta": 0,
     "source": "0gichul.com"

@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 9911,
+      "id": 43933,
       "statement": "자기조절을 위해서는 현재 나의 상태와 아직 구현되지 않은 나의 미래 상태를 구분할 수 있어야 한다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 9912,
+      "id": 43934,
       "statement": "내측전전두피질과 배외측전전두피질 간의 기능적 연결성이 약할수록 목표를 위한 집중력이 높아진다.",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 9913,
+      "id": 43935,
       "statement": "목표달성을 위해서는 일상적이고 전형적인 행동을 강화하는 능력이 필요하다.",
       "answer": "X",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 9914,
+      "id": 43936,
       "statement": "자신이 도달하고자 하는 대상에 집중하는 과정을 자기참조과정이라 한다.",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 9915,
+      "id": 43937,
       "statement": "자기조절력은 자기절제의 하위 요소이다. 상황판단영역 책형 3쪽",
       "answer": "X",
       "explanation": "",
@@ -116,7 +116,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:06+00:00",
     "total": 5,
     "with_full_meta": 0,
     "source": "0gichul.com"

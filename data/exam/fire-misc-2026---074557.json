@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 20803,
+      "id": 30172,
       "statement": "CaC 몰에는 총 몰의 이온이 들어 있다. ",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 20805,
+      "id": 30174,
       "statement": "기체 입자의 평균 속력은   에 반비례한다.",
       "answer": "O",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 20806,
+      "id": 30175,
       "statement": "기체 입자의 평균 속력은   에 비례한다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 20807,
+      "id": 30176,
       "statement": "기체 입자의 평균 운동 에너지는 에 비례한다.",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 20808,
+      "id": 30177,
       "statement": "기체 입자의 평균 운동 에너지는 에 비례한다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 20810,
+      "id": 30179,
       "statement": "온도가 높아지면 는 작아진다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 20811,
+      "id": 30180,
       "statement": "평형 상태에서 정촉매를 넣으면 생성물의 농도가 증가한다.",
       "answer": "X",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 20812,
+      "id": 30181,
       "statement": "평형 상태에서 용기 부피를 감소시켜 압력을 증가시키면 역반응이 우세하게 진행된다.",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 20813,
+      "id": 30182,
       "statement": "㉯~㉱ 중 광학 이성질체를 갖는 것은 개이다.",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 20814,
+      "id": 30183,
       "statement": "결정장 갈라짐 에너지는 ㉱가 ㉮보다 크다.",
       "answer": "O",
       "explanation": "",
@@ -221,7 +221,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:37+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 10,
     "with_full_meta": 0,
     "source": "0gichul.com"

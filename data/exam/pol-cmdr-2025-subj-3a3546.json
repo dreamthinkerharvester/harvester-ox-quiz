@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 16036,
+      "id": 31665,
       "statement": "가격 변화시 해당 재화에 대한 수요량의 변화는 소득효과와 대체효과에 의해 결정된다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 16037,
+      "id": 31666,
       "statement": "열등재의 경우 가격 변화에 따른 수요량의 변화에 있어 소득 효과보다 대체효과가 항상 크다.",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 16038,
+      "id": 31667,
       "statement": "대체효과는 상대가격의 변화로 인해 나타나는 반면에 소득효 과는 실질소득의 변화로 인해 나타난다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 16039,
+      "id": 31668,
       "statement": "보상수요곡선은 대체효과에 의한 수요량의 변화만을 나타낸다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 16040,
+      "id": 31669,
       "statement": "조세는 경제적 순손실을 야기하기 때문에 효율성 측면에서 바람직하지 않다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 16041,
+      "id": 31670,
       "statement": "소비자와 생산자간 조세로 인한 부담은 그 세금이 누구에게 부과되는가와 무관하다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 16042,
+      "id": 31671,
       "statement": "수요곡선이 우하향하는 경우 공급의 가격탄력성이 클수록 공 급자의 조세 부담이 작다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 16043,
+      "id": 31672,
       "statement": "세율이 높아질수록 경제적 순손실과 조세수입 모두 증가한다.",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 16044,
+      "id": 31673,
       "statement": "두 무차별곡선이 교차하는 경우 선호체계의 연속성에 위배된다.",
       "answer": "X",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 16045,
+      "id": 31674,
       "statement": "원점에서 보다 멀리 떨어진 무차별곡선은 보다 큰 효용수준을 나타낸다.",
       "answer": "O",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 16046,
+      "id": 31675,
       "statement": "재와 재가 완전보완관계이면 효용극대화 소비점에서 한 계대체율과 상대가격비율은 일치하지 않을 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 16047,
+      "id": 31676,
       "statement": "재와 재가 완전대체관계이면 예산선 위의 모든 점에서 효용극대화가 달성될 수도 있다.",
       "answer": "O",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 16048,
+      "id": 31677,
       "statement": "생산량이 보다 큰 경우 한계비용이 평균총비용보다 크다.",
       "answer": "O",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 16049,
+      "id": 31678,
       "statement": "조업을 중단해야 하는 생산량에서 한계비용은 평균가변비용과 같거나 작다.",
       "answer": "O",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 16050,
+      "id": 31679,
       "statement": "생산량이 일 때의 평균총비용보다 시장균형가격이 낮다면, 이 기업은 손실을 보기 때문에 단기에도 시장에서 퇴출한다.",
       "answer": "X",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 16051,
+      "id": 31680,
       "statement": "한계비용이 평균가변비용보다 낮은 생산량 수준에서 평균가 변비용곡선은 우하향한다.",
       "answer": "O",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 16052,
+      "id": 31681,
       "statement": "기업은 이윤극대화를 위해 평균수입이 한계비용과 일치하는 수준에서 생산한다.",
       "answer": "O",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 16053,
+      "id": 31682,
       "statement": "기업의 단기 공급곡선은 한계비용곡선 중 평균가변비용곡선 위쪽에 있는 부분에 해당한다.",
       "answer": "O",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 16054,
+      "id": 31683,
       "statement": "기업은 단기적으로 이익을 볼 수 있으나 장기적으로는 의 이윤을 얻는다.",
       "answer": "O",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 16055,
+      "id": 31684,
       "statement": "이윤극대화 생산량에서 한계비용이 평균가변비용보다 크고 평균총비용보다 작은 경우 단기적으로 생산을 중단한다. - 21",
       "answer": "X",
       "explanation": "",
@@ -430,7 +430,7 @@
       "related_videos": []
     },
     {
-      "id": 16056,
+      "id": 31685,
       "statement": "개별기업은 차별화된 제품을 생산하기 때문에 우하향하는 수 요곡선을 갖는다.",
       "answer": "O",
       "explanation": "",
@@ -451,7 +451,7 @@
       "related_videos": []
     },
     {
-      "id": 16057,
+      "id": 31686,
       "statement": "어느 한 기업이 손실을 보고 있다면 이 기업은 시장에서 퇴 출할 것이기 때문에 단기 균형에 해당하지 않는다.",
       "answer": "X",
       "explanation": "",
@@ -472,7 +472,7 @@
       "related_videos": []
     },
     {
-      "id": 16058,
+      "id": 31687,
       "statement": "장기 균형에서 수요곡선과 평균총비용곡선이 접하기 때문에 이윤은 이 된다.",
       "answer": "O",
       "explanation": "",
@@ -493,7 +493,7 @@
       "related_videos": []
     },
     {
-      "id": 16059,
+      "id": 31688,
       "statement": "기업들은 이윤을 늘리기 위해 초과 생산설비를 유지한다.",
       "answer": "O",
       "explanation": "",
@@ -514,7 +514,7 @@
       "related_videos": []
     },
     {
-      "id": 16060,
+      "id": 31689,
       "statement": "두 기업 모두에게 우월전략이 존재한다.",
       "answer": "X",
       "explanation": "",
@@ -535,7 +535,7 @@
       "related_videos": []
     },
     {
-      "id": 16061,
+      "id": 31690,
       "statement": "개의 순수전략 내쉬균형이 존재한다.",
       "answer": "O",
       "explanation": "",
@@ -556,7 +556,7 @@
       "related_videos": []
     },
     {
-      "id": 16062,
+      "id": 31691,
       "statement": "순수전략 내쉬균형은 파레토 효율적이다.",
       "answer": "X",
       "explanation": "",
@@ -577,7 +577,7 @@
       "related_videos": []
     },
     {
-      "id": 16063,
+      "id": 31692,
       "statement": "두 기업 모두 ‘가격인상’을 선택하는 담합이 가능하다. 21 -",
       "answer": "X",
       "explanation": "",
@@ -598,7 +598,7 @@
       "related_videos": []
     },
     {
-      "id": 16064,
+      "id": 31693,
       "statement": "외부효과에 대한 해결책으로 시장원리에 의한 방법 중 하나는 교정적 조세이다.",
       "answer": "O",
       "explanation": "",
@@ -619,7 +619,7 @@
       "related_videos": []
     },
     {
-      "id": 16065,
+      "id": 31694,
       "statement": "민간 경제주체들이 자원배분 과정에서 아무런 비용을 치르지 않고 협상할 수 있다면 당사자들 스스로 외부효과를 해결할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -640,7 +640,7 @@
       "related_videos": []
     },
     {
-      "id": 16066,
+      "id": 31695,
       "statement": "외부효과 문제를 해결하는 과정에서 거래비용이 존재한다면 사적 해결이 불가능할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -661,7 +661,7 @@
       "related_videos": []
     },
     {
-      "id": 16067,
+      "id": 31696,
       "statement": "외부효과를 야기하는 주체와 이로부터 피해를 입는 주체간 재산권이 누구에게 주어지느냐에 따라 이들 간 협상의 결과는 상이하다.",
       "answer": "X",
       "explanation": "",
@@ -682,7 +682,7 @@
       "related_videos": []
     },
     {
-      "id": 16068,
+      "id": 31697,
       "statement": "디플레이터는 당해 연도의 가격을 적용한 명목를 기준연도의 가격을 적용한 실질로 나눈 값에 을 곱한 것이다.",
       "answer": "O",
       "explanation": "",
@@ -703,7 +703,7 @@
       "related_videos": []
     },
     {
-      "id": 16069,
+      "id": 31698,
       "statement": "는 일정한 재화와 서비스의 표준화된 묶음에 대한 비교 연도의 구입비용을 기준연도의 구입비용으로 나눈 값에 을 곱한 것이다.",
       "answer": "O",
       "explanation": "",
@@ -724,7 +724,7 @@
       "related_videos": []
     },
     {
-      "id": 16070,
+      "id": 31699,
       "statement": "디플레이터는 국내에서 생산된 모든 재화와 서비스를 포함하며 이 품목들이 매년 달라질 수 있다는 점에서 와 다르다.",
       "answer": "O",
       "explanation": "",
@@ -745,7 +745,7 @@
       "related_videos": []
     },
     {
-      "id": 16071,
+      "id": 31700,
       "statement": " 측정에 포함되는 품목의 품질 개선은 에 반영되지 못하나 품목간 상대가격의 변화로 인한 소비에서의 대체는 에 반영된다.",
       "answer": "X",
       "explanation": "",
@@ -766,7 +766,7 @@
       "related_videos": []
     },
     {
-      "id": 16072,
+      "id": 31701,
       "statement": "본원통화는 중앙은행의 창구를 통하여 시중으로 흘러나온 모든 민간보유현금과 예금은행 지급준비금의 합계이다.",
       "answer": "O",
       "explanation": "",
@@ -787,7 +787,7 @@
       "related_videos": []
     },
     {
-      "id": 16073,
+      "id": 31702,
       "statement": "본원통화는 중앙은행의 통화성자산으로 고성능화폐(high-powered money)라고도 한다.",
       "answer": "X",
       "explanation": "",
@@ -808,7 +808,7 @@
       "related_videos": []
     },
     {
-      "id": 16074,
+      "id": 31703,
       "statement": "중앙은행은 본원통화의 크기를 조절함으로써 시중의 통화량에 영향을 미칠 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -829,7 +829,7 @@
       "related_videos": []
     },
     {
-      "id": 16075,
+      "id": 31704,
       "statement": "본원통화는 예금은행에서 예금창조의 토대가 된다. - 22",
       "answer": "O",
       "explanation": "",
@@ -850,7 +850,7 @@
       "related_videos": []
     },
     {
-      "id": 16076,
+      "id": 31705,
       "statement": "케인즈의 화폐수요이론에서 거래적 동기의 화폐수요와 예비 적 동기의 화폐수요는 활성잔고(active balance)라고 하고, 투 기적 동기의 화폐수요는 유휴잔고(idle balance)라고 한다.",
       "answer": "O",
       "explanation": "",
@@ -871,7 +871,7 @@
       "related_videos": []
     },
     {
-      "id": 16077,
+      "id": 31706,
       "statement": "프리드만의 신화폐수량설에서 화폐의 유통속도는 안정적이라고 주장한다.",
       "answer": "O",
       "explanation": "",
@@ -892,7 +892,7 @@
       "related_videos": []
     },
     {
-      "id": 16078,
+      "id": 31707,
       "statement": "토빈의 자산선택이론에서 투기적 화폐수요는 항상 이자율과 양(+)의 관계임을 설명한다.",
       "answer": "X",
       "explanation": "",
@@ -913,7 +913,7 @@
       "related_videos": []
     },
     {
-      "id": 16079,
+      "id": 31708,
       "statement": "보몰의 재고이론에서 화폐수요는 소득의 증가함수이고 이자 율의 감소함수이다. 22 -",
       "answer": "O",
       "explanation": "",
@@ -934,7 +934,7 @@
       "related_videos": []
     },
     {
-      "id": 16080,
+      "id": 31709,
       "statement": "물가수준이 하락하면 자산의 실질가치가 상승하고 이에 따라 소비자들이 더 부자가 된 것으로 생각하여 소비지출이 증가 한다.",
       "answer": "O",
       "explanation": "",
@@ -955,7 +955,7 @@
       "related_videos": []
     },
     {
-      "id": 16081,
+      "id": 31710,
       "statement": "물가수준이 하락하면 가계는 화폐보유를 줄이고 예금을 증가 함으로써 이자율이 하락하고 이로 인해 투자 지출이 증가한다.",
       "answer": "O",
       "explanation": "",
@@ -976,7 +976,7 @@
       "related_videos": []
     },
     {
-      "id": 16082,
+      "id": 31711,
       "statement": "물가수준이 하락하면 이자율이 하락하여 정부의 부채 상환에 대한 부담이 경감함으로써 정부지출이 증가한다.",
       "answer": "X",
       "explanation": "",
@@ -997,7 +997,7 @@
       "related_videos": []
     },
     {
-      "id": 16083,
+      "id": 31712,
       "statement": "물가수준이 하락하면 실질환율이 절하되어 순수출이 증가한다.",
       "answer": "O",
       "explanation": "",
@@ -1018,7 +1018,7 @@
       "related_videos": []
     },
     {
-      "id": 16084,
+      "id": 31713,
       "statement": "생산함수는 노동과 자본에 대해 규모수익체감의 특징을 갖는다.",
       "answer": "X",
       "explanation": "",
@@ -1039,7 +1039,7 @@
       "related_videos": []
     },
     {
-      "id": 16085,
+      "id": 31714,
       "statement": "균제상태(steady state)에서 저축률은 내생적으로 결정된다.",
       "answer": "X",
       "explanation": "",
@@ -1060,7 +1060,7 @@
       "related_videos": []
     },
     {
-      "id": 16086,
+      "id": 31715,
       "statement": "저축은 인당 자본량을 증가시키므로 저축률을 높이면 지속 적인 경제성장을 이룰 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -1081,7 +1081,7 @@
       "related_videos": []
     },
     {
-      "id": 16087,
+      "id": 31716,
       "statement": "인구증가율이 상승하면 초기 균제상태와 비교할 때 새로운 균제상태에서의 인당 자본량은 감소한다.",
       "answer": "O",
       "explanation": "",
@@ -1102,7 +1102,7 @@
       "related_videos": []
     },
     {
-      "id": 16092,
+      "id": 31721,
       "statement": "먼델-플레밍 모형은 완전한 자본이동과 소규모 개방경제를 가정한다.",
       "answer": "O",
       "explanation": "",
@@ -1123,7 +1123,7 @@
       "related_videos": []
     },
     {
-      "id": 16093,
+      "id": 31722,
       "statement": "통화정책의 효과는 고정환율제가 변동환율제보다 상대적으로 유효하고, 재정정책의 효과는 변동환율제가 고정환율제보다 상대적으로 유효하다.",
       "answer": "X",
       "explanation": "",
@@ -1144,7 +1144,7 @@
       "related_videos": []
     },
     {
-      "id": 16094,
+      "id": 31723,
       "statement": "먼델-플레밍 모형은 생산물시장과 화폐시장의 동시 균형인  모형을 개방모형으로 확장한 모형이다.",
       "answer": "O",
       "explanation": "",
@@ -1165,7 +1165,7 @@
       "related_videos": []
     },
     {
-      "id": 16095,
+      "id": 31724,
       "statement": "먼델-플레밍 모형은 수요 측면에서 총수요의 결정과 거시경 제정책의 효과를 분석하는 모형이다.",
       "answer": "O",
       "explanation": "",
@@ -1186,7 +1186,7 @@
       "related_videos": []
     },
     {
-      "id": 16100,
+      "id": 31729,
       "statement": "산업내 무역은 비교우위를 반영하지 않는다.",
       "answer": "O",
       "explanation": "",
@@ -1207,7 +1207,7 @@
       "related_videos": []
     },
     {
-      "id": 16101,
+      "id": 31730,
       "statement": "산업간 무역은 비교우위를 반영한다.",
       "answer": "O",
       "explanation": "",
@@ -1228,7 +1228,7 @@
       "related_videos": []
     },
     {
-      "id": 16102,
+      "id": 31731,
       "statement": "제품차별화와 규모의 경제가 존재하는 산업에서는 산업내 무 역의 비중이 작다.",
       "answer": "X",
       "explanation": "",
@@ -1249,7 +1249,7 @@
       "related_videos": []
     },
     {
-      "id": 16103,
+      "id": 31732,
       "statement": "산업내 무역과 산업간 무역의 상대적인 중요성은 국가간 요소 부존도의 유사성 정도에 달려 있다.",
       "answer": "O",
       "explanation": "",
@@ -1270,7 +1270,7 @@
       "related_videos": []
     },
     {
-      "id": 16104,
+      "id": 31733,
       "statement": "관세는 가격규제 방식이고, 수입쿼터는 수량규제 방식이다.",
       "answer": "O",
       "explanation": "",
@@ -1291,7 +1291,7 @@
       "related_videos": []
     },
     {
-      "id": 16105,
+      "id": 31734,
       "statement": "관세는 수입규제의 효과가 불확실하지만, 수입쿼터는 수입량 규제의 효과가 확실하다.",
       "answer": "O",
       "explanation": "",
@@ -1312,7 +1312,7 @@
       "related_videos": []
     },
     {
-      "id": 16106,
+      "id": 31735,
       "statement": "관세는 가격의 상승폭을 예측하기가 어렵지만, 수입쿼터는 가격의 상승폭을 쉽게 예측할 수 있다.",
       "answer": "X",
       "explanation": "",
@@ -1333,7 +1333,7 @@
       "related_videos": []
     },
     {
-      "id": 16107,
+      "id": 31736,
       "statement": "관세와 달리 수입쿼터의 경우 수입면허를 받은 사람은 수입 가격과 국내가격의 차익을 얻을 수 있기 때문에 이익을 얻게 된다.",
       "answer": "O",
       "explanation": "",
@@ -1354,7 +1354,7 @@
       "related_videos": []
     },
     {
-      "id": 16108,
+      "id": 31737,
       "statement": "실질환율은 국내상품과 외국상품간의 교환비율인 상대가격을 말한다.",
       "answer": "O",
       "explanation": "",
@@ -1375,7 +1375,7 @@
       "related_videos": []
     },
     {
-      "id": 16109,
+      "id": 31738,
       "statement": "실질환율은 명목환율에 외국물가를 곱한 후 국내물가로 나눈 값이다.",
       "answer": "O",
       "explanation": "",
@@ -1396,7 +1396,7 @@
       "related_videos": []
     },
     {
-      "id": 16110,
+      "id": 31739,
       "statement": "구매력평가가 성립하면 실질환율은 이 된다.",
       "answer": "O",
       "explanation": "",
@@ -1417,7 +1417,7 @@
       "related_videos": []
     },
     {
-      "id": 16111,
+      "id": 31740,
       "statement": "두 국가의 물가를 정의할 때 적용되는 재화 및 서비스의 바 스켓은 모두 동일하고 가중치의 차이가 없다.",
       "answer": "X",
       "explanation": "",
@@ -1439,7 +1439,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:06+00:00",
     "total": 68,
     "with_full_meta": 0,
     "source": "0gichul.com"

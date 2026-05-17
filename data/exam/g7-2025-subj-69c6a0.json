@@ -10,7 +10,7 @@
   },
   "questions": [
     {
-      "id": 8302,
+      "id": 35903,
       "statement": "가공용 감자는 환원당 함량이 낮아야 가공 시 제품의 색상이 밝아진다.",
       "answer": "O",
       "explanation": "",
@@ -31,7 +31,7 @@
       "related_videos": []
     },
     {
-      "id": 8303,
+      "id": 35904,
       "statement": "팝콘용 옥수수는 종자 전분의 대부분이 연질로 구성되어 있다.",
       "answer": "X",
       "explanation": "",
@@ -52,7 +52,7 @@
       "related_videos": []
     },
     {
-      "id": 8304,
+      "id": 35905,
       "statement": "두부용 콩은 수용성 단백질 함량이 높을수록 제품 생산성이 양호하다.",
       "answer": "O",
       "explanation": "",
@@ -73,7 +73,7 @@
       "related_videos": []
     },
     {
-      "id": 8305,
+      "id": 35906,
       "statement": "빵 제조에 주로 사용되는 밀은 단백질과 글루텐 함량이 높다.",
       "answer": "O",
       "explanation": "",
@@ -94,7 +94,7 @@
       "related_videos": []
     },
     {
-      "id": 8306,
+      "id": 35907,
       "statement": "서늘한 기후를 좋아하며 우리나라 남부지방에서는 추파를 하기도 한다.",
       "answer": "O",
       "explanation": "",
@@ -115,7 +115,7 @@
       "related_videos": []
     },
     {
-      "id": 8307,
+      "id": 35908,
       "statement": "주요 성분은 당질이고 단백질도 풍부하나 지질은 적다.",
       "answer": "O",
       "explanation": "",
@@ -136,7 +136,7 @@
       "related_videos": []
     },
     {
-      "id": 8308,
+      "id": 35909,
       "statement": "양토나 사양토가 가장 알맞고, 건조하고 척박한 토양에 대한 적응도는 낮다.",
       "answer": "O",
       "explanation": "",
@@ -157,7 +157,7 @@
       "related_videos": []
     },
     {
-      "id": 8309,
+      "id": 35910,
       "statement": "알맞은 토양 산도는 pH5.0～6.0 이다.",
       "answer": "X",
       "explanation": "",
@@ -178,7 +178,7 @@
       "related_videos": []
     },
     {
-      "id": 8310,
+      "id": 35911,
       "statement": "종실이 굵어 전분 함량이 많은 것이 맥아 수율이 높다.",
       "answer": "O",
       "explanation": "",
@@ -199,7 +199,7 @@
       "related_videos": []
     },
     {
-      "id": 8311,
+      "id": 35912,
       "statement": "발아세가 낮아야 맥주 품질이 높아진다.",
       "answer": "X",
       "explanation": "",
@@ -220,7 +220,7 @@
       "related_videos": []
     },
     {
-      "id": 8312,
+      "id": 35913,
       "statement": "곡피가 두꺼워야 맥주 맛이 증진된다.",
       "answer": "X",
       "explanation": "",
@@ -241,7 +241,7 @@
       "related_videos": []
     },
     {
-      "id": 8313,
+      "id": 35914,
       "statement": "전분 함량이 많은 것은 맥주에 침전오탁이 생기기 쉽다. 식용작물학 책형 1쪽",
       "answer": "X",
       "explanation": "",
@@ -262,7 +262,7 @@
       "related_videos": []
     },
     {
-      "id": 8314,
+      "id": 35915,
       "statement": "유수분화가 시작되면 줄기의 상위 4～5개의 절간이 신장하기 시작한다.",
       "answer": "O",
       "explanation": "",
@@ -283,7 +283,7 @@
       "related_videos": []
     },
     {
-      "id": 8315,
+      "id": 35916,
       "statement": "조기재배에서는 보통 최고분얼기 이후에 유수가 분화된다.",
       "answer": "O",
       "explanation": "",
@@ -304,7 +304,7 @@
       "related_videos": []
     },
     {
-      "id": 8316,
+      "id": 35917,
       "statement": "유수분화기에 분화된 유수의 길이는 2mm 정도이다.",
       "answer": "O",
       "explanation": "",
@@ -325,7 +325,7 @@
       "related_videos": []
     },
     {
-      "id": 8317,
+      "id": 35918,
       "statement": "유수형성기는 출수 10～12일 전부터 출수 직전까지이다.",
       "answer": "X",
       "explanation": "",
@@ -346,7 +346,7 @@
       "related_videos": []
     },
     {
-      "id": 8318,
+      "id": 35919,
       "statement": "배유세포의 분열은 30°C 내외 온도에서 빠르고 20°C 이하에서 늦다.",
       "answer": "O",
       "explanation": "",
@@ -367,7 +367,7 @@
       "related_videos": []
     },
     {
-      "id": 8319,
+      "id": 35920,
       "statement": "이삭으로의 탄수화물 전류량은 16°C 이하에서 높아진다.",
       "answer": "X",
       "explanation": "",
@@ -388,7 +388,7 @@
       "related_videos": []
     },
     {
-      "id": 8320,
+      "id": 35921,
       "statement": "배유의 전분축적은 배유 가장 바깥쪽 세포에서 시작되어 안쪽으로 옮겨간다.",
       "answer": "X",
       "explanation": "",
@@ -409,7 +409,7 @@
       "related_videos": []
     },
     {
-      "id": 8321,
+      "id": 35922,
       "statement": "현미의 외형적 발달은 길이－두께－폭(너비) 순으로 완료된다.",
       "answer": "X",
       "explanation": "",
@@ -430,7 +430,7 @@
       "related_videos": []
     },
     {
-      "id": 8322,
+      "id": 35923,
       "statement": "유수형성기에 한해(旱害)는 이삭당 영화수를 크게 감소시키고 출수를 지연시킨다.",
       "answer": "O",
       "explanation": "",
@@ -451,7 +451,7 @@
       "related_videos": []
     },
     {
-      "id": 8323,
+      "id": 35924,
       "statement": "백수현상은 출수기 전후 이상건조풍에 의해서 발생한다.",
       "answer": "O",
       "explanation": "",
@@ -472,7 +472,7 @@
       "related_videos": []
     },
     {
-      "id": 8324,
+      "id": 35925,
       "statement": "저온으로 인한 타페트세포(tapet cell)의 이상비대로 불임이 유발되는 것은 장해형냉해이다.",
       "answer": "O",
       "explanation": "",
@@ -493,7 +493,7 @@
       "related_videos": []
     },
     {
-      "id": 8325,
+      "id": 35926,
       "statement": "분얼기에 관수피해를 받으면 분얼 발생이 이상촉진되어 무효분얼이 많이 발생한다.",
       "answer": "X",
       "explanation": "",
@@ -514,7 +514,7 @@
       "related_videos": []
     },
     {
-      "id": 8326,
+      "id": 35927,
       "statement": "저온발아성이 높고 초기신장이 좋은 품종이 유리하다.",
       "answer": "O",
       "explanation": "",
@@ -535,7 +535,7 @@
       "related_videos": []
     },
     {
-      "id": 8327,
+      "id": 35928,
       "statement": "담수 시기는 본엽 3엽기 정도로 배유양분이 소진되는 이유기가 적합하다.",
       "answer": "O",
       "explanation": "",
@@ -556,7 +556,7 @@
       "related_videos": []
     },
     {
-      "id": 8328,
+      "id": 35929,
       "statement": "이앙재배에 비해 잡초의 발생량이 많다.",
       "answer": "O",
       "explanation": "",
@@ -577,7 +577,7 @@
       "related_videos": []
     },
     {
-      "id": 8329,
+      "id": 35930,
       "statement": "담수표면직파에 비해 분얼절위가 낮고 무효분얼이 많다. 2025년도 국가공무원 7급 공채 제2차 필기시험",
       "answer": "X",
       "explanation": "",
@@ -598,7 +598,7 @@
       "related_videos": []
     },
     {
-      "id": 8330,
+      "id": 35931,
       "statement": "철, 마그네슘의 1일 흡수량이 최대가 되는 시기는 출수시이다.",
       "answer": "X",
       "explanation": "",
@@ -619,7 +619,7 @@
       "related_videos": []
     },
     {
-      "id": 8331,
+      "id": 35932,
       "statement": "질소, 인, 칼리의 1일 흡수량이 최대가 되는 시기는 출수 전 20～30일경이다.",
       "answer": "O",
       "explanation": "",
@@ -640,7 +640,7 @@
       "related_videos": []
     },
     {
-      "id": 8332,
+      "id": 35933,
       "statement": "규소, 망간의 1일 흡수량이 최대가 되는 시기는 전체 뿌리무게가 가장 많을 때와 일치한다.",
       "answer": "O",
       "explanation": "",
@@ -661,7 +661,7 @@
       "related_videos": []
     },
     {
-      "id": 8333,
+      "id": 35934,
       "statement": "무기양분 중 가장 빨리 흡수되는 것은 질소와 칼리이며, 인은 질소와 칼리보다 약간 늦게 흡수된다.",
       "answer": "O",
       "explanation": "",
@@ -682,7 +682,7 @@
       "related_videos": []
     },
     {
-      "id": 8334,
+      "id": 35935,
       "statement": "화성이 가능한 최장일장은 만생종이 조생종보다 길다.",
       "answer": "X",
       "explanation": "",
@@ -703,7 +703,7 @@
       "related_videos": []
     },
     {
-      "id": 8335,
+      "id": 35936,
       "statement": "원줄기 길이는 일반적으로 고온일수록 길어지며 25°C 전후에서 최고에 달한다.",
       "answer": "O",
       "explanation": "",
@@ -724,7 +724,7 @@
       "related_videos": []
     },
     {
-      "id": 8336,
+      "id": 35937,
       "statement": "낙화율은 대립품종에서 높다.",
       "answer": "O",
       "explanation": "",
@@ -745,7 +745,7 @@
       "related_videos": []
     },
     {
-      "id": 8337,
+      "id": 35938,
       "statement": "발아에 알맞은 토양수분은 최대용수량의 70% 내외이다.",
       "answer": "O",
       "explanation": "",
@@ -766,7 +766,7 @@
       "related_videos": []
     },
     {
-      "id": 8338,
+      "id": 35939,
       "statement": "개체의 광합성능력은 모낸 직후에 최젓값을 보인다.",
       "answer": "X",
       "explanation": "",
@@ -787,7 +787,7 @@
       "related_videos": []
     },
     {
-      "id": 8339,
+      "id": 35940,
       "statement": "개체군의 광합성량은 유수분화기 때 가장 많다.",
       "answer": "O",
       "explanation": "",
@@ -808,7 +808,7 @@
       "related_videos": []
     },
     {
-      "id": 8340,
+      "id": 35941,
       "statement": "잎새 외의 잎집과 줄기의 호흡량은 출수기 때 가장 많다.",
       "answer": "O",
       "explanation": "",
@@ -829,7 +829,7 @@
       "related_videos": []
     },
     {
-      "id": 8341,
+      "id": 35942,
       "statement": "벼의 단위잎면적당 광합성속도는 분얼기 때 최고에 달한다. 식용작물학 책형 2쪽",
       "answer": "O",
       "explanation": "",
@@ -850,7 +850,7 @@
       "related_videos": []
     },
     {
-      "id": 8342,
+      "id": 35943,
       "statement": "자식계통(inbred line) 간 교배한 F 종자는 1대교잡종품종이 1 된다.",
       "answer": "O",
       "explanation": "",
@@ -871,7 +871,7 @@
       "related_videos": []
     },
     {
-      "id": 8343,
+      "id": 35944,
       "statement": "종자회사는 잡종강세의 발현이 높은 합성품종을 주로 판매한다.",
       "answer": "X",
       "explanation": "",
@@ -892,7 +892,7 @@
       "related_videos": []
     },
     {
-      "id": 8344,
+      "id": 35945,
       "statement": "방임수분품종은 자연상태에서 상호교잡으로 맺히는 종자 중 일부를 선발하여 사용하는 것이다.",
       "answer": "O",
       "explanation": "",
@@ -913,7 +913,7 @@
       "related_videos": []
     },
     {
-      "id": 8345,
+      "id": 35946,
       "statement": "복교잡종은 종자의 균일도가 떨어진다.",
       "answer": "O",
       "explanation": "",
@@ -934,7 +934,7 @@
       "related_videos": []
     },
     {
-      "id": 8346,
+      "id": 35947,
       "statement": "팥은 콩보다 고온 다습한 기후에 잘 적응하고 저온에 약하다.",
       "answer": "O",
       "explanation": "",
@@ -955,7 +955,7 @@
       "related_videos": []
     },
     {
-      "id": 8347,
+      "id": 35948,
       "statement": "팥은 콩과 달리 종실 지방 함량이 낮고 탄수화물 함량이 높은 단명종자이다.",
       "answer": "X",
       "explanation": "",
@@ -976,7 +976,7 @@
       "related_videos": []
     },
     {
-      "id": 8348,
+      "id": 35949,
       "statement": "녹두는 여러 차례 수확해야 하는 재배상의 어려움이 있다.",
       "answer": "O",
       "explanation": "",
@@ -997,7 +997,7 @@
       "related_videos": []
     },
     {
-      "id": 8349,
+      "id": 35950,
       "statement": "강낭콩은 생육기간이 짧고 품종에 따른 변이가 다양하므로 작부체계상 유리하다.",
       "answer": "O",
       "explanation": "",
@@ -1018,7 +1018,7 @@
       "related_videos": []
     },
     {
-      "id": 8350,
+      "id": 35951,
       "statement": "평지답전작의 경우 극조숙성이 알맞고 밀식적응성이 높아야 한다.",
       "answer": "O",
       "explanation": "",
@@ -1039,7 +1039,7 @@
       "related_videos": []
     },
     {
-      "id": 8351,
+      "id": 35952,
       "statement": "추작의 경우 파종 후 씨감자의 부패성이 적고 내병성이 강해야 한다.",
       "answer": "O",
       "explanation": "",
@@ -1060,7 +1060,7 @@
       "related_videos": []
     },
     {
-      "id": 8352,
+      "id": 35953,
       "statement": "산간지춘하작의 경우 병충해 방제를 고려하면 만숙성이 유리하다.",
       "answer": "X",
       "explanation": "",
@@ -1081,7 +1081,7 @@
       "related_videos": []
     },
     {
-      "id": 8353,
+      "id": 35954,
       "statement": "평지춘작의 경우 조숙성, 다수성 및 병저항성이 요구되며 휴면 기간이 긴 것이 알맞다.",
       "answer": "O",
       "explanation": "",
@@ -1102,7 +1102,7 @@
       "related_videos": []
     },
     {
-      "id": 8354,
+      "id": 35955,
       "statement": "흰잎마름병은 Fusarium fujikuroi에 의해 발병하고 지력이 높은 논에서 발병하기 쉽다.",
       "answer": "X",
       "explanation": "",
@@ -1123,7 +1123,7 @@
       "related_videos": []
     },
     {
-      "id": 8355,
+      "id": 35956,
       "statement": "줄무늬잎마름병은 애멸구 성충에 의해 전염되므로 등숙기 이전에는 발생하지 않는다.",
       "answer": "X",
       "explanation": "",
@@ -1144,7 +1144,7 @@
       "related_videos": []
     },
     {
-      "id": 8356,
+      "id": 35957,
       "statement": "오갈병은 월동한 균핵(菌核)에 의해 감염이 되어 모내기 후에 주로 발생한다.",
       "answer": "X",
       "explanation": "",
@@ -1165,7 +1165,7 @@
       "related_videos": []
     },
     {
-      "id": 8357,
+      "id": 35958,
       "statement": "깨씨무늬병의 병원균은 자낭균에 속하는 곰팡이로 종자전염 또는 공기전염을 한다.",
       "answer": "O",
       "explanation": "",
@@ -1186,7 +1186,7 @@
       "related_videos": []
     },
     {
-      "id": 8358,
+      "id": 35959,
       "statement": "유기물 분해가 왕성할 때에는 전층이 일시적 환원상태가 된다.",
       "answer": "O",
       "explanation": "",
@@ -1207,7 +1207,7 @@
       "related_videos": []
     },
     {
-      "id": 8359,
+      "id": 35960,
       "statement": "유기물이 분해되어 줄어들면 토양의 상층부는 환원층이 된다.",
       "answer": "X",
       "explanation": "",
@@ -1228,7 +1228,7 @@
       "related_videos": []
     },
     {
-      "id": 8360,
+      "id": 35961,
       "statement": "유기물이 분해되어 줄어들면 표층부터 2cm 지점 보다 더 깊은 작토층은 산화제2철로 적갈색을 띤 산화층이 된다.",
       "answer": "X",
       "explanation": "",
@@ -1249,7 +1249,7 @@
       "related_videos": []
     },
     {
-      "id": 8361,
+      "id": 35962,
       "statement": "유기물이 적은 심토는 환원층을 형성한다.",
       "answer": "X",
       "explanation": "",
@@ -1270,7 +1270,7 @@
       "related_videos": []
     },
     {
-      "id": 8362,
+      "id": 35963,
       "statement": "춘파재배는 가을보리를 재배하기 힘든 곳에서 봄에 파종하는 방법으로 파종기는 월동 후 빠를수록 좋다.",
       "answer": "O",
       "explanation": "",
@@ -1291,7 +1291,7 @@
       "related_videos": []
     },
     {
-      "id": 8363,
+      "id": 35964,
       "statement": "만파재배는 월동 전 생육기간이 짧아 충분한 생육량이 확보되지 못하여 겨울철 저온에 손상을 받을 위험성이 커진다.",
       "answer": "O",
       "explanation": "",
@@ -1312,7 +1312,7 @@
       "related_videos": []
     },
     {
-      "id": 8364,
+      "id": 35965,
       "statement": "전면전층재배는 무경운상태에서 종자와 비료를 동시에 뿌리므로 종자가 고루 분포되어 출현이 균일하고 수량확보에 유리하다.",
       "answer": "X",
       "explanation": "",
@@ -1333,7 +1333,7 @@
       "related_videos": []
     },
     {
-      "id": 8365,
+      "id": 35966,
       "statement": "벼 입모중 파종을 이용한 답리작 재배는 벼를 수확하기 전 논 전면에 종자를 뿌려 파종하는 방법으로 노동력이 절감된다.",
       "answer": "O",
       "explanation": "",
@@ -1354,7 +1354,7 @@
       "related_videos": []
     },
     {
-      "id": 8366,
+      "id": 35967,
       "statement": "종자는 식물학적으로 과실에 해당하고 얇은 과피에 싸여 있다.",
       "answer": "O",
       "explanation": "",
@@ -1375,7 +1375,7 @@
       "related_videos": []
     },
     {
-      "id": 8367,
+      "id": 35968,
       "statement": "꽃은 수축의 각 마디에 소수가 호생하는 복수상화서이며 수축에는 약 20개의 마디가 있다.",
       "answer": "O",
       "explanation": "",
@@ -1396,7 +1396,7 @@
       "related_videos": []
     },
     {
-      "id": 8368,
+      "id": 35969,
       "statement": "봉형은 기부에 소수가 조밀하게 착생하고 상부에는 소수가 성기게 착생하여 상부로 갈수록 가늘다.",
       "answer": "X",
       "explanation": "",
@@ -1417,7 +1417,7 @@
       "related_videos": []
     },
     {
-      "id": 8369,
+      "id": 35970,
       "statement": "유망형은 이삭 전체에 까락이 있고 단망, 중망, 장망으로 구분된다. 식용작물학 책형 3쪽",
       "answer": "O",
       "explanation": "",
@@ -1438,7 +1438,7 @@
       "related_videos": []
     },
     {
-      "id": 8370,
+      "id": 35971,
       "statement": "수수의 종실은 영과이다.",
       "answer": "O",
       "explanation": "",
@@ -1459,7 +1459,7 @@
       "related_videos": []
     },
     {
-      "id": 8371,
+      "id": 35972,
       "statement": "봄조는 파종기에 관계없이 그루조보다 출수와 성숙이 늦다.",
       "answer": "X",
       "explanation": "",
@@ -1480,7 +1480,7 @@
       "related_videos": []
     },
     {
-      "id": 8372,
+      "id": 35973,
       "statement": "일반적으로 여름메밀 품종이 가을메밀 품종에 비해 루틴 함량이 높다.",
       "answer": "O",
       "explanation": "",
@@ -1501,7 +1501,7 @@
       "related_videos": []
     },
     {
-      "id": 8373,
+      "id": 35974,
       "statement": "율무는 암꽃과 수꽃이 구분 된다.",
       "answer": "O",
       "explanation": "",
@@ -1522,7 +1522,7 @@
       "related_videos": []
     },
     {
-      "id": 8374,
+      "id": 35975,
       "statement": "8～10시간의 단일처리를 한다.",
       "answer": "O",
       "explanation": "",
@@ -1543,7 +1543,7 @@
       "related_videos": []
     },
     {
-      "id": 8375,
+      "id": 35976,
       "statement": "자연개화가 가능한 근연종의 생엽을 모두 제거한 후 대목으로 사용한다.",
       "answer": "X",
       "explanation": "",
@@ -1564,7 +1564,7 @@
       "related_videos": []
     },
     {
-      "id": 8376,
+      "id": 35977,
       "statement": "덩굴의 기부에 절상이나 환상박피를 한다.",
       "answer": "O",
       "explanation": "",
@@ -1585,7 +1585,7 @@
       "related_videos": []
     },
     {
-      "id": 8377,
+      "id": 35978,
       "statement": "순을 초가을에 포트에 심고 과인산석회를 시용한 뒤 관수제한하면서 월동시킨다.",
       "answer": "O",
       "explanation": "",
@@ -1606,7 +1606,7 @@
       "related_videos": []
     },
     {
-      "id": 8378,
+      "id": 35979,
       "statement": "소립 씨감자는 정아부에서 기부쪽으로 1절(切)하여 기계파종한다.",
       "answer": "X",
       "explanation": "",
@@ -1627,7 +1627,7 @@
       "related_videos": []
     },
     {
-      "id": 8379,
+      "id": 35980,
       "statement": "진정종자를 이용하여 재배하면 바이러스 이병률이 낮아진다.",
       "answer": "O",
       "explanation": "",
@@ -1648,7 +1648,7 @@
       "related_videos": []
     },
     {
-      "id": 8380,
+      "id": 35981,
       "statement": "기본식물은 건전한 감자의 식물체로부터 조직배양을 통해 생산된다.",
       "answer": "O",
       "explanation": "",
@@ -1669,7 +1669,7 @@
       "related_videos": []
     },
     {
-      "id": 8381,
+      "id": 35982,
       "statement": "제주도에는 2기작 품종으로 월동시킨 후 봄에 수확하는 재배 방식이 있다.",
       "answer": "O",
       "explanation": "",
@@ -1690,7 +1690,7 @@
       "related_videos": []
     },
     {
-      "id": 8382,
+      "id": 35983,
       "statement": "올콩 또는 유월두는 하대두형의 일종이다.",
       "answer": "O",
       "explanation": "",
@@ -1711,7 +1711,7 @@
       "related_videos": []
     },
     {
-      "id": 8383,
+      "id": 35984,
       "statement": "추대두형은 감광성이 높고 개화성숙이 늦다.",
       "answer": "O",
       "explanation": "",
@@ -1732,7 +1732,7 @@
       "related_videos": []
     },
     {
-      "id": 8384,
+      "id": 35985,
       "statement": "하대두형은 한계일장이 짧고 감온성이 낮다.",
       "answer": "X",
       "explanation": "",
@@ -1753,7 +1753,7 @@
       "related_videos": []
     },
     {
-      "id": 8385,
+      "id": 35986,
       "statement": "중간형 내지 추대두형이 주로 재배된다.",
       "answer": "O",
       "explanation": "",
@@ -1775,7 +1775,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T05:24:38+00:00",
+    "exported_at": "2026-05-17T06:56:05+00:00",
     "total": 84,
     "with_full_meta": 0,
     "source": "0gichul.com"

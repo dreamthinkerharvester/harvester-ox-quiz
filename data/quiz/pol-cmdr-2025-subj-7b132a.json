@@ -10,7 +10,7 @@
   "count": 42,
   "questions": [
     {
-      "id": 16704,
+      "id": 32333,
       "question": "/dev : 장치 파일이 담긴 디렉터리이다.",
       "answer": "O",
       "explanation": "",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "id": 16705,
+      "id": 32334,
       "question": "/opt : 추가 패키지가 설치되는 디렉터리이다.",
       "answer": "O",
       "explanation": "",
@@ -34,7 +34,7 @@
       }
     },
     {
-      "id": 16706,
+      "id": 32335,
       "question": "/sys : 시스템의 환경설정 및 주요 설정 파일을 담고 있다.",
       "answer": "X",
       "explanation": "",
@@ -46,7 +46,7 @@
       }
     },
     {
-      "id": 16707,
+      "id": 32336,
       "question": "/var : 시스템 운영 중에 발생하는 데이터나 로그 등 내용이 자주 바뀌는 파일이 저장된다.",
       "answer": "O",
       "explanation": "",
@@ -58,7 +58,7 @@
       }
     },
     {
-      "id": 16708,
+      "id": 32337,
       "question": "Telnet이나 보안을 제공하지 않는 다른 원격 로그인 방식을 대체하기 위해 개발되었다.",
       "answer": "O",
       "explanation": "",
@@ -70,7 +70,7 @@
       }
     },
     {
-      "id": 16709,
+      "id": 32338,
       "question": "원격 로그인과 X-터미널에 채택되어 사용되었으며 현재도 가장 널리 사용되는 응용 기술이다.",
       "answer": "O",
       "explanation": "",
@@ -82,7 +82,7 @@
       }
     },
     {
-      "id": 16710,
+      "id": 32339,
       "question": "Alert 프로토콜과 Record 프로토콜을 정의하여 암호화를 한다.",
       "answer": "X",
       "explanation": "",
@@ -94,7 +94,7 @@
       }
     },
     {
-      "id": 16711,
+      "id": 32340,
       "question": "안전하지 않은 TCP 연결을 포트 포워딩을 사용하여 안전한 연결로 변환시킬 수 있다. - 7 트 워 크 보 안 사 이 버",
       "answer": "O",
       "explanation": "",
@@ -106,7 +106,7 @@
       }
     },
     {
-      "id": 16717,
+      "id": 32346,
       "question": "신경망, 통계적 방법, 특징 추출 등의 기술을 사용한다.",
       "answer": "O",
       "explanation": "",
@@ -118,7 +118,7 @@
       }
     },
     {
-      "id": 16718,
+      "id": 32347,
       "question": "미리 학습된 사용자 패턴과 다른 경우에 침입으로 판단할 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -130,7 +130,7 @@
       }
     },
     {
-      "id": 16719,
+      "id": 32348,
       "question": "오용(Misuse)탐지 방식보다 False Positive가 상대적으로 낮다.",
       "answer": "X",
       "explanation": "",
@@ -142,7 +142,7 @@
       }
     },
     {
-      "id": 16720,
+      "id": 32349,
       "question": "Zero Day Attack에 대응이 가능한 방법이다. 7 -",
       "answer": "O",
       "explanation": "",
@@ -154,7 +154,7 @@
       }
     },
     {
-      "id": 16724,
+      "id": 32353,
       "question": "ext 파일시스템은 Extended File System의 약자로 MFS의 기능을 확장했다.",
       "answer": "O",
       "explanation": "",
@@ -166,7 +166,7 @@
       }
     },
     {
-      "id": 16725,
+      "id": 32354,
       "question": "ext3 파일시스템은 저널링 기능을 도입하여 데이터의 복구 기능을 강화했다.",
       "answer": "O",
       "explanation": "",
@@ -178,7 +178,7 @@
       }
     },
     {
-      "id": 16726,
+      "id": 32355,
       "question": "swap은 스왑 영역을 관리하기 위한 스왑 파일시스템이다.",
       "answer": "O",
       "explanation": "",
@@ -190,7 +190,7 @@
       }
     },
     {
-      "id": 16727,
+      "id": 32356,
       "question": "proc는 메모리에 임시 파일을 저장하기 위한 파일시스템이며, 시스템이 재시작할 때마다 기존 내용이 없어진다.",
       "answer": "X",
       "explanation": "",
@@ -202,7 +202,7 @@
       }
     },
     {
-      "id": 16731,
+      "id": 32360,
       "question": "도전-응답(Challenge-response) 방식 – 난수",
       "answer": "O",
       "explanation": "",
@@ -214,7 +214,7 @@
       }
     },
     {
-      "id": 16737,
+      "id": 32366,
       "question": "csrss.exe : 윈도우 콘솔을 관장하고, 스레드를 생성․삭제하며, 32비트 가상 MS-DOS 모드를 지원하는 프로세스이다.",
       "answer": "O",
       "explanation": "",
@@ -226,7 +226,7 @@
       }
     },
     {
-      "id": 16738,
+      "id": 32367,
       "question": "smss.exe : 사용자 세션을 시작하는 기능을 담당하는 프로세 스로, winlogon, win32를 구동시킨다.",
       "answer": "O",
       "explanation": "",
@@ -238,7 +238,7 @@
       }
     },
     {
-      "id": 16739,
+      "id": 32368,
       "question": "svchost.exe : DLL이 실행하는 프로세스의 기본 프로세스로, 한 시스템에서 svchost 프로세스를 여러 개 볼 수 있다.",
       "answer": "O",
       "explanation": "",
@@ -250,7 +250,7 @@
       }
     },
     {
-      "id": 16740,
+      "id": 32369,
       "question": "winmgmt.exe : 윈도우 작업 관리자 자신의 프로세스이다.",
       "answer": "X",
       "explanation": "",
@@ -262,7 +262,7 @@
       }
     },
     {
-      "id": 16745,
+      "id": 32374,
       "question": "애플리케이션 게이트웨이 / 패킷 필터링 / 상태기반 패킷 검사",
       "answer": "X",
       "explanation": "",
@@ -274,7 +274,7 @@
       }
     },
     {
-      "id": 16746,
+      "id": 32375,
       "question": "애플리케이션 게이트웨이 / 상태기반 패킷 검사 / 패킷 필터링",
       "answer": "O",
       "explanation": "",
@@ -286,7 +286,7 @@
       }
     },
     {
-      "id": 16747,
+      "id": 32376,
       "question": "회선 게이트웨이 / 데이터그램 필터링 / 상태기반 패킷 검사",
       "answer": "X",
       "explanation": "",
@@ -298,7 +298,7 @@
       }
     },
     {
-      "id": 16748,
+      "id": 32377,
       "question": "회선 게이트웨이 / 상태기반 패킷 검사 / 데이터그램 필터링 - 9",
       "answer": "X",
       "explanation": "",
@@ -310,7 +310,7 @@
       }
     },
     {
-      "id": 16757,
+      "id": 32386,
       "question": "보안 서비스가 제공되는 방식에는 전송 모드와 터널 모드가 존재한다.",
       "answer": "O",
       "explanation": "",
@@ -322,7 +322,7 @@
       }
     },
     {
-      "id": 16758,
+      "id": 32387,
       "question": "AH는 암호화를, ESP는 인증과 무결성 기능을 제공한다.",
       "answer": "X",
       "explanation": "",
@@ -334,7 +334,7 @@
       }
     },
     {
-      "id": 16759,
+      "id": 32388,
       "question": "암호화 기술을 이용하여 IP 패킷 단위로 데이터 변조 방지 및 은닉 기능을 제공한다.",
       "answer": "O",
       "explanation": "",
@@ -346,7 +346,7 @@
       }
     },
     {
-      "id": 16760,
+      "id": 32389,
       "question": "터널 모드는 IP 헤더를 포함한 기존 전체 패킷 앞에 새로운 IPSec 헤더 정보가 추가된다.",
       "answer": "O",
       "explanation": "",
@@ -358,7 +358,7 @@
       }
     },
     {
-      "id": 16761,
+      "id": 32390,
       "question": "RC4 대칭형 암호화 알고리즘을 사용하며 24bit의 IV를 결합 하여 공유 비밀키를 생성한다.",
       "answer": "O",
       "explanation": "",
@@ -370,7 +370,7 @@
       }
     },
     {
-      "id": 16762,
+      "id": 32391,
       "question": "IEEE 802.11b의 표준인 스트림 암호화 기법을 사용한다.",
       "answer": "O",
       "explanation": "",
@@ -382,7 +382,7 @@
       }
     },
     {
-      "id": 16763,
+      "id": 32392,
       "question": "정적 키를 사용하기 때문에 무작위 공격에 취약하다.",
       "answer": "O",
       "explanation": "",
@@ -394,7 +394,7 @@
       }
     },
     {
-      "id": 16764,
+      "id": 32393,
       "question": "AP는 인증 요청을 받으면 임의로 생성한 인증용 문자열을 암호화키로 암호화하여 클라이언트에 전송한다.",
       "answer": "X",
       "explanation": "",
@@ -406,7 +406,7 @@
       }
     },
     {
-      "id": 16769,
+      "id": 32398,
       "question": "Process-to-Process Service",
       "answer": "O",
       "explanation": "",
@@ -418,7 +418,7 @@
       }
     },
     {
-      "id": 16780,
+      "id": 32409,
       "question": "보안솔루션 위주의 로그를 수집하고 통합한다.",
       "answer": "X",
       "explanation": "",
@@ -430,7 +430,7 @@
       }
     },
     {
-      "id": 16781,
+      "id": 32410,
       "question": "사용자, IP, Port, Application 등의 단위로 분석이 가능하고, APT 공격 및 알려지지 않은 패턴에 대한 분석이 가능하다.",
       "answer": "O",
       "explanation": "",
@@ -442,7 +442,7 @@
       }
     },
     {
-      "id": 16782,
+      "id": 32411,
       "question": "MapReduce, indexing 등을 사용하며 고성능의 데이터 분석이 가능하다.",
       "answer": "O",
       "explanation": "",
@@ -454,7 +454,7 @@
       }
     },
     {
-      "id": 16783,
+      "id": 32412,
       "question": "수집하는 정보는 보안시스템, 보안소프트웨어, 네트워크 장비에 대한 로그, 이벤트, 웹로그 등을 대상으로 한다. - 11",
       "answer": "O",
       "explanation": "",
@@ -466,7 +466,7 @@
       }
     },
     {
-      "id": 16784,
+      "id": 32413,
       "question": "매주 일요일 새벽 1시 1분에 cron.sh를 실행",
       "answer": "X",
       "explanation": "",
@@ -478,7 +478,7 @@
       }
     },
     {
-      "id": 16785,
+      "id": 32414,
       "question": "매주 월요일 새벽 1시 1분에 cron.sh를 실행",
       "answer": "X",
       "explanation": "",
@@ -490,7 +490,7 @@
       }
     },
     {
-      "id": 16786,
+      "id": 32415,
       "question": "매월 1일 새벽 1시 1분에 cron.sh를 실행",
       "answer": "O",
       "explanation": "",
@@ -502,7 +502,7 @@
       }
     },
     {
-      "id": 16787,
+      "id": 32416,
       "question": "매일 새벽 1시 1분에 cron.sh를 실행",
       "answer": "X",
       "explanation": "",
