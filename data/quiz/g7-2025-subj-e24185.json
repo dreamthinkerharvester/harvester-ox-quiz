@@ -1,0 +1,421 @@
+{
+  "slug": "g7-2025-subj-e24185",
+  "name": "상황판단",
+  "exam_group": "국가직 7급 · 2025년",
+  "subject": "상황판단",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 34,
+  "questions": [
+    {
+      "id": 8047,
+      "question": "기상청장은 기상산업을 체계적으로 진흥하고 기본계획과 시행계획 등을 효율적으로 수립ㆍ추진하기 위하여 기상산업에 대한 실태조사(이하 ‘실태 조사’라 한다)와 자료수집을 할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8048,
+      "question": "기상청장은 실태조사와 자료수집을 위하여 필요하다고 인정하면 관련 행정기관ㆍ연구기관ㆍ교육기관 또는 기상사업자 등에게 필요한 자료나 의견을 제출하도록 요청할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8049,
+      "question": "기상청장은 실태조사를 기상산업에 관한 전문성을 갖춘 기관 또는 단체에 의뢰하여 실시할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8050,
+      "question": "기상청장은 실태조사를 실시한 경우 그 결과를 기상청의 인터넷 홈페이지에 공표해야 한다. 제00조(기상정보의 제공) ① 기상청장은 기상사업자가 기상 정보의 제공을 신청한 경우 정당한 이유가 없으면 그 정보를 제공하여야 한다. ② 제1항에 따라 기상청장이 기상정보를 제공할 때에는 그 기상 정보의 제공에 드는 비용에 충당하기 위하여 수수료를 징수할 수 있다. 제00조(기상정보의 출처 명시 등) ① 기상사업자는 기상정보를 제3자에게 제공하는 경우 그 출처를 밝혀야 한다. ② 기상청장은 기상사업자가 제1항에 따른 출처를 밝히지 아니하는 경우에는 시정을 요구할 수 있다. ① 기상청장은 실태조사를 직접 실시하지 않고 기상산업에 관한 전문성을 갖춘 단체에 의뢰하여 실시할 수 있다. ② 기상청장은 실태조사와 자료수집을 위해 필요한 경우, 관련 행정 기관에게 필요한 자료의 제출을 요청할 수 있지만 기상사업자에게는 요청할 수 없다. ③ 기상사업자는 기상청장으로부터 제공받은 기상정보를 제3자에게 제공할 수 없다. ④ 기상청장이 기상사업자에게 기상정보를 제공할 때에는 기상정보의 경제적 가치에 해당하는 수수료를 징수하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8051,
+      "question": "기상청장은 기상산업 진흥을 위한 자료수집을 한 경우, 그 결과를 기상청 인터넷 홈페이지에 공표해야 한다. 상황판단영역 책형 1쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8052,
+      "question": "국제기구 분담금 관리에 관한 주요사항을 심의ㆍ조정하기 위하여 외교부장관 소속으로 국제기구 분담금 심의위원회(이하 ‘위원회’라 한다)를 둔다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8053,
+      "question": "위원회는 다음 각 호의 사항을 심의ㆍ조정한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8054,
+      "question": "특허ㆍ실용신안ㆍ디자인ㆍ상표에 관한 심판(이하 ‘심판사건’이라 한다)을 관장하게 하기 위하여 특허청장 소속으로 특허심판원을 둔다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8055,
+      "question": "특허심판원에 특허심판원장(이하 ‘원장’이라 한다)과 심판관을 둔다. 제□□조(심판관 등의 지정) ① 원장은 각 심판사건에 대하여 제△△조에 따른 합의체를 구성할 심판관을 지정하여야 한다. ② 원장은 제1항에 따라 지정된 심판관 중에서 1명을 심판장 으로 지정하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8056,
+      "question": "제2항에도 불구하고 원장은 특히 중요하다고 인정되는 심판사건에 대해서는 원장 스스로 심판장이 될 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8057,
+      "question": "심판장은 그 심판사건에 관한 사무를 총괄한다. 제△△조(심판의 합의체, 심리 등) ① 심판은 3명 또는 5명의 심판관으로 구성되는 합의체가 한다. ② 제1항의 합의체의 합의는 과반수로 결정한다. ③ 심판은 구술심리 또는 서면심리로 한다. 다만 당사자가 구술심리를 신청하였을 때에는 서면심리만으로 결정할 수 있다고 인정되는 경우 외에는 구술심리를 하여야 한다. ④ 구술심리는 공개하여야 한다. 다만 공공의 질서 또는 선량한 풍속에 어긋날 우려가 있으면 그러하지 아니하다. ① 심판의 합의체는 심판장 1명과 심판관 1명으로 구성될 수 있다. ② 원장이 심판장으로서 심판사건에 관한 사무를 총괄하는 경우가 있다. ③ 합의체의 합의는 심판관 전원의 일치된 의견으로 결정한다. ④ 당사자가 구술심리를 신청한 경우에는 서면심리로 심판할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8058,
+      "question": "서면심리로 심판하는 경우 그 심리는 공개하여야 한다. 상황판단영역 책형 2쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8059,
+      "question": "의료 해외진출을 하려는 의료기관의 개설자는 보건복지부장관에게 신고하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8060,
+      "question": "보건복지부장관은 제1항에 따른 신고를 한 의료기관의 개설자에게 의료 해외진출의 신고확인증을 발급하여야 한다. 제00조(외국인환자 유치에 대한 등록) ① 외국인환자를 유치 하려는 의료기관은 다음 각 호의 요건을 갖추어 특별시장ㆍ 광역시장ㆍ특별자치시장ㆍ도지사 또는 특별자치도지사(이하 ‘시ㆍ도지사’라 한다)에게 등록하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8061,
+      "question": "동해안에서는 조석 간만의 차를 이용한 소금 생산 방식을 주로 사용하였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8062,
+      "question": "조선시대에 경강상인에 의한 소금 거래는 이루어지지 않았다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8063,
+      "question": "조선시대 소금의 최대 생산지는 남해안의 갯벌 지대였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8064,
+      "question": "마포염은 마포에서 생산된 소금을 이르는 말이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8065,
+      "question": "조선시대에 천일염은 염전에서 얻을 수 있었다. 상황판단영역 책형 3쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8066,
+      "question": "사람이 거주하지 아니하거나 극히 제한된 지역에만 거주하는 섬으로서 자연생태계 보전을 위하여 환경부 장관이 지정하여 고시하는 도서(이하 ‘특정도서’라 한다)에서 다음 각 호의 어느 하나에 해당하는 행위를 하여서는 아니 된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8067,
+      "question": "사업주는 특수건강진단대상업무에 종사하는 근로자의 건강관리를 위하여 특수건강진단을 실시하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8068,
+      "question": "사업주는 제△△조 제1항에 따른 특수건강진단기관에서 특수건강진단을 실시하여야 한다. 제□□조(특수건강진단에 관한 사업주의 의무) ① 사업주는 특수건강진단을 실시하는 경우 근로자대표가 요구하면 근로자 대표를 참석시켜야 한다. ② 사업주는 산업안전보건위원회 또는 근로자대표가 요구할 때에는 특수건강진단 결과에 대하여 설명하여야 한다. 다만 개별 근로자의 특수건강진단 결과는 본인의 동의 없이 공개해서는 아니 된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8069,
+      "question": "사업주는 특수건강진단의 결과 근로자의 건강을 유지하기 위하여 필요하다고 인정할 때에는 작업장소 변경, 작업 전환, 근로시간 단축, 야간근로(오후 10시부터 다음 날 오전 6시까지 사이의 근로를 말한다)의 제한, 작업환경측정 또는 시설ㆍ설비의 설치ㆍ개선 등 적절한 조치를 하여야 한다. 제△△조(특수건강진단기관) ① 의료기관이 특수건강진단을 수행하려는 경우에는 고용노동부장관으로부터 특수건강진단을 할 수 있는 기관(이하 ‘특수건강진단기관’이라 한다)으로 지정 받아야 한다. ② 고용노동부장관은 특수건강진단기관의 진단ㆍ분석 결과에 대한 정확성과 정밀도를 확보하기 위하여 특수건강진단기관의 진단ㆍ분석능력을 확인하고, 특수건강진단기관을 지도하거나 교육할 수 있다. ③ 고용노동부장관은 특수건강진단기관을 평가하고 그 결과 (제2항에 따른 진단ㆍ분석능력의 확인 결과를 포함한다)를 공개할 수 있다. ① 사업주는 특수건강진단을 실시하는 경우 고용노동부장관이 요구하면 근로자대표를 참석시켜야 한다. ② 근로자대표는 산업안전보건위원회의 동의 없이는 사업주가 특수 건강진단 결과에 대하여 설명하도록 요구할 수 없다. ③ 산업안전보건위원회는 특수건강진단의 결과 근로자의 건강을 유지하기 위하여 필요하다고 인정할 때에는 야간근로를 제한하는 조치를 하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8070,
+      "question": "고용노동부장관은 특수건강진단기관의 진단ㆍ분석능력 확인 결과를 포함하여 특수건강진단기관에 대한 평가 결과를 공개할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8071,
+      "question": "사업주는 근로자대표의 요구가 있다면 개별 근로자의 특수건강 진단 결과를 본인 동의 없이 공개할 수 있다. 2025년도 국가공무원 7급 공채 등 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8072,
+      "question": "소방대장은 화재가 발생한 현장에서 소방활동을 위하여 필요할 때에는 그 현장에 있는 사람으로 하여금 사람을 구출하는 일 또는 불을 끄거나 불이 번지지 아니하도록 하는 일을 하게 할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8073,
+      "question": "제1항에 따른 명령에 따라 소방활동에 종사한 사람은 시ㆍ도지사로부터 소방활동의 비용을 지급받을 수 있다. 다만 다음 각 호의 어느 하나에 해당하는 사람의 경우에는 그러하지 아니하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8074,
+      "question": "A지역에서 금연, 절주, 걷기를 실천하는 사람의 비율이 각각 2%p씩 높아지면 건강생활실천율도 2%p 높아진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8075,
+      "question": "건강생활실천율이 증가하려면 금연, 절주, 걷기를 실천하는 사람의 비율 중 가장 낮은 값이 증가해야만 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8076,
+      "question": "금연과 절주를 동시에 실천하는 사람의 비율은 B지역이 C지역보다 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8077,
+      "question": "D지역에서 걷기를 실천하는 사람의 비율은 최소 30%이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8078,
+      "question": "甲도의 건강생활실천율은 30%이다. 상황판단영역 책형 8쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8083,
+      "question": "甲～丁이 가지고 있는 카드는 어느 것도 확정할 수 없다. 2025년도 국가공무원 7급 공채 등 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8084,
+      "question": "B－D－C－A 2025년도 국가공무원 7급 공채 등 필기시험 상황판단영역 책형 13쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

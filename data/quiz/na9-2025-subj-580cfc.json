@@ -1,0 +1,457 @@
+{
+  "slug": "na9-2025-subj-580cfc",
+  "name": "건축구조",
+  "exam_group": "국회직 9급 · 2025년",
+  "subject": "건축구조",
+  "phase": null,
+  "source": "국회직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 37,
+  "questions": [
+    {
+      "id": 12998,
+      "question": "수직하중은 전단벽이나 가새골조가 저항하고, 지진하중은 입체 골조가 저항하는 구조방식을 건물골조방식이라 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12999,
+      "question": "내진슬릿은 조적조 혹은 비구조 콘크리트벽이 기둥과 접한 부분 에 부재의 취성파괴를 방지하기 위해 설치하는 줄눈이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13000,
+      "question": "밑면전단력은 구조물의 밑면에 작용하는 설계용 총 전단력이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13001,
+      "question": "성능기반 내진설계는 엄격한 규정 및 절차에 따라 설계하는 사양 기반설계에서 벗어나서 목표로 하는 내진성능수준을 달성할 수 있는 다양한 설계기법의 적용을 허용하는 설계방법이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13002,
+      "question": "층간변위각은 층간변위를 층 높이로 나눈 값이다. - 19 - 건축구조",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13003,
+      "question": "재료분리가 없을 정도의 유동성을 갖도록 물을 첨가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13004,
+      "question": "배합의 결정은 속 빈 부분을 빈틈없이 충전할 수 있도록 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13005,
+      "question": "압축강도는 조적객체 강도의 0.8 이상으로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13006,
+      "question": "동결방지용액은 그라우트에 사용할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13007,
+      "question": "카본블랙의 사용은 시멘트 전체 중량의 3% 이하로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13008,
+      "question": "반력V 와 반력V 의 방향은 모두 상향(↑)이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13009,
+      "question": "반력H 는 kN이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13010,
+      "question": "D점 모멘트(M ) 절댓값은 kN·m이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13011,
+      "question": "C점 모멘트(M ) 절댓값은 kN·m이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13012,
+      "question": "A점과 B점에서의 모멘트는 모두 kN·m이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13013,
+      "question": "A점의 수직반력은 B점의 수직반력보다 크다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13014,
+      "question": "AC 구간의 부재는 압축력이 작용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13015,
+      "question": "CB 구간의 부재는 인장력이 작용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13016,
+      "question": "C점에서의 모멘트가 가장 크다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13017,
+      "question": "B점에서 수평반력의 방향은 우향(→)이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13018,
+      "question": "볼트의 중심선을 연결하는 선을 게이지선(gauge line)이라고 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13019,
+      "question": "최대연단거리는 판두께의 12배 이하, 150mm 이하로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13020,
+      "question": "볼트 중심 사이의 간격을 피치(pitch)라고 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13021,
+      "question": "볼트 중심에서 부재의 측단까지 거리를 측단거리라고 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13022,
+      "question": "최소 피치는 볼트구멍 직경의 1.5배로 한다. - 2025년도 국회사무처 시행 9급 공개경쟁채용시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13023,
+      "question": "D16 이하의 철근을 스터럽과 띠철근으로 사용할 때, 표준갈고리 의 구부림 내면 반지름은 1.5d 이상으로 하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13024,
+      "question": "주철근의 90°표준갈고리는 구부린 끝에서 12d 이상 더 연장되어 b 야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13025,
+      "question": "D16 이하 스터럽과 띠철근의 90°표준갈고리는 구부린 끝에서 6 d b 이상 더 연장하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13026,
+      "question": "D25 이하 스터럽과 띠철근의 135°표준갈고리는 구부린 끝에서 6 d 이상 더 연장하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13027,
+      "question": "주철근의 180°표준갈고리는 구부린 반원 끝에서 4d 이상, 60mm b 이상 더 연장되어야 한다. - 21 - 건축구조",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13028,
+      "question": "인접 2경간의 차이가 짧은 경간의 20% 이하인 경우",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13030,
+      "question": "활하중이 고정하중의 3배를 초과하지 않는 경우",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13032,
+      "question": "용접치수는 mm이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13033,
+      "question": "연결부재의 순단면적은 mm이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13034,
+      "question": "한 면의 유효용접길이는 mm이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13035,
+      "question": "거셋 플레이트와 연결부재의 접합은 그루브 용접이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13036,
+      "question": "연결부재의 폭은 mm이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

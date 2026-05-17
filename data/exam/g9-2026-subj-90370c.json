@@ -1,0 +1,271 @@
+{
+  "category": {
+    "slug": "g9-2026-subj-90370c",
+    "name": "화학공학일반",
+    "exam_group": "국가직 9급 · 2026년",
+    "subject": "화학공학일반",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 3863,
+      "statement": "외란 변화에 의한 영향을 예상하여 외란이 공정에 영향을 주기 전에 보정 작용을 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "화학공학일반_가.pdf",
+      "source": {
+        "qid": 4,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3864,
+      "statement": "주 루프(primary loop)의 속도가 종속 루프(secondary loop)의 속도보다 빨라야 효율적이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "화학공학일반_가.pdf",
+      "source": {
+        "qid": 4,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3865,
+      "statement": "종속 루프의 설정점은 주 루프와 독립적으로 결정된다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "화학공학일반_가.pdf",
+      "source": {
+        "qid": 4,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3866,
+      "statement": "여러 개의 제어 루프를 계층적으로 구성하여 외란의 영향을 효과적으로 줄여준다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "화학공학일반_가.pdf",
+      "source": {
+        "qid": 4,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3869,
+      "statement": "일반적으로 액체가 고체보다 크다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "화학공학일반_가.pdf",
+      "source": {
+        "qid": 7,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3870,
+      "statement": "건물의 단열재로 열전도도가 큰 재료가 사용된다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "화학공학일반_가.pdf",
+      "source": {
+        "qid": 7,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3871,
+      "statement": "모든 물질의 열전도도는 온도가 변해도 변하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "화학공학일반_가.pdf",
+      "source": {
+        "qid": 7,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3872,
+      "statement": "상온, 상압에서 구리의 열전도도는 철의 열전도도보다 크다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "화학공학일반_가.pdf",
+      "source": {
+        "qid": 7,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3873,
+      "statement": "비금속 표면이 금속 표면보다 높다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "화학공학일반_가.pdf",
+      "source": {
+        "qid": 15,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3874,
+      "statement": "금속 표면이 매끄러울수록 복사율이 높아진다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "화학공학일반_가.pdf",
+      "source": {
+        "qid": 15,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3875,
+      "statement": "산화물층이 금속 표면에 형성되면 복사율이 낮아진다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "화학공학일반_가.pdf",
+      "source": {
+        "qid": 15,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3876,
+      "statement": "모든 금속 표면의 복사율은 온도 증가에 따라 낮아진다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "화학공학일반_가.pdf",
+      "source": {
+        "qid": 15,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 12,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

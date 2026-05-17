@@ -1,0 +1,493 @@
+{
+  "slug": "l9-2025-subj-84dbd0",
+  "name": "교육학개론",
+  "exam_group": "지방직 9급 · 2025년",
+  "subject": "교육학개론",
+  "phase": null,
+  "source": "지방직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 40,
+  "questions": [
+    {
+      "id": 10384,
+      "question": "교육은 현재의 생활 그 자체이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10385,
+      "question": "학습은 아동의 흥미와 관련되어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10386,
+      "question": "학교는 협동을 장려하는 곳이어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10387,
+      "question": "위대한 고전 읽기 교육을 강조한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10388,
+      "question": "규준지향평가는 상대적인 서열과 관계없이 판단하는 평가이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10389,
+      "question": "준거지향평가는 학습자가 정해진 목표에 도달하였는지 판단하는 평가이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10390,
+      "question": "형성평가는 교수ㆍ학습이 진행되는 동안 실시되며, 수업 방법의 개선을 위한 평가이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10391,
+      "question": "총합평가는 학기말 또는 학년말에 교육목표의 달성 정도를 종합적으로 판정하는 평가이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10392,
+      "question": "질적연구방법을 선호한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10393,
+      "question": "연역적 접근과 사고를 강조한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10394,
+      "question": "교육의 내적과정에 대한 미시적 분석을 강조한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10395,
+      "question": "기능론과 갈등론적 접근을 비판하면서 등장한 대안적 접근이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10396,
+      "question": "교사는 법령에서 정하는 바에 따라 학생을 교육한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10397,
+      "question": "수석교사는 교사의 교수ㆍ연구 활동을 지원하며, 학생을 교육한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10398,
+      "question": "행정직원은 법령에서 정하는 바에 따라 학교의 행정사무를 담당하고, 학생을 교육한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10399,
+      "question": "교장은 교무를 총괄하고, 민원처리를 책임지며, 소속 교직원을 지도ㆍ감독하고, 학생을 교육한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10400,
+      "question": "실험ㆍ실습은 자연과학 분야에서 많이 사용된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10401,
+      "question": "면접에서는 평가자가 학생과의 대화를 통해 정보를 수집한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10402,
+      "question": "토론법은 특정 주제에 대한 학생들의 토론을 보고 평가하는 방법이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10403,
+      "question": "실기시험은 자연스러운 상황이 아니라 잘 통제된 상황에서 실시한다. 2025년도 지방공무원 9급 등 공개경쟁임용 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10404,
+      "question": "가드너(H. Gardner)는 세계 최초로 표준화된 지능검사를 개발하였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10405,
+      "question": "카우프만(Kaufman) 아동용 지능검사(K－ABC)는 비언어적 척도를 포함한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10406,
+      "question": "웩슬러(Wechsler) 지능검사는 언어, 논리ㆍ수학, 공간, 음악 지능으로 구성된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10407,
+      "question": "스탠포드－비네(Stanford－Binet) 지능검사에서 IQ는 생활연령을 정신연령으로 나눈 값에 10을 곱해 계산한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10408,
+      "question": "학교가 교육을 독점하는 것을 인정한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10409,
+      "question": "계획적인 학습과 우발적인 학습을 모두 포함한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10410,
+      "question": "모든 기관과 모든 장소에서 이루어지는 교육을 수평적으로 통합한 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10411,
+      "question": "한 개인의 생존기간 전체에 걸쳐 이루어지는 교육을 수직적으로 통합한 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10412,
+      "question": "평생교육사는 평생교육의 기획ㆍ진행ㆍ분석ㆍ평가 및 교수업무를 수행한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10413,
+      "question": "평생교육사 자격증은 다른 사람에게 빌려주거나 빌려서는 아니 되며, 이를 알선하여서도 아니 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10414,
+      "question": "평생교육사의 등급, 직무범위, 이수과정, 연수 및 자격증의 교부절차 등에 필요한 사항은 대통령령으로 정한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10415,
+      "question": "거짓이나 그 밖의 부정한 방법으로 평생교육사 자격을 취득하여 자격이 취소된 경우, 그 자격이 취소된 날부터 1년이 경과하면 다시 평생교육사가 될 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10416,
+      "question": "이데아의 세계는 지속적으로 변화한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10417,
+      "question": "귀족주의, 엘리트주의적인 특징을 갖는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10418,
+      "question": "통치자 계급에게 절제의 덕을 강조하였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10419,
+      "question": "이상국가에서 인간의 계급은 네 개로 분류된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10420,
+      "question": "교육지원청의 관할구역과 명칭은 대통령령으로 정한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10421,
+      "question": "교육지원청에 교육장을 두되 장학관으로 보하고, 그 임용에 관하여 필요한 사항은 대통령령으로 정한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10422,
+      "question": "교육지원청은 지방의 교육ㆍ학예에 관한 사무를 담당하기 위해 설치된 하급교육행정기관으로 특별시ㆍ광역시에는 설치할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10423,
+      "question": "시ㆍ도의 교육ㆍ학예에 관한 사무를 분장하기 위하여 1개 또는 2개 이상의 시ㆍ군 및 자치구를 관할구역으로 하는 하급교육행정 기관으로서 교육지원청을 둔다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

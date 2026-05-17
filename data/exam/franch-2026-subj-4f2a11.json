@@ -1,0 +1,208 @@
+{
+  "category": {
+    "slug": "franch-2026-subj-4f2a11",
+    "name": "경영학",
+    "exam_group": "가맹거래사 1차 · 2026년",
+    "subject": "경영학",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 22417,
+      "statement": "진열장에 진열된 제품 200,000원을 도난당하",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 82,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22418,
+      "statement": "화재로 인해 제품 100,000원이 소실되었다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 82,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22419,
+      "statement": "거래처의 파산으로 매출채권 100,000원이 회",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 82,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22421,
+      "statement": "영업부에서 월 급여 3,000,000원을 주기로",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 82,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22422,
+      "statement": "유보가격(reservation price)은 소비자가 제 가격이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 94,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22423,
+      "statement": "준거가격(reference price)은 구매자가 의심",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 94,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22424,
+      "statement": "묶음가격(bundling pricing)은 특정 제품과 가격설정방식이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 94,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22425,
+      "statement": "유인가격(loss-leader pricing)은 소비자들에 하게 낮은 가격을 제시하는 가격설정방식이",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 94,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22426,
+      "statement": "초기고가전략(skimming pricing)은 도입기 하는 가격전략이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학.pdf",
+      "source": {
+        "qid": 94,
+        "option": "⑤"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 9,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

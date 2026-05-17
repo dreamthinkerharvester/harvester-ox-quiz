@@ -1,0 +1,376 @@
+{
+  "category": {
+    "slug": "g9-2026-subj-11f32b",
+    "name": "조경계획및설계",
+    "exam_group": "국가직 9급 · 2026년",
+    "subject": "조경계획및설계",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 3154,
+      "statement": "Taxus cuspidata S. et Z.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "조경계획및설계_가.pdf",
+      "source": {
+        "qid": 1,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3155,
+      "statement": "난색(따뜻한 색채)계통은 조망자의 시선을 끌어들인다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "조경계획및설계_가.pdf",
+      "source": {
+        "qid": 2,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3156,
+      "statement": "고운 질감은 거리가 멀어지는 경관효과가 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "조경계획및설계_가.pdf",
+      "source": {
+        "qid": 2,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3157,
+      "statement": "식물재료는 공간 내의 여러 요소를 통일, 결합하는 역할을 할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "조경계획및설계_가.pdf",
+      "source": {
+        "qid": 2,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3158,
+      "statement": "광장에 서 있거나 고층 건물에서 내려다보는 경우를 모두 고려하여 바닥포장 패턴을 구성해간다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "조경계획및설계_가.pdf",
+      "source": {
+        "qid": 2,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3164,
+      "statement": "지방자치단체의 장인 시장은 가로수의 월별 관리 계획이 포함된 연차별 가로수계획을 수립ㆍ시행하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "조경계획및설계_가.pdf",
+      "source": {
+        "qid": 8,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3165,
+      "statement": "도시숲이란 우수한 산림의 경관자원 보존과 자연학습교육 등을 위하여 조성ㆍ관리하는 산림을 말한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "조경계획및설계_가.pdf",
+      "source": {
+        "qid": 8,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3166,
+      "statement": "산림청장은 5년마다 가로수 조성ㆍ관리계획을 수립ㆍ시행하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "조경계획및설계_가.pdf",
+      "source": {
+        "qid": 8,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3167,
+      "statement": "도시숲은 국립공원ㆍ도립공원ㆍ군립공원 및 지질공원 등을 포함하는 개념이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "조경계획및설계_가.pdf",
+      "source": {
+        "qid": 8,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3172,
+      "statement": "규모에 있어 주거단위는 초등학교 두 개를 유치할 수 있는 인구를 가져야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "조경계획및설계_가.pdf",
+      "source": {
+        "qid": 15,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3173,
+      "statement": "내부 도로체계는 통과교통 위주의 가로체계를 갖추어야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "조경계획및설계_가.pdf",
+      "source": {
+        "qid": 15,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3174,
+      "statement": "주민의 일상생활 충족을 위하여 소공원과 위락공간 등의 오픈 스페이스를 갖추어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "조경계획및설계_가.pdf",
+      "source": {
+        "qid": 15,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3175,
+      "statement": "근린상가는 주구 방문객만을 위한 서비스를 제공할 수 있도록 설치한다. 조경계획 및 설계 책형 2쪽",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "조경계획및설계_가.pdf",
+      "source": {
+        "qid": 15,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3176,
+      "statement": "중심은 계단식 화계 요소이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "조경계획및설계_가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3177,
+      "statement": "조경은 자연에 순응하는 형태를 취한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "조경계획및설계_가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3178,
+      "statement": "정자의 형태는 정면 2칸, 측면 4칸이 기본형이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "조경계획및설계_가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3179,
+      "statement": "석지, 괴석, 석탑 등을 축조하지 않았다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "조경계획및설계_가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 17,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

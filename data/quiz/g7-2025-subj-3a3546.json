@@ -1,0 +1,577 @@
+{
+  "slug": "g7-2025-subj-3a3546",
+  "name": "경제학",
+  "exam_group": "국가직 7급 · 2025년",
+  "subject": "경제학",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 47,
+  "questions": [
+    {
+      "id": 7014,
+      "question": "단위당 2의 조세를 부과할 때, 생산자가격은 8이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7015,
+      "question": "단위당 2의 조세를 부과할 때, 소비자와 생산자에게 귀착되는 조세부담의 크기는 동일하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7016,
+      "question": "단위당 세금액이 커질수록 조세수입은 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7017,
+      "question": "단위당 세금액이 커질수록 경제적 순손실(deadweight loss)은 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7018,
+      "question": "부정적인 외부효과뿐만 아니라 긍정적인 외부효과도 시장실패의 원인이 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7019,
+      "question": "한 소비자가 특정 재화를 소비함으로써 얻는 혜택이 그 재화를 소비하는 다른 소비자들의 수요에 의해 영향을 받을 때, 네트워크 외부효과가 존재한다고 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7020,
+      "question": "생산 측면의 부정적 외부효과가 존재할 때, 시장 균형거래량이 사회적으로 최적인 수준보다 많다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7021,
+      "question": "소비 측면의 긍정적 외부효과가 존재할 때, 사회적 한계편익이 사적 한계편익보다 작다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7022,
+      "question": "재 소비를 통해 얻는 효용과 재 소비를 통해 얻는 효용의 크기는 같다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7023,
+      "question": "A의 재와 재에 대한 주관적인 교환비율과 시장에서 결정된 두 재화의 객관적인 교환비율은 다르다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7024,
+      "question": "두 재화의 한계대체율은 1이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7025,
+      "question": "재와 재에 대한 소비량은 같다. 2025년도 국가공무원 7급 공채 제2차 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7026,
+      "question": "조세부담은 모두 독점기업에게 귀착된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7027,
+      "question": "기업의 이윤극대화 생산량이 감소한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7028,
+      "question": "기업의 한계비용이 상승한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7029,
+      "question": "조세부과에 따른 경제적 순손실이 발생한다. 경 제 학 책형 2쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7030,
+      "question": "정부가 재정적자를 보전할 재원이 부족할 경우 국채를 발행할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7031,
+      "question": "통화정책에 비해서 집행시차(implementation lag)가 짧다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7032,
+      "question": "확장적 재정정책으로 구축효과가 발생할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7033,
+      "question": "통화정책에 비해서 외부시차(outside lag)가 짧다. 2025년도 국가공무원 7급 공채 제2차 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7034,
+      "question": "솔로우(Solow) 성장 모형에서 저축은 지속적인 경제성장으로 연결된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7035,
+      "question": "솔로우 성장 모형에 따르면 외생적 기술진보만이 지속적인 경제 성장을 설명할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7036,
+      "question": "AK 내생적 성장 모형에서 자본에 대한 한계생산은 체감한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7037,
+      "question": "AK 내생적 성장 모형에서 자본 증가율이 음(－)인 경우에는 외생적 기술진보 없이도 지속적인 경제성장이 가능하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7038,
+      "question": "국내 수요량은 2가 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7039,
+      "question": "사회후생은 자유무역 이전보다 3만큼 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7040,
+      "question": "국내 소비자 잉여는 1이 된다. 경 제 학 책형 3쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7041,
+      "question": "우상향하는 노동공급곡선이 도출된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7042,
+      "question": "우하향하는 노동공급곡선이 도출된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7043,
+      "question": "대체효과가 소득효과보다 커서 후방굴절형 노동공급곡선이 도출된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7044,
+      "question": "소득효과가 대체효과보다 커서 후방굴절형 노동공급곡선이 도출된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7045,
+      "question": "수익률곡선은 이자율의 기간구조를 나타낸다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7046,
+      "question": "기대이론(expectations theory)에 따르면 장기이자율은 현재 단기 이자율과 장기채권의 해당 기간 동안 예상되는 단기이자율들의 평균과 같다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7047,
+      "question": "분할시장이론(segmented markets theory)은 서로 다른 만기를 가진 채권들은 완전대체재가 아님을 가정한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7048,
+      "question": "유동성 프리미엄이론(liquidity premium theory)에 따르면 수익률 곡선이 우하향하는 경우 미래의 단기이자율은 상승할 것이다. 2025년도 국가공무원 7급 공채 제2차 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7049,
+      "question": "A국의 관세 부과를 통한 보호주의 무역정책은 실질환율을 상승시켜 순수출을 감소시킨다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7050,
+      "question": "세계경제에서 차지하는 비중이 큰 해외 국가의 확장적 재정정책은 실질환율을 하락시켜 순수출을 증가시킨다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7051,
+      "question": "A국의 투자세액공제 정책으로 인한 투자 증가는 실질환율을 상승시켜 순수출을 감소시킨다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7052,
+      "question": "A국의 확장적 재정정책은 실질환율을 상승시켜 순수출을 감소시킨다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7053,
+      "question": "단기 시장가격의 상승으로 인해 새로운 장기균형가격은 이전의 장기균형가격보다 높아진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7054,
+      "question": "시장 거래량은 단기에 증가하지만, 새로운 장기균형점에서는 이전의 장기균형점에서의 시장 거래량과 같아진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7055,
+      "question": "단기 시장가격은 상승하지만, 새로운 장기균형가격은 이전의 장기 균형가격과 같아진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7056,
+      "question": "시장수요 증가 이전의 장기균형점과 이후의 장기균형점은 동일하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7057,
+      "question": "균형가격과 균형수량은 각각 45와 20이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7058,
+      "question": "정부가 최저가격을 20으로 설정할 때, 초과수요량은 35이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7059,
+      "question": "정부가 최고가격을 25로 설정할 때, 경제적 순손실의 크기는 100이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7060,
+      "question": "균형점에서 공급의 가격탄력성은 2이다. 2025년도 국가공무원 7급 공채 제2차 필기시험 경 제 학 책형 5쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

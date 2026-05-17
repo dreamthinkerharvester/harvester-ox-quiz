@@ -1,0 +1,157 @@
+{
+  "slug": "g9-2025-subj-b8d550",
+  "name": "전기이론",
+  "exam_group": "국가직 9급 · 2025년",
+  "subject": "전기이론",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 12,
+  "questions": [
+    {
+      "id": 4955,
+      "question": "반발력이 작용하고, 크기는 배가 된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4956,
+      "question": "반발력이 작용하고, 크기는 배가 된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4957,
+      "question": "흡인력이 작용하고, 크기는 배가 된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4958,
+      "question": "흡인력이 작용하고, 크기는 배가 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4963,
+      "question": "순시전력은 복소전력의 크기이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4964,
+      "question": "유효전력은 저항에서 실제로 소비되는 전력이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4965,
+      "question": "피상전력은 전압 실횻값과 전류 실횻값의 곱이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4966,
+      "question": "무효전력은 리액턴스에서 전원과 교환되는 전력이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4967,
+      "question": "각 선전류의 위상차는 120°이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4968,
+      "question": "상전압과 선간전압의 크기가 같다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4969,
+      "question": "상전류 크기는 선전류 크기의  배이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4970,
+      "question": "상전류와 선전류 사이의 위상차가 존재한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

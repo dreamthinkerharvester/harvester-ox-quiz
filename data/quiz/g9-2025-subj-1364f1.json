@@ -1,0 +1,49 @@
+{
+  "slug": "g9-2025-subj-1364f1",
+  "name": "화학",
+  "exam_group": "국가직 9급 · 2025년",
+  "subject": "화학",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 3,
+  "questions": [
+    {
+      "id": 5807,
+      "question": "1단계는 일분자 반응이고, 2단계는 이분자 반응이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5808,
+      "question": "실험으로 측정한 전체반응의 속도법칙이 속도＝ NO 라면  속도결정단계는 1단계이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5811,
+      "question": "HNO 의 짝염기는 H O이다.  ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

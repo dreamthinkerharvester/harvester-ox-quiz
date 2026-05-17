@@ -1,0 +1,691 @@
+{
+  "category": {
+    "slug": "ms9-2025-subj-4f2a11",
+    "name": "경영학",
+    "exam_group": "군무원 9급 · 2025년",
+    "subject": "경영학",
+    "phase": null,
+    "exam_year": 2025,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 11882,
+      "statement": "㉱ 는 7. 목표관리기법(MBO) 프로그램의 공통된 네 가지 요소로 적절하지 않은 것은? ① 목표 특수성 ② 의사결정 참가 ③ 명확한 기간 ④ 분배적 정의 9급) 4 - 1",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 6,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11883,
+      "statement": "관리비용(Management Cost), 투자손실 (Investment Loss), 계약비용(Contract Cost)",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 8,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11884,
+      "statement": "감시비용(Monitoring Cost), 잔여손실 (Residual Loss), 확증비용(Bonding Cost)",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 8,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11885,
+      "statement": "감시비용(Monitoring Cost), 잔여손실 (Residual Loss), 계약비용(Contract Cost)",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 8,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11886,
+      "statement": "관리비용(Management Cost), 투자손실 (Investment Loss), 확증비용(Bonding Cost) 1",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 8,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11887,
+      "statement": "문제인식→대안평가→정보탐색→구매결정 →구매 후 행동",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 9,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11888,
+      "statement": "정보탐색→문제인식→대안평가→구매결정 1 →구매 후 행동",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 9,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11889,
+      "statement": "정보탐색→대안평가→문제인식→구매결정 →구매 후 행동",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 9,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11890,
+      "statement": "문제인식→정보탐색→대안평가→구매결정 →구매 후 행동",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 9,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11891,
+      "statement": "제품 포트폴리오 관리(PPM) 경영학(9급 ) 11. 조직에서 집단 간 갈등을 유발하는 원인으로 y 가장 적절하지 않은 것은? ① 보상구조 ② 상위목표 ③ 지각의 차이 ④ 업무의 상호의존성",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 10,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11895,
+      "statement": "형성-실행-혼란-규범-해체 을 14. 회계처리 시 차변(Debit)과 대변(Credit)에 기재하는 이 내용으로 가장 적절한 것은? 장 차변 대변 ① 자산의 증가 자산의 감소 ② 부채의 증가 부채의 감소 ③ 자본의 증가 자본의 감소 ④ 수익의 발생 비용의 발생 9급) 4 - 2",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 13,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11896,
+      "statement": "신뢰성은 성과측정이 확률적 오차로부터 자유로운 정도를 의미한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 16,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11897,
+      "statement": "신뢰성을 평가하는 데 있어 상관계수를 계산 해야 하고, 상관계수는 두 변수들 사이의 상관관계의 정도를 나타낸다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 16,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11898,
+      "statement": "신뢰성을 평가할 때, 측정의 신뢰도 평가와 신뢰성의 기준이 중요하다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 16,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11899,
+      "statement": "신뢰성은 선발도구로부터의 성과가 직무로부터 성과를 반영하는 정도를 나타낸다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 16,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11903,
+      "statement": "팩토링(Factoring) 경영학(9급 : 18. 재무관리의 목표로 가장 적절하지 않은 것은? ① 기업가치의 극대화 ② 매출의 극대화 ③ 주주 부의 극대화 ④ 주가의 극대화 로 19. 생산제품의 수요 예측에 활용되는 시계열분석 모델에서 다음의 시계열 데이터 구성요소에 대한 운 설명으로 가장 적절하지 않은 것은? ① 추세변동(Trend Variation)-장기간에 걸친 산 변동의 전반적 방향성 의 ② 계절변동(Seasonal Variation)-1년을 주기로 동일 계절이나 시기에 따라 반복되는 변동 와 ③ 순환변동(Cyclical Variation)-일정한 주기에 걸쳐 단기간에 균일하게 발생하는 변동 터 ④ 불규칙변동(Irregular Variation)-예상할 수 없는 돌발적 원인이나 불분명한 원인으로 일어나는 변동",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 17,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11904,
+      "statement": "모든 투자자는 자산의 미래수익률 분포에 대해 동질적으로 기대한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 21,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11905,
+      "statement": "모든투자자는 평균-분산 기준에 따라 투자한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 21,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11906,
+      "statement": "모든 투자자는 위험선호형이며, 기대효용이 극대화되도록 투자한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 21,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11907,
+      "statement": "무위험자산이 존재하며, 모든 투자자는 무위험 이자율로 자금을 얼마든지 차입 또는 대출 할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 21,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11908,
+      "statement": "외재화(Externalization)는 특정 사람의 형식지가 다른 사람의 암묵지로 생성·전이되는 과정이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 22,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11909,
+      "statement": "사회화(Socialization)는 특정 사람의 암묵지가 다른 사람의 암묵지로 생성·전이되는 과정이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 22,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11910,
+      "statement": "종합화(Combination)는 특정 사람의 암묵지가 다른 사람의 형식지로 생성·전이되는 과정이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 22,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11911,
+      "statement": "내재화(Internalization)는 특정 사람의 형식지가 다른 사람의 형식지로 생성·전이되는 과정이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 22,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11912,
+      "statement": "직무 기술서를 제공함으로써 기업이 잘 파악 하고 있는 지원자를 모집할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 23,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11913,
+      "statement": "지원자가 많을수록 비용과 속도에서 효율성이 높다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 23,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11914,
+      "statement": "새로운 아이디어와 새로운 방식의 업무를 진행 하는 데 효과가 있고, 회사를 강화하고 경쟁 자를 약화시키는 데 좋은 방법이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 23,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11915,
+      "statement": "지원자들은 지원하는 일자리에 대한 지식을 갖고 있기에, 일자리에 대한 과장된 기대를 최소화 할 수 있다. 경영학(9급",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 23,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11916,
+      "statement": "원가우위전략(Cost Leadership Strategy)",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 24,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11917,
+      "statement": "차별화전략(Differentiation Strategy)",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 24,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11918,
+      "statement": "방어형전략(Defender Strategy) 이",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 24,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11919,
+      "statement": "집중화전략(Focused Strategy) 험 출 간 25. 직무설계의 동기부여적 접근법에 대한 설명으로 I 적절하지 않은 것은? ① 직무특성이 심리적 의미와 잠재적 동기에 가 영향을 준다는 것에 초점을 두고 있다. ② 동기부여적 접근법은 직무설계에 있어 조직 가 심리학에 기반을 두고 있다. ③ 전통적인 산업공학에 근간을 두고 있으며, 가 직무 구조화 방식의 효율성을 극대화 하는 것에 초점을 두고 있다. 가 ④ 직무만족, 직무관여, 참여와 성과 변수 등의 태도변수를 직무설계의 중요한 결과로 보고 있다. 명 악 이 행 쟁 을 를 9급) 4 - 4",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경영학_9급(최종).pdf",
+      "source": {
+        "qid": 24,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:38+00:00",
+    "total": 32,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

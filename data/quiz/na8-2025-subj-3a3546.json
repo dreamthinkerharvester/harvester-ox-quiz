@@ -1,0 +1,481 @@
+{
+  "slug": "na8-2025-subj-3a3546",
+  "name": "경제학",
+  "exam_group": "국회직 8급 · 2025년",
+  "subject": "경제학",
+  "phase": null,
+  "source": "국회직 8급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 39,
+  "questions": [
+    {
+      "id": 13935,
+      "question": "이 재화는 사치재이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13936,
+      "question": "사람들은 소득이 늘어남에 따라 이 재화를 더 많이 구매한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13937,
+      "question": "이 재화의 수요의 가격탄력성은 1보다 크다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13938,
+      "question": "단기총비용곡선은 장기총비용곡선과 한 점에서만 접한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13939,
+      "question": "단기평균비용곡선의 최저점은 장기평균비용곡선의 최저점과 항상 일치하지는 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13940,
+      "question": "단기평균비용곡선은 장기평균비용곡선과 한 점에서만 접한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13941,
+      "question": "단기와 장기의 총비용곡선이 접하는 산출량에서 단기와 장기의 평균비용곡선도 접한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13942,
+      "question": "단기와 장기의 총비용곡선이 접하는 산출량에서 단기와 장기의 한계비용곡선도 접한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13943,
+      "question": "정부지출이 소비에 미치는 효과는정액세로 조달되는 경우와 국채 발행으로 조달되는 경우가 동일하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13944,
+      "question": "리카르도 대등정리가 성립하기 위해서는 저축과 차입이 자유롭고 저축이자율과 차입이자율이 동일해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13945,
+      "question": "소비자들이 유동성 제약에 직면해있는 경우 리카르도 대등정리가 성립하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13946,
+      "question": "리카르도 대등정리가 성립하기 위해서는 조세부담을 지는 경제 활동인구의 증가율이 0보다 커야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13947,
+      "question": "민간은 정부가 발행한 국채를 자산이 아닌 부채로 인식한다. - 9 - 학 책형 가",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13948,
+      "question": "(4, 6) - 2025년도 8급 공개경쟁채용시험 경 제 학",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13949,
+      "question": "중앙은행이 재할인율을 인상하면 통화량이 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13950,
+      "question": "중앙은행이 공개시장에서 국공채를 매입하면 통화량이 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13951,
+      "question": "중앙은행이 법정지급준비율을 인하하면 통화량이 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13952,
+      "question": "중앙은행이 양적완화를 실시하면 통화량이 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13953,
+      "question": "중앙은행이 외환시장에서 외환을 매입하면 통화량이 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13954,
+      "question": "예상치 못한 인플레이션은 연금과 같은 고정소득을 받는 자들의 실질소득을 감소시킨다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13955,
+      "question": "예상치 못한 인플레이션은 금전을 대출해 준 채권자의 대출자산 가치를 떨어뜨린다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13956,
+      "question": "예상된 인플레이션 상황 하에서는 채권자가 인플레이션 발생을 예상하여 높은 명목이자율을 책정함으로써 손실을 피할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13957,
+      "question": "해외로부터 수입되는 원자재 가격이예상치 못하게 급등하여 인플 레이션이 발생하는 경우, 이를 비용인상 인플레이션이라고 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13958,
+      "question": "예상된 인플레이션 상황 하에서 명목이자율과 실질이자율은 같다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13959,
+      "question": "정부의 확장적 재정정책으로 실질이자율이 상승하여 해외투자가 위축된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13960,
+      "question": "정부의 확장적 재정정책으로 실질이자율이 하락하여 민간저축이 위축된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13961,
+      "question": "정부의 확장적 재정정책으로 실질이자율이 상승하여 민간투자가 위축된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13962,
+      "question": "정부의 확장적 재정정책으로 실질이자율이 하락하여 민간투자가 위축된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13963,
+      "question": "정부의 확장적 재정정책으로 실질이자율이 하락하여 소비지출이 위축된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13964,
+      "question": "보조금 지급 후 생산자가 최종적으로 수취하는 가격은 P이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13965,
+      "question": "보조금 지급으로 인한 생산자잉여의 증가분은 a+b이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13966,
+      "question": "보조금 지급으로 인한 사회적 후생의 감소분은 c+g이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13967,
+      "question": "보조금의 크기는 a+b+c+d+e+f+g 이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13968,
+      "question": "보조금 지급으로 인한 소비자잉여의 증가분은 a+d+e+f이다. - 2025년도 8급 공개경쟁채용시험 경 제 학",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13975,
+      "question": "정부지출이 확대되면 IS곡선은 우측으로 이동한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13976,
+      "question": "실질환율이 상승하면 IS곡선은 좌측으로 이동한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13977,
+      "question": "긴축적 통화정책을 실시하면 LM곡선은 좌측으로 이동한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13978,
+      "question": "국가 간 자본이동성이 높을수록 BP곡선의 기울기는 완만해진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13979,
+      "question": "실질환율이 상승하면 BP곡선은 우측으로 이동한다. -",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

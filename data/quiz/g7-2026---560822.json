@@ -1,0 +1,229 @@
+{
+  "slug": "g7-2026---560822",
+  "name": "(근로감독,산업안전) 화공열역학",
+  "exam_group": "국가직 7급 · 2026년",
+  "subject": "(근로감독,산업안전) 화공열역학",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 18,
+  "questions": [
+    {
+      "id": 6766,
+      "question": "연속적으로 일련의 평형상태를 거쳐 진행된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6767,
+      "question": "외부 조건의 미소 변화에 의해 공정의 방향이 반전될 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6768,
+      "question": "팽창에서 가장 작은 크기의 일을 생산하고, 압축에서 가장 큰 크기의 일을 소비한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6769,
+      "question": "외부의 도움 없이 열은 저온체에서 고온체로 흐르지 않는다. (단, 반응은 일어나지 않는다고 가정한다)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6770,
+      "question": "고립계(isolated system)의 엔트로피는 일정할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6771,
+      "question": "고온 열저장고와 저온 열저장고 사이에서 작동하는 실제 열기관의 열효율은 같은 조건에서 작동하는 카르노(Carnot) 열기관의 열효율을 초과할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6772,
+      "question": "비가역 공정에서는 우주의 엔트로피가 증가한다. 근로감독 및 산업안전 분야 국가공무원 7급 공채 제2차시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6773,
+      "question": "압축기(2→3)에서 등엔트로피 공정을 거쳐 증기상의 냉매가 압축된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6774,
+      "question": "증발기(1→2)에서 액체상의 냉매가 열을 흡수하며 기화되어 온도가 감소한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6775,
+      "question": "응축기(3→4)에서 비가역적인 공정에 의해 냉매의 엔트로피가 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6776,
+      "question": "조름밸브(throttling valve)(4→1)에서 냉매의 줄－톰슨(Joule- Thomson) 계수는 양수이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6777,
+      "question": "        ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6778,
+      "question": "         ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6779,
+      "question": "         ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6781,
+      "question": "라울(Raoult)의 법칙은 온도 및 압력 조건과 관계없이 모든 액체 혼합물에 정확하게 적용된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6782,
+      "question": "혼합과정에서 엔트로피의 변화가 없다면 해당 용액은 이상용액이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6783,
+      "question": "동일한 온도와 압력에서 각 성분의 화학포텐셜이 모든 상에서 같을 때 그 상들이 평형을 이룬다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6784,
+      "question": "루이스－랜달(Lewis-Randall) 규칙에 따라 이상용액 중의 각 성분의 퓨가시티(fugacity)는 그 성분의 몰분율에 반비례한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

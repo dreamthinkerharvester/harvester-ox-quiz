@@ -1,0 +1,109 @@
+{
+  "slug": "g7-2025-subj-70972d",
+  "name": "전기기기",
+  "exam_group": "국가직 7급 · 2025년",
+  "subject": "전기기기",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 8,
+  "questions": [
+    {
+      "id": 8827,
+      "question": "기동 시 회전자저항이 감소한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8828,
+      "question": "기동 시 누설리액턴스가 감소한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8829,
+      "question": "기동토크와 기동전류가 크게 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8830,
+      "question": "기동토크는 큰 차이가 없지만, 기동전류가 감소한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8831,
+      "question": "영구자석은 잔류자속이 0이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8832,
+      "question": "알니코 자석의 보자력이 네오디뮴 자석보다 항상 크다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8833,
+      "question": "세라믹(페라이트) 자석의 자속밀도가 네오디뮴 자석보다 항상 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8834,
+      "question": "네오디뮴 자석은 동작온도가 상승함에 따라 보자력이 줄어든다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

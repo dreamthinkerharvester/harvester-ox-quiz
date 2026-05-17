@@ -1,0 +1,157 @@
+{
+  "slug": "g7-2026---d8b124",
+  "name": "(근로감독,산업안전) 토질역학",
+  "exam_group": "국가직 7급 · 2026년",
+  "subject": "(근로감독,산업안전) 토질역학",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 12,
+  "questions": [
+    {
+      "id": 6482,
+      "question": "유효응력과 간극비는 직선적 비례관계이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6483,
+      "question": "투수계수는 압밀이 진행되는 동안에 일정하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6484,
+      "question": "흙 입자는 비압축성이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6485,
+      "question": "흙 속에서 물의 흐름은 Darcy 법칙을 따른다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6486,
+      "question": "일축압축시험에서 흙의 내부마찰각이 0°일 때, 점착력은 일축 압축강도와 같다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6487,
+      "question": "압밀배수 삼축압축시험은 전단 단계에서 간극수압이 발생하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6488,
+      "question": "베인전단시험은 점토의 전단강도를 측정하는 데 적합하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6489,
+      "question": "직접전단시험은 전단면이 미리 결정되어 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6490,
+      "question": "N값 측정과 동시에 시료를 채취할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6491,
+      "question": "측정된 N값으로 모래의 내부마찰각을 추정할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6492,
+      "question": "해머의 에너지 효율과 상관없이 측정된 N값은 동일하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6493,
+      "question": "측정하는 N값은 해머를 자유낙하시켜 샘플러 30cm를 관입하는 데 필요한 타격횟수이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

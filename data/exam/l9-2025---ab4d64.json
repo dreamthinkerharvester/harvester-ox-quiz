@@ -1,0 +1,376 @@
+{
+  "category": {
+    "slug": "l9-2025---ab4d64",
+    "name": "경력경쟁 전기기기",
+    "exam_group": "지방직 9급 · 2025년",
+    "subject": "경력경쟁 전기기기",
+    "phase": null,
+    "exam_year": 2025,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 10293,
+      "statement": "정류 주기를 짧게 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 전기기기-B.pdf",
+      "source": {
+        "qid": 2,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10294,
+      "statement": "보극을 설치하여 평균 리액턴스 전압을 증가시킨다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 전기기기-B.pdf",
+      "source": {
+        "qid": 2,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10295,
+      "statement": "단절권, 분포권 등을 채용하여 인덕턴스를 작게 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 전기기기-B.pdf",
+      "source": {
+        "qid": 2,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10296,
+      "statement": "탄소질 브러시와 같이 접촉 저항이 작은 브러시를 사용한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 전기기기-B.pdf",
+      "source": {
+        "qid": 2,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10299,
+      "statement": "중성점이 접지되지 않으면 기전력은 왜형파가 된다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 전기기기-B.pdf",
+      "source": {
+        "qid": 3,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10300,
+      "statement": "중성점이 접지되지 않으면 통신선에 유도 장해를 일으킨다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 전기기기-B.pdf",
+      "source": {
+        "qid": 3,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10301,
+      "statement": "제동 권선을 설치한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 전기기기-B.pdf",
+      "source": {
+        "qid": 4,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10302,
+      "statement": "속응여자 방식을 채용한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 전기기기-B.pdf",
+      "source": {
+        "qid": 4,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10303,
+      "statement": "플라이휠 효과를 이용한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 전기기기-B.pdf",
+      "source": {
+        "qid": 4,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10304,
+      "statement": "직류 전원을 필요로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 전기기기-B.pdf",
+      "source": {
+        "qid": 6,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10305,
+      "statement": "항상 역률 1로 운전할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 전기기기-B.pdf",
+      "source": {
+        "qid": 6,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10306,
+      "statement": "항상 일정한 동기속도로 회전한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 전기기기-B.pdf",
+      "source": {
+        "qid": 6,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10307,
+      "statement": "기동토크가 크기 때문에 다른 기동 방법이 필요 없다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 전기기기-B.pdf",
+      "source": {
+        "qid": 6,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10308,
+      "statement": "계자를 과여자로 하여 운전하면 커패시터 역할을 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 전기기기-B.pdf",
+      "source": {
+        "qid": 14,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10309,
+      "statement": "계자를 부족 여자로 하여 운전하면 리액터 역할을 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 전기기기-B.pdf",
+      "source": {
+        "qid": 14,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10310,
+      "statement": "커패시터 역할로 선로에 전류를 보상해서 역률을 낮추고, 전압 강하를 증가시킨다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 전기기기-B.pdf",
+      "source": {
+        "qid": 14,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10311,
+      "statement": "무부하 송전선로에 흐르는 앞선 전류에 의한 단자전압의 이상 상승을 방지할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 전기기기-B.pdf",
+      "source": {
+        "qid": 14,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:38+00:00",
+    "total": 17,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

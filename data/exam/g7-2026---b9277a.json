@@ -1,0 +1,418 @@
+{
+  "category": {
+    "slug": "g7-2026---b9277a",
+    "name": "(근로감독,산업안전) 반응공학",
+    "exam_group": "국가직 7급 · 2026년",
+    "subject": "(근로감독,산업안전) 반응공학",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 6338,
+      "statement": "CSTR의 내부는 완전혼합된다고 가정한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 반응공학-가.pdf",
+      "source": {
+        "qid": 1,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6339,
+      "statement": "CSTR의 내부 농도는 유입되는 반응물의 농도와 같다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 반응공학-가.pdf",
+      "source": {
+        "qid": 1,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6340,
+      "statement": "PFR의 내부 농도는 흐름의 수직 방향으로는 변화하지 않고 흐름 방향으로만 변화한다고 가정한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 반응공학-가.pdf",
+      "source": {
+        "qid": 1,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6341,
+      "statement": "전환율이 동일할 때, 직렬연결된 CSTR이 많아질수록 그 전체 부피는 단일 PFR의 부피와 유사해진다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 반응공학-가.pdf",
+      "source": {
+        "qid": 1,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6342,
+      "statement": "반응이 진행되는 동안 온도를 높인다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 반응공학-가.pdf",
+      "source": {
+        "qid": 2,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6343,
+      "statement": "반응이 진행되는 동안 온도를 낮춘다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 반응공학-가.pdf",
+      "source": {
+        "qid": 2,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6344,
+      "statement": "반응이 진행되는 동안 온도를 일정하게 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 반응공학-가.pdf",
+      "source": {
+        "qid": 2,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6345,
+      "statement": "압력은 A가 B보다 낮다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 반응공학-가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6346,
+      "statement": "전환율은 A가 B보다 낮다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 반응공학-가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6347,
+      "statement": "반응물의 몰농도는 A가 B보다 낮다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 반응공학-가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6348,
+      "statement": "부피유량은 A가 B보다 작다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 반응공학-가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6349,
+      "statement": "온도가 에서 a로 낮아지면, 생성열이 제거열보다 많아지므로  온도가 으로 되돌아온다. ",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 반응공학-가.pdf",
+      "source": {
+        "qid": 16,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6350,
+      "statement": "온도가 에서 b로 높아지면, 생성열보다 더 많은 열이 제거되므로  온도가 으로 되돌아온다. ",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 반응공학-가.pdf",
+      "source": {
+        "qid": 16,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6351,
+      "statement": "온도가 에서 c로 낮아지면, 생성열이 제거열보다 적어지므로  온도가 로 되돌아온다. ",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 반응공학-가.pdf",
+      "source": {
+        "qid": 16,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6352,
+      "statement": "온도가 에서 d로 높아지면, 생성열보다 더 적은 열이 제거되므로  온도가 로 높아진다.  근로감독 및 산업안전 분야 국가공무원 7급 공채 제2차시험",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 반응공학-가.pdf",
+      "source": {
+        "qid": 16,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6353,
+      "statement": "공급 원료의 온도()가 500K일 경우 반응속도가 커서 가장 많은 f 생성물을 얻을 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 반응공학-가.pdf",
+      "source": {
+        "qid": 20,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6354,
+      "statement": "공급 원료의 온도()가 300 K일 경우 반응기의 출구에서 f 평형전환율에 도달하지 못한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 반응공학-가.pdf",
+      "source": {
+        "qid": 20,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6355,
+      "statement": "공급 원료의 온도()가 높아짐에 따라 평형전환율을 얻을 수 f 있는 위치는 반응기 입구에 가까워진다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 반응공학-가.pdf",
+      "source": {
+        "qid": 20,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6356,
+      "statement": "단열 가역 발열반응의 경우 반응기 내에서 전환율을 최대화하는 최적의 반응물 공급 온도()가 존재한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 반응공학-가.pdf",
+      "source": {
+        "qid": 20,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 19,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

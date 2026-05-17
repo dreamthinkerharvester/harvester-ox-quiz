@@ -1,0 +1,361 @@
+{
+  "slug": "ms9-2025-subj-ad4b09",
+  "name": "통신공학",
+  "exam_group": "군무원 9급 · 2025년",
+  "subject": "통신공학",
+  "phase": null,
+  "source": "군무원 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 29,
+  "questions": [
+    {
+      "id": 12438,
+      "question": "채널전송용량(Channel Capacity)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12441,
+      "question": "QPSK(Quadrature Phase Shift Keying)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12442,
+      "question": "16-QAM(16-QuadratureAmplitudeModulation)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12443,
+      "question": "8-QAM(8-Quadrature Amplitude Modulation)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12444,
+      "question": "BPSK(Binary Phase Shift Keying)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12445,
+      "question": "최대 전송속도는 1 Mbps(1,000 kbps)이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12446,
+      "question": "최대 전송속도는 1 Gbps(1,000 Mbps)이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12447,
+      "question": "브로드밴드(Broadband) 전송방식을 사용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12448,
+      "question": "FTP(FoiledTwistedPair)케이블만 사용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12449,
+      "question": "채널 부호화를 거친 신호는 데이터 압축 과정을 거친 후 전송된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12450,
+      "question": "채널 부호화 과정을 거치면 전송해야 하는 데이터가 더 많아진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12451,
+      "question": "송수신 과정에서 발생한 오류를 검출하고 수정할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12452,
+      "question": "터보 코딩, LDPC 코딩 등이 최신 통신 시스템에 사용되고 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12453,
+      "question": "16QAM으로 전송하는 경우 데이터 전송속도 [bps]가 16PSK보다 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12454,
+      "question": "두 방식 모두 전송에 필요한 주파수 대역은 동일하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12455,
+      "question": "동일한 평균 전송 전력을 갖는 경우 16PSK의 오류 확률이 더 낮다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12456,
+      "question": "두 변조 방식의 성상도는 동일하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12457,
+      "question": "물리 계층에서는 ARQ 재전송이 수행된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12458,
+      "question": "데이터 링크 계층에서는 라우팅 기능이 포함 된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12459,
+      "question": "압축 및 암호화는 응용 계층의 기능이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12460,
+      "question": "TCP는 전송 계층의 기능이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12461,
+      "question": "시간 영역에서 사각 펄스는 주파수 영역에서 sinc 함수 형태를 갖는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12462,
+      "question": "시간 영역에서 상수를 갖는 함수는 주파수 2 영역에서 임펄스 함수를 갖는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12463,
+      "question": "시간 영역에서 cosine 함수의 곱은 주파수 영역에서 주파수 천이를 발생시킨다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12464,
+      "question": "시간 영역에서 미분한 것은 주파수 영역에서 적분한 것으로 표현된다. 통신공학(9급",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12469,
+      "question": "무선랜에 사용되는 전송방식이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12470,
+      "question": "LTE에서 사용되는 전송방식이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12471,
+      "question": "시간 영역에서 보호 구간이 필요하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12472,
+      "question": "주파수 영역에서 서브캐리어 간 보호 대역이 필요하다. (9급) 4 - 4",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

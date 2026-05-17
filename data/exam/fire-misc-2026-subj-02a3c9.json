@@ -1,0 +1,649 @@
+{
+  "category": {
+    "slug": "fire-misc-2026-subj-02a3c9",
+    "name": "소방관계법규",
+    "exam_group": "소방 · 2026년",
+    "subject": "소방관계법규",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 20815,
+      "statement": "119종합상황실은 24시간 운영체제를 유지하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 2,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20816,
+      "statement": "119종합상황실의 실장은 재난상황의 발생 신고접수, 재난 상황의 전파 및 보고, 재난상황이 발생한 현장에 대한 지휘 및 피해현황의 파악 등의 업무를 수행하고 그에 관한 내용을 기록･관리하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 2,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20817,
+      "statement": "지하철 화재로 사망자가 2인 발생한 재난상황의 경우, 119종합상황실의 실장은 그 사실을 지체 없이 서면･팩스 또는 컴퓨터통신 등으로 소방서 종합상황실인 경우에는 소방본부 종합상황실에, 소방본부 종합상황실인 경우에는 소방청 종합상황실에 각각 보고해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 2,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20818,
+      "statement": "소방서장 및 시장･군수･구청장은 화재, 재난･재해, 그 밖에 구조･구급이 필요한 상황이 발생하였을 때에 신속한 소방 활동을 위한 정보의 수집･분석과 판단･전파, 상황관리, 현장 지휘 및 조정･통제 등의 업무를 수행하기 위하여 119종합상황실을 설치･운영하여야 한다. / 24",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 2,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20823,
+      "statement": "한국119청소년단과 한국소방안전원 모두 ｢소방기본법｣에서 규정한 것을 제외하고는 ｢민법｣ 중 사단법인에 관한 규정을 준용한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 4,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20824,
+      "statement": "한국소방안전원에 임원으로 원장 1명을 포함한 9명 이내의 이사와 1명의 감사를 두며, 원장과 감사는 소방청장이 임명 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 4,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20825,
+      "statement": "국가나 지방자치단체는 한국119청소년단에 그 조직 및 활동에 필요한 시설･장비를 지원할 수 있으며, 운영경비와 시설비 및 국내외 행사에 필요한 경비를 보조할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 4,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20826,
+      "statement": "한국119청소년단이 아닌 자는 한국119청소년단 또는 이와 유사한 명칭을 사용할 수 없으며, 한국소방안전원이 아닌 자도 한국소방안전원 또는 이와 유사한 명칭을 사용하지 못한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 4,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20827,
+      "statement": "누구든지 소방관서장 또는 경찰서장의 허가 없이, 설정된 통제구역에 출입하여서는 아니 된다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 5,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20828,
+      "statement": "소방관서장이나 관할 경찰서장 또는 해양경찰서장은 화재 현장 보존조치를 하거나 통제구역을 설정하는 경우 화재 현장 보존조치나 통제구역 설정의 이유와 안전지침･접근 금지･연락처를 화재가 발생한 소방대상물의 관계인에게 알리고 해당 사항이 포함된 표지를 설치해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 5,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20829,
+      "statement": "소방관서장이나 경찰서장은 화재조사가 완료된 경우 또는 화재현장 보존조치나 통제구역의 설정이 해당 화재조사와 관련이 없다고 인정되는 경우에는 화재현장 보존조치나 통제구역의 설정을 지체 없이 해제해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 5,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20830,
+      "statement": "소방관서장은 화재조사를 위하여 필요한 범위에서 화재 현장 보존조치를 하거나 화재현장과 그 인근 지역을 통제 구역으로 설정할 수 있다. 다만, 방화(放火) 또는 실화(失火)의 혐의로 수사의 대상이 된 경우에는 관할 경찰서장 또는 해양경찰서장이 통제구역을 설정한다. / 24",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 5,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20831,
+      "statement": "｢소방기본법｣ 및 같은 법 시행규칙상 소방공무원으로서 3년 이상 근무한 경력이 있는 사람은 ｢소방기본법｣상 영유아･ 유아 등을 대상으로 소방청장, 소방본부장 또는 소방서장이 실시하는 소방안전교육･훈련의 보조강사자격에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 7,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20832,
+      "statement": "｢화재의 예방 및 안전관리에 관한 법률｣ 및 같은 법 시행 규칙상 소방안전관리대상물의 관계인은 근무자등에게 소방 훈련과 소방안전관리에 필요한 교육을 연 1회 이상 실시 해야 한다. 다만, 소방본부장 또는 소방서장이 화재예방을 위하여 필요하다고 인정하여 2회의 범위에서 추가로 실시할 것을 요청하는 경우에는 소방훈련과 교육을 추가로 실시 해야 하며, 관계인은 소방훈련과 교육을 실시했을 때에는 그 실시 결과를 소방훈련･교육 실시 결과 기록부에 기록 하고, 이를 소방훈련 및 교육을 실시한 날부터 2년간 보관 해야 한다.(공공기관의 소방훈련과 교육은 고려하지 않는다)",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 7,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20833,
+      "statement": "｢화재의 예방 및 안전관리에 관한 법률｣ 및 같은 법 시행령, 시행규칙상 소방본부장 또는 소방서장은 소방안전관리 대상물 중 불특정 다수인이 이용하는 의료시설, 교육연구 시설, 노유자 시설 등의 특정소방대상물의 근무자등에게 불시에 소방훈련과 교육을 실시할 수 있으며, 이 경우 소방 본부장 또는 소방서장은 그 특정소방대상물 근무자등의 불편을 최소화하고 안전 등을 확보하는 대책을 마련하여야 한다. 또한 소방안전관리대상물의 관계인에게 불시 소방 훈련･교육 실시 10일 전까지 불시 소방훈련･교육 계획서를 통지해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 7,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20834,
+      "statement": "｢소방의 화재조사에 관한 법률｣ 및 같은 법 시행규칙상 전담부서에 배치된 화재조사관은 의무 보수교육을 3년마다 받아야 하며, 전담부서에 배치된 후 처음 받는 의무 보수 교육은 배치 후 2년 이내에 받아야 한다. 소방관서장은 의무 보수교육을 이수하지 않은 사람에게 보수교육을 이수 할 때까지 화재조사 업무를 기간을 정하여 수행하게 할 수 있다. / 24",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 7,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20837,
+      "statement": "소방안전관리대상물에 설치한 위험물시설의 현황",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 12,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20838,
+      "statement": "화재예방을 위한 건축물의 구조안전 점검계획 및 비상예방 대책 / 24",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 12,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20839,
+      "statement": "가: 선임연도: 2025년 나: 소방안전관리자의 등급: 3급",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 13,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20840,
+      "statement": "가: 선임일자: 2025년 1월 1일 나: 소방안전관리자의 등급: 3급",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 13,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20841,
+      "statement": "가: 소방안전관리자의 등급: 3급 나: 소방안전관리대상물 등급: 3급",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 13,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20842,
+      "statement": "가: 선임일자: 2025년 1월 1일 나: 소방안전관리대상물 등급: 3급 12 /",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 13,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20843,
+      "statement": "“소방용품”이란 소방시설등을 구성하거나 소방용으로 사용되는 제품 또는 기기로서 대통령령으로 정하는 것을 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 15,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20844,
+      "statement": "“특정소방대상물”이란 건축물 등의 규모･용도 및 수용인원 등을 고려하여 소방시설을 설치하여야 하는 소방대상물로서 대통령령으로 정하는 것을 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 15,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20845,
+      "statement": "“화재안전기준”이란 소방시설 설치 및 관리를 위한 기준을 말하는 것으로, 그중 기술기준은 화재안전 확보를 위하여 재료, 공간 및 설비 등에 요구되는 안전성능으로서 소방 청장이 고시로 정하는 기준을 말한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 15,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20846,
+      "statement": "“성능위주설계”란 건축물 등의 재료, 공간, 이용자, 화재 특성 등을 종합적으로 고려하여 공학적 방법으로 화재 위험성을 평가하고 그 결과에 따라 화재안전성능이 확보 될 수 있도록 특정소방대상물을 설계하는 것을 말한다. / 24",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 15,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20851,
+      "statement": "정기점검 대상이 되는 제조소등의 관계인은 당해 제조소 등에 대하여 연 1회 이상 정기점검을 실시하여야 하며, 정기점검을 한 제조소등의 관계인은 점검을 한 날부터 30일 이내에 점검결과를 시･도지사에게 제출하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 23,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20852,
+      "statement": "지하탱크저장소, 이동탱크저장소, 위험물을 취급하는 탱크 로서 지하에 매설된 탱크가 있는 제조소･주유취급소는 정기점검 대상이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 23,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20853,
+      "statement": "위험물안전관리법령상 예방규정을 정하여야 하는 제조소 등은 모두 정기점검 대상이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 23,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20854,
+      "statement": "옥외탱크저장소 중 저장 또는 취급하는 액체위험물의 최대수량이 50만리터 이상인 것에 대해서는 정기점검 외에 설치허가에 따른 완공검사합격확인증을 발급받은 날부터 13년 이내에 1회 이상 특정･준특정옥외저장탱크의 구조 등에 관한 안전점검을 해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "소방관계법규.pdf",
+      "source": {
+        "qid": 23,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 30,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

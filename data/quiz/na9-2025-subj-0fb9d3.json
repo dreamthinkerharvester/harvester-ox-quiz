@@ -1,0 +1,313 @@
+{
+  "slug": "na9-2025-subj-0fb9d3",
+  "name": "방송통신공학",
+  "exam_group": "국회직 9급 · 2025년",
+  "subject": "방송통신공학",
+  "phase": null,
+  "source": "국회직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 25,
+  "questions": [
+    {
+      "id": 13097,
+      "question": "최대 2비트의 오류를 정정할 수 있으며, 최대 4비트의 오류를 검 출할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13098,
+      "question": "최대 2비트의 오류를 정정할 수 있으며, 최대 5비트의 오류를 검 출할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13099,
+      "question": "최대 3비트의 오류를 정정할 수 있으며, 최대 4비트의 오류를 검 출할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13100,
+      "question": "최대 3비트의 오류를 정정할 수 있으며, 최대 5비트의 오류를 검 출할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13101,
+      "question": "최대 4비트의 오류를 정정할 수 있으며, 최대 5비트의 오류를 검 출할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13102,
+      "question": "급전선에서 전압 정재파비(VSWR)는 1보다 클수록 좋다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13103,
+      "question": "급전선 외부로 전파 복사 및 누설이 없어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13104,
+      "question": "급전선 길이가 길어질수록 신호 손실(감쇠)은 증가할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13105,
+      "question": "급전선의 특성 임피던스를 안테나의 입력 임피던스에 정합시키면 반사도가 최소화된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13106,
+      "question": "고출력 전송을 위해 급전선의 절연 내력은 커야 한다. - 20 - 방송통신공학",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13107,
+      "question": "송신기의전력증폭기설계가간단하여전력효율이높기때문이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13108,
+      "question": "단일 반송파 방식에 비해 점유 주파수 대역폭이 좁기 때문이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13109,
+      "question": "여러 사용자가 동일 주파수 자원을 직교 코드로 나누어 사용하기 위함이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13110,
+      "question": "다중 경로 페이딩으로 인한 심볼 간 간섭(ISI)에 강하기 때문이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13111,
+      "question": "모든 부반송파가 동일한 위상을 가져 수신기에서의 동기화가 용 이하기 때문이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13112,
+      "question": "리드-솔로몬 부호 (207, 187)의 오류정정 능력은 10심볼이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13113,
+      "question": "짝수 패리티 부호의 오류검출 능력은 1비트이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13114,
+      "question": "5회 반복 부호의 오류정정 능력은 2비트이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13115,
+      "question": "해밍 부호 (7, 4)의 오류정정 능력은 1비트이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13116,
+      "question": "길쌈 부호 (2, 1, 3)의 오류정정 능력은 1비트이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13122,
+      "question": "움직임 예측을 위해 B-프레임을 처음으로 도입하였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13123,
+      "question": "영상의 공간적 중복성을 제거하기 위해 DCT를 사용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13124,
+      "question": "압축 블록 크기를 유연하게 조절하는 CTU(Coding Tree Unit)를 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13125,
+      "question": "디블로킹 필터를 제거하여 블록 경계 처리시간을 줄인다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13126,
+      "question": "인코딩 속도 향상을 위해 프레임 예측기능을 단순화한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

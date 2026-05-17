@@ -1,0 +1,103 @@
+{
+  "category": {
+    "slug": "g9-2026-subj-d16ab9",
+    "name": "기계설계",
+    "exam_group": "국가직 9급 · 2026년",
+    "subject": "기계설계",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 2557,
+      "statement": "공작기계의 이송나사로 사용된다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계설계_가.pdf",
+      "source": {
+        "qid": 2,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2558,
+      "statement": "고속으로 동작할 시 소음이 없다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계설계_가.pdf",
+      "source": {
+        "qid": 2,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2559,
+      "statement": "예압을 통해 백래시(backlash)를 줄일 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계설계_가.pdf",
+      "source": {
+        "qid": 2,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2560,
+      "statement": "볼은 수나사와 암나사(너트) 사이의 홈을 따라 순환한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계설계_가.pdf",
+      "source": {
+        "qid": 2,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 4,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

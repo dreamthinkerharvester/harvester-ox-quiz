@@ -1,0 +1,229 @@
+{
+  "category": {
+    "slug": "g7-2025-subj-127134",
+    "name": "회로이론",
+    "exam_group": "국가직 7급 · 2025년",
+    "subject": "회로이론",
+    "phase": null,
+    "exam_year": 2025,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 9854,
+      "statement": "저항에서 소비되는 전력은 음이 아닌 값을 갖는다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 회로이론-가.pdf",
+      "source": {
+        "qid": 2,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9855,
+      "statement": "직류회로에서 부하저항이 그 회로의 테브난 등가저항과 같을 때, 부하저항에 최대전력이 전달된다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 회로이론-가.pdf",
+      "source": {
+        "qid": 2,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9856,
+      "statement": "선형회로에서는 전류, 전압, 전력에 대해 중첩의 원리가 성립한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 회로이론-가.pdf",
+      "source": {
+        "qid": 2,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9857,
+      "statement": "한 회로 내의 임의의 마디에서 나가는 전류의 합은 그 마디로 들어오는 전류의 합과 같다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 회로이론-가.pdf",
+      "source": {
+        "qid": 2,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9860,
+      "statement": " 인 경우,    ",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 회로이론-가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9861,
+      "statement": "  인 경우,    (은 짝수)    ",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 회로이론-가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9862,
+      "statement": "cossin",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 4,
+      "frequency": 4,
+      "source_pdf": "250920 국가 7급 2차 회로이론-가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9863,
+      "statement": "cossin",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 4,
+      "frequency": 4,
+      "source_pdf": "250920 국가 7급 2차 회로이론-가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9864,
+      "statement": "cossin",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 4,
+      "frequency": 4,
+      "source_pdf": "250920 국가 7급 2차 회로이론-가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9865,
+      "statement": "cossin  ",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 4,
+      "frequency": 4,
+      "source_pdf": "250920 국가 7급 2차 회로이론-가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:38+00:00",
+    "total": 10,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

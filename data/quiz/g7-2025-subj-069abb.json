@@ -1,0 +1,1117 @@
+{
+  "slug": "g7-2025-subj-069abb",
+  "name": "인사조직론",
+  "exam_group": "국가직 7급 · 2025년",
+  "subject": "인사조직론",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 92,
+  "questions": [
+    {
+      "id": 8548,
+      "question": "직위분류제는 직무의 내용이나 수준이 명확하게 나타나 직위별 권한과 책임의 한계를 명확히 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8549,
+      "question": "직위분류제는 직무내용의 구체적 제시로 객관적인 근무성적평정 기준 확립과 교육훈련 수요 파악에 기여한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8550,
+      "question": "계급제는 대체로 폐쇄형 충원방식을 채택하여 강한 신분보장을 통한 직업공무원제 확립에 유리하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8551,
+      "question": "계급제는 동일 계급에 대해 동일한 보수가 지급되기 때문에 직무급 체계 확립에 유리하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8552,
+      "question": "공식성이 높을수록 관리의 예측가능성이 낮아진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8553,
+      "question": "집권성이 높을수록 하위관리자의 참여의식이 높아진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8554,
+      "question": "일정 수의 정원을 조직화할 때 통솔범위가 커질수록 계층의 수는 작아진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8555,
+      "question": "수직적 분화는 수평적 분화의 영향을 많이 받기 때문에 수평적 분화의 정도가 클수록 수직적 분화의 정도는 작아진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8556,
+      "question": "동기의 정도는 의도적인 행동이 가져올 결과나 산출물에 대한 기대에 달려 있다고 본다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8557,
+      "question": "브룸(V. Vroom)이 제시한 동기의 크기를 결정하는 세 가지 요소는 유의성(valence), 수단성(instrumentality), 기대감(expectancy)이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8558,
+      "question": "포터와 롤러(Porter&Lawler)는 직무성취가 만족을 가져오는 것이 아니라, 만족이 직무성취라는 성과를 가져온다고 제시했다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8559,
+      "question": "브룸은 보상의 내용이나 실체가 아니라, 조직구성원이 보상을 어떻게 지각하고 매력을 느끼는지가 중요하다고 본다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8560,
+      "question": "직무체계에서 계서제의 부서는 복수의 이질적 업무를 수행하고, 팀은 동질적 단일 업무를 수행한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8561,
+      "question": "업무통제에서 계서제의 부서는 전체 구성원들이 스스로 계획하고 통제하고, 팀은 팀장이 업무를 계획하고 통제한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8562,
+      "question": "보상에서 계서제의 부서는 연공주의 위주로 개인 단위로 평가하고, 팀은 능력 위주의 팀 단위로 평가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8563,
+      "question": "리더십에서 계서제의 부서는 구성원 상호 간 리더십 공유가 바람직하고, 팀은 팀장이 강력하고 명백하게 지시를 내리는 것이 바람직하다. 인사ᆞ조직론 책형 1쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8564,
+      "question": "보수의 조정을 위한 방법으로 수당의 신설보다는 기본급 조정에 치중하였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8565,
+      "question": "근속급은 연공(seniority)과 같은 인적 요소 기준에 의한 임금 형태로서 근속 연수에 따라 보수가 결정된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8566,
+      "question": "직능급은 지식, 능력 등의 숙련도를 기준으로 한 것으로 직무 수행능력을 평가하고 그 결과에 따라 보수가 결정된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8567,
+      "question": "보수의 결정은 직무뿐만 아니라 표준 생계비, 물가수준 등 다양한 요소를 복합적으로 고려하도록 하고 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8568,
+      "question": "신뢰도(reliability)는 시험이 측정 대상을 일관성 있게 측정하는 정도를 의미하며, 신뢰도가 높다고 해서 반드시 높은 타당도가 확보되는 것은 아니다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8569,
+      "question": "타당도(validity)는 측정요소를 정확하게 측정하는 정도를 의미하며, 특히 구성타당도(construct validity)는 시험내용이 직무수행의 중요한 국면을 잘 반영하는지의 정도를 의미한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8570,
+      "question": "객관성(objectivity)은 시험의 결과가 채점자에 따라 차이가 없는 정도를 의미하며, 객관성이 낮은 시험은 신뢰도가 높을 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8571,
+      "question": "실용성(practicability)은 시험이 실제로 사용하기 좋은 정도를 의미하며, 시험의 실시와 결과처리가 용이하고 관리비용이 적어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8572,
+      "question": "변혁적 리더십의 일부 요소이기도 하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8573,
+      "question": "리더는 자기희생, 위험감수 같은 행동 특성을 가진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8574,
+      "question": "평상시보다 긴장이 많은 도전적 상황에서 효과가 더 크다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8575,
+      "question": "비범한 특성을 가진 사람들만 행사할 수 있고, 일반적인 사람들은 행사할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8576,
+      "question": "직무스트레스 정도와 조직의 성과는 직선적 부(－)적 관계이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8577,
+      "question": "직무스트레스는 일시적 반응이고, 직무소진은 장기적 증상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8578,
+      "question": "서로 다른 상관으로부터 배치되는 업무 지시를 받는 역할 모호성 상황은 직무스트레스를 초래한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8579,
+      "question": "자신의 역할과 관련된 지식과 정보가 부족할 때 경험하는 역할 갈등 상황은 직무스트레스를 초래한다. 2025년도 국가공무원 7급 공채 제2차 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8580,
+      "question": "독립합의형은 정치적 중립성 보장을 통해 실적제를 발전시키고 인사행정의 계속성을 확보하는 데 유리하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8581,
+      "question": "미국은 중앙인사기관인 인사관리처(OPM)의 문제점을 해소하고자 현재는 독립합의형인 연방인사위원회(CSC)를 신설하여 운영하고 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8582,
+      "question": "비독립단독형은 행정수반이 인사행정을 국정관리의 중요한 수단으로 활용함으로써 주요 정책을 능률적으로 수행할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8583,
+      "question": "우리나라의 중앙인사기관은 행정자치부와 중앙인사위원회로 이원화되기도 하였으나 현재는 비독립단독형인 인사혁신처로 운영되고 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8584,
+      "question": "사례연구(case study)는 작은 집단 내에서 가능하며 상당한 시간이 소요되고 적합한 사례를 구하기 어렵다는 한계가 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8585,
+      "question": "액션러닝(action learning)은 실제 문제해결과 그 과정에 대한 성찰을 통해 학습하는 방식으로 소규모보다는 대규모 그룹으로 실시하는 것이 효과적이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8586,
+      "question": "감수성훈련(sensitivity training)은 집단 내에서 자신과 타인의 성격과 행동을 이해하고 인간관계에 긴요한 태도와 행동의 변경에 도움을 준다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8587,
+      "question": "역할연기(role playing)는 특정한 사례 설정 후 다른 훈련자들 앞에서 실제의 행동으로 연기하고 타 훈련자들이 연기 내용을 비평, 토론하도록 한 후 결론을 내리는 방식이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8588,
+      "question": "인사혁신처 소청심사위원회는 위원장 1명을 포함한 5명 이상 7명 이하의 비상임위원으로 구성한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8589,
+      "question": "중앙선거관리위원회는 시ㆍ도별로 소청심사위원회를 설치한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8590,
+      "question": "소청심사위원회는 소청인의 심사 청구가 국가공무원법 이나 다른 법률에 적합하지 아니한 것이면 그 청구를 각하(却下)하는 결정을 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8591,
+      "question": "소청심사제도는 공무원이 징계처분에 관한 행정소송 제기 시 반드시 거쳐야 하는 전심절차는 아니다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8592,
+      "question": "공로보상설은 일정 기간 보수의 일부가 지급되지 않고 적립되었다가 퇴직 이후에 지급되는 것이라는 해석이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8593,
+      "question": "우리나라는 재원조성을 위한 비용부담 방식으로 비기여제 (non-contributory system)를 채택하고 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8594,
+      "question": "법령상 국가공무원이 공금의 횡령으로 징계에 의하여 해임된 경우에는 퇴직 급여액의 2분의 1이 삭감되는 불이익을 받는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8595,
+      "question": "우리나라의 경우 영리행위 금지, 정치적 중립 의무 등 국민의 기본권 제한에 대한 보상의 성격도 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8596,
+      "question": "계층의 수가 많아질수록 계층 상하 간 의사전달 정확성이 높아진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8597,
+      "question": "의사전달 참여자들의 이해관계가 대립적이면 의사전달 정확성이 높아진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8598,
+      "question": "의사전달 참여자들이 상이한 경험을 가지고 있는 경우 의사전달 정확성이 높아진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8599,
+      "question": "업무의 전문화와 조직의 수평적 분화 정도가 높고, 부서들이 상호 경쟁 관계에 있다면 부서 간 의사전달의 정확성이 낮아진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8600,
+      "question": "참모조직의 원리는 조정에 관한 원리에 포함된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8601,
+      "question": "부성화의 원리는 동질적이거나 유사한 업무를 묶어 조직 단위를 형성해야 한다는 것으로 조정에 관한 원리에 포함된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8602,
+      "question": "통솔범위의 원리는 한 사람의 상관이 감독하는 부하의 수는 통제 능력 범위 내로 한정되어야 한다는 것으로 조정에 관한 원리에 포함된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8603,
+      "question": "계층제의 원리는 상하 간에 등급 및 계층을 설정하여 권한 체계를 확립하는 것으로 분업에 관한 원리에 포함된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8604,
+      "question": "공무원의 정치활동에 별도의 제한을 두는 내용이 포함되지 않았다는 점은 한계로 지적될 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8605,
+      "question": "주요 내용으로 공무원은 공개경쟁채용시험으로 임용하고 합격자는 시보 기간(probation term)을 두도록 하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8606,
+      "question": "공무원 임용 등 인사관리를 담당할 독립적인 인사위원회를 설치하는 근거가 되었다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8607,
+      "question": "엽관주의를 극복하고 실적제가 확립되는 계기가 되었다. 2025년도 국가공무원 7급 공채 제2차 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8608,
+      "question": "정무직 공무원은 실적제와 직업공무원제의 적용을 받지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8609,
+      "question": "경찰청장은 정무직 공무원으로 국회의 인사청문 대상이나 그 임명에 국회의 동의를 필요로 하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8610,
+      "question": "정무직 공무원인 감사원장은 국회의 인사청문 대상이며 헌법에 따라 그 임명에 국회의 동의를 필요로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8611,
+      "question": "장관후보자에 대한 국회 소관상임위원회의 인사청문경과보고서가 미채택되어도 대통령은 그 후보자를 임명할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8612,
+      "question": "조직군 생태학 이론은 환경이 조직에 절대적인 영향을 미친다고 보는 극단적 환경결정론 시각이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8613,
+      "question": "전략적 선택 이론에 따르면 동일한 환경에 속해 있는 조직들은 유사한 조직을 설계할 가능성이 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8614,
+      "question": "자원의존 이론에 따르면 조직은 필요한 자원을 확보하기 위해 그 자원을 통제하고 있는 외부 조직에 종속될 수밖에 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8615,
+      "question": "전략적 선택 이론에 따르면 조직관리자는 조직의 수익성과 효과성 제고를 위해 자신의 권력 획득이나 유지 같은 사항은 고려하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8616,
+      "question": "기존 부처들 간의 경계를 허문다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8617,
+      "question": "소규모 팀에 업무전권을 부여하는 자기완결형 조직을 지향한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8618,
+      "question": "사전에 완벽한 분석과 기획을 하기보다는 정책에 아이디어를 반영하는 실험적 기회를 제공한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8619,
+      "question": "피드백을 꾸준히 반영하면서 성과주기를 길게 운영한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8620,
+      "question": "시장(market)과 조직(hierarchies)은 일련의 거래행위를 완결하는 상호대체적 수단이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8621,
+      "question": "환경의 불확실성과 인간의 제한된 합리성이 결합하면 거래비용이 높아진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8622,
+      "question": "다수의 거래상대방이 존재하는 상황에서 특정 거래 상대방이 기회주의적으로 행동하면 거래비용이 높아진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8623,
+      "question": "당초 조직 외부와의 거래비용이 내부화로 인해 발생하는 조직의 조정비용보다 더 커야 해당 거래를 내부화하는 것이 정당화된다. 인사ᆞ조직론 책형 3쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8624,
+      "question": "김영삼 정부는 경제기획원과 재무부를 재정경제원으로 통합하고, 환경처를 환경부로 개편하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8625,
+      "question": "김대중 정부는 국무총리 소속으로 중앙인사위원회를 신설하였고, 여성특별위원회를 폐지하고 여성부도 신설하였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8626,
+      "question": "노무현 정부는 행정자치부장관 소속으로 소방방재청을 신설하였고, 국방부장관 소속으로 방위사업청도 신설하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8627,
+      "question": "이명박 정부는 해양수산부를 폐지한 후 국토해양부로 통합하였고, 박근혜 정부는 다시 해양수산부를 설치하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8628,
+      "question": "Big-Five 이론은 칼 융(C. Jung)의 이론에 직접적 기반을 두고 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8629,
+      "question": "Big-Five 이론에서 협력성 정도를 나타낼 수 있는 특질은 개방성(openness)이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8630,
+      "question": "Big-Five 이론과 MBTI 이론은 외향성(extraversion)을 공통적으로 다룬다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8631,
+      "question": "MBTI 이론에서 의사결정 방식을 구분하는 지표는 J/P이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8632,
+      "question": "기능구조와 사업구조가 결합된 조직이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8633,
+      "question": "이 구조를 적용한 대표적 예는 미국 우주항공국(NASA)이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8634,
+      "question": "부하는 두 사람의 상관을 갖게 되어 명령통일의 원칙이 적용되기 곤란하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8635,
+      "question": "두 구조가 결합되어 있기 때문에 협의와 회의를 위한 시간이 절약된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8636,
+      "question": "국가공무원은 그 직무를 하면서 공익침해행위를 알게 된 때에는 이를 수사기관 또는 국민권익위원회 등에 신고하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8637,
+      "question": "수사기관은 특별한 사정이 있는 경우라도 구술(口述)로는 공익신고를 받을 수 없으며, 문서와 함께 공익침해행위의 증거가 첨부되어야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8638,
+      "question": "헌법재판소 헌법연구관이 퇴직 후 특정 조건의 기관에 취업을 하기 위해서는 인사혁신처로부터 취업승인을 받아야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8639,
+      "question": "재산등록 대상이 되는 공직자의 배우자는 공직자윤리위원회의 허가를 받아 자신의 재산신고사항의 고지를 거부할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

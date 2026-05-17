@@ -1,0 +1,109 @@
+{
+  "slug": "l9-2025-subj-25618c",
+  "name": "보건행정",
+  "exam_group": "지방직 9급 · 2025년",
+  "subject": "보건행정",
+  "phase": null,
+  "source": "지방직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 8,
+  "questions": [
+    {
+      "id": 10492,
+      "question": "진료비에 본인부담률을 높인다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10493,
+      "question": "건강증진사업을 확대 실시한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10494,
+      "question": "고가의료장비의 과도한 도입을 억제한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10495,
+      "question": "진료비 지불방식을 사전보상보다는 사후보상으로 전환한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10503,
+      "question": "보건진료소는 지역보건법 에 의하여 설치한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10504,
+      "question": "보건소, 보건지소는 정부조직법 에 의하여 설치 및 운영한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10505,
+      "question": "보건의료원은 의료법 에 의하여 병원의 요건을 갖춘 보건소이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10506,
+      "question": "보건소는 읍ㆍ면ㆍ동별로 1개소씩 설치하되 필요한 지역에 추가로 설치할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

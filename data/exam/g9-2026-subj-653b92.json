@@ -1,0 +1,439 @@
+{
+  "category": {
+    "slug": "g9-2026-subj-653b92",
+    "name": "재난관리론",
+    "exam_group": "국가직 9급 · 2026년",
+    "subject": "재난관리론",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 3007,
+      "statement": "재난에 대한 전문성 제고가 용이하다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "재난관리론_가.pdf",
+      "source": {
+        "qid": 5,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3008,
+      "statement": "재원의 마련과 배분이 복잡하다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "재난관리론_가.pdf",
+      "source": {
+        "qid": 5,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3009,
+      "statement": "정보의 전달이 다원화되어 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "재난관리론_가.pdf",
+      "source": {
+        "qid": 5,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3010,
+      "statement": "부처이기주의 및 기존 조직들의 반대 가능성이 높다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "재난관리론_가.pdf",
+      "source": {
+        "qid": 5,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3011,
+      "statement": "‘긴급구조기관’이란 긴급구조에 필요한 인력ㆍ시설 및 장비 등 긴급구조능력을 보유한 기관이나 단체를 말한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "재난관리론_가.pdf",
+      "source": {
+        "qid": 11,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3012,
+      "statement": "‘재난관리정보’란 재난관리를 위하여 필요한 재난상황정보, 동원가능 자원정보, 시설물정보, 지리정보를 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "재난관리론_가.pdf",
+      "source": {
+        "qid": 11,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3013,
+      "statement": "‘안전관리’란 재난이나 그 밖의 각종 사고로부터 사람의 생명ㆍ 신체 및 재산의 안전을 확보하기 위하여 하는 모든 활동을 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "재난관리론_가.pdf",
+      "source": {
+        "qid": 11,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3014,
+      "statement": "‘국가재난관리기준’이란 모든 유형의 재난에 공통적으로 활용할 수 있도록 재난관리의 전 과정을 통일적으로 단순화ㆍ체계화한 것으로서 행정안전부장관이 고시한 것을 말한다. 2026년도 국가공무원 9급 공채 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "재난관리론_가.pdf",
+      "source": {
+        "qid": 11,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3015,
+      "statement": "지진방재종합계획은 3년마다 수립하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "재난관리론_가.pdf",
+      "source": {
+        "qid": 14,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3016,
+      "statement": "지진방재종합계획은 재난 및 안전관리 기본법 에 따른 중앙 안전관리위원회의 심의를 거쳐 수립하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "재난관리론_가.pdf",
+      "source": {
+        "qid": 14,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3017,
+      "statement": "행정안전부장관은 주민대피지구의 지정, 대피소 및 대피로의 정비 등 지진해일 대비 주민대피계획을 수립하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "재난관리론_가.pdf",
+      "source": {
+        "qid": 14,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3018,
+      "statement": "행정안전부장관과 시ㆍ도지사등은 지진재해를 줄이고 신속한 주민대피 등을 위하여 지진해일로 인한 해안지역의 침수범위를 예측한 침수예상도를 제작ㆍ활용하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "재난관리론_가.pdf",
+      "source": {
+        "qid": 14,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3019,
+      "statement": "지구단위종합복구계획을 수립할 때에는 침수흔적도 등 재해지도 등을 활용하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "재난관리론_가.pdf",
+      "source": {
+        "qid": 16,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3020,
+      "statement": "침수흔적도는 침수흔적뿐만 아니라 침수범위를 예측하여 표시한 지도를 말한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "재난관리론_가.pdf",
+      "source": {
+        "qid": 16,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3021,
+      "statement": "지방자치단체의 장은 침수 피해가 발생한 날부터 3개월 이내에 재해정보지도를 작성하여 행정안전부장관에게 제출하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "재난관리론_가.pdf",
+      "source": {
+        "qid": 16,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3022,
+      "statement": "방재정보형 재해정보지도는 재해 발생 시 대피 요령에 관한 정보를 지도에 표시한 도면을 말한다. 재난관리론 책형 2쪽",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "재난관리론_가.pdf",
+      "source": {
+        "qid": 16,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3023,
+      "statement": "재외공관의 장은 관할 구역에서 해외재난이 발생할 우려가 있으면 즉시 그 상황을 외교부장관에게 보고하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "재난관리론_가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3024,
+      "statement": "재외공관의 장이 해외재난상황을 외교부장관에게 보고할 때에는 향후 조치계획이 포함되어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "재난관리론_가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3025,
+      "statement": "해외재난상황을 보고 받은 외교부장관은 지체 없이 해외재난 발생지역에 체류하는 대한민국 국민의 생사확인 등 안전 여부를 확인하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "재난관리론_가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3026,
+      "statement": "생계를 같이 하지 않는 배우자의 형제자매는 외교부장관에게 해외재난국민의 생사확인 등 안전 여부 확인을 요청할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "재난관리론_가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 20,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

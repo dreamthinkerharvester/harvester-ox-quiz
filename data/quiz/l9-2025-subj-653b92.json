@@ -1,0 +1,301 @@
+{
+  "slug": "l9-2025-subj-653b92",
+  "name": "재난관리론",
+  "exam_group": "지방직 9급 · 2025년",
+  "subject": "재난관리론",
+  "phase": null,
+  "source": "지방직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 24,
+  "questions": [
+    {
+      "id": 10688,
+      "question": "일정기간 평균 강수량보다 적은 강수로 인해 건조한 날이 지속되는 것으로 정의한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10689,
+      "question": "농작물의 생육에 직접 관계되는 토양 수분의 부족으로 정의한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10690,
+      "question": "물의 수요가 증가하여 공급량을 초과하여 발생하는 농업ㆍ공업ㆍ 생활용수 등의 부족으로 정의한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10691,
+      "question": "하천, 저수지, 지하수 등의 수위에 중점을 두고 생활용수 또는 공업용수 등의 부족으로 정의한다. 재난관리론 책형 1쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10692,
+      "question": "협력, 조정, 연계의 방식에서 지시, 통제, 감독 방식으로의 변화",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10693,
+      "question": "중장기적 제도와 계획 중심에서 단기적 처방 중심으로의 변화",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10695,
+      "question": "예방ㆍ대비 중심에서 대응ㆍ복구 중심으로의 변화",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10696,
+      "question": "재난관리 원칙의 목표는 국민의 생명과 재산을 보호하고 안정된 삶을 유지하는 데 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10697,
+      "question": "정보공유 원칙은 수시로 긴밀한 정보교환을 통한 가용한 인적, 물적 자원의 현황을 관리ㆍ유지하고, 능력을 숙지하는 것이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10698,
+      "question": "신속한 신고접수 및 경보발령체계 유지, 즉각적인 현장조치능력, 효율적인 대응수단 운용이 현장중심 원칙의 핵심 요소이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10699,
+      "question": "재난관리 원칙에는 사전대비, 현장중심, 지휘통일, 정보공유 등이 있다. 2025년도 지방공무원 9급 등 공개경쟁임용 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10700,
+      "question": "대한민국의 영역에서 외국인의 생명ㆍ신체에 피해를 주는 재난이 발생한 경우에는 외교부장관이 중앙재난안전대책본부의 본부장이 될 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10701,
+      "question": "중앙재난안전대책본부의 본부장은 해외에서 발생한 대규모재난의 수습을 지원하기 위하여 수습지원단을 구성하여 현지에 파견할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10702,
+      "question": "중앙재난안전대책본부의 본부장은 지역대책본부장이 관할지역에서 발생한 재난의 효과적인 수습을 위하여 특별한 조치가 필요하다고 인정하여 요청한 경우 특별재난지역을 선포할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10703,
+      "question": "중앙재난안전대책본부의 본부장은 재난상황을 효율적으로 관리하고 수습하기 위해 중앙사고수습본부를 설치ㆍ운용하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10706,
+      "question": "재해의 예방을 위한 우수유출저감시설 관리방안",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10707,
+      "question": "미세먼지로 인하여 발생하는 피해는 ‘자연재해’에 해당한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10708,
+      "question": "‘재해’에는 재난 및 안전관리 기본법 상 사회재난으로 인하여 발생하는 피해가 포함된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10709,
+      "question": "‘지구단위 홍수방어기준’이란 상습침수지역이나 재해위험도가 높은 지역에 대하여 침수 피해를 방지하기 위하여 행정안전부장관이 정하는 기준을 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10710,
+      "question": "풍수해(風水害)로 인한 침수 흔적, 침수 예상 및 재해정보 등을 표시한 도면은 ‘재해지도’이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10711,
+      "question": "행정안전부장관이 우수기업에 재해경감 우수기업 인증서를 발급한 경우 행정안전부 인터넷 홈페이지에 공고하여야 하는 사항에 인증받은 기업의 상호 및 대표자 성명도 포함된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10712,
+      "question": "우수기업 인증서 발급 절차 등에 관하여 필요한 사항은 행정 안전부장관이 정하여 고시한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10713,
+      "question": "행정안전부장관은 우수기업으로 인증된 기업에 대하여 인증 유효기간이 끝나기 60일 전에 우수기업 인증기간 만료 사실을 통보하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10714,
+      "question": "우수기업 인증서를 발급받은 기업의 상호 또는 대표자 변경은 우수기업 인증서 재발급 사유가 아니다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

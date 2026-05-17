@@ -1,0 +1,109 @@
+{
+  "slug": "g9-2026-subj-362088",
+  "name": "컴퓨터일반",
+  "exam_group": "국가직 9급 · 2026년",
+  "subject": "컴퓨터일반",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 8,
+  "questions": [
+    {
+      "id": 3289,
+      "question": "한 모듈이 다른 모듈 내부를 직접 참조하는 경우는 내용(content) 결합도에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3290,
+      "question": "응집도는 하나의 모듈 내에서 구성 요소들이 얼마나 밀접하게 관련되어 있는지를 나타낸다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3291,
+      "question": "모듈을 구성하는 한 요소의 출력이 다음 요소의 입력으로 사용되는 경우는 순차적(sequential) 응집도에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3292,
+      "question": "레코드, 구조체 또는 객체와 같은 복잡한 데이터 구조를 모듈 인터페이스를 통해 주고받는 경우는 데이터(data) 결합도에 해당한다. 2026년도 국가공무원 9급 공채 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3293,
+      "question": "뷰를 이용하여 다른 뷰를 정의할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3294,
+      "question": "뷰를 제거할 때는 DELETE VIEW 명령을 사용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3295,
+      "question": "뷰는 다른 테이블에서 유도된 가상 테이블이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3296,
+      "question": "뷰를 이용하여 사용자별로 필요한 데이터만 선별하여 보여줄 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

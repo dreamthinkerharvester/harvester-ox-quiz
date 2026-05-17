@@ -1,0 +1,397 @@
+{
+  "category": {
+    "slug": "l7-2025-subj-7b87e8",
+    "name": "화학개론",
+    "exam_group": "지방직 7급 · 2025년",
+    "subject": "화학개론",
+    "phase": null,
+    "exam_year": 2025,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 11785,
+      "statement": "연소된 Mg의 양은 0.5몰이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 지방 7급 화학개론-B.pdf",
+      "source": {
+        "qid": 2,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11786,
+      "statement": "소모된 O 의 양은 16g이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 지방 7급 화학개론-B.pdf",
+      "source": {
+        "qid": 2,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11787,
+      "statement": "생성된 MgO에서 O 원자의 개수는 3.0×1023이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 지방 7급 화학개론-B.pdf",
+      "source": {
+        "qid": 2,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11788,
+      "statement": "모든 원자는 팔전자 규칙을 만족한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 지방 7급 화학개론-B.pdf",
+      "source": {
+        "qid": 8,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11789,
+      "statement": "N의 형식 전하는 ＋1이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 지방 7급 화학개론-B.pdf",
+      "source": {
+        "qid": 8,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11790,
+      "statement": "N는 비공유 전자쌍을 갖는다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 지방 7급 화학개론-B.pdf",
+      "source": {
+        "qid": 8,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11791,
+      "statement": "1차 이온화 에너지는 기체 상태의 중성 원자로부터 전자 하나를 제거할 때 필요한 에너지이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 지방 7급 화학개론-B.pdf",
+      "source": {
+        "qid": 10,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11792,
+      "statement": "한 원소의 2차 이온화 에너지는 1차 이온화 에너지보다 크다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 지방 7급 화학개론-B.pdf",
+      "source": {
+        "qid": 10,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11793,
+      "statement": "같은 주기에서 1차 이온화 에너지는 18족 원소가 가장 크다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 지방 7급 화학개론-B.pdf",
+      "source": {
+        "qid": 10,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11794,
+      "statement": "같은 족에서 1차 이온화 에너지는 주기 번호가 클수록 크다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 지방 7급 화학개론-B.pdf",
+      "source": {
+        "qid": 10,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11795,
+      "statement": "원자가 전자 개수는 2이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 지방 7급 화학개론-B.pdf",
+      "source": {
+        "qid": 11,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11796,
+      "statement": "바닥 상태에서 홀전자 개수는 4이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 지방 7급 화학개론-B.pdf",
+      "source": {
+        "qid": 11,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11797,
+      "statement": "Cr O 2－에서 Cr의 산화수는 ＋7이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 지방 7급 화학개론-B.pdf",
+      "source": {
+        "qid": 15,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11798,
+      "statement": "(＋ )는 5이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 지방 7급 화학개론-B.pdf",
+      "source": {
+        "qid": 15,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11799,
+      "statement": "1몰의 Cr O 2－이 반응할 때, 6몰의 전자가 이동한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 지방 7급 화학개론-B.pdf",
+      "source": {
+        "qid": 15,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11801,
+      "statement": "완충 용액의 pH는 plog 이다. a  HF [F－]",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 지방 7급 화학개론-B.pdf",
+      "source": {
+        "qid": 20,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11802,
+      "statement": "두 완충 용액의 가 같으면 완충 용량이 같다. [HF] [F－]",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 지방 7급 화학개론-B.pdf",
+      "source": {
+        "qid": 20,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11803,
+      "statement": "완충 용액에 NaOH()을 첨가하면 가 커진다. [HF]",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 지방 7급 화학개론-B.pdf",
+      "source": {
+        "qid": 20,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:38+00:00",
+    "total": 18,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

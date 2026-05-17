@@ -1,0 +1,1369 @@
+{
+  "slug": "pol-cmdr-2025-subj-a8022e",
+  "name": "상법총칙",
+  "exam_group": "경찰 간부 · 2025년",
+  "subject": "상법총칙",
+  "phase": null,
+  "source": "경찰 간부",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 113,
+  "questions": [
+    {
+      "id": 16506,
+      "question": "당사자 중 그 1인이 상인이 아닌 경우에는 전원에 대하여 ｢상법｣을 적용하지 아니한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16507,
+      "question": "상사에 관하여 ｢상법｣에 규정이 없으면 ｢민법｣에 의하고 ｢민법｣에 규정이 없으면 상관습법에 의한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16508,
+      "question": "공법인의 상행위에 대하여는 법령에 다른 규정이 없는 경우에 한하여 ｢상법｣을 적용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16509,
+      "question": "소상인에게는 영업양도에 관한 ｢상법｣ 규정을 적용하지 아니한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16510,
+      "question": "상사자치법 → 상사특별법령 → 상법전 → 상관습법 → 상사판례법",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16511,
+      "question": "상사자치법 → 상법전 → 상사특별법령 → 상관습법 → 상사판례법",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16512,
+      "question": "상법전 → 상사자치법 → 상사특별법령 → 상사판례법 → 상관습법",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16513,
+      "question": "상법전 → 상사자치법 → 상사판례법 → 상사특별법령 → 상관습법",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16514,
+      "question": "자기명의로 상행위를 하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16515,
+      "question": "자기계산으로 상행위를 할 필요는 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16516,
+      "question": "상행위를 영업으로 하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16517,
+      "question": "회사는 상행위를 하지 아니하더라도 당연상인으로 본다. - 14 법 총 칙 세 무 회 계",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16518,
+      "question": "지배인은 변호사가 아니더라도 영업주를 위해 영업에 관한 재판의 소송대리인이 될 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16519,
+      "question": "영업주는 지배인의 대리권을 제한하더라도 이러한 제한은 선의의 제3자에게 대항하지 못한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16520,
+      "question": "영업주의 임의대리인도 지배인을 선임할 수 있으므로 지배인은 다른 지배인을 선임할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16521,
+      "question": "지배인이라는 명칭을 사용하지 않더라도 지배인으로서의 대리권이 부여되었다면 지배인이 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16522,
+      "question": "지배권의 범위는 영업주나 지배인의 주관적인 의도에 따라 구체적으로 정한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16523,
+      "question": "지배권은 영업에 관한 것에 한하므로 새로운 점포의 개설 또는 영업의 폐지 등은 지배권의 범위에 포함되지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16524,
+      "question": "지배인은 영업주에 의하여 선임되므로 지배인과 거래하는 상대방은 당해 거래에 관한 지배권의 범위를 구체적으로 확 인할 필요가 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16525,
+      "question": "지배인의 어음행위는 지배권의 범위에 속하더라도 지배인이 개인 목적을 위해서 한 어음행위의 효력은 영업주에 미치지 아니한다. 14 -",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16526,
+      "question": "지배인이 자신이나 제3자의 이익을 위하여 지배권을 행사한 경우를 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16527,
+      "question": "지배인이 권리를 남용한 때에는 거래상대방이 악의인 경우 거래의 무효를 주장할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16528,
+      "question": "상대방이 과실이 있는 경우에도 무효를 주장할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16529,
+      "question": "지배권 남용의 법리는 지배인의 주관적 의도가 문제이므로 대리권의 범위를 벗어난 행위를 한 경우에도 적용된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16530,
+      "question": "법정대리인의 허락을 얻어 영업을 하는 때에는 성년자로 본다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16531,
+      "question": "법정대리인의 허락을 얻어 영업을 하는 때에는 이를 등기하 여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16532,
+      "question": "법정대리인의 허락을 얻어 회사의 무한책임사원이 된 때에는 이를 등기하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16533,
+      "question": "회사의 유한책임사원이 된 때에는 그 사원자격으로 인한 행위를 한 경우 능력자로 본다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16534,
+      "question": "법정대리인이 피성년후견인을 위하여 영업을 하는 때에는 등기를 하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16535,
+      "question": "법정대리인의 대리권에 대한 제한은 이를 등기하지 아니하면 선의의 제3자에게 대항할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16536,
+      "question": "법정대리인이 미성년자를 위하여 영업을 하는 경우 상인자격을 갖는 자는 미성년자가 아닌 법정대리인이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16537,
+      "question": "법정대리인이 피한정후견인의 영업행위를 허락한 경우 피한정후견인은 그 영업행위에 관하여는 능력자로 추정된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16538,
+      "question": "공동지배인이란 수인의 지배인이 선임된 경우로서 수인의 지배인은 각각 독립하여 대리권을 행사할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16539,
+      "question": "거래상대방이 공동지배인 중 1인에 대하여 한 의사표시는 영업주가 이를 추인하지 아니하면 영업주에 대하여 그 효력 이 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16540,
+      "question": "공동지배인의 선임 및 그 대리권의 범위에 관하여 공동지배 인을 둔 본점 또는 지점소재지에서 등기를 하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16541,
+      "question": "영업주는 공동지배인에 관한 사항을 등기하지 않은 경우 표현지배인 규정에 따른 표현책임을 질 수 있다. - 15",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16542,
+      "question": "지점차장이라는 표현적 명칭을 사용하는 경우에도 표현지배인이 성립한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16543,
+      "question": "적법한 지배인의 권한 내의 행위로서 영업에 관한 재판상 또는 재판 외의 행위를 하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16544,
+      "question": "표현지배인의 개인적 목적을 위한 행위를 한 경우에도 표현 지배인이 성립한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16545,
+      "question": "상대방에게 선의에 대한 과실이 있는 경우 영업주는 과실 상계의 법리에 따라 자신의 책임을 감경할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16546,
+      "question": "부분적 포괄대리권을 가진 상업사용인의 대리권에 대한 제한은 선의의 제3자에게 대항하지 못한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16547,
+      "question": "주식회사의 경리부장은 채무의 보증 등 채무부담행위에 대하여 특별히 수권이 없는 한 이에 관한 부분적 포괄대리권이 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16548,
+      "question": "부분적 포괄대리권을 가진 상업사용인이 그 권한 범위에 속하지 않는 행위를 한 경우 ｢상법｣ 제14조를 유추적용하여 영업주에게 책임을 물을 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16549,
+      "question": "전산개발장비의 구매와 관련된 실무를 총괄하는 상업사용인이 지급보증행위를 하는 것은 그 부분적 포괄대리권을 가진 상업사용인의 권한에 포함된다. 15 -",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16550,
+      "question": "본점 또는 지점은 적법한 지배인의 대리행위가 존재할 수 있을 정도로 영업소의 실질을 갖추어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16551,
+      "question": "영업소는 본점 또는 지점의 지휘·감독 아래 제한된 업무만을 보조적으로 처리하는 장소가 아니어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16552,
+      "question": "영업소는 본점 또는 지점으로부터 독립하여 독자적으로 일정한 범위 내의 영업활동에 관한 결정을 하고 대외적인 거래를 해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16553,
+      "question": "회사의 지방 연락사무소 또는 창고와 같은 경우에도 표현지 배인이 성립하는 영업소의 지위가 인정된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16554,
+      "question": "상업사용인은 영업주의 허락없이 다른 회사의 유한책임사원은 될 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16555,
+      "question": "상업사용인이 영업주의 허락없이 영업주의 영업부류에 속한 거래를 한 경우 영업주는 개입권을 행사한 경우에도 상업사 용인에 대한 손해배상청구를 할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16556,
+      "question": "영업주의 상업사용인에 대한 개입권은 영업주가 경업금지 거래를 안 날로부터 1년 내에 행사하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16557,
+      "question": "상업사용인이 영업주의 허락없이 타인의 계산으로 영업주의 영업부류에 속하는 거래를 한 경우에도 해당 거래는 유효하다. - 16",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16558,
+      "question": "상호를 등기한 자가 정당한 사유 없이 2년간 상호를 사용하지 아니하는 때에는 이를 폐지한 것으로 추정한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16559,
+      "question": "개인상인이 회사의 영업을 양수한 후 회사임을 표시하는 문자를 사용하면 200만원 이하의 벌금에 처한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16560,
+      "question": "포항시에서 요식업을 하는 상인이 안동식당이라는 상호를 사용하는 것은 허용되지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16561,
+      "question": "회사의 상호에 합자조합이라는 문자를 사용할 수는 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16562,
+      "question": "개인 상인은 동일한 영업에 관하여 다수의 상호를 사용할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16563,
+      "question": "영업을 폐지하지 않은 경우 상호만 양도할 수 없으며, 상호의 양도는 등기하지 않으면 악의의 제3자에게도 대항할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16564,
+      "question": "회사의 경우 수 개의 영업이 있는 때라도 상호는 하나만 사용할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16565,
+      "question": "동일한 군에서 동종영업으로 타인이 등기한 상호를 사용하는 자는 부정한 목적으로 사용하는 것으로 추정한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16566,
+      "question": "선등기자가 후등기자를 상대로 등기의 말소를 청구할 수 있는 효력이 미치는 범위는 동일한 상호이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16567,
+      "question": "선등기자가 후등기자를 상대로 등기의 말소를 청구할 수 있는 효력이 미치는 범위는 동일한 특별시ㆍ광역시ㆍ시ㆍ군에 한정된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16568,
+      "question": "선등기자가 후등기자를 상대로 등기의 말소를 청구할 수 있는 효력이 미치는 범위는 동종영업에 한정된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16569,
+      "question": "선등기자는 부정한 목적이 없는 후등기자를 상대로 등기의 말소를 청구할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16570,
+      "question": "당사자의 신청이 없더라도 법원은 직권으로 소송당사자에게 상업장부의 제출을 명할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16571,
+      "question": "상업장부에 관한 규정은 소상인에게 적용되지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16572,
+      "question": "상인은 전표 또는 이와 유사한 서류는 5년간 보존하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16573,
+      "question": "회사는 영업을 개시한 때와 매 결산기에 회계장부에 의하여 대차대조표를 작성하여야 한다. 16 -",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16574,
+      "question": "상호를 변경하고자 하는 회사가 가등기를 신청하려면 본점소 재지와 지점소재지를 관할하는 등기소에 신청하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16575,
+      "question": "합명회사가 본점을 이전하고자 할 때에는 이전할 곳을 관할 하는 등기소에 상호의 가등기를 신청할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16576,
+      "question": "타인이 등기한 상호는 동일한 특별시ㆍ광역시ㆍ시ㆍ군 및 인접 특별시ㆍ광역시ㆍ시ㆍ군에 동종영업의 상호로 등기하지 못한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16577,
+      "question": "합자회사를 설립하고자 할 때에는 본점의 소재지를 관할하는 등기소에 상호의 가등기를 신청할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16578,
+      "question": "지점의 상호에는 본점과의 종속관계를 표시하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16579,
+      "question": "서울특별시 동대문구에서 제과점을 하려는 개인 상인은 서초 구에 등기된 ‘명인 제과점’이란 상호를 동대문구에 등기할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16580,
+      "question": "적법하게 선정된 타인의 상호가 등기되어 있지 않은 경우에도 부정한 목적으로 타인의 영업으로 오인할 수 있는 상호를 사용하는 자에 대해서 손해를 받을 염려가 있는 타인은 상호 사용폐지를 청구할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16581,
+      "question": "서울특별시 서초구에 등기된 제과점 상호인 ‘고려 제과점’이란 상호를 부산광역시 해운대구에서 제과점을 운영하는 상인이 사용하면 부정한 목적이 추정된다. - 17",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16582,
+      "question": "특별법으로 금지하는 행정관청 면허를 대여한 경우에는 거래 상대방의 선의 또는 악의를 불문하고 명의대여자의 책임을 인정하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16583,
+      "question": "명의대여자가 상인이 아니거나 명의차용자의 영업이 상행위가 아닌 경우에는 명의대여자의 책임이 발생하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16584,
+      "question": "타인이 자신의 상호를 사용하는 것에 대해 묵시적으로 허락한 경우에는 명의대여자의 책임이 발생하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16585,
+      "question": "명의차용자가 불법행위를 한 경우 피해자가 명의대여자를 영업주로 오인한 경우 명의대여자의 책임이 발생하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16586,
+      "question": "명의대여자의 책임은 명의 사용을 허락받은 명의차용자의 피용자의 행위에 대해서까지 미친다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 26,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16587,
+      "question": "명의대여자와 명의차용자의 제3자에 대한 채무는 명의대여자가 제3자에게 변제하면 명의차용자의 제3자에 대한 채무도 소멸 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 26,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16588,
+      "question": "명의대여자의 책임을 주장하는 제3자는 명의대여 사실을 알지 못하였거나 모르는데 중대한 과실이 없었음에 대한 증명책임을 부담한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 26,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16589,
+      "question": "자기의 상호 아래 대리점이라는 명칭을 붙여 사용하는 것을 타인에게 허락하거나 묵인한 자에 대해서는 명의대여자의 책임을 물을 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 26,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16590,
+      "question": "영업상 업무에 관하여 영업주를 대리할 권한이 없는 자는 상업사용인이 아니다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16591,
+      "question": "영업주가 상업사용인에 대해 개입권을 행사한 후에도 상업사 용인에 대한 계약의 해지나 손해배상청구를 할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16592,
+      "question": "영업주의 허락이 없어도 상업사용인은 영업주의 영업과 동종 영업을 영위하지 않는 회사의 이사가 될 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16593,
+      "question": "영업주의 허락이 없어도 상업사용인은 자기의 계산으로 영업 주의 영업부류에 속하지 않는 거래를 할 수 있다. 17 -",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16594,
+      "question": "상업등기부에 등기하려면 당사자의 신청이 있어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16595,
+      "question": "등기신청자의 영업소 소재지를 관할하는 법원이 등기사무를 담당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16596,
+      "question": "상업등기의 창설적 효력은 제3자가 선의인 경우에 한하여 발생한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16597,
+      "question": "등기관은 등기신청사항에 대하여 형식적 적법성을 심사할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16598,
+      "question": "고의 또는 과실로 부실등기를 한 자는 그 상위를 선의의 제3자에게 대항할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 33,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16599,
+      "question": "등기신청권자가 아닌 제3자가 문서를 위조하여 부실등기를 한 경우에 회사가 부실등기의 경료 및 존속에 있어서 정도가 어떠하든 과실이 있다면 선의의 제3자에게 대항하지 못한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 33,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16600,
+      "question": "부실등기를 신뢰하여 회사 지분을 양수하였더라도 지분을 양수하는 것으로 되지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 33,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16601,
+      "question": "법인 등기부에 이사로 등재된 이사는 특단의 사정이 없는 한 정당한 절차에 의하여 선임된 자로 추정한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 33,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16602,
+      "question": "주유소 건물 사용권을 이전 운영자가 아닌 소유주로부터 새로이 취득하여 이전 운영자가 사용하던 상호를 그대로 사 용하여 영업한 경우는 영업양도라고 할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16603,
+      "question": "영업양수인이 양도인의 상호를 계속 사용하는 경우에는 양도 인의 영업으로 인한 제3자의 채권에 대하여 변제할 책임이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16604,
+      "question": "상호를 속용하는 영업양수인의 책임을 정한 ｢상법｣ 제42조 제1항 은 상호를 속용하는 영업임차인의 책임에 대해서도 유추 적용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16605,
+      "question": "영업재산의 전부를 양도했어도 그 조직을 해체하여 양도했다면 영업양도라고 볼 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16608,
+      "question": "유기적으로 결합된 영업용 재산과 재산적 가치가 있는 사실 관계를 형성한 영업조직의 이전",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 36,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16609,
+      "question": "甲은 2033. 2.까지 경업금지의무를 부담한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16610,
+      "question": "甲과 乙이 특약으로 ｢상법｣ 제41조 제1항의 경업금지의무를 완화할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16611,
+      "question": "甲은 영업양수계약의 상대방인 乙에게만 경업금지의무를 부담한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16612,
+      "question": "丁은 甲에게 통지의 대항요건을 갖추어 경업금지를 청구할 수 있다. - 19",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16613,
+      "question": "영업양도 계약에 따라 영업 전부를 동일성을 유지하면서 이전받는 양도인은 해당 영업부문에 존재하는 근로관계를 포괄적으로 승계한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 39,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16614,
+      "question": "영업양도에 의하여 근로관계는 원칙적으로 양수인에게 포괄 적으로 승계되므로 근로자는 반대의사를 표시하여도 양도 기업에 잔류할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 39,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16615,
+      "question": "영업양도 계약체결일 이전에 정당한 이유 없이 해고된 근로 자와의 근로관계는 여전히 유효하고 원칙적으로 양수인에게 승계된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 39,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16616,
+      "question": "영업양도일 이전에 고객으로부터 자기명의 계좌로 영업 관련 대금을 송금받아 개인 용도로 사용한 근로자에 대하여 양수 인은 근로관계에 기초한 손해배상청구권도 승계한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 39,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16617,
+      "question": "과세처분과 같은 공법관계에도 ｢상법｣ 제37조가 적용된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16618,
+      "question": "｢상법｣ 제14조 표현지배인의 요건을 갖춘 경우에는 ｢상법｣ 제37조가 적용되지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16619,
+      "question": "상호양도는 등기하지 않으면 선의·악의를 불문하고 제3자에게 대항할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16620,
+      "question": "｢상법｣상 등기에 창설적 효력이 있음을 규정한 경우에는 ｢상법｣ 제37조가 적용되지 않는다. 19 -",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

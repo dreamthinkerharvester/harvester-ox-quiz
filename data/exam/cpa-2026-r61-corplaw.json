@@ -2373,8 +2373,8 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
+      "star_rating": 2,
+      "frequency": 2,
       "source_pdf": "기업법.pdf",
       "source": {
         "qid": 26,
@@ -2604,8 +2604,8 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
+      "star_rating": 2,
+      "frequency": 2,
       "source_pdf": "기업법.pdf",
       "source": {
         "qid": 28,
@@ -3728,7 +3728,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-16T08:59:48+00:00",
+    "exported_at": "2026-05-17T05:24:37+00:00",
     "total": 177,
     "with_full_meta": 0,
     "source": "0gichul.com"

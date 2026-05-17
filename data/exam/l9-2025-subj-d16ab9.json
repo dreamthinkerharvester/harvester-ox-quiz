@@ -1,0 +1,187 @@
+{
+  "category": {
+    "slug": "l9-2025-subj-d16ab9",
+    "name": "기계설계",
+    "exam_group": "지방직 9급 · 2025년",
+    "subject": "기계설계",
+    "phase": null,
+    "exam_year": 2025,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 10444,
+      "statement": "밸브를 완전히 열었을 때 유체의 에너지 손실이 적다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 기계설계-B.pdf",
+      "source": {
+        "qid": 10,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10445,
+      "statement": "밸브 디스크의 승강 길이가 길어져 개폐 시간이 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 기계설계-B.pdf",
+      "source": {
+        "qid": 10,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10446,
+      "statement": "밸브 디스크가 유체의 관로를 수직으로 막아서 개폐한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 기계설계-B.pdf",
+      "source": {
+        "qid": 10,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10447,
+      "statement": "유체압력이 일정압 초과 시 자동으로 열려 압력을 조절한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 기계설계-B.pdf",
+      "source": {
+        "qid": 10,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10448,
+      "statement": "축기준 치수이며, h5공차가 h7공차보다 더 크다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 기계설계-B.pdf",
+      "source": {
+        "qid": 20,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10449,
+      "statement": "축기준 치수이며, h7공차가 h5공차보다 더 크다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 기계설계-B.pdf",
+      "source": {
+        "qid": 20,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10450,
+      "statement": "구멍기준 치수이며, h5공차가 h7공차보다 더 크다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 기계설계-B.pdf",
+      "source": {
+        "qid": 20,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10451,
+      "statement": "구멍기준 치수이며, h7공차가 h5공차보다 더 크다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 기계설계-B.pdf",
+      "source": {
+        "qid": 20,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:38+00:00",
+    "total": 8,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

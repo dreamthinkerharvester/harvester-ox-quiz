@@ -1,0 +1,589 @@
+{
+  "slug": "g9-2026-subj-83f5f9",
+  "name": "사회복지학개론",
+  "exam_group": "국가직 9급 · 2026년",
+  "subject": "사회복지학개론",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 48,
+  "questions": [
+    {
+      "id": 2778,
+      "question": "지역밀착형 서비스를 제공한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2779,
+      "question": "네트워크를 바탕으로 합리적 방법으로 운영한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2780,
+      "question": "지방자치단체장의 책무가 중요하여 민간의 참여는 배제된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2781,
+      "question": "지역주민의 복합적인 복지문제를 조기에 발견하고 예방할 수 있도록 노력한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2782,
+      "question": "교육책임자는 장애인의 입학 지원 및 입학을 거부할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2783,
+      "question": "사용자는 채용 이전에 장애인 여부를 조사하기 위한 의학적 검사를 실시하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2784,
+      "question": "장애인은 자신의 생활 전반에 관하여 자신의 의사에 따라 스스로 선택하고 결정할 권리를 가진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2785,
+      "question": "누구든지 장애 또는 과거의 장애경력 또는 장애가 있다고 추측됨을 이유로 차별을 하여서는 아니 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2786,
+      "question": "서비스의 중복과 분절을 해결하고자 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2787,
+      "question": "복합적이고 다양한 욕구를 가진 클라이언트를 대상으로 하는 실천이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2788,
+      "question": "고도의 전문성을 요구하기에 클라이언트의 참여를 최소화해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2789,
+      "question": "도입 배경 중 하나는 탈시설화로 인한 지역사회 내 돌봄 수요 증가이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2790,
+      "question": "사회복지법인은 사회복지사업의 운영에 필요한 재산을 소유하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2791,
+      "question": "해산한 사회복지법인의 남은 재산은 정관으로 정하는 바에 따라 해산한 법인의 대표에게 귀속된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2792,
+      "question": "사회복지법인을 설립하려는 자는 대통령령으로 정하는 바에 따라 시ㆍ도지사의 허가를 받아야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2793,
+      "question": "사회복지사업법 에 따른 사회복지법인이 아닌 자는 사회복지법인 이라는 명칭을 사용하지 못한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2794,
+      "question": "비스마르크는 격화된 노동운동을 진정시키기 위해 사회보험을 도입하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2795,
+      "question": "인보관 운동은 지식인이 주도했고 이후 개별 사회사업의 효시가 되었다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2796,
+      "question": "영국의 베버리지 보고서는 국민의 기본적 욕구에 대하여 사회보험 으로 충족할 것을 제안하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2797,
+      "question": "신구빈법에는 부조를 받는 사람의 생활 수준이 자립 노동자보다 낮아야 한다는 원칙이 있었다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2798,
+      "question": "아동복리법 은 1981년 아동복지법 으로 전부개정되었다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2799,
+      "question": "국민복지연금법 은 1986년 국민연금법 으로 전부개정되었다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2800,
+      "question": "기초연금법 은 2020년 기초노령연금법 제정과 함께 폐지 되었다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2801,
+      "question": "심신장애자복지법 은 1989년 장애인복지법 으로 전부개정 되었다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2802,
+      "question": "기술적 조사(descriptive research)는 무엇이 어떻다는 것을 정확하게 기술하고 묘사하는 것에 중점을 둔다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2803,
+      "question": "횡단적 조사(cross-sectional study)는 일정 시점을 기준으로 관련 변수에 대한 자료를 수집하는 방법이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2804,
+      "question": "설명적 조사(explanatory research)는 사회현상의 인과관계를 밝힘으로써 사건이나 현상을 설명하는 것을 목적으로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2805,
+      "question": "종단적 조사(longitudinal study)는 시점과 상관없이 연구주제에 대한 선행지식이 희박할 때 실시하는 예비적 조사이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2806,
+      "question": "참여행동조사연구: 연구의 목적은 사회변화와 임파워먼트임",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2807,
+      "question": "사례연구: 사례에는 특정한 인물, 집단, 프로그램, 사회현상 등이 해당함",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2808,
+      "question": "근거이론: 이론적 기반이 갖추어지지 않은 분야를 연구하는 데 적합하며 개방코딩, 축코딩 등으로 자료를 분석할 수 있음",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2809,
+      "question": "현상학: 현실기반이론이라고도 하며 연구자가 오랜 기간 대상자와 함께 생활하면서 문화공유집단이 생활하는 방식을 기술함",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2810,
+      "question": "기회의 평등은 결과에 이르는 과정상의 기회를 똑같이 제공하는 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2811,
+      "question": "비례적 평등은 개인의 욕구, 노력 등에 따라 자원을 다르게 분배 하는 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2812,
+      "question": "수량적 평등은 기여와 무관하게 모든 사람에게 똑같이 자원을 배분하는 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2813,
+      "question": "롤즈(Rawls)는 최소수혜자에게 이익을 제공하기 위해서라면 ‘균등한 자유의 원칙’을 제약하는 것도 가능하다고 보았다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2814,
+      "question": "우리나라의 저출산ㆍ고령화 문제는 ‘신사회 위험’에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2815,
+      "question": "전통적인 소득이전 프로그램 이외에 다양한 사회서비스의 필요성을 증대시켰다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2816,
+      "question": "에스핑 앤더슨(Esping-Andersen)의 ‘탈상품화’ 개념은 ‘신사회 위험’을 반영하고 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2817,
+      "question": "후기산업사회로 이행하는 과정에서 사람들이 직면하게 되는 다양한 사회적 위험을 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2818,
+      "question": "수렴이론: 산업화로 인한 다양한 사회문제를 해결하기 위해 복지 정책이 도입됨",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2819,
+      "question": "확산이론: 2차대전 독립국이 선진국의 복지제도를 도입한 과정을 설명하는 데 유용함",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2820,
+      "question": "음모이론: 복지국가는 현 체제에 대한 불만을 완화하여 사회를 통제하기 위한 목적으로 발전함",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2821,
+      "question": "사회양심론: 비참한 상황에 놓인 빈곤 계층의 복지에 대한 권리를 사회적 권리로 보게 되면서 복지정책이 발전함",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2822,
+      "question": "청소년쉼터: 가정 밖 청소년에 대하여 가정ㆍ학교ㆍ사회로 복귀 하여 생활할 수 있도록 일정 기간 보호하면서 상담ㆍ주거ㆍ학업 ㆍ자립 등을 지원하는 시설",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2823,
+      "question": "청소년상담복지센터: 감호 위탁 처분을 받은 청소년에 대하여 보호자를 대신하여 그 청소년을 보호할 수 있는 자가 상담ㆍ 학업ㆍ자립 등 서비스를 제공하는 시설",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2824,
+      "question": "청소년치료재활센터: 학습ㆍ정서ㆍ행동상의 장애를 가진 청소년을 대상으로 정상적인 성장과 생활을 할 수 있도록 해당 청소년에게 적합한 치료ㆍ교육 및 재활을 종합적으로 지원하는 거주형 시설",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2825,
+      "question": "청소년자립지원관: 일정 기간 청소년쉼터 또는 청소년회복지원 시설의 지원을 받았는데도 가정ㆍ학교ㆍ사회로 복귀하여 생활할 수 없는 청소년에게 자립하여 생활할 수 있는 능력과 여건을 갖추도록 지원하는 시설",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "slug": "g9-2026-subj-d820cc",
+  "name": "회계원리",
+  "exam_group": "국가직 9급 · 2026년",
+  "subject": "회계원리",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 24,
+  "questions": [
+    {
+      "id": 3905,
+      "question": "생산에 사용될 원재료는 재고자산에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3906,
+      "question": "재고자산은 취득원가와 순공정가치 중 낮은 금액으로 측정한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3907,
+      "question": "위탁약정에 따라 수탁자의 매장에 진열 중인 상품은 위탁자의 재고자산이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3908,
+      "question": "판매원가는 재고자산의 취득원가에 포함할 수 없고, 발생기간의 비용으로 인식한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3909,
+      "question": "보고기간 종료일을 변경한 경우가 아니라면, 전체 재무제표(비교 정보를 포함)는 적어도 1년마다 작성한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3910,
+      "question": "한국채택국제회계기준에서 요구하거나 허용하지 않는 한 자산과 부채 그리고 수익과 비용은 상계하지 아니한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3911,
+      "question": "유동/비유동 구분법을 적용할 경우 유동자산과 비유동자산, 유동 부채와 비유동부채로 재무상태표에 구분하여 표시한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3912,
+      "question": "성격별 분류법은 비용을 매출원가, 물류원가, 관리활동원가 등과 같이 분류하며, 적어도 매출원가를 다른 비용과 분리하여 공시한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3913,
+      "question": "매출채권 계정의 마감을 위해 대변에 차기이월 ￦14,000을 기록한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3914,
+      "question": "매출채권 계정의 마감을 위한 분개가 필요하지 않다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3915,
+      "question": "소모품비 계정의 마감을 위한 분개가 필요하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3916,
+      "question": "소모품비 계정의 마감으로 이익잉여금이 ￦2,000만큼 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3917,
+      "question": "측정기준의 변경은 회계정책의 변경에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3918,
+      "question": "감가상각자산에 내재된 미래경제적효익의 예상소비 형태의 변경은 회계추정치 변경에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3919,
+      "question": "과거에 발생하지 않았던 거래에 대하여 새로운 회계정책을 적용 하는 경우는 회계정책의 변경에 해당하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3920,
+      "question": "회계정책의 변경과 회계추정치 변경을 구분하는 것이 어려운 경우에는 이를 회계정책의 변경으로 본다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3921,
+      "question": "사채의 유효이자율은 표시이자율보다 작다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3922,
+      "question": "사채의 발행금액은 20×1년 말 장부금액보다 크다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3923,
+      "question": "20×1년 인식한 사채 이자비용은 ￦50,000이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3924,
+      "question": "20×2년부터 만기까지 인식할 총이자비용은 ￦130,000이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3925,
+      "question": "내부 프로젝트의 연구단계에 대한 지출은 모두 발생시점에 무형 자산으로 인식한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3926,
+      "question": "최초에 비용으로 인식한 무형항목에 대한 지출은 그 이후에 무형자산의 원가로 인식할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3927,
+      "question": "재평가모형을 적용한 무형자산의 공정가치는 재평가 목적상 활성시장을 기초로 하여 측정한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3928,
+      "question": "내용연수가 비한정인 무형자산은 상각하지 아니한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

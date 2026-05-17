@@ -1,0 +1,103 @@
+{
+  "category": {
+    "slug": "g9-2026-subj-e8cab0",
+    "name": "응용역학개론",
+    "exam_group": "국가직 9급 · 2026년",
+    "subject": "응용역학개론",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 2966,
+      "statement": "균질재료는 재료 내 모든 점 및 모든 방향에서 탄성 성질이 같다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "응용역학개론_가.pdf",
+      "source": {
+        "qid": 8,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2967,
+      "statement": "재료의 포아송비는 선형탄성 영역에서만 일정한 값을 유지한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "응용역학개론_가.pdf",
+      "source": {
+        "qid": 8,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2968,
+      "statement": "응력－변형률 곡선에서 응력이 최대치에 도달할 때의 응력을 극한응력이라고 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "응용역학개론_가.pdf",
+      "source": {
+        "qid": 8,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2969,
+      "statement": "재료에 탄성한도 이상으로 하중을 가한 후 하중을 완전히 제거해도 남아 있는 변형을 잔류변형 또는 영구변형이라 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "응용역학개론_가.pdf",
+      "source": {
+        "qid": 8,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 4,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

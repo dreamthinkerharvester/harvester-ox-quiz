@@ -1,0 +1,853 @@
+{
+  "slug": "fire-cmdr-2026-subj-d1f0be",
+  "name": "소방학개론",
+  "exam_group": "소방 간부 · 2026년",
+  "subject": "소방학개론",
+  "phase": null,
+  "source": "소방 간부",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 70,
+  "questions": [
+    {
+      "id": 20045,
+      "question": "10세제곱미터의 목재가공품 및 나무부스러기는 특수가연물에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20046,
+      "question": "3,000킬로그램의 가연성 고체류는 특수가연물에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20047,
+      "question": "인화점이 섭씨 100 도이고, 연소열량이 1 그램당 6킬로칼로리인 고체는 가연성 고체류에 해당한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20048,
+      "question": "특수가연물을 실외에 쌓아 저장하는 경우 쌓는 부분이 대지경계선, 도로 및 인접 건축물과 최소 6미터 이상 간격을 두어야 한다. 다만, 쌓는 높이 보다 0.9미터 이상 높은 내화구조 벽체를 설치한 경우는 그렇지 않다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20049,
+      "question": "특수가연물을 저장 또는 취급하는 장소에는 품명, 최대저장수량, 단위부피당 질량 또는 단위체적당 질량, 관리책임자 성명･직책, 연락처 및 화기취급의 금지표시가 포함된 특수가연물 표지를 설치해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20051,
+      "question": "｢응급의료에 관한 법률｣에 따라 1급 응급구조사 자격을 취득한 사람",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20052,
+      "question": "｢응급의료에 관한 법률｣에 따라 2급 응급구조사 자격을 취득한 사람",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20053,
+      "question": "국가･지방자치단체 및 ｢공공기관의 운영에 관한 법률｣에 따른 공공기관의 구급 관련 분야에서 근무한 경력이 2년 이상인 사람",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20054,
+      "question": "소방청장이 실시하는 구급업무에 관한 교육을 받은 사람 인문사회계열 38 / 학개론 】",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20055,
+      "question": "하인리히(Heinrich)의 도미노 이론은 ‘사회적 환경 및 유전적 요소→개인적 결함→불안전한 행동 및 상태→사고→재해’의 단계로 구성되어 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20056,
+      "question": "하인리히(Heinrich)의 도미노 이론에서 사고의 직접원인이 되는 단계는 불안전한 행동 및 상태 단계이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20057,
+      "question": "버드(Bird)의 수정 도미노 이론은 ‘제어의 부족→ 기본원인→직접원인→사고→재해’의 단계로 구성 되어 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20058,
+      "question": "버드(Bird)의 수정 도미노 이론에 의하면, 재해 발생을 방지하기 위해서는 기본원인을 제거하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20059,
+      "question": "버드(Bird)는 ‘중상 1건이 발생하기 전 경상이 29건, 무재해사고가 300건이 발생할 수 있다’는 1:29:300의 법칙을 제시하였다. 계열-선택 / 44",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20060,
+      "question": "소방청장의 관장사무를 지원하기 위하여 소방청장 소속으로 중앙소방학교 및 중앙119구조본부를 두며, 소방청장 소속의 책임운영기관으로 국립소방 연구원을 둔다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20061,
+      "question": "청장은 소방총감으로 보하며, 차장은 소방정감으로 보한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20062,
+      "question": "소방청에 운영지원과･119대응국･화재예방국 및 장비기술국을 두며, 청장 밑에 대변인 및 119종합 상황실장 각 1명을 두고, 차장 밑에 기획조정관 및 감사담당관 각 1명을 둔다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20063,
+      "question": "특별시･광역시 또는 도는 그 관할구역 소방공무원의 교육･훈련을 위하여 해당 특별시･광역시 또는 도의 조례로 정하는 바에 따라 지방소방학교를 설치할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20064,
+      "question": "소방서장의 소관 사무를 분장하게 하기 위하여 해당 시･도의 조례로 정하는 바에 따라 소방서장 소속으로 119출장소･119안전센터･119구조대･119 구급대･119구조구급센터･소방정대(消防艇隊) 및 119지역대를 둘 수 있다. 인문사회계열 39 /",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20065,
+      "question": "중앙재난안전대책본부장(이하 “중앙대책본부장”이라 한다)은 대통령령으로 정하는 규모의 재난이 발생 하여 국가의 안녕 및 사회질서의 유지에 중대한 영향을 미치거나 피해를 효과적으로 수습하기 위하여 특별한 조치가 필요하다고 인정하거나 시･도재난 안전대책본부장 또는 시･군･구재난안전대책본부장의 요청이 타당하다고 인정하는 경우에는 중앙안전 관리위원회(이하 “중앙위원회”라 한다)의 심의를 거쳐 해당 지역을 특별재난지역으로 선포할 것을 대통령에게 건의할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20066,
+      "question": "대규모 인명피해가 발생하는 등 시급하게 특별재난 지역으로 선포할 필요가 있는 경우로서 중앙대책 본부장의 요청(국무총리가 중앙대책본부장의 권한을 행사하는 경우는 제외한다)을 받아 중앙위원회의 심의를 거칠 시간적 여유가 없다고 중앙위원회의 위원장이 인정하는 경우 중앙대책본부장은 중앙 위원회의 심의를 거치지 아니하고 해당 지역을 특별 재난지역으로 선포할 것을 대통령에게 건의할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20067,
+      "question": "대통령령으로 재난의 규모를 정할 때에는 인명 또는 재산의 피해 정도, 재난지역 관할 지방자치 단체의 재정 능력, 재난으로 피해를 입은 구역의 범위를 고려하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20068,
+      "question": "국가나 지방자치단체는 특별재난지역으로 선포된 지역에 대하여는 이 법에 따른 지원을 하는 외에 대통령령으로 정하는 바에 따라 응급대책 및 재난 구호와 복구에 필요한 행정상･재정상･금융상･ 의료상의 특별지원을 할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20069,
+      "question": "시･도지사 또는 시장･군수･구청장은 특별재난지역 피해에 대하여 관할구역의 피해상황을 종합하는 재난복구계획을 수립한 후 중앙사고수습본부의 장 및 관계 중앙행정기관의 장과 협의를 거쳐 중앙 위원회의 위원장에게 제출하여야 한다. 계열-선택 / 44",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20074,
+      "question": "시･도지사는 긴급구조활동을 신속하고 효과적으로 할 수 있도록 긴급구조현장지휘대 등 긴급구조 체제를 구축하고, 상시 소속 긴급구조요원 및 장비의 출동태세를 유지하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20075,
+      "question": "긴급구조현장지휘대는 신속기동요원, 자원지원요원, 통신지원요원, 안전관리요원, 현장지휘요원, 구급 지휘요원으로 구성한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20076,
+      "question": "소방본부현장지휘대는 2개 이상 4개 이하의 소방서 별로 소방본부장이 1개를 설치･운영한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20077,
+      "question": "긴급구조현장지휘대는 화재 등 일상적 사고의 발생시 현장지휘, 광범위한 지역에 걸친 재난발생시 전진 지휘, 주요 긴급구조지원기관과의 합동으로 현장 지휘의 조정･통제, 중앙긴급구조통제단 또는 시･도 긴급구조통제단 및 시･군･구긴급구조통제단(이하 “통제단”이라 한다)이 가동되기 전 재난초기시 현장지휘의 기능을 수행한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20078,
+      "question": "통신지원요원은 통제단이 설치･운영되는 경우 통제단의 대응계획부에 배치된다. 인문사회계열 40 /",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20079,
+      "question": "국무총리 소속으로 중앙안전관리위원회를 둔다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20080,
+      "question": "중앙안전관리위원회에 안전정책조정위원회를 두며, 안전정책조정위원회의 간사위원은 행정안전부의 재난안전관리사무를 담당하는 본부장이 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20081,
+      "question": "안전정책조정위원회의 위원장은 중앙안전관리 위원회 또는 안전정책조정위원회에서 심의･조정된 사항에 대한 이행상황을 점검하고, 그 결과를 중앙안전관리위원회에 보고하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20082,
+      "question": "안전정책조정위원회의 위원장은 재난 및 안전관리에 관한 민관 협력관계를 원활히 하기 위하여 중앙 안전관리민관협력위원회를 구성･운영할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20083,
+      "question": "재난관리주관기관의 장은 재난이 발생하거나 발생할 우려가 있는 경우에는 대통령령으로 정하는 바에 따라 재난상황을 효율적으로 관리하고 재난을 수습하기 위한 중앙사고수습본부를 신속하게 설치･ 운영하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20084,
+      "question": "수증기폭발은 화학적 폭발에 해당한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20085,
+      "question": "분진폭발은 분진의 단위체적당 표면적이 커질수록 폭발이 용이해진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20086,
+      "question": "분해폭발은 공기나 산소와 섞이지 않더라도 가연성 가스 자체의 분해열에 의해 폭발하는 현상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20087,
+      "question": "폭연은 화염의 전파속도가 음속보다 느리다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20088,
+      "question": "폭굉은 화염면에서 온도, 압력, 밀도가 불연속으로 나타난다. 계열-선택 / 44",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20089,
+      "question": "환기 요소는 화재 가혹도 곡선에서 온도 상승에 영향을 주는 인자이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20090,
+      "question": "영역 ㉠에는 플레임오버(flame over)가, 영역 ㉡에는 백드래프트(back draft)가 일어날 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20091,
+      "question": "화재강도는 주수시간을 좌우하고, 화재하중은 주수율을 좌우한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20092,
+      "question": "방화구획된 구획실 화재 가혹도 곡선은 점선 ㉢과 같이 나타날 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20093,
+      "question": "화재제어를 통한 화재 가혹도 곡선은 점선 ㉣과 같이 나타날 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20095,
+      "question": "과염소산과 과염소산포타슘 인문사회계열 41 /",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20096,
+      "question": "A 지점의 연소 물질, 공기, 불활성가스의 농도는 각각 40 %, 50 %, 10 %이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20097,
+      "question": "연소 물질의 농도가 같을 때, 온도가 증가할수록 불활성가스의 농도가 감소한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20098,
+      "question": "동일한 온도에서, 연소 물질과 공기의 농도가 감소 하면 불활성가스의 농도가 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20099,
+      "question": "공기의 농도 범위가 70~90 %일 때, 온도가 증가할수록 연소 물질의 농도가 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20100,
+      "question": "연소 물질의 농도가 20% 이상이고 불활성가스의 농도가 같을 때, 온도가 증가하면 공기의 농도가 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20102,
+      "question": "‘과산화수소’는 그 농도가 30 wt% 이상일 때, 제6류 위험물에 해당한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20103,
+      "question": "‘화염 전파속도’는 가연물에 산소가 공급되어 연소 반응하면서 불꽃이 전파되는 속도로서 연소생성물이 생성되는 반응 속도이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20104,
+      "question": "‘아이오딘값(iodine value)’은 유지 100g이 흡수할 수 있는 아이오딘의 g 수이며, 유지의 포화도를 나타내는 지수로 아이오딘값에 따라 건성유, 반건성유, 불건성유로 나뉜다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20105,
+      "question": "‘감광계수’는 빛이 산란되는 계수로서 연기 농도를 나타내는 척도이며, 감광계수가 커지면 빛이 감소 하고 시야가 좁아져 가시거리는 짧아진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20106,
+      "question": "‘제연설비’는 화재가 발생한 거실의 연기를 배출함과 동시에 옥외의 신선한 공기를 공급하여 거주자들이 안전하게 피난하고, 소방대가 원활한 소화 활동을 할 수 있도록 연기를 제어하는 설비를 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20113,
+      "question": "단백포는 표면하주입방식이 가능하고 유동성이 좋으나 내열성이 약해 탱크 내벽을 따라 잔불이 남는 윤화(ring fire) 현상이 일어날 우려가 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20114,
+      "question": "불화단백포는 양친매성으로 내열성과 점착성이 좋으나 유동성과 내유성에 약하다. 특히, 유동성이 작아 소화 속도가 느리다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20115,
+      "question": "합성계면활성제포는 단친매성이며 표면하주입 방식으로 사용 가능하고 내열성과 내유성이 우수 하며 장기보관이 가능하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20116,
+      "question": "내알코올형포는 점성이 크고 포의 소멸을 방지하기 위하여 단백질의 가수분해물질, 계면활성제를 첨가 하여 제조한 소화약제이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20117,
+      "question": "수성막포는 양친매성으로 저팽창에서 고팽창까지 팽창 범위가 넓어 고체 및 기체 등에서 사용범위가 크고, 점착성이 커 입체적인 화재에 적응성이 있다. 고팽창(발포)형의 경우에는 수분이 적어 포가 빨리 소멸한다. 인문사회계열 43 /",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20121,
+      "question": "백드래프트(back draft)를 정의하는 요소에는 연료 지배형 화재, 제한된 또는 밀폐된 공간, 갑작스러운 공기(산소)유입 등이 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20122,
+      "question": "백드래프트(back draft)는 신선한 공기가 유입되어 가연성 가스가 단시간에 폭발적으로 연소하는 현상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20123,
+      "question": "롤오버(roll over)는 실의 상부에 있는 가연성 가스가 발화온도 이상 도달했을 때 발화하는 현상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20124,
+      "question": "롤오버(roll over)는 화염이 선단부(앞쪽 끝부분) 에서 주변 공간으로 확대되는 현상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20125,
+      "question": "플래시오버(flash over)는 천장 부근에 가연성 가스가 축적되어 어느 시기에 이르러 폭발적으로 연소하는 현상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20127,
+      "question": "아크롤레인(CH CHCHO)은 석유제품 및 유지류 등이 2 연소할 때 생성되는데, 자극성이 크고 맹독성을 지닌다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20128,
+      "question": "포스겐(COCl)은 PVC와 같이 염소가 함유된 수지류가 2 연소할 때 발생되는 연소생성물로서 독성이 매우 강한 가스이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20129,
+      "question": "이산화질소(NO )는 질산셀룰로오스가 연소 또는 2 분해될 때 생성되며, 질산암모늄(NH NO )과 같은 4 3 질산염 계통의 무기물질이 포함된 화재에서도 발견 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20130,
+      "question": "염화수소(HCl)는 PVC와 같이 염소가 함유된 수지류가 연소할 때 주로 생성되고 기도와 눈 등을 자극하며 금속에 대해 강한 부식성이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20131,
+      "question": "아크롤레인(CH CHCHO), 포스겐(COCl ), 이산화질소 2 2 (NO ), 염화수소(HCl) 중 TLV-TWA(ppm)이 가장 2 높은 것은 이산화질소(NO )이다. 2 계열-선택 / 44",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

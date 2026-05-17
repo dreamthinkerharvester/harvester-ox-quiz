@@ -1,0 +1,334 @@
+{
+  "category": {
+    "slug": "g7-2025-subj-527138",
+    "name": "자료해석",
+    "exam_group": "국가직 7급 · 2025년",
+    "subject": "자료해석",
+    "phase": null,
+    "exam_year": 2025,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 8708,
+      "statement": "‘단맛’으로 원두를 비교할 때 가장 높은 점수를 받은 원두는 아프리카 지역의 원두이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "자료해석-인.pdf",
+      "source": {
+        "qid": 6,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8709,
+      "statement": "아프리카 지역의 원두는 모두 ‘향’ 평가점수가 ‘단맛’ 평가점수보다 높다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "자료해석-인.pdf",
+      "source": {
+        "qid": 6,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8710,
+      "statement": "아메리카 지역은 ‘바디감’으로 원두를 비교할 때 가장 낮은 점수를 받은 원두가 ‘향’으로 원두를 비교할 때도 가장 낮은 점수를 받았다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "자료해석-인.pdf",
+      "source": {
+        "qid": 6,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8711,
+      "statement": "아시아 지역은 ‘산미’로 원두를 비교할 때 가장 높은 점수를 받은 원두가 종합 평가점수도 가장 높다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "자료해석-인.pdf",
+      "source": {
+        "qid": 6,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8712,
+      "statement": "각 지역에서 종합 평가점수가 가장 높은 원두의 종합 평가점수는 모두 같다. 자료해석영역 책형 4쪽",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "자료해석-인.pdf",
+      "source": {
+        "qid": 6,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8713,
+      "statement": "‘도로 연장’당 ‘도로 면적’은 A지역이 D지역보다 크다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "자료해석-인.pdf",
+      "source": {
+        "qid": 17,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8714,
+      "statement": "B지역의 ‘도로 연장’은 ‘갑’시 ‘도로 연장’의 25% 이상이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "자료해석-인.pdf",
+      "source": {
+        "qid": 17,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8715,
+      "statement": "‘도로율’이 가장 낮은 지역은 ‘시가화 면적’이 가장 크다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "자료해석-인.pdf",
+      "source": {
+        "qid": 17,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8716,
+      "statement": "D지역의 ‘시가화 면적’은 10km2 이하이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "자료해석-인.pdf",
+      "source": {
+        "qid": 17,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8717,
+      "statement": "‘갑’시의 ‘시가화 면적’은 50km2 이상이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "자료해석-인.pdf",
+      "source": {
+        "qid": 17,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8718,
+      "statement": "장식조명 민원건수가 전년 대비 증가한 모든 해에는 전광판조명 민원건수도 전년 대비 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "자료해석-인.pdf",
+      "source": {
+        "qid": 18,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8719,
+      "statement": "2023년 공간조명으로 인한 수면방해 민원건수는 92건 이상이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "자료해석-인.pdf",
+      "source": {
+        "qid": 18,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8720,
+      "statement": "2021년 전체 민원건수 중 수면방해 민원건수의 비중은 85% 이상이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "자료해석-인.pdf",
+      "source": {
+        "qid": 18,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8721,
+      "statement": "눈부심 민원건수의 전년 대비 증가율은 2024년이 가장 높다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "자료해석-인.pdf",
+      "source": {
+        "qid": 18,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8722,
+      "statement": "기타를 제외하고 매년 조명종류의 민원건수 순위는 동일하다. 자료해석영역 책형 9쪽",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "자료해석-인.pdf",
+      "source": {
+        "qid": 18,
+        "option": "⑤"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:38+00:00",
+    "total": 15,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

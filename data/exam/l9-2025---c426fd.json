@@ -1,0 +1,208 @@
+{
+  "category": {
+    "slug": "l9-2025---c426fd",
+    "name": "경력경쟁 기계일반",
+    "exam_group": "지방직 9급 · 2025년",
+    "subject": "경력경쟁 기계일반",
+    "phase": null,
+    "exam_year": 2025,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 10138,
+      "statement": "체인의 길이 조절이 가능하다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 기계일반-B.pdf",
+      "source": {
+        "qid": 15,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10139,
+      "statement": "축 사이의 거리가 멀어 기어를 사용할 수 없을 때 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 기계일반-B.pdf",
+      "source": {
+        "qid": 15,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10140,
+      "statement": "체인과 스프로킷 휠(sprocket wheel)에 의해 동력을 전달한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 기계일반-B.pdf",
+      "source": {
+        "qid": 15,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10141,
+      "statement": "은(Ag)은 구리(Cu)보다 연성이 우수하다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 기계일반-B.pdf",
+      "source": {
+        "qid": 16,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10142,
+      "statement": "금(Au)은 구리(Cu)보다 연성이 우수하다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 기계일반-B.pdf",
+      "source": {
+        "qid": 16,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10143,
+      "statement": "은(Ag)은 구리(Cu)보다 전기 전도율이 우수하다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 기계일반-B.pdf",
+      "source": {
+        "qid": 16,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10144,
+      "statement": "금(Au)은 구리(Cu)보다 전기 전도율이 우수하다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 기계일반-B.pdf",
+      "source": {
+        "qid": 16,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10145,
+      "statement": "사용 연료는 휘발유이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 기계일반-B.pdf",
+      "source": {
+        "qid": 18,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10146,
+      "statement": "점화 플러그의 불꽃 점화 방식으로 점화한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "251101 고졸 경임 기계일반-B.pdf",
+      "source": {
+        "qid": 18,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:38+00:00",
+    "total": 9,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

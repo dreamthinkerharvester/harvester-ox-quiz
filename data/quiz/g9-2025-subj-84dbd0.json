@@ -1,0 +1,265 @@
+{
+  "slug": "g9-2025-subj-84dbd0",
+  "name": "교육학개론",
+  "exam_group": "국가직 9급 · 2025년",
+  "subject": "교육학개론",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 21,
+  "questions": [
+    {
+      "id": 4184,
+      "question": "교육은 국민이 기존의 정치적 질서에 적절히 참여하도록 함으로써 사회통합을 추구한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4185,
+      "question": "학교는 재능 있는 사람을 선발하여 훈련시킨 뒤, 적재적소에 배치ㆍ충원하는 합리적 기제이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4186,
+      "question": "학교는 아동에게 필요한 가치, 규범 등을 내면화시켜 사회에 원만하게 적응하도록 도와주는 사회화 기능을 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4187,
+      "question": "학교는 지배계급의 이익을 보존ㆍ재생산하기 위한 제도이다. 교육학개론 책형 1쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4188,
+      "question": "학습성과는 언어 정보, 인지 전략, 태도, 운동 기능의 네 영역으로 분류된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4189,
+      "question": "학습의 조건에는 내적 조건과 외적 조건이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4190,
+      "question": "교수 활동은 7단계로 구성된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4191,
+      "question": "모든 수업은 학습목표 제시로부터 시작된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4192,
+      "question": "교수 분석 단계에서는 학습자가 학습해야 하는 하위 기능들을 분석한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4193,
+      "question": "평가도구 개발 단계에서는 문항에서 측정하고 있는 것과 목표에서의 성취 행동을 일치시켜야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4194,
+      "question": "교수전략 개발 단계에서 새로운 자료의 개발 여부는 목표별 학습유형, 기존의 관련 자료의 이용 가능성에 따라 결정된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4195,
+      "question": "형성평가 설계 및 실행 단계에서는 교수 프로그램 초안이 완성된 후, 질 개선을 위해 필요한 자료를 수집한다. 2025년도 국가공무원 9급 공채 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4196,
+      "question": "“평생교육”이란 학교의 정규교육과정을 포함한 학력보완교육, 성인 문해교육, 시민참여교육 등 다양한 형태의 교육활동을 말한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4197,
+      "question": "“문해교육”이란 일상생활을 영위하는데 필요한 문자해득능력을 포함한 사회적ㆍ문화적으로 요청되는 기초생활능력 등을 갖출 수 있도록 하는 조직화된 교육프로그램을 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4198,
+      "question": "“평생교육사업”이란 국가 및 지방자치단체가 국민과 주민의 평생교육을 위하여 예산 또는 기금으로 조직적인 교육활동을 직ㆍ간접적으로 지원하는 사업을 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4199,
+      "question": "“평생교육이용권”이란 평생교육프로그램을 이용할 수 있도록 금액이 기재(전자적 또는 자기적 방법에 따른 기록을 포함한다)된 증표를 말한다. 교육학개론 책형 2쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4202,
+      "question": "고등학교 등의 무상교육 및 고교학점제의 지원 등",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4204,
+      "question": "승진은 동일 직렬 내에서의 직위 상승을 의미한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4205,
+      "question": "전직은 종류와 자격을 달리하는 임용이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4206,
+      "question": "전보는 같은 직위 및 자격에서 근무기관이나 부서를 달리하는 임용이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4207,
+      "question": "전직은 수직적 이동이고 전보는 수평적 이동이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

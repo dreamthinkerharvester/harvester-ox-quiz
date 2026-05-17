@@ -1,0 +1,691 @@
+{
+  "category": {
+    "slug": "g9-2026-subj-6af00d",
+    "name": "토목설계",
+    "exam_group": "국가직 9급 · 2026년",
+    "subject": "토목설계",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 3298,
+      "statement": "철근의 정착을 위해 철근 끝을 구부려 만든 철근",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 1,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3299,
+      "statement": "기둥에서 종방향 철근을 나선형으로 둘러싼 철근",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 1,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3300,
+      "statement": "주된 단면력이 작용하는 방향으로 휨모멘트와 축력에 저항하기 위하여 배치하는 철근",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 1,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3301,
+      "statement": "하중을 분산시키거나 균열을 제어하는 목적으로 주철근과 직각 또는 직각과 가까운 방향으로 배치한 보조철근",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 1,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3302,
+      "statement": "철근과 콘크리트 사이에 충분한 부착강도를 확보해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 2,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3303,
+      "statement": "철근콘크리트 구조는 강구조에 비해 진동이 적은 편이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 2,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3304,
+      "statement": "강구조에 비해서 철근콘크리트 구조는 크리프(creep)에 의한 영향이 거의 없다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 2,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3305,
+      "statement": "휨을 받는 철근콘크리트 보의 인장측 콘크리트에 인장응력으로 인한 균열이 발생할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 2,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3306,
+      "statement": "사용하중상태에서 파괴에 도달한 상태를 말한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 3,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3307,
+      "statement": "철근이 선형탄성상태에 있는 보의 철근변형률을 말한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 3,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3308,
+      "statement": "콘크리트와 철근의 응력이 각각 허용응력에 대응되는 변형률에 도달한 상태를 말한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 3,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3309,
+      "statement": "인장철근이 설계기준항복강도에 대응하는 변형률에 도달하고 동시에 압축 콘크리트가 가정된 극한변형률에 도달한 상태를 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 3,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3310,
+      "statement": "긴장재 응력의 릴랙세이션 토목설계 책형 1쪽  ",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 4,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3312,
+      "statement": "거푸집 양 측면 사이의 최소 거리의 1/5 이하",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 8,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3313,
+      "statement": "개별 철근, 다발철근, 긴장재 또는 덕트 사이 최소 순간격의 3/4 이하 2026년도 국가공무원 9급 공채 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 8,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3316,
+      "statement": "면외방향으로 압축플랜지의 횡변위가 발생한 경우",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3318,
+      "statement": "고장력볼트의 구멍중심에서 피접합재의 연단까지의 최소거리는 연단부 가공방법에 영향을 받지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 10,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3319,
+      "statement": "M22 고장력볼트의 표준구멍직경은 24mm이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 10,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3320,
+      "statement": "고장력볼트의 구멍중심 간의 거리는 공칭직경의 2.5배를 최소거리로 하고 3배를 표준거리로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 10,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3321,
+      "statement": "고장력볼트의 구멍중심에서 볼트머리 또는 너트가 접하는 부재의 연단까지의 최대거리는 판 두께의 12배 이하 또한 150mm이하로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 10,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3322,
+      "statement": "단면의 공칭휨모멘트가 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 11,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3323,
+      "statement": "압축철근의 변형률이 감소한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 11,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3324,
+      "statement": "콘크리트의 등가 압축응력블록 깊이가 감소한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 11,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3325,
+      "statement": "콘크리트와 압축철근에 의한 압축 내력의 합이 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 11,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3326,
+      "statement": "띠철근 간격을 줄여 기둥의 횡방향 구속력을 증가시킨다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 12,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3327,
+      "statement": "기둥 단면을 증가시켜 압축강성을 향상시킨다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 12,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3328,
+      "statement": "인장철근을 제거하여 좌굴응력 집중을 감소시킨다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 12,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3329,
+      "statement": "나선철근을 배치하여 기둥의 연성을 증가시킨다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 12,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3330,
+      "statement": "뒷부벽은 압축거동을 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 14,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3331,
+      "statement": "벽체는 뒷부벽으로 지지된 연속판으로 설계한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 14,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3332,
+      "statement": "뒷부벽은 저판에 고정된 변단면 T형 캔틸레버보로 설계한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 14,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3333,
+      "statement": "벽체 및 기초 슬래브의 양쪽 단부는 부벽에 지지된 캔틸레버보로 설계해야 한다. 2026년도 국가공무원 9급 공채 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "토목설계_가.pdf",
+      "source": {
+        "qid": 14,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 32,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

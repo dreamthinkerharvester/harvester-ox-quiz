@@ -1,0 +1,523 @@
+{
+  "category": {
+    "slug": "g7-2026---9e6a41",
+    "name": "(근로감독,산업안전) 기계공작법",
+    "exam_group": "국가직 7급 · 2026년",
+    "subject": "(근로감독,산업안전) 기계공작법",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 6178,
+      "statement": "연삭 숫돌, 조정 숫돌, 받침판(rest blade) 등을 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 3,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6179,
+      "statement": "조정 숫돌로는 금속을 결합제로 사용한 숫돌을 사용한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 3,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6180,
+      "statement": "센터나 척을 사용하지 않고 원통형 공작물의 외면과 내면을 연삭할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 3,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6181,
+      "statement": "볼트와 같이 공작물에 단이 있으면 이송절입법(infeed method)으로 작업한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 3,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6182,
+      "statement": "공정 재고품이 감소할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 6,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6183,
+      "statement": "다수의 가공 셀과 제어 시스템으로 구성된다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 6,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6184,
+      "statement": "여러 개의 제품을 생산라인에 동시에 투입할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 6,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6185,
+      "statement": "가공물 준비 및 대기에 필요한 시간이 늘어나는 효과가 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 6,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6186,
+      "statement": "단조용 장치에는 해머, 프레스, 실린더 등이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 7,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6187,
+      "statement": "소재를 2개의 단조용 다이 사이에 넣고 압축이나 타격 가능하다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 7,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6188,
+      "statement": "높은 단조 온도는 작은 결정립을 얻고 산화를 피하는 데 유리하다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 7,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6189,
+      "statement": "소재가 균열을 일으키지 않고 변형 능력이 좋은 것이 단조에 적합하다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 7,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6190,
+      "statement": "판재를 블랭킹하는 작업에서 발생할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 8,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6191,
+      "statement": "한 쌍의 공구에 의해 가공된 면에서 생길 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 8,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6192,
+      "statement": "전단하는 다이간극이 증가할수록 버의 높이는 커진다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 8,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6193,
+      "statement": "버의 높이, 형상 그리고 크기는 후속 공정에 영향을 주지 않는다. 근로감독 및 산업안전 분야 국가공무원 7급 공채 제2차시험",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 8,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6194,
+      "statement": "칩이 엉키는 문제를 해결하기 위한 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 14,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6195,
+      "statement": "연성의 재료를 고속 절삭 할 때 발생하는 칩의 경우에 더 필요하다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 14,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6196,
+      "statement": "말린 형태의 칩을 펴서 응력이 더 발생하게 하여 절단되도록 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 14,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6197,
+      "statement": "긴 칩은 공작물 표면 정도에 나쁜 영향을 미치거나 자동화를 방해할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 14,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6198,
+      "statement": "백래시(backlash)가 제거된다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 15,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6199,
+      "statement": "공작물의 견고한 고정이 필요하다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 15,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6200,
+      "statement": "칩의 가장 두꺼운 위치에서 절삭이 끝난다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 15,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6202,
+      "statement": "숫돌바퀴의 원주속도가 느릴 때 근로감독 및 산업안전 분야 국가공무원 7급 공채 제2차시험",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 기계공작법-가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 24,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "category": {
+    "slug": "g7-2024-subj-e24185",
+    "name": "상황판단",
+    "exam_group": "국가직 7급 · 2024년",
+    "subject": "상황판단",
+    "phase": null,
+    "exam_year": 2024,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 9911,
+      "statement": "자기조절을 위해서는 현재 나의 상태와 아직 구현되지 않은 나의 미래 상태를 구분할 수 있어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "상황판단(사).pdf",
+      "source": {
+        "qid": 5,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9912,
+      "statement": "내측전전두피질과 배외측전전두피질 간의 기능적 연결성이 약할수록 목표를 위한 집중력이 높아진다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "상황판단(사).pdf",
+      "source": {
+        "qid": 5,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9913,
+      "statement": "목표달성을 위해서는 일상적이고 전형적인 행동을 강화하는 능력이 필요하다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "상황판단(사).pdf",
+      "source": {
+        "qid": 5,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9914,
+      "statement": "자신이 도달하고자 하는 대상에 집중하는 과정을 자기참조과정이라 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "상황판단(사).pdf",
+      "source": {
+        "qid": 5,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9915,
+      "statement": "자기조절력은 자기절제의 하위 요소이다. 상황판단영역 책형 3쪽",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "상황판단(사).pdf",
+      "source": {
+        "qid": 5,
+        "option": "⑤"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:38+00:00",
+    "total": 5,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

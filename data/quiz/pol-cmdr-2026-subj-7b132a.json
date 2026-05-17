@@ -1,0 +1,577 @@
+{
+  "slug": "pol-cmdr-2026-subj-7b132a",
+  "name": "시스템네트워크보안",
+  "exam_group": "경찰 간부 · 2026년",
+  "subject": "시스템네트워크보안",
+  "phase": null,
+  "source": "경찰 간부",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 47,
+  "questions": [
+    {
+      "id": 15072,
+      "question": "lsattr - 7 트 워 크 보 안 사 이 버",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15075,
+      "question": "Destination Unreachable 메시지",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15077,
+      "question": "PMTUD(Path MTU Discovery)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15078,
+      "question": "DSD(Duplicate Security Detection)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15079,
+      "question": "MLD(Multicast Listener Discovery)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15080,
+      "question": "NDP(Neighbor Discovery Protocol)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15081,
+      "question": "현재 로그인한 사용자 정보는 로그인을 수행할 때 utmp 로그 파일에 로그인 정보가 기록된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15082,
+      "question": "wtmp 로그는 로그인과 로그아웃 정보를 가지고 있는 로그 파일로 접속정보를 계속 기록하는 파일이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15083,
+      "question": "btmp 로그는 리눅스 로그인시 실패한 정보를 가지고 있는 로그파일로 텍스트 형태로 저장되어 vi 에디터를 실행하여 확인할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15084,
+      "question": "pacct 로그는 시스템에 로그인한 모든 사용자가 수행한 프 로그램 정보를 저장하는 로그이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15085,
+      "question": "MUA － 사용자 역할이나 사용자 응용 프로그램을 대표하며 이들을 위해 동작한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15086,
+      "question": "MDA － MHS로부터 MS로 메시지 전달을 책임지고 수행한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15087,
+      "question": "MTA －응용 프로그램 수준의 한 홉(hop)간에 메일을 중계한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15088,
+      "question": "MSA －장기 메시지 저장소로 POP이나 IMAP을 이용해 원 격서버에 있는 메시지를 검색한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15089,
+      "question": "매주 월요일 새벽 0시 1분에 /home/clean.sh 명령을 실행",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15090,
+      "question": "매월 2일 새벽 0시 1분에 /home/clean.sh 명령을 실행",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15091,
+      "question": "매주 화요일 새벽 0시 1분에 /home/clean.sh 명령을 실행",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15092,
+      "question": "매일 새벽 0시 1분에 /home/clean.sh 명령을 실행",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15093,
+      "question": "TFTP는 FTP와 같이 TCP 포트 21번을 사용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15094,
+      "question": "TFTP는 자체 디스크가 없는 워크스테이션의 부팅 이미지 전달에 주로 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15095,
+      "question": "TFTP는 사용자명/비밀번호 방식의 간단한 인증을 제공한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15096,
+      "question": "TFTP는 파일을 받고, 보내고, 삭제하기 등을 위한 다양한 명령을 지원한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15097,
+      "question": "DKIM(Domain Keys Identified Mail)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15098,
+      "question": "DNSSEC(DNS Security Extensions)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15099,
+      "question": "S/MIME(Secure/Multipurpose Internet Mail Extension)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15100,
+      "question": "SPF(Sender Policy Framework)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15111,
+      "question": "CSS(Cross Site Scripting)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15112,
+      "question": "CSRF(Cross Site Request Forgery)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15113,
+      "question": "SSRF(Server Side Request Forgery)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15114,
+      "question": "출발지와 목적지의 IP 주소를 동일하게 공격대상의 IP 주소로 변조하여 전송한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 29,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15115,
+      "question": "패킷의 시퀀스 넘버를 조작해 데이터 부분이 중첩되도록 전송함으로써, 재조립하는데 CPU 과부하를 유발한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 29,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15116,
+      "question": "패킷을 수신한 시스템은 응답하기 위해 출발지 IP 주소를 참조 하는데, 출발지 IP 주소가 자신의 IP 주소이기 때문에 자신에게 응답하게 되고 이 과정을 반복하게 하여 과부하를 유발한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 29,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15117,
+      "question": "동시 사용자 수를 점유하고 루프 상태가 되도록 함으로써, 시스템 과부하를 유발한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 29,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15119,
+      "question": "가 - 나 - 라 - 다",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15120,
+      "question": "나 - 가 - 라 - 다",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15123,
+      "question": "SDO(STIX Domain Objects)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 32,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15124,
+      "question": "SAO(STIX Attribute Objects)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 32,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15125,
+      "question": "SCO(STIX Cyber-observable Objects)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 32,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15126,
+      "question": "SRO(STIX Relationship Objects)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 32,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15128,
+      "question": "㉠은 1970년 1월 1일부터 마지막으로 패스워드를 변경한 날 까지의 일 수이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15129,
+      "question": "㉡은 패스워드를 변경하기 전에 최소 사용 기간의 일 수이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15130,
+      "question": "㉢은 패스워드를 변경하지 않고 최대한 사용할 수 있는 기간의 일 수이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15131,
+      "question": "㉣은 계정의 사용 제한을 결정하고 며칠 후에 완전히 사용을 정지할지 설정한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15135,
+      "question": "서버와 순서번호를 주기적으로 검사하여 비동기화 상태인지 탐지한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15136,
+      "question": "전송 중 윈도우 크기와 순서번호가 맞지 않는 상태가 되면 교정 패킷이 정상적으로 동작하지 못하게 되어, 무한루프에 빠지기 때문에 ACK 패킷의 비율이 감소하는지 탐지한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15137,
+      "question": "공격자가 중간에 끼어있기 때문에 패킷의 유실과 재전송 발생, 서버와의 응답 시간이 증가하는지 탐지한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15138,
+      "question": "접속 초기에 예상하지 못한 세션의 리셋이 발생하는지 탐지 한다. 12 -",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

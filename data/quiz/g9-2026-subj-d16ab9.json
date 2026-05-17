@@ -1,0 +1,61 @@
+{
+  "slug": "g9-2026-subj-d16ab9",
+  "name": "기계설계",
+  "exam_group": "국가직 9급 · 2026년",
+  "subject": "기계설계",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 4,
+  "questions": [
+    {
+      "id": 2557,
+      "question": "공작기계의 이송나사로 사용된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2558,
+      "question": "고속으로 동작할 시 소음이 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2559,
+      "question": "예압을 통해 백래시(backlash)를 줄일 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2560,
+      "question": "볼은 수나사와 암나사(너트) 사이의 홈을 따라 순환한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

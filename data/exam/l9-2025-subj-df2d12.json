@@ -1,0 +1,292 @@
+{
+  "category": {
+    "slug": "l9-2025-subj-df2d12",
+    "name": "공중보건",
+    "exam_group": "지방직 9급 · 2025년",
+    "subject": "공중보건",
+    "phase": null,
+    "exam_year": 2025,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 10368,
+      "statement": "의료급여기금은 전액 국고보조금으로 구성된다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 공중보건-B.pdf",
+      "source": {
+        "qid": 8,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10369,
+      "statement": "의료급여 수급권자의 진료체계는 1차, 2차, 3차 의료급여기관으로 구분되어 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 공중보건-B.pdf",
+      "source": {
+        "qid": 8,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10370,
+      "statement": "의료급여 수급권자의 자격선정과 관리는 거주지를 관할하는 보건소장이 수행한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 공중보건-B.pdf",
+      "source": {
+        "qid": 8,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10371,
+      "statement": "2종 수급권자는 근로능력이 없는 자만으로 구성된 세대의 구성원, 이재민, 북한이탈주민 등이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 공중보건-B.pdf",
+      "source": {
+        "qid": 8,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10372,
+      "statement": "수질오염의 한 지표가 될 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 공중보건-B.pdf",
+      "source": {
+        "qid": 9,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10373,
+      "statement": "수온이 높을수록, 기압이 높을수록 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 공중보건-B.pdf",
+      "source": {
+        "qid": 9,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10374,
+      "statement": "용존산소량이 적은 것은 오염도가 높음을 의미한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 공중보건-B.pdf",
+      "source": {
+        "qid": 9,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10375,
+      "statement": "생물화학적 산소요구량(BOD)이 많으면 용존산소량은 적다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 공중보건-B.pdf",
+      "source": {
+        "qid": 9,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10376,
+      "statement": "요양병원간병비는 특별현금급여에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 공중보건-B.pdf",
+      "source": {
+        "qid": 14,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10377,
+      "statement": "장기요양보험 수급자는 건강보험 가입자와 동일하다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 공중보건-B.pdf",
+      "source": {
+        "qid": 14,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10378,
+      "statement": "단기보호 급여를 받을 수 있는 기간은 월 최대 20일이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 공중보건-B.pdf",
+      "source": {
+        "qid": 14,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10379,
+      "statement": "재가급여 시 본인부담금은 해당 장기요양급여비용의 100분의 20이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 공중보건-B.pdf",
+      "source": {
+        "qid": 14,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10383,
+      "statement": "폐암－2년, 54세 이상 74세 이하의 남ㆍ여 중 폐암 발생 고위험군",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 공중보건-B.pdf",
+      "source": {
+        "qid": 16,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:38+00:00",
+    "total": 13,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

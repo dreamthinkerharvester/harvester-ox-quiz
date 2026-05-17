@@ -1,0 +1,241 @@
+{
+  "slug": "g9-2026-subj-0d0102",
+  "name": "통계학개론",
+  "exam_group": "국가직 9급 · 2026년",
+  "subject": "통계학개론",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 19,
+  "questions": [
+    {
+      "id": 3334,
+      "question": "평균은 중앙값보다 크다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3335,
+      "question": "자료의 범위는  이상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3336,
+      "question": "왜도(skewness)의 값은 양수이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3337,
+      "question": "중앙값은 제1사분위수보다 제3사분위수에 더 가깝다.  ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3338,
+      "question": "기울기의 추정값이 커지면 신뢰구간의 폭이 넓어진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3339,
+      "question": "의 값이 커지면 신뢰구간의 폭이 넓어진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3340,
+      "question": "평균제곱오차()의 값이 커지면 신뢰구간의 폭이 넓어진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3341,
+      "question": "독립변수의 편차의 제곱합이 커지면 신뢰구간의 폭이 넓어진다. 2026년도 국가공무원 9급 공채 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3342,
+      "question": "처리의 수가 일 경우 (가)의 값은 이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3343,
+      "question": "전체 자료의 수가 이고 처리의 수가 일 때, (나)의 값은 이다. ×(나)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3345,
+      "question": "확률변수 가 분자와 분모의 자유도가 각각 (가), (나)인 분포를 따를 때, (라)는 다이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3346,
+      "question": "인자 의 수준수는 이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3347,
+      "question": "인자 의 제곱합의 자유도는 이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3348,
+      "question": "각 수준조합에서의 반복수는 이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3349,
+      "question": "교호작용 ×는 유의수준 %에서 유의하지 않다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3350,
+      "question": "표본평균 는 이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3351,
+      "question": "% 신뢰수준에서 의 오차한계는 이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3352,
+      "question": "모평균 가 구간  에 포함될 확률은 이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3353,
+      "question": "가설   대  ≠을 유의수준 %에서 검정할 때,   귀무가설을 기각하지 못한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

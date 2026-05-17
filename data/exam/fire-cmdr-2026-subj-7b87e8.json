@@ -1,0 +1,124 @@
+{
+  "category": {
+    "slug": "fire-cmdr-2026-subj-7b87e8",
+    "name": "화학개론",
+    "exam_group": "소방 간부 · 2026년",
+    "subject": "화학개론",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 20488,
+      "statement": "℃, atm에서 A는 기체이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "화학개론.pdf",
+      "source": {
+        "qid": 10,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20489,
+      "statement": "℃에서 기체가 응축되는 압력이 존재한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "화학개론.pdf",
+      "source": {
+        "qid": 10,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20490,
+      "statement": "대기압에서 고체가 승화하는 온도가 존재한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "화학개론.pdf",
+      "source": {
+        "qid": 10,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20491,
+      "statement": "T에서 A는 고체와 액체로만 존재한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "화학개론.pdf",
+      "source": {
+        "qid": 10,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 20492,
+      "statement": "atm보다 낮은 압력에서 A는 액체로 존재하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "화학개론.pdf",
+      "source": {
+        "qid": 10,
+        "option": "⑤"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 5,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

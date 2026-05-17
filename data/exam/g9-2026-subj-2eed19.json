@@ -1,0 +1,628 @@
+{
+  "category": {
+    "slug": "g9-2026-subj-2eed19",
+    "name": "기계일반",
+    "exam_group": "국가직 9급 · 2026년",
+    "subject": "기계일반",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 2567,
+      "statement": "공구의 경사각을 크게 하여 방지할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 6,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2568,
+      "statement": "주로 취성 재료를 절삭하는 경우에 발생한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 6,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2569,
+      "statement": "공구끝단에 소재가 응착하여 절삭날 역할을 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 6,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2570,
+      "statement": "발생→성장→분열→탈락의 주기를 반복한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 6,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2571,
+      "statement": "구름 베어링은 규격화되어 호환성이 있으며 기동마찰이 작다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 13,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2572,
+      "statement": "미끄럼 베어링은 감쇠력이 우수하며 공진 속도보다 빠른 속도로 운전할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 13,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2573,
+      "statement": "저널 베어링의 폭경비는 베어링 폭을 축 지름으로 나눈 값으로 폭경비가 클수록 베어링 압력과 오일 누설은 감소한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 13,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2574,
+      "statement": "스러스트 자동조심(self-aligning thrust) 롤러베어링의 전동체는 원추 롤러(tapered roller)로 고속 회전과 큰 축방향 하중에 적합하다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 13,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2575,
+      "statement": "웜휠의 축직각 피치는 웜의 축방향 피치와 같다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 14,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2576,
+      "statement": "웜이 구동 기어일 때 큰 감속비를 얻을 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 14,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2577,
+      "statement": "웜에 축방향 하중이 생기고 미끄럼마찰에 의한 동력손실이 크다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 14,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2578,
+      "statement": "웜의 상당 마찰각이 리드각보다 작으면 웜휠로 웜을 회전시킬 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 14,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2579,
+      "statement": "유니버설 조인트는 두 축이 같은 평면 내에서 어느 각도로 교차하는 경우에 사용하며, 구동축과 종동축의 각속도가 항상 일정하다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 15,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2580,
+      "statement": "플랜지 커플링은 축의 양 끝에 분할된 반원 형상 커플링을 축을 감싸는 형상으로 맞댄 후 볼트로 결합하는 형태이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 15,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2581,
+      "statement": "기어 커플링은 치의 개수가 같은 바깥기어와 안기어를 맞물리게 하여 동력을 전달하며 외치와 내치 사이의 틈새가 유연성을 부여한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 15,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2582,
+      "statement": "슬리브 커플링(sleeve coupling)은 마주 보는 두 축에 바깥통을 끼우고 바깥통과 축 사이를 키로 고정한 형태로 축 지름이 크고 하중이 큰 경우에 사용한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 15,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2584,
+      "statement": "기어(Z )와 피니언(Z )의 잇수비(Z /Z )가 클 때 2 1 2 1",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 16,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2585,
+      "statement": "터보형 펌프에는 원심펌프, 기어펌프, 베인펌프 등이 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2586,
+      "statement": "용적형 펌프는 부하압력이 변화하더라도 송출량이 거의 일정하다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2587,
+      "statement": "터보형 펌프는 회전하는 임펠러를 이용하여 유체에 에너지를 전달한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2588,
+      "statement": "용적형 펌프는 펌프실 내부의 체적 변화를 통해 유체를 압력에 대항하여 밀어내는 방식으로 동작한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2589,
+      "statement": "연료의 분사 압력을 증가시킨다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 18,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2590,
+      "statement": "연료의 분사 시기를 지연시킨다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 18,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2591,
+      "statement": "배기가스 재순환(EGR)량을 감소시킨다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 18,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2592,
+      "statement": "연소 온도를 높이거나, 산소 농도를 증가시킨다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 18,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2597,
+      "statement": "흡입 관로의 길이를 늘인다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 20,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2598,
+      "statement": "흡입 배관의 안지름을 크게 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 20,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2599,
+      "statement": "오일탱크의 오일 점도는 일정 수준을 넘지 않도록 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 20,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2600,
+      "statement": "펌프 흡입구와 오일탱크 유면과의 높이차를 작게 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "기계일반_가.pdf",
+      "source": {
+        "qid": 20,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 29,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "category": {
+    "slug": "pol-cmdr-2025-subj-262767",
+    "name": "통신이론",
+    "exam_group": "경찰 간부 · 2025년",
+    "subject": "통신이론",
+    "phase": null,
+    "exam_year": 2025,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 17017,
+      "statement": "110101010111111 - 18 신 이 론 사 이 버",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통신이론.pdf",
+      "source": {
+        "qid": 4,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17018,
+      "statement": "에너지 신호의 전력은 ∞이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통신이론.pdf",
+      "source": {
+        "qid": 7,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17019,
+      "statement": "전력 신호의 에너지는 0이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통신이론.pdf",
+      "source": {
+        "qid": 7,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17020,
+      "statement": "에너지 신호도 아니고 전력 신호도 아닌 신호가 존재한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통신이론.pdf",
+      "source": {
+        "qid": 7,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17021,
+      "statement": "주기 신호는 에너지 신호이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통신이론.pdf",
+      "source": {
+        "qid": 7,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17029,
+      "statement": "B : 440[MHz] K : 10 - 19",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통신이론.pdf",
+      "source": {
+        "qid": 12,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17030,
+      "statement": "펄스부호변조(Pulse Code Modulation)",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통신이론.pdf",
+      "source": {
+        "qid": 31,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17033,
+      "statement": "펄스폭변조(Pulse Width Modulation) - 22",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통신이론.pdf",
+      "source": {
+        "qid": 31,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17039,
+      "statement": "ARP(Address Resolution Protocol)",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통신이론.pdf",
+      "source": {
+        "qid": 37,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17040,
+      "statement": "DHCP(Dynamic Host Configuration Protocol)",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통신이론.pdf",
+      "source": {
+        "qid": 37,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17041,
+      "statement": "RARP(Reverse Address Resolution Protocol) - 23",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통신이론.pdf",
+      "source": {
+        "qid": 37,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17042,
+      "statement": "SMTP(Simple Mail Transfer Protocol)",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "통신이론.pdf",
+      "source": {
+        "qid": 39,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17043,
+      "statement": "MIME(Multipurpose Internet Mail Extention)",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통신이론.pdf",
+      "source": {
+        "qid": 39,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17044,
+      "statement": "POP(Post Office Protocol)",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통신이론.pdf",
+      "source": {
+        "qid": 39,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17045,
+      "statement": "IMAP(Internet Mail Access Protocol)",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통신이론.pdf",
+      "source": {
+        "qid": 39,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:38+00:00",
+    "total": 15,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

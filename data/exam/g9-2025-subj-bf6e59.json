@@ -1,0 +1,460 @@
+{
+  "category": {
+    "slug": "g9-2025-subj-bf6e59",
+    "name": "영어",
+    "exam_group": "국가직 9급 · 2025년",
+    "subject": "영어",
+    "phase": null,
+    "exam_year": 2025,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 4774,
+      "statement": "Development of Single-Use Items",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 영어-나.pdf",
+      "source": {
+        "qid": 6,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4775,
+      "statement": "Join the Plastic-Free Challenge",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 영어-나.pdf",
+      "source": {
+        "qid": 6,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4776,
+      "statement": "How to Dispose of Plastic Items",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 영어-나.pdf",
+      "source": {
+        "qid": 6,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4777,
+      "statement": "Simple Ways to Save Energy",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 영어-나.pdf",
+      "source": {
+        "qid": 6,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4778,
+      "statement": "to give directions to the consulate",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 영어-나.pdf",
+      "source": {
+        "qid": 9,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4779,
+      "statement": "to explain how to file complaints",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 영어-나.pdf",
+      "source": {
+        "qid": 9,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4780,
+      "statement": "to lay out the employment process",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 영어-나.pdf",
+      "source": {
+        "qid": 9,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4781,
+      "statement": "to announce the opening hours",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 영어-나.pdf",
+      "source": {
+        "qid": 9,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4782,
+      "statement": "the economic advantages of working in the agricultural sector",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 영어-나.pdf",
+      "source": {
+        "qid": 10,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4783,
+      "statement": "the importance of technology in modern farming practices",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 영어-나.pdf",
+      "source": {
+        "qid": 10,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4784,
+      "statement": "the roles of young farmers and the challenges they face",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 영어-나.pdf",
+      "source": {
+        "qid": 10,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4785,
+      "statement": "young people’s efforts for urban development 영 어 책형 2쪽",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 영어-나.pdf",
+      "source": {
+        "qid": 10,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4786,
+      "statement": "to express gratitude to the Council for their efforts",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 영어-나.pdf",
+      "source": {
+        "qid": 11,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4787,
+      "statement": "to invite the Council to visit Central Park",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 영어-나.pdf",
+      "source": {
+        "qid": 11,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4788,
+      "statement": "to solicit the Council to deal with the community problems",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 영어-나.pdf",
+      "source": {
+        "qid": 11,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4789,
+      "statement": "to update the Council on recent repairs made in the area [12∼ 13] 밑줄 친 부분 중 어법상 옳지 않은 것을 고르시오.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 영어-나.pdf",
+      "source": {
+        "qid": 11,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4790,
+      "statement": ") You need to know what’s going on around you that might affect your life and work, but not what is irrelevant to these things. (",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 영어-나.pdf",
+      "source": {
+        "qid": 16,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4791,
+      "statement": ") I am not advocating a “full ostrich” model of ignoring the outside world entirely. (",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 영어-나.pdf",
+      "source": {
+        "qid": 16,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4792,
+      "statement": ") Rather, I mean to recommend ordering your information intake so that extraneous stuff doesn’t eat up your attention. (",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 영어-나.pdf",
+      "source": {
+        "qid": 16,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4793,
+      "statement": ") Perhaps you could decide to read the news for 30 minutes in the morning and vegetate* on social media for 30 minutes at the end of the day. * vegetate: 하는 일 없이 지내다",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 영어-나.pdf",
+      "source": {
+        "qid": 16,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4794,
+      "statement": "(C)－(B)－(A) 영 어 책형 4쪽 [19∼ 20] 밑줄 친 부분에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 영어-나.pdf",
+      "source": {
+        "qid": 18,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 21,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

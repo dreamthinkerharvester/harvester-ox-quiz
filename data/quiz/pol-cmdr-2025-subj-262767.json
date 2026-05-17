@@ -1,0 +1,193 @@
+{
+  "slug": "pol-cmdr-2025-subj-262767",
+  "name": "통신이론",
+  "exam_group": "경찰 간부 · 2025년",
+  "subject": "통신이론",
+  "phase": null,
+  "source": "경찰 간부",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 15,
+  "questions": [
+    {
+      "id": 17017,
+      "question": "110101010111111 - 18 신 이 론 사 이 버",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17018,
+      "question": "에너지 신호의 전력은 ∞이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17019,
+      "question": "전력 신호의 에너지는 0이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17020,
+      "question": "에너지 신호도 아니고 전력 신호도 아닌 신호가 존재한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17021,
+      "question": "주기 신호는 에너지 신호이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17029,
+      "question": "B : 440[MHz] K : 10 - 19",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17030,
+      "question": "펄스부호변조(Pulse Code Modulation)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17033,
+      "question": "펄스폭변조(Pulse Width Modulation) - 22",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17039,
+      "question": "ARP(Address Resolution Protocol)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17040,
+      "question": "DHCP(Dynamic Host Configuration Protocol)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17041,
+      "question": "RARP(Reverse Address Resolution Protocol) - 23",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17042,
+      "question": "SMTP(Simple Mail Transfer Protocol)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 39,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17043,
+      "question": "MIME(Multipurpose Internet Mail Extention)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 39,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17044,
+      "question": "POP(Post Office Protocol)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 39,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17045,
+      "question": "IMAP(Internet Mail Access Protocol)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 39,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

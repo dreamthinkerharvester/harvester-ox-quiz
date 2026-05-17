@@ -1,0 +1,193 @@
+{
+  "slug": "na8-2025-subj-8d5d23",
+  "name": "자료해석영역",
+  "exam_group": "국회직 8급 · 2025년",
+  "subject": "자료해석영역",
+  "phase": null,
+  "source": "국회직 8급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 15,
+  "questions": [
+    {
+      "id": 14012,
+      "question": "2018년 대비 2022년 A국 콘텐츠산업 전체 수출액의 증가율은 같은 기간 음악 분야 수출액의 증가율보다 낮다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 14013,
+      "question": "2018〜2022년 A국 콘텐츠산업 수입액의 합이 가장 큰 분야는 같은 기간 동안 수출액의 합도 가장 크다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 14014,
+      "question": "2019〜2022년 A국 음악 분야 수입액의 전년 대비 증감 방향과 지식정보 분야 수출액의 전년 대비 증감 방향은 매년 같다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 14015,
+      "question": "A국 콘텐츠산업 전체 수출액과 수입액의 차이가 가장 큰 연도는 2020년이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 14016,
+      "question": "A국 콘텐츠산업 분야별 수입액이 많은 순위는 2018〜2022년 동안 매년 동일하다. - 5 - 석영역 책형 가",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 14017,
+      "question": "2024년 2월 갑국 자동차 판매량의 전월 대비 증감률은 D모델이 F모델보다 낮다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 14018,
+      "question": "I모델의 판매량은 2024년 1월 갑국 자동차 판매량 상위 10개 모델 중 10위이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 14019,
+      "question": "2024년 2월 갑국 자동차 판매량 상위 10개 모델 중, 2024년 2월에 전월 대비 판매량이 가장 많이 증가한 모델은 H모델이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 14020,
+      "question": "2024년 2월 갑국 자동차 판매량 상위 10개 모델 중, 2024년 2월 벨츠제조사차량의판매량이기안제조사차량의판매량보다많다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 14021,
+      "question": "2024년 2월 갑국 자동차 판매량 상위 10개 모델 중, 2024년 2월 차량종류별 판매량은 SUV가 가장 많다. - 2025년도 8급 공개경쟁채용시험 자료해석영",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 14022,
+      "question": "2023년 A시 소득계층별 임차비율 (%) 80 58 60 44 40 31 20 0 저소득층 중소득층 고소득층",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 14023,
+      "question": "2020년 지역별 고소득층과 저소득층 자가비율의 차이 (%p) 50 41 40 36 30 24 20 10 0 A시 B시 C시 - 11 - 석영역 책형 가",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 14024,
+      "question": "2023년 B시 무상가구의 소득계층별 구성비 고소득층 10.3% 중소득층 저소득층 20.7% 69.0% ※ 제시된 구성비는 소수점 아래 둘째 자리에서 반올림한 값임",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 14025,
+      "question": "2020년 대비 2023년 B시 소득계층별 가구 수의 변화율 (%) 40 33.3 20 0.0 0 저소득층 중소득층 고소득층 -20 -40 -50.0 -60 ※ 제시된 변화율은 소수점 아래 둘째 자리에서 반올림한 값임",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 14026,
+      "question": "2020년 지역별 중소득층 임차가구와 무상가구 수의 합 A시 240 B시 96 C시 54 0 50 100 150 200 250 (만가3구00) -",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

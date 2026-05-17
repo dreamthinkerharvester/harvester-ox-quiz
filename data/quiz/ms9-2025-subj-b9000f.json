@@ -1,0 +1,205 @@
+{
+  "slug": "ms9-2025-subj-b9000f",
+  "name": "자료조직론",
+  "exam_group": "군무원 9급 · 2025년",
+  "subject": "자료조직론",
+  "phase": null,
+  "source": "군무원 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 16,
+  "questions": [
+    {
+      "id": 12083,
+      "question": "FRBR에서 정의한 저작, 표현형, 구현형, 개별 자료 등의 개념과 4계층 구조를 그대로 취하고 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12084,
+      "question": "레(Res)는 FRSAD의 ‘테마’가 흡수된 것으로, LRM의 다른 모든 개체의 최상위 개념으로 설정되어 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12085,
+      "question": "행위자(Agent)는 의도적으로 행동을 할 수 있고, 권한을 부여받아 그 행동에 책임을 질 수 있는 개체를 의미한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12086,
+      "question": "노멘(Nomen)은 개체와 이 개체를 지칭하는 명칭과의 연계를 의미하며 FRSAD의 ‘노멘’과 FRAD의 개체인 ‘제어형 접근점’, ‘이름’, ‘식별자’, 1 ‘규칙’이 LRM에 흡수되었다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12089,
+      "question": "<name>-alternativeName ; affiliation ; role",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12090,
+      "question": "<originInfo>-publisher ; issuance ; frequency",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12091,
+      "question": "<subject>-topic ; geographic ; temporal",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12092,
+      "question": "<physicalDescription>-form ; extent ; edition",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12097,
+      "question": "전 주제를 망라한 전문용어가 상세한 수준으로 구축된다. 우선어는 서지데이터에 부여되어 주제명표목으로 사용할 수 있으며, 나머지 용어는 비우선어가 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12098,
+      "question": "주제명표목의 기술과 작성은 한국문헌자동화 목록형식(KORMARC) 통합서지용과 한국목록 규칙(KCR) 제4판을 준용하고 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12099,
+      "question": "자료의 전체 내용을 가장 잘 표현하는 주제명 이나 자료의 가장 중요한 주제에 대한 주제 1 명을 선택하여 부여한다. 가장 중요한 주제를 판단하기 어렵다면 해당 자료에서 최소한 20% 이상을 다룬 주제를 주제명으로 채택한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12100,
+      "question": "해당 자료의 주제명으로 가장 적당한 용어를 찾아 가급적 3개 이내로 주제명을 부여하되 시소러스형 후조합 색인임을 감안하여 필요에 따라 주제명을 여러 개 부여할 수 있다. 자료조직론(9 를 17. DDC 제23판에 따라 분류한 결과 분류기호가 빠른 순서대로 나열한 것은? (단, 다른 조건은 모두 동일하다.) ㄱ. 한국 작가와 체코 작가들의 시 형식 수필 전집 ㄴ. 한국 작가와 아일랜드 작가들의 연설 형식 희곡 전집 ㄷ. 프랑스 작가 1인의 서간문 형식 수필 ㄹ. 스페인 작가 1인의 소설 형식 연설문 ① ㄱ → ㄴ → ㄷ → ㄹ ② ㄱ → ㄴ → ㄹ → ㄷ ③ ㄴ → ㄱ → ㄷ → ㄹ ④ ㄷ → ㄹ → ㄴ → ㄱ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12101,
+      "question": "음악의 내포는 ‘클래식, 재즈, 팝, 락, 메탈’ 등 이고 음악의 외연은 ‘목소리나 악기를 통하여 사상 또는 감정을 나타내는 예술’이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "ㄱ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12102,
+      "question": "예술, 회화, 수채화만을 두고 보았을 때 유개념 이자 종개념이 될 수 있는 개념은 회화이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "ㄴ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12103,
+      "question": "내포가 증가할수록 외연은 감소한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "ㄷ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12104,
+      "question": "유개념과 종개념은 대등관계에 있는 양자의 관계를 설명하는 개념이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "ㄹ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

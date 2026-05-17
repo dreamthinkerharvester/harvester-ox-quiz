@@ -1,0 +1,397 @@
+{
+  "category": {
+    "slug": "g7-2026---1bb56c",
+    "name": "(근로감독,산업안전) 화학개론",
+    "exam_group": "국가직 7급 · 2026년",
+    "subject": "(근로감독,산업안전) 화학개론",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 6785,
+      "statement": "밀리컨(Millikan)의 기름 방울 실험으로 발견했다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 화학개론-가.pdf",
+      "source": {
+        "qid": 3,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6786,
+      "statement": "양성자의 수를 통해 원자 번호를 알 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 화학개론-가.pdf",
+      "source": {
+        "qid": 3,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6787,
+      "statement": "중성 원자에서 전자의 수와 양성자의 수는 같다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 화학개론-가.pdf",
+      "source": {
+        "qid": 3,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6788,
+      "statement": "중성 원자의 질량수는 양성자의 수와 중성자의 수의 합이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 화학개론-가.pdf",
+      "source": {
+        "qid": 3,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6789,
+      "statement": "(가)의 반응은 환원 전극에서 일어난다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 화학개론-가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6790,
+      "statement": "(나)의 반응에서 반응물의 산소의 산화수는 생성물의 산소의 산화수보다 작다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 화학개론-가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6791,
+      "statement": "(다)의 반응에서 Fe2＋는 산화제로 작용한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 화학개론-가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6792,
+      "statement": "(다)의 반응에서 양론 계수 , , 의 합은 7이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 화학개론-가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6793,
+      "statement": "C H OC H ＋AlCl →(C H ) OAlCl 2 5 2 5 3 2 5 2 3",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 화학개론-가.pdf",
+      "source": {
+        "qid": 10,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6796,
+      "statement": "H＋＋NH →NH ＋ 3 4 화학개론 책형 2쪽",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 화학개론-가.pdf",
+      "source": {
+        "qid": 10,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6797,
+      "statement": "반응 시작물은 페놀을 질산과 반응시켜 합성할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 화학개론-가.pdf",
+      "source": {
+        "qid": 24,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6798,
+      "statement": "최종 생성물의 이름은 -aminophenol이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 화학개론-가.pdf",
+      "source": {
+        "qid": 24,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6799,
+      "statement": "첫 번째 반응에서 수소화붕소나트륨(sodium borohydride)은 환원제로 사용되었다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 화학개론-가.pdf",
+      "source": {
+        "qid": 24,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6800,
+      "statement": "최종 생성물은 진통 및 해열효과가 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 화학개론-가.pdf",
+      "source": {
+        "qid": 24,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6801,
+      "statement": "He ＋ He → He ＋ H    ",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 화학개론-가.pdf",
+      "source": {
+        "qid": 25,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6802,
+      "statement": "N ＋ n → C＋ H    ",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 화학개론-가.pdf",
+      "source": {
+        "qid": 25,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6803,
+      "statement": "N ＋ He → O＋ H    ",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 화학개론-가.pdf",
+      "source": {
+        "qid": 25,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6804,
+      "statement": "Al＋He → P＋ n    ",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 화학개론-가.pdf",
+      "source": {
+        "qid": 25,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 18,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

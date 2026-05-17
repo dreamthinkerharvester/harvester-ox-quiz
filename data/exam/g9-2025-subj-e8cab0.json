@@ -1,0 +1,145 @@
+{
+  "category": {
+    "slug": "g9-2025-subj-e8cab0",
+    "name": "응용역학개론",
+    "exam_group": "국가직 9급 · 2025년",
+    "subject": "응용역학개론",
+    "phase": null,
+    "exam_year": 2025,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 4795,
+      "statement": "마찰력은 접촉면의 크기에 상관없다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 응용역학개론-나.pdf",
+      "source": {
+        "qid": 1,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4796,
+      "statement": "최대정지마찰력은 운동마찰력보다 작다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 응용역학개론-나.pdf",
+      "source": {
+        "qid": 1,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4797,
+      "statement": "마찰력은 항상 움직이는 방향의 반대 방향으로 작용한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 응용역학개론-나.pdf",
+      "source": {
+        "qid": 1,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4798,
+      "statement": "마찰력이 최대정지마찰력에 도달했을 때 마찰각도 최댓값을 갖는다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 응용역학개론-나.pdf",
+      "source": {
+        "qid": 1,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4801,
+      "statement": "탄성좌굴하중 P  cr  L ED",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 응용역학개론-나.pdf",
+      "source": {
+        "qid": 18,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 4802,
+      "statement": "탄성좌굴응력   cr  L 응용역학개론 책형 4쪽",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250405 국가 9급 응용역학개론-나.pdf",
+      "source": {
+        "qid": 18,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 6,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

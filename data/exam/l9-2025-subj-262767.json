@@ -1,0 +1,145 @@
+{
+  "category": {
+    "slug": "l9-2025-subj-262767",
+    "name": "통신이론",
+    "exam_group": "지방직 9급 · 2025년",
+    "subject": "통신이론",
+    "phase": null,
+    "exam_year": 2025,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 11150,
+      "statement": "부호는 두 개의 자기상관 값을 갖는다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 통신이론-B.pdf",
+      "source": {
+        "qid": 12,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11151,
+      "statement": "한 칩 지연 시 부호의 자기상관 값이 최대가 된다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 통신이론-B.pdf",
+      "source": {
+        "qid": 12,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11152,
+      "statement": "주로 무선 LAN에서 사용된다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 통신이론-B.pdf",
+      "source": {
+        "qid": 13,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11153,
+      "statement": "충돌이 발생하면 각 호스트에 충돌 발생 정보를 통지한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 통신이론-B.pdf",
+      "source": {
+        "qid": 13,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11154,
+      "statement": "충돌이 발생하면 임의의 대기 시간을 기다린 후 다시 매체접근을 시도한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 통신이론-B.pdf",
+      "source": {
+        "qid": 13,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 11155,
+      "statement": "데이터 전송 중 공유 매체에서 발생할 수 있는 충돌을 감지하는 기능이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 통신이론-B.pdf",
+      "source": {
+        "qid": 13,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:38+00:00",
+    "total": 6,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

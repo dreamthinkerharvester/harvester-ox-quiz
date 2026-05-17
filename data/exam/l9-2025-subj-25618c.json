@@ -1,0 +1,187 @@
+{
+  "category": {
+    "slug": "l9-2025-subj-25618c",
+    "name": "보건행정",
+    "exam_group": "지방직 9급 · 2025년",
+    "subject": "보건행정",
+    "phase": null,
+    "exam_year": 2025,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 10492,
+      "statement": "진료비에 본인부담률을 높인다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 보건행정-B.pdf",
+      "source": {
+        "qid": 14,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10493,
+      "statement": "건강증진사업을 확대 실시한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 보건행정-B.pdf",
+      "source": {
+        "qid": 14,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10494,
+      "statement": "고가의료장비의 과도한 도입을 억제한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 보건행정-B.pdf",
+      "source": {
+        "qid": 14,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10495,
+      "statement": "진료비 지불방식을 사전보상보다는 사후보상으로 전환한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 보건행정-B.pdf",
+      "source": {
+        "qid": 14,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10503,
+      "statement": "보건진료소는 지역보건법 에 의하여 설치한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 보건행정-B.pdf",
+      "source": {
+        "qid": 20,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10504,
+      "statement": "보건소, 보건지소는 정부조직법 에 의하여 설치 및 운영한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 보건행정-B.pdf",
+      "source": {
+        "qid": 20,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10505,
+      "statement": "보건의료원은 의료법 에 의하여 병원의 요건을 갖춘 보건소이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 보건행정-B.pdf",
+      "source": {
+        "qid": 20,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10506,
+      "statement": "보건소는 읍ㆍ면ㆍ동별로 1개소씩 설치하되 필요한 지역에 추가로 설치할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 보건행정-B.pdf",
+      "source": {
+        "qid": 20,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:38+00:00",
+    "total": 8,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

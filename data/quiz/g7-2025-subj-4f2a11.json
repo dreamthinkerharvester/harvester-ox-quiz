@@ -1,0 +1,493 @@
+{
+  "slug": "g7-2025-subj-4f2a11",
+  "name": "경영학",
+  "exam_group": "국가직 7급 · 2025년",
+  "subject": "경영학",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 40,
+  "questions": [
+    {
+      "id": 6974,
+      "question": "작업에 알맞은 사람을 선발하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6975,
+      "question": "차별성과급제를 최소임금제로 대체하였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6976,
+      "question": "조직 속의 인간의 기계화라는 비판을 받았다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6977,
+      "question": "시간과 동작 연구를 기초로 산출한 과업량을 작업자에게 배정하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6978,
+      "question": "관련다각화는 범위의 경제의 효과가 높다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6979,
+      "question": "신발제조업체가 신발 판매를 직접하는 것은 후방통합에 해당한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6980,
+      "question": "비관련다각화는 여러 산업에 참여함으로써 경영위험을 분산시킬 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6981,
+      "question": "수직적 통합은 원재료 공급에서 생산과 판매에 이르는 단계 중 전방 또는 후방 단계를 통합하는 전략이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6982,
+      "question": "프로그램의 관리가 단순하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6983,
+      "question": "카페테리아식 복리후생제도라고도 불린다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6984,
+      "question": "종업원의 욕구를 반영하기 때문에 종업원의 만족감이 증대된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6985,
+      "question": "기업이 제공하는 복리후생 항목들에 대한 선택권을 종업원에게 부여한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6986,
+      "question": "서열법은 근무성적이나 근무능력 등에 대해 피평가자의 순위를 정하는 방법이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6987,
+      "question": "목표관리법(MBO)에서는 피평가자가 목표의 설정 및 평가 과정에 참여한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6988,
+      "question": "평정척도법은 평가요소(능력, 태도 등)별로 척도(3점, 5점 척도 등)를 사용하여 피평가자를 평가하는 방법이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6989,
+      "question": "평가센터법은 피평가자의 인성적인 특질 대신 피평가자의 실제 행동을 기준으로 평가하는 방법이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6990,
+      "question": "A사와 B사의 자기자본승수는 같다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6991,
+      "question": "A사의 ROE가 B사의 ROE보다 낮다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6992,
+      "question": "듀퐁 항등식에 의하면, A사와 B사의 ROE 차이는 순이익률의 차이로부터 발생함을 알 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6993,
+      "question": "A사의 ROE가 B사의 ROE보다 낮은 것은, A사의 총자산회전율이 B사의 총자산회전율보다 낮기 때문이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6994,
+      "question": "액면가보다 높은 가격으로 거래되는 채권을 할증채권이라고 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6995,
+      "question": "일반적으로 채권가격과 만기수익률은 서로 반대 방향으로 움직인다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6996,
+      "question": "다른 조건이 같을 때, 채권의 잔존 만기가 길수록 만기수익률 변화에 따라 채권가격은 더욱 민감하게 변동한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6997,
+      "question": "다른 조건이 같을 때, 채권의 표면이자율이 높을수록 만기수익률 변화에 따라 채권가격은 더욱 민감하게 변동한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6998,
+      "question": "집중화 전략은 원가우위에 기초한 저가시장에는 사용할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6999,
+      "question": "원가우위를 달성하는 방법에는 규모의 경제, 학습효과 등이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7000,
+      "question": "본원적 경쟁전략에는 차별화 전략, 원가우위 전략, 집중화 전략이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7001,
+      "question": "고객에게 독특한 가치(제품의 품질, 디자인 등)를 제공함으로써 차별화우위를 획득할 수 있다. 2025년도 국가공무원 7급 공채 제2차 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7002,
+      "question": "어떤 요소가 사람들에게 동기부여를 일으키는지 설명하는 내용 이론에 해당한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7003,
+      "question": "자신의 노력 대비 보상의 비율을 준거인물의 해당 비율과 비교하여 공정성을 판단한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7004,
+      "question": "노력하여 성과를 달성하고 성과에 대한 보상이 기대보다 클 경우 공정성을 높게 지각한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7005,
+      "question": "공정성과 같은 고차원 욕구가 달성되어 동기부여 되기 위해서는 우선적으로 저차원 욕구가 충족되어야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7006,
+      "question": "관리활동을 합리적으로 수행하기 위한 14가지 관리원칙을 제시 하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7007,
+      "question": "관리원칙 가운데 질서(order)의 원칙에 의하면, 인적ㆍ물적 자원은 적재적소에 있어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7008,
+      "question": "관리원칙 가운데 명령일원화(unity of command)의 원칙에 의하면, 상급자는 한 명의 하급자에게만 명령과 지시를 내려야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7009,
+      "question": "관리활동을 계획(planning), 조직(organizing), 지휘(commanding), 조정(coordinating), 통제(controlling)의 다섯 가지로 나누어 분석 하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7010,
+      "question": "요구에 협조하는 유통업자에게 보상을 제공할 수 있는 능력은 준거적 힘에 해당한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7011,
+      "question": "요구에 따르지 않는 유통업자에게 처벌이나 제재를 가할 수 있는 능력은 강압적 힘에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7012,
+      "question": "공식적 계약에 근거해 규정된 행동을 준수하도록 유통업자에게 주장할 수 있는 능력은 합법적 힘에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 7013,
+      "question": "유통업자에게 가치를 인정받는 지식, 경험, 노하우 등을 보유하고 있어서 발생하는 힘은 전문적 힘에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

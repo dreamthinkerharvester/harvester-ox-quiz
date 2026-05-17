@@ -1,0 +1,109 @@
+{
+  "slug": "g7-2026---ed806c",
+  "name": "(근로감독,산업안전) 전기자기학",
+  "exam_group": "국가직 7급 · 2026년",
+  "subject": "(근로감독,산업안전) 전기자기학",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 8,
+  "questions": [
+    {
+      "id": 6443,
+      "question": "전자파는 × 방향으로 진행한다.     ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6444,
+      "question": "전계 와 자계 의 비는  이다.    ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6445,
+      "question": "전계와 자계는 공존하면서 상호 직각 방향으로 진동한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6446,
+      "question": "진공에서 전계와 자계의 위상차는 없다.  ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6447,
+      "question": "둘 다 영(zero)이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6448,
+      "question": "전속밀도에 대해서는 영이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6449,
+      "question": "자속밀도에 대해서는 영이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6450,
+      "question": "둘 다 시간상으로 변하지 않으면 영이고, 시변 상태에서는 영이 아니다. 전기자기학 책형 2쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "g7-2026---944bca",
+  "name": "(근로감독,산업안전) 회로이론",
+  "exam_group": "국가직 7급 · 2026년",
+  "subject": "(근로감독,산업안전) 회로이론",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 1,
+  "questions": [
+    {
+      "id": 6808,
+      "question": "     근로감독 및 산업안전 분야 국가공무원 7급 공채 제2차시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

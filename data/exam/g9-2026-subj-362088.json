@@ -1,0 +1,187 @@
+{
+  "category": {
+    "slug": "g9-2026-subj-362088",
+    "name": "컴퓨터일반",
+    "exam_group": "국가직 9급 · 2026년",
+    "subject": "컴퓨터일반",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 3289,
+      "statement": "한 모듈이 다른 모듈 내부를 직접 참조하는 경우는 내용(content) 결합도에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "컴퓨터일반_가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3290,
+      "statement": "응집도는 하나의 모듈 내에서 구성 요소들이 얼마나 밀접하게 관련되어 있는지를 나타낸다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "컴퓨터일반_가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3291,
+      "statement": "모듈을 구성하는 한 요소의 출력이 다음 요소의 입력으로 사용되는 경우는 순차적(sequential) 응집도에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "컴퓨터일반_가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3292,
+      "statement": "레코드, 구조체 또는 객체와 같은 복잡한 데이터 구조를 모듈 인터페이스를 통해 주고받는 경우는 데이터(data) 결합도에 해당한다. 2026년도 국가공무원 9급 공채 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "컴퓨터일반_가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3293,
+      "statement": "뷰를 이용하여 다른 뷰를 정의할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "컴퓨터일반_가.pdf",
+      "source": {
+        "qid": 11,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3294,
+      "statement": "뷰를 제거할 때는 DELETE VIEW 명령을 사용한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "컴퓨터일반_가.pdf",
+      "source": {
+        "qid": 11,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3295,
+      "statement": "뷰는 다른 테이블에서 유도된 가상 테이블이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "컴퓨터일반_가.pdf",
+      "source": {
+        "qid": 11,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3296,
+      "statement": "뷰를 이용하여 사용자별로 필요한 데이터만 선별하여 보여줄 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "컴퓨터일반_가.pdf",
+      "source": {
+        "qid": 11,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 8,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

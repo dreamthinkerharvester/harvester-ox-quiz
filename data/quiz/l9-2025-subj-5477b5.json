@@ -1,0 +1,61 @@
+{
+  "slug": "l9-2025-subj-5477b5",
+  "name": "안전관리론",
+  "exam_group": "지방직 9급 · 2025년",
+  "subject": "안전관리론",
+  "phase": null,
+  "source": "지방직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 4,
+  "questions": [
+    {
+      "id": 10598,
+      "question": "국무총리 소속으로 둔다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10599,
+      "question": "위원장 1명을 포함한 30명 이내의 위원으로 구성한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10600,
+      "question": "국민건강에 중대한 영향을 미칠 수 있는 식품등에 대한 위해성평가에 관한 사항을 심의ㆍ조정한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10601,
+      "question": "위원은 양심에 따라 공정하게 업무를 수행하여야 하고, 특정집단의 이익을 대변하여서는 아니 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "category": {
+    "slug": "g9-2026-subj-b8d550",
+    "name": "전기이론",
+    "exam_group": "국가직 9급 · 2026년",
+    "subject": "전기이론",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 3064,
+      "statement": "이상적인 전압원과 전류원의 내부저항은 모두 0이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "전기이론_가.pdf",
+      "source": {
+        "qid": 1,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3065,
+      "statement": "이상적인 전압원과 전류원의 내부저항은 모두 ∞이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "전기이론_가.pdf",
+      "source": {
+        "qid": 1,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3066,
+      "statement": "이상적인 전압원의 내부저항은 0이고, 이상적인 전류원의 내부 저항은 ∞이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "전기이론_가.pdf",
+      "source": {
+        "qid": 1,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3067,
+      "statement": "이상적인 전압원의 내부저항은 ∞이고, 이상적인 전류원의 내부 저항은 0이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "전기이론_가.pdf",
+      "source": {
+        "qid": 1,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3068,
+      "statement": "유효전력은 저항에서 소비되는 전력이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "전기이론_가.pdf",
+      "source": {
+        "qid": 7,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3069,
+      "statement": "선간전압이 증가하면 유효전력은 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "전기이론_가.pdf",
+      "source": {
+        "qid": 7,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3070,
+      "statement": "3상회로 유효전력은 등가 단상회로 유효전력의 3배이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "전기이론_가.pdf",
+      "source": {
+        "qid": 7,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3071,
+      "statement": "부하의 저항은 일정하고 리액턴스의 크기가 증가하면 유효전력은 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "전기이론_가.pdf",
+      "source": {
+        "qid": 7,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3072,
+      "statement": "대역폭은 ＝ [rad/s]이다.   ",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "전기이론_가.pdf",
+      "source": {
+        "qid": 15,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3074,
+      "statement": "공진주파수는  ＝ [Hz]이다.     ",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "전기이론_가.pdf",
+      "source": {
+        "qid": 15,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3075,
+      "statement": "병렬공진 시에 저항 에 흐르는 전류 은 전류 와 같다. ",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "전기이론_가.pdf",
+      "source": {
+        "qid": 15,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 11,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

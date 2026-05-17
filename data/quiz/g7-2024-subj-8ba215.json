@@ -1,0 +1,325 @@
+{
+  "slug": "g7-2024-subj-8ba215",
+  "name": "언어논리",
+  "exam_group": "국가직 7급 · 2024년",
+  "subject": "언어논리",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2024,
+  "exam_round": null,
+  "count": 26,
+  "questions": [
+    {
+      "id": 9916,
+      "question": "㉠을 “기존과 동일하게 해석하여 이 문장에 대한 일반적 해석을 준수하는 방식”으로 고친다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9917,
+      "question": "㉡을 “인이 106회 언급되었다면 다른 어떤 것에 비해서도 드물다고 평가할 수 없다”로 고친다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9918,
+      "question": "㉢을 “인에 대한 기록이 적어질 수밖에 없었다”로 고친다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9919,
+      "question": "㉣을 “논어를 편찬한 공자 제자들의 공통적 특성”으로 고친다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9920,
+      "question": "㉤을 “이 문장을 기록했던 시점까지”로 고친다. 언어논리영역 책형 4쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9921,
+      "question": "(가): ‘좋아요’를 얻기 위해 현실의 나와 다른 전시용 나를 제작하는 셈이다 (나): ‘좋아요’를 거부하고 다른 의견을 내는 사람은 불편한 대상이자 배제의 대상이 된다",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9922,
+      "question": "(가): ‘좋아요’를 얻기 위해 현실의 나와 다른 전시용 나를 제작하는 셈이다 (나): ‘좋아요’의 공동체에서는 어떠한 갈등이나 의견 대립도 발생하지 않는다",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9923,
+      "question": "(가): ‘좋아요’를 얻기 위해 나의 내면과 사생활까지도 타인에게 적극적으로 개방한다 (나): ‘좋아요’를 거부하고 다른 의견을 내는 사람은 불편한 대상이자 배제의 대상이 된다",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9924,
+      "question": "(가): ‘좋아요’를 얻기 위해 나의 내면과 사생활까지도 타인에게 적극적으로 개방한다 (나): ‘좋아요’의 공동체에서는 어떠한 갈등이나 의견 대립도 발생하지 않는다",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9925,
+      "question": "(가): ‘좋아요’를 얻기 위해 현실의 내가 가진 매력적 콘텐츠를 더욱 많이 발굴하는 것이다 (나): ‘좋아요’의 공동체에서는 어떠한 갈등이나 의견 대립도 발생하지 않는다 2024년도 국가공무원 7급 공채 등 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9926,
+      "question": "ACC를 덜 활성화시킨다",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9927,
+      "question": "더 적은 정보를 처리한다",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9928,
+      "question": "주변 환경에 더 친숙해진다",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9929,
+      "question": "기존의 세계 모델을 더 확신한다",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9930,
+      "question": "정보에 대한 판단을 더 지연시킨다 언어논리영역 책형 5쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9931,
+      "question": "S의 정보 중 적어도 하나가 참일 확률을 S의 모든 정보가 참일 확률로 나눈 값",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9932,
+      "question": "S의 모든 정보가 참일 확률을 S의 정보 중 적어도 하나가 참일 확률로 나눈 값",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9933,
+      "question": "S의 정보 중 기껏해야 하나가 참일 확률을 S의 모든 정보가 참일 확률로 나눈 값",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9934,
+      "question": "S의 모든 정보가 참일 확률을 S의 정보 중 기껏해야 하나가 참일 확률로 나눈 값",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9935,
+      "question": "S의 정보 중 기껏해야 하나가 참일 확률을 S의 정보 중 적어도 하나가 참일 확률로 나눈 값 2024년도 국가공무원 7급 공채 등 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9936,
+      "question": "내 마음속 관념이 곧 신이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9937,
+      "question": "사람과 신 이외에 마음을 지닌 존재는 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9938,
+      "question": "신의 마음은 나의 마음을 야기하는 원인이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9939,
+      "question": "감각기관을 통한 지각적 경험은 신뢰할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9940,
+      "question": "나 이외의 다른 마음만이 내가 지각하는 바를 조종할 수 있다. 언어논리영역 책형 6쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9941,
+      "question": "약화하지 않고 약화한다",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

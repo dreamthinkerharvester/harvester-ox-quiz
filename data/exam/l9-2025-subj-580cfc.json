@@ -1,0 +1,418 @@
+{
+  "category": {
+    "slug": "l9-2025-subj-580cfc",
+    "name": "건축구조",
+    "exam_group": "지방직 9급 · 2025년",
+    "subject": "건축구조",
+    "phase": null,
+    "exam_year": 2025,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 10060,
+      "statement": "건축물의 강성을 높인다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 건축구조-B.pdf",
+      "source": {
+        "qid": 4,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10061,
+      "statement": "건축물의 평면 길이를 길게 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 건축구조-B.pdf",
+      "source": {
+        "qid": 4,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10062,
+      "statement": "건축물의 중량을 기초에 균등하게 분포시킨다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 건축구조-B.pdf",
+      "source": {
+        "qid": 4,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10063,
+      "statement": "포스트텐션 방식에서는 정착장치의 앵커 정착손실이 나타나지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 건축구조-B.pdf",
+      "source": {
+        "qid": 7,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10064,
+      "statement": "프리텐션 방식의 경우 긴장재와 덕트(duct) 사이에서 마찰손실이 나타난다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 건축구조-B.pdf",
+      "source": {
+        "qid": 7,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10065,
+      "statement": "프리스트레스 도입 후에 콘크리트 크리프 및 건조수축은 즉시 손실의 주요 원인이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 건축구조-B.pdf",
+      "source": {
+        "qid": 7,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10066,
+      "statement": "콘크리트의 탄성수축에 의한 손실은 프리텐션 방식의 경우 콘크리트 경화 후 긴장력이 도입될 때 나타나며, 포스트텐션 방식의 경우에는 긴장(jacking)할 때 나타난다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 건축구조-B.pdf",
+      "source": {
+        "qid": 7,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10067,
+      "statement": "응력이 한곳에 집중되도록 접합한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 건축구조-B.pdf",
+      "source": {
+        "qid": 9,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10068,
+      "statement": "접합면은 최대한 복잡하게 가공하도록 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 건축구조-B.pdf",
+      "source": {
+        "qid": 9,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10069,
+      "statement": "이음의 단면은 응력 방향에 직각이 되도록 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 건축구조-B.pdf",
+      "source": {
+        "qid": 9,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10070,
+      "statement": "목재의 맞춤은 응력이 가장 큰 곳에 위치하도록 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 건축구조-B.pdf",
+      "source": {
+        "qid": 9,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10071,
+      "statement": "옵셋굽힘철근(offset bent bar): 상하 기둥 연결부에서 단면치수가 변하는 경우에 구부린 주철근",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 건축구조-B.pdf",
+      "source": {
+        "qid": 15,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10072,
+      "statement": "공칭강도(nominal strength): 하중에 대한 구조체나 구조부재 또는 단면의 저항능력을 말하며 강도감소계수 또는 저항계수를 적용하지 않은 강도",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 건축구조-B.pdf",
+      "source": {
+        "qid": 15,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10073,
+      "statement": "크리프(creep): 응력을 작용시킨 상태에서 탄성변형 및 수축변형을 제외시킨 변형으로 시간이 경과함에 따라 변형이 증가되는 현상",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 건축구조-B.pdf",
+      "source": {
+        "qid": 15,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10074,
+      "statement": "띠철근(tie reinforcement, tie bar): 보에서 종방향 철근의 위치를 확보하고 휨모멘트에 저항하도록 배근한 횡방향의 보강철근 또는 철선 건축구조 책형 2쪽",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 건축구조-B.pdf",
+      "source": {
+        "qid": 15,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10075,
+      "statement": "부재의 유효좌굴길이계수를 증가시킨다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 건축구조-B.pdf",
+      "source": {
+        "qid": 18,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10076,
+      "statement": "부재의 세장비를 증가시킨다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 건축구조-B.pdf",
+      "source": {
+        "qid": 18,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10077,
+      "statement": "부재의 비지지길이를 증가시킨다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 건축구조-B.pdf",
+      "source": {
+        "qid": 18,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 10078,
+      "statement": "강재의 좌굴축에 대한 단면2차모멘트를 증가시킨다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250621 지방 9급 건축구조-B.pdf",
+      "source": {
+        "qid": 18,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:38+00:00",
+    "total": 19,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

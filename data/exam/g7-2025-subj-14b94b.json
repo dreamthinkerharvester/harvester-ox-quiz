@@ -1,0 +1,544 @@
+{
+  "category": {
+    "slug": "g7-2025-subj-14b94b",
+    "name": "건축구조학",
+    "exam_group": "국가직 7급 · 2025년",
+    "subject": "건축구조학",
+    "phase": null,
+    "exam_year": 2025,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 6868,
+      "statement": "지표면조도구분은 지표면의 거칠기 상태로 일정지역의 지표면 거칠기에 해당하는 장애물이 바람에 노출된 정도의 구분이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 1,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6869,
+      "statement": "지붕골조설계용 풍하중은 구조물 전체에 가해지는 풍하중에 저항하는 구조부재들을 설계하기 위하여 사용하는 풍하중이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 1,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6870,
+      "statement": "고정하중은 구조체와 이에 부착된 비내력 부분 및 각종 설비 등의 중량에 의하여 구조물의 존치기간 중 지속적으로 작용하는 연직 하중이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 1,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6871,
+      "statement": "지붕활하중은 유지ㆍ보수 작업 시 작업자, 장비 및 자재에 의한 작업하중 또는 점유ㆍ사용과는 무관한 화분 또는 이와 유사한 소형 장식물 등 이동 가능한 물체에 의하여 지붕에 작용하는 하중이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 1,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6873,
+      "statement": "부재 AE는 인장재이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 3,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6874,
+      "statement": "부재 EC는 인장재이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 3,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6875,
+      "statement": "부재 ED의 부재력은 P이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 3,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6876,
+      "statement": "부재 DB의 부재력은 0(영)이다. 건축구조학 책형 1쪽",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 3,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6878,
+      "statement": "인장재의 설계인장강도는 총단면의 항복과 유효순단면의 파단에 의한 인장강도 중 큰 값으로 결정한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 7,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6879,
+      "statement": "강도한계상태는 항복, 소성힌지의 형성, 골조 또는 부재의 안정성, 인장파괴, 피로파괴 등 안정성과 최대하중 지지력에 대한 한계 상태이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 7,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6880,
+      "statement": "인장역작용은 프랫 트러스와 유사하게 전단력이 작용할 때 웨브의 대각방향으로 인장력이 발생하고 수직보강재에 압축력이 발생하는 패널의 거동이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 7,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6881,
+      "statement": "사용한계상태는 구조물의 외형, 유지 및 관리, 내구성, 사용자의 안락감 또는 기계류의 정상적인 기능 등을 유지하기 위한 구조물의 능력에 영향을 미치는 한계상태이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 7,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6882,
+      "statement": "단단한 암반 위에 설치한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 10,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6883,
+      "statement": "지역의 지반동결선 아래로 기초저면을 연장한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 10,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6884,
+      "statement": "동결보호 조치를 하는 최소 기간은 타설 후 3일이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 10,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6885,
+      "statement": "기초저면의 지반이 동결되지 않도록 적절한 방법으로 열전달을 차단하는 방법으로 시공한다. 건축구조학 책형 2쪽",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 10,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6886,
+      "statement": "보에서 D35를 초과하는 철근은 다발로 사용할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 13,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6887,
+      "statement": "휨부재의 경간 내에서 끝나는 한 다발철근 내의 개개 철근은 철근 공칭지름의 최소 30배 이상 서로 엇갈리게 끝나야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 13,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6888,
+      "statement": "다발철근의 간격과 최소 피복 두께를 철근지름으로 나타낼 경우, 다발철근의 지름은 등가단면적으로 환산된 한 개의 철근지름으로 보아야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 13,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6889,
+      "statement": "2개 이상의 철근을 묶어서 사용하는 다발철근은 이형철근으로, 그 개수는 4개 이하이어야 하며, 이들은 스터럽이나 띠철근으로 둘러싸여져야 한다. 2025년도 국가공무원 7급 공채 제2차 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 13,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6890,
+      "statement": "부재의 폭은 250mm 이상이어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 15,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6891,
+      "statement": "깊이에 대한 폭의 비는 최솟값이 0.2이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 15,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6892,
+      "statement": "부재의 유효깊이에 대한 순경간의 비는 최솟값이 3이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 15,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6893,
+      "statement": "부재의 최대 계수축력은 부재 전체 단면적에 콘크리트 설계기준 압축강도를 곱한 값의 15%이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 15,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6897,
+      "statement": "면내하중에 대한 벽체: 0.75 2025년도 국가공무원 7급 공채 제2차 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 건축구조학-가.pdf",
+      "source": {
+        "qid": 19,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 25,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

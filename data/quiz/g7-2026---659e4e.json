@@ -1,0 +1,241 @@
+{
+  "slug": "g7-2026---659e4e",
+  "name": "(근로감독,산업안전) 기계설계",
+  "exam_group": "국가직 7급 · 2026년",
+  "subject": "(근로감독,산업안전) 기계설계",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 19,
+  "questions": [
+    {
+      "id": 6203,
+      "question": "나사산각은 60°이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6204,
+      "question": "피치는 0.75mm이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6205,
+      "question": "호칭지름은 8mm이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6207,
+      "question": "플렉시블축: 굴곡이 자유로운 회전축이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6208,
+      "question": "스핀들: 회전하지 않고 토크를 전달하지도 않는 지지가 목적인 축이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6209,
+      "question": "전동축: 회전에 의해 동력을 전달하는 것을 주된 목적으로 하는 축이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6210,
+      "question": "크랭크축: 길이방향으로 직선이 아닌 축으로서 왕복운동을 회전운동으로 변환하는 축이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6211,
+      "question": "허용공차(allowance): 부품 체결 시 명시된 최소 간격 또는 최대 간섭이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6212,
+      "question": "틈새(clearance): 구멍의 치수가 축의 치수보다 큰 경우에 두 치수의 차이이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6213,
+      "question": "죔새(interference): 축의 치수가 구멍의 치수보다 큰 경우에 두 치수의 차이이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6214,
+      "question": "기준치수(basic size): 최대 허용치수와 최소 허용치수의 차이 또는 위치수 허용차와 아래치수 허용차의 차이이다. 근로감독 및 산업안전 분야 국가공무원 7급 공채 제2차시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6215,
+      "question": "초기 장력이 필요하므로 이로 인한 베어링 마멸이 많다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6216,
+      "question": "롤러 체인은 저속에서 고속까지 넓은 속도범위에서 쓸 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6217,
+      "question": "스프로킷 휠의 각속도가 일정해도 체인의 속도는 주기적으로 변한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6218,
+      "question": "롤러 체인에서 링크 수가 홀수이면 양끝의 결합에 오프셋 링크가 필요하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6219,
+      "question": "유체를 한 방향으로만 흘러가게 하고 역류를 방지할 목적으로 사용하는 밸브이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6220,
+      "question": "원추 모양의 마개를 회전시켜 유체의 통로를 개폐하여 유체를 차단하는 밸브이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6221,
+      "question": "압력이 제한된 값을 초과하였을 때 자동으로 열려서 유체의 일부를 방출하여 압력 상승을 억제하는 밸브이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6222,
+      "question": "밸브대를 축으로 하여 원판 모양의 디스크가 회전하면서 관로의 열림 각도를 변화시켜 유량을 조절하는 밸브이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

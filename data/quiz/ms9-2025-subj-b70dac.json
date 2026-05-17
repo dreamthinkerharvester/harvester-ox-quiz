@@ -1,0 +1,157 @@
+{
+  "slug": "ms9-2025-subj-b70dac",
+  "name": "응용역학",
+  "exam_group": "군무원 9급 · 2025년",
+  "subject": "응용역학",
+  "phase": null,
+  "source": "군무원 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 12,
+  "questions": [
+    {
+      "id": 12071,
+      "question": "우력의 합은 0이며 그 크기는 우력모멘트로 표시한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12072,
+      "question": "3개의 힘 , , 가 서로 균형일 때, 이    3개의 힘은 동일 평면상에 있고, 한 점에서 만난다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12073,
+      "question": "임의의 점에서의 우력모멘트는 항상 일정하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12074,
+      "question": "힘의 3요소는 작용점, 크기, 방향이며 스칼라량 으로 표시한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12075,
+      "question": "주축에 대한 단면 상승 모멘트는 0이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12076,
+      "question": "주축에 대한 단면 2차 모멘트는 최대 및 최소 이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12077,
+      "question": "원형 단면의 주축은 하나이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12078,
+      "question": "대칭축은 항상 주축이 되고, 그 주축에 직교 하는 축도 주축이 된다. 응용역학(9급 학 (9 급 ) 드 : 065) 성명 : 여 4. 그림과 같이 이동하중이 B점에서 A점 방향으로 이동할 때 A점의 최대반력은? ① 1.6P ② 1.9P ③ 2.3P ④ 2.6P",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12079,
+      "question": "변형률은 단위가 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12080,
+      "question": "변형률은 음수값을 가질 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12081,
+      "question": "응력은 탄성계수(Young 계수)와 단위가 다르다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12082,
+      "question": "포아송비는 축방향 응력에 대한 하중이 작용 하는 직각방향 응력의 비이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

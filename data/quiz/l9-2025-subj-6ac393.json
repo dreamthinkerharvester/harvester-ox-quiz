@@ -1,0 +1,301 @@
+{
+  "slug": "l9-2025-subj-6ac393",
+  "name": "전자공학개론",
+  "exam_group": "지방직 9급 · 2025년",
+  "subject": "전자공학개론",
+  "phase": null,
+  "source": "지방직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 24,
+  "questions": [
+    {
+      "id": 10798,
+      "question": "＝1, ＝0일 때 는 1이 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10799,
+      "question": "＝0, ＝1일 때 는 0이 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10800,
+      "question": "＝0, ＝0일 때 는 현재 값을 유지한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10801,
+      "question": "＝1, ＝1일 때 는 현재 값을 유지한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10802,
+      "question": "비선형 왜곡이 감소한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10803,
+      "question": "안정적으로 조절 가능한 전압 이득을 제공한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10804,
+      "question": "연산증폭기의 입력단으로 사용된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10805,
+      "question": "공통모드 이득이 클수록 증폭기의 성능이 우수하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10806,
+      "question": "두 개의 입력단에 유입되는 잡음을 제거하는 효과가 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10807,
+      "question": "공통모드 제거비(CMRR)는 차동모드 이득과 공통모드 이득의 비이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10809,
+      "question": "순방향 전압에서는 전류가 흐르지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10810,
+      "question": "항복 영역에서 제너 전압은 거의 일정하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10811,
+      "question": "전압 조정기(regulator) 회로를 구현하는 데 사용된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10812,
+      "question": "항복 전압을 줄이기 위해 불순물 도핑 농도를 크게 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10815,
+      "question": "이미터 팔로워(emitter follower) 회로이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10816,
+      "question": "출력전압  의 위상이 입력전압 의 위상과 같다.  ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10817,
+      "question": "변조를 하면 수신 안테나의 길이를 줄일 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10818,
+      "question": "변조를 하면 주파수 분할 다중 통신을 할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10819,
+      "question": "변조지수는 정보신호 진폭과 반송파 진폭의 합이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10820,
+      "question": "변조는 반송파의 진폭, 주파수, 또는 위상 등에 정보 신호를 실어 보내는 것이다. 전자공학개론 책형 3쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10821,
+      "question": "단안정 멀티바이브레이터 회로이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10822,
+      "question": "정귀환(positive feedback) 루프를 가진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10823,
+      "question": "히스테리시스(hysteresis) 특성을 가진다.  ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10824,
+      "question": "귀환율(feedback factor)은 이다.     2025년도 지방공무원 9급 등 공개경쟁임용 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

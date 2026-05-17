@@ -1,0 +1,271 @@
+{
+  "category": {
+    "slug": "customs-2026-subj-5d0586",
+    "name": "관세법개론",
+    "exam_group": "관세사 1차 · 2026년",
+    "subject": "관세법개론",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 22360,
+      "statement": "“반송”이란 국내에 도착한 외국물품이 수입 반출되는 것을 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "관세법개론.pdf",
+      "source": {
+        "qid": 1,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22362,
+      "statement": "“통관”이란 관세법에 따른 절차를 이행하여 물",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "관세법개론.pdf",
+      "source": {
+        "qid": 1,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22363,
+      "statement": "“탁송품”이란 상업서류, 견본품, 그 밖에 이 출입하는 것을 업으로 하는 자에게 위탁하여",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "관세법개론.pdf",
+      "source": {
+        "qid": 1,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22364,
+      "statement": "“환적”이란 동일한 세관의 관할구역에서 입 출항하는 운송수단으로 물품을 옮겨 싣는 것",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "관세법개론.pdf",
+      "source": {
+        "qid": 1,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22365,
+      "statement": "신청인이 사전심사 또는 재심사를 신청한 물 수출입신고한 경우",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "관세법개론.pdf",
+      "source": {
+        "qid": 14,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22368,
+      "statement": "농산물 혼합물로서 제조공정이 규격화되어 란한 경우",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "관세법개론.pdf",
+      "source": {
+        "qid": 14,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22369,
+      "statement": "사전심사를 위해 제출된 신청서와 견본 및 요구한 보정에 대해 그 보정기간 내에 보정",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "관세법개론.pdf",
+      "source": {
+        "qid": 14,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22376,
+      "statement": "체납자 재산의 압류, 담보 제공 등으로 출국",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "관세법개론.pdf",
+      "source": {
+        "qid": 17,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22383,
+      "statement": "가공무역을 위하여 우리나라와 외국간에 무상으",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "관세법개론.pdf",
+      "source": {
+        "qid": 29,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22384,
+      "statement": "판매를 목적으로 반입하는 물품(통관허용여 정한 기준에 해당하는 것으로 한정하지 아니",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "관세법개론.pdf",
+      "source": {
+        "qid": 29,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22386,
+      "statement": "베트남: 조사 요청을 접수한 날의 다음 날부",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "관세법개론.pdf",
+      "source": {
+        "qid": 36,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22398,
+      "statement": "유럽연합당사자: 조사를 시작하기 전 2026년도 제43회 관세사 례에 관한 법령에 규정된 ‘체약상대국’과 ‘원산지 은? 날부터 9개월 터 18개월 월 특례에 관한 법령상 무역위원회가 재정경제 때 첨부하는 서류에 기재해야 하는 사항으로 이유 이유 ③ ㄱ, ㄴ, ㄷ ㄷ, ㄹ 특례에 관한 법령상 무역위원회는 체약상대 핑방지관세 부과에 필요한 조사신청이 접수되 면으로 통보해야 한다. ‘체약상대국’과 ‘통보해 작하기 5일 전 사 1교시 A형 (30 – 12)",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "관세법개론.pdf",
+      "source": {
+        "qid": 38,
+        "option": "⑤"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 12,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

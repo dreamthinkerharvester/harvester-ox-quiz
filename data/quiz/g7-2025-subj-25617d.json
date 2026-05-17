@@ -1,0 +1,253 @@
+{
+  "slug": "g7-2025-subj-25617d",
+  "name": "소프트웨어공학",
+  "exam_group": "국가직 7급 · 2025년",
+  "subject": "소프트웨어공학",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 20,
+  "questions": [
+    {
+      "id": 8270,
+      "question": "단일 책임(single-responsibility)의 원칙: 클래스를 변경해야 하는 이유는 오직 하나여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8271,
+      "question": "개방 폐쇄(open-closed)의 원칙: 모듈은 수정에는 열려 있어야 하고 확장에는 닫혀 있어야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8272,
+      "question": "리스코프 대체(Liskov substitution)의 원칙: 상위 클래스의 객체는 자신의 하위 클래스로 대체할 수 있어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8273,
+      "question": "의존 관계 역전(dependency inversion)의 원칙: 클라이언트는 구체적인 클래스가 아닌 추상 클래스에 의존해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8274,
+      "question": "프로토타입을 통해 새로운 요구사항을 발견할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8275,
+      "question": "시스템 개발 최종 종료 단계에서만 오류를 탐지할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8276,
+      "question": "사용자가 초기 프로토타입을 최종 완성된 소프트웨어로 오인할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8277,
+      "question": "개발자 입장에서 프로토타이핑 과정을 관리ㆍ통제하기 어렵다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8278,
+      "question": "프로젝트를 다수의 구성 요소로 분할하여 계층적으로 기술한 업무 구조이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8279,
+      "question": "프로젝트 수행 과정에서 요구되는 자원의 단위와 단가 정보를 작성한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8280,
+      "question": "구성 요소를 산출물 중심으로 작성하거나 프로세스 중심으로 작성할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8281,
+      "question": "프로젝트 전체 범위를 정의하고 프로젝트 계획과 관리를 위한 자료로 사용된다. 2025년도 국가공무원 7급 공채 제2차 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8282,
+      "question": "기능점수의 기준이 되는 소프트웨어 기능은 데이터 측면의 기능과 트랜잭션 측면의 기능으로 구분된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8283,
+      "question": "기능점수는 소프트웨어 개발 이전에 업무량을 측정할 수 있으며 소프트웨어 개발에 사용하는 언어와는 무관하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8284,
+      "question": "기능점수 측정 대상 유형은 내부 논리파일, 내부 연계파일, 외부 입력, 외부 출력, 외부 조회이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8285,
+      "question": "기능점수 방법은 소프트웨어 개발, 유지관리 및 재개발을 위한 비용을 산정하는 데 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8286,
+      "question": "논리적 관점은 시스템의 기능을 설명하기 위해 클래스 다이어그램 이나 시퀀스 다이어그램을 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8287,
+      "question": "개발 관점은 시스템이 사용자에게 제공하는 기능에 주목하며, 유스케이스 다이어그램이나 상태 다이어그램을 사용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8288,
+      "question": "물리적 관점은 시스템이 어떻게 개발되는지에 대한 관점이며, 클래스 다이어그램이나 유스케이스 다이어그램을 사용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8289,
+      "question": "프로세스 관점은 시스템에 필요한 하드웨어 환경을 나타내며, 배치 다이어그램이나 클래스 다이어그램을 사용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

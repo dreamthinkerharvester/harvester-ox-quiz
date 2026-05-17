@@ -1,0 +1,271 @@
+{
+  "category": {
+    "slug": "g7-2026---d8b124",
+    "name": "(근로감독,산업안전) 토질역학",
+    "exam_group": "국가직 7급 · 2026년",
+    "subject": "(근로감독,산업안전) 토질역학",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 6482,
+      "statement": "유효응력과 간극비는 직선적 비례관계이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 토질역학-가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6483,
+      "statement": "투수계수는 압밀이 진행되는 동안에 일정하다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 토질역학-가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6484,
+      "statement": "흙 입자는 비압축성이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 토질역학-가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6485,
+      "statement": "흙 속에서 물의 흐름은 Darcy 법칙을 따른다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 토질역학-가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6486,
+      "statement": "일축압축시험에서 흙의 내부마찰각이 0°일 때, 점착력은 일축 압축강도와 같다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 토질역학-가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6487,
+      "statement": "압밀배수 삼축압축시험은 전단 단계에서 간극수압이 발생하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 토질역학-가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6488,
+      "statement": "베인전단시험은 점토의 전단강도를 측정하는 데 적합하다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 토질역학-가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6489,
+      "statement": "직접전단시험은 전단면이 미리 결정되어 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 토질역학-가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6490,
+      "statement": "N값 측정과 동시에 시료를 채취할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 토질역학-가.pdf",
+      "source": {
+        "qid": 22,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6491,
+      "statement": "측정된 N값으로 모래의 내부마찰각을 추정할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 토질역학-가.pdf",
+      "source": {
+        "qid": 22,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6492,
+      "statement": "해머의 에너지 효율과 상관없이 측정된 N값은 동일하다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 토질역학-가.pdf",
+      "source": {
+        "qid": 22,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6493,
+      "statement": "측정하는 N값은 해머를 자유낙하시켜 샘플러 30cm를 관입하는 데 필요한 타격횟수이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 토질역학-가.pdf",
+      "source": {
+        "qid": 22,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 12,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

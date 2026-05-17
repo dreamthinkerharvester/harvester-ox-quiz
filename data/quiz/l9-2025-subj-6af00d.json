@@ -1,0 +1,337 @@
+{
+  "slug": "l9-2025-subj-6af00d",
+  "name": "토목설계",
+  "exam_group": "지방직 9급 · 2025년",
+  "subject": "토목설계",
+  "phase": null,
+  "source": "지방직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 27,
+  "questions": [
+    {
+      "id": 11123,
+      "question": "자연 상태에 노출되어도 부식이 발생하기 어렵다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11124,
+      "question": "인성이 크고, 소성변형능력이 우수하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11125,
+      "question": "단위 면적당 강도가 크다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11126,
+      "question": "활동에 대한 저항력은 옹벽에 작용하는 수평력의 1.4배 이상이어야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11127,
+      "question": "전도에 대한 저항휨모멘트는 횡토압에 의한 전도모멘트의 2.0배 이상이어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11128,
+      "question": "무근콘크리트 옹벽은 자중에 의하여 저항력을 발휘하는 중력식 형태로 설계하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11129,
+      "question": "옹벽은 상재하중, 뒤채움 흙의 중량, 옹벽의 자중 및 옹벽에 작용하는 토압, 필요에 따라서는 수압에 견디도록 설계하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11130,
+      "question": "1방향 슬래브의 두께는 최소 100mm 이상이어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11131,
+      "question": "정모멘트 철근 및 부모멘트 철근에 직각방향으로 수축 및 온도 철근을 배치해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11132,
+      "question": "정모멘트 철근 및 부모멘트 철근의 중심 간격은 위험단면에서는 슬래브 두께의 2배 이하이어야 하고, 또한 400mm 이하이어야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11133,
+      "question": "정모멘트 철근 및 부모멘트 철근의 중심 간격은 위험단면을 제외한 단면에서는 슬래브 두께의 3배 이하이어야 하고, 또한 450mm 이하이어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11134,
+      "question": "전단보강을 위하여 수직스터럽을 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11135,
+      "question": "휨부재의 강도를 증가시키기 위하여 추가 인장철근과 이에 대응하는 압축철근을 사용할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11136,
+      "question": "인장지배단면에서 압축지배단면으로 변경되면, 강도감소계수는 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11137,
+      "question": "인장 측 휨균열이 발생함과 동시에 철근이 항복하여 취성적으로 파괴되는 것을 방지하기 위해서 최소 철근량을 규정한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11138,
+      "question": "인명피해를 최소화한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11139,
+      "question": "설계기준은 남한 전역에 적용될 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11140,
+      "question": "교량의 정상수명 기간 내에 설계지진력이 발생할 가능성은 희박하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11141,
+      "question": "지진 시 교량 부재들의 부분적인 피해를 허용하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11142,
+      "question": "표준갈고리를 갖는 압축 이형철근의 정착길이에 대한 보정계수는 0.75이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11143,
+      "question": "인장을 받는 확대머리 이형철근의 정착길이는 항상 6 또한  120mm 이상이어야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11144,
+      "question": "피복두께가 3 미만 또는 순간격이 6 미만인 에폭시 도막   철근이 인장 이형철근으로 사용되었을 때, 정착길이는 기본정착 길이에 보정계수 1.2를 곱한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11145,
+      "question": "단순부재에서 정모멘트 철근의 1/3 이상, 연속부재에서 정모멘트 철근의 1/4 이상을 부재의 같은 면을 따라 받침부까지 연장하여야 한다. 보의 경우는 이러한 철근을 받침부 내로 150mm 이상 연장하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11146,
+      "question": "기둥의 횡방향 철근에는 나선철근과 띠철근이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11147,
+      "question": "기둥의 세장비가 클수록 좌굴파괴의 가능성이 커진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11148,
+      "question": "기둥의 좌굴하중은 기둥 양단의 단부조건과는 관계없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11149,
+      "question": "축방향철근의 순간격은 40mm 이상, 또한 철근 공칭 지름의 1.5배 이상이어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

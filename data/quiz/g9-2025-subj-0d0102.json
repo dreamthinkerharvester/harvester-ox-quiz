@@ -1,0 +1,277 @@
+{
+  "slug": "g9-2025-subj-0d0102",
+  "name": "통계학개론",
+  "exam_group": "국가직 9급 · 2025년",
+  "subject": "통계학개론",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 22,
+  "questions": [
+    {
+      "id": 5269,
+      "question": "자료의 제 백분위수는 중앙값보다 작거나 같다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5270,
+      "question": "자료의 표준편차와 변동계수의 단위는 같다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5271,
+      "question": "자료 , 의 산술평균은 기하평균보다 크다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5272,
+      "question": "% 절사평균은 전체 자료의 %를 삭제한 자료의 평균이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5273,
+      "question": "제2종 오류는 대립가설이 참일 때 귀무가설을 기각하지 못하는 오류이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5274,
+      "question": "검정력(power)은 대립가설이 참일 때 귀무가설을 기각하는 확률이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5275,
+      "question": "유의확률(p-value)이 유의수준보다 작을 때 귀무가설을 기각한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5276,
+      "question": "자료를 관찰한 후 귀무가설과 대립가설을 설정한다. 통계학개론 책형 1쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5279,
+      "question": "   2025년도 국가공무원 9급 공채 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5280,
+      "question": "≤ 을 만족시키는 의 값은 이다.    ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5284,
+      "question": "교통수단에 따라 소요 시간에 차이가 있는지를 일표본(one sample) －검정으로 확인할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5285,
+      "question": "성별과 교통수단이 관련이 있는지를 독립성검정으로 확인할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5286,
+      "question": "출근 거리와 소요 시간 사이에 선형관계가 있는지를 상관분석으로 확인할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5287,
+      "question": "교통수단이 대중교통, 자가용, 기타인 비율이 : : 인지를 적합도검정으로 확인할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5288,
+      "question": "   이므로 귀무가설을 기각함    ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5289,
+      "question": "   이므로 귀무가설을 기각하지 못함     ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5290,
+      "question": "   이므로 귀무가설을 기각함       ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5291,
+      "question": "   이므로 귀무가설을 기각하지 못함     ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5292,
+      "question": "유의확률은 증가하다가 감소한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5293,
+      "question": "유의확률은 감소하다가 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5294,
+      "question": "유의확률은 지속적으로 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5295,
+      "question": "유의확률은 지속적으로 감소한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

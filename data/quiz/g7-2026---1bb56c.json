@@ -1,0 +1,229 @@
+{
+  "slug": "g7-2026---1bb56c",
+  "name": "(근로감독,산업안전) 화학개론",
+  "exam_group": "국가직 7급 · 2026년",
+  "subject": "(근로감독,산업안전) 화학개론",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 18,
+  "questions": [
+    {
+      "id": 6785,
+      "question": "밀리컨(Millikan)의 기름 방울 실험으로 발견했다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6786,
+      "question": "양성자의 수를 통해 원자 번호를 알 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6787,
+      "question": "중성 원자에서 전자의 수와 양성자의 수는 같다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6788,
+      "question": "중성 원자의 질량수는 양성자의 수와 중성자의 수의 합이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6789,
+      "question": "(가)의 반응은 환원 전극에서 일어난다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6790,
+      "question": "(나)의 반응에서 반응물의 산소의 산화수는 생성물의 산소의 산화수보다 작다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6791,
+      "question": "(다)의 반응에서 Fe2＋는 산화제로 작용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6792,
+      "question": "(다)의 반응에서 양론 계수 , , 의 합은 7이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6793,
+      "question": "C H OC H ＋AlCl →(C H ) OAlCl 2 5 2 5 3 2 5 2 3",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6796,
+      "question": "H＋＋NH →NH ＋ 3 4 화학개론 책형 2쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6797,
+      "question": "반응 시작물은 페놀을 질산과 반응시켜 합성할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6798,
+      "question": "최종 생성물의 이름은 -aminophenol이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6799,
+      "question": "첫 번째 반응에서 수소화붕소나트륨(sodium borohydride)은 환원제로 사용되었다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6800,
+      "question": "최종 생성물은 진통 및 해열효과가 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6801,
+      "question": "He ＋ He → He ＋ H    ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6802,
+      "question": "N ＋ n → C＋ H    ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6803,
+      "question": "N ＋ He → O＋ H    ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6804,
+      "question": "Al＋He → P＋ n    ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

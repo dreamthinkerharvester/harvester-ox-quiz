@@ -1,0 +1,385 @@
+{
+  "slug": "appr-2026-subj-1598b7",
+  "name": "감정평가관계법규",
+  "exam_group": "감정평가사 1차 · 2026년",
+  "subject": "감정평가관계법규",
+  "phase": null,
+  "source": "감정평가사 1차",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 31,
+  "questions": [
+    {
+      "id": 22252,
+      "question": "도시ㆍ군관리계획 결정권자는 도시ㆍ군계획 시설의 정비가 필요한 경우 도시ㆍ군계획시 체복합구역으로 지정하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22253,
+      "question": "자연환경보전지역의 경우 보전관리지역에 시설의 용도 제한을 따로 정할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22254,
+      "question": "입체복합구역에서의 건축물의 높이는 ｢건축 의 높이 제한의 250퍼센트 이하의 범위에서",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22255,
+      "question": "입체복합구역의 지정을 제안하려는 자는 대 동의를 받아야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22256,
+      "question": "입체복합구역이 상업지역에 위치하는 경우 화계획의 입안을 위한 기초조사를 생략할",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22257,
+      "question": "도시지역에 대하여는 ｢도로법｣ 제40조에 따",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22258,
+      "question": "공업지역에 대하여는 ｢농지법｣ 제8조에 따른 농",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22259,
+      "question": "도시혁신구역에 대하여는 ｢문화예술진흥법 설치를 도시혁신계획으로 따로 정할 수 있",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22260,
+      "question": "복합용도구역으로 지정된 지역은 ｢건축법 것으로 본다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22261,
+      "question": "도시혁신구역에 대하여는 ｢주차장법｣ 제19 획으로 따로 정할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22262,
+      "question": "개발밀도관리구역의 범위를 변경하려면 해 원회의 심의를 거쳐야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22264,
+      "question": "기반시설부담구역에서 200제곱미터를 초과 비용의 부과대상이 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22265,
+      "question": "국토교통부장관은 매년 1월 1일을 기준으로 일까지 고시하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22266,
+      "question": "기반시설부담구역에서 기반시설설치비용의 탁을 한 자는 기반시설설치비용을 내야 한",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22267,
+      "question": "도시ㆍ군계획시설결정의 고시일부터 20년이 도시ㆍ군계획시설사업이 시행되지 아니하는 고시일부터 20년이 되는 날의 다음 날에 효",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22268,
+      "question": "도시ㆍ군계획시설사업을 분할시행하는 때에 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22269,
+      "question": "행정청이 아닌 도시ㆍ군계획시설사업의 시 경우에는 국토교통부장관, 관할 시ㆍ도지사",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22270,
+      "question": "｢빈집 및 소규모주택 정비에 관한 특례법｣ 는 경우에는 해당 도시ㆍ군계획시설결정의 수립하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22271,
+      "question": "시ㆍ도지사나 대도시 시장은 공사완료보고서를 2026년도 제37회 감정평가사 지구단위계획구역의 지정에 관한 설명으로 옳은 대하여는 지구단위계획구역을 지정할 수 없다. 개발지구에서 시행되는 사업이 끝난 후 5년이 정하여야 한다. 지정하려면 지정하려는 구역 면적의 100분의 지정하려면 지구단위계획구역에 계획관리지역 이 포함되어야 한다. 지역을 지구단위계획구역으로 지정하려면 자연 국가유산의 훼손우려가 없는 지역이어야 한다. 광역시설이 될 수 없는 것은? ③ 방송ㆍ통신시설 및 송유설비 도시ㆍ군계획시설사업의 시행에 관한 설명으 년이 되기 전에 실시계획이 효력을 잃고 다른 하는 경우, 그 결정은 도시ㆍ군계획시설결정의 에 효력을 잃는다. 때에는 분할된 지역별로 실시계획을 작성할 수 시행자는 이해관계인에게 공시송달을 하려는 지사 또는 대도시 시장의 승인을 받아야 한다. 법｣에 따라 도시ㆍ군관리계획의 결정이 의제되 정의 고시일부터 1년 이내에 단계별 집행계획을 서를 받으면 지체 없이 준공검사를 하여야 한다. 사 1차 2교시 A형 (28 – 3)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22272,
+      "question": "시ㆍ도지사는 국토교통부장관에게 시범도시 당해 시ㆍ도도시계획위원회의 자문을 거쳐",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22273,
+      "question": "국토교통부장관은 시범도시에 대하여 시범 포함)의 50퍼센트 이하의 범위에서 보조 또",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22274,
+      "question": "시범도시의 공모에 응모할 수 있는 자는 치도지사ㆍ시장ㆍ군수 또는 구청장으로 한",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22275,
+      "question": "관계 중앙행정기관의 장 또는 시ㆍ도지사 요청하고자 하는 때에는 미리 설문조사ㆍ열 지방자치단체의 장의 의견을 들어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22277,
+      "question": "｢한국관광공사법｣에 따른 한국관광공사는 수로부터 시행자로 지정을 받아 도시ㆍ군계",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22279,
+      "question": "｢대한석탄공사법｣에 따른 대한석탄공사가 설사업의 대상인 토지면적의 3분의 2 이상",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22280,
+      "question": "시행자는 도시ㆍ군계획시설사업을 효율적으 사업시행대상지역을 둘 이상으로 분할하여",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22281,
+      "question": "행정청이 아닌 시행자의 처분에 대하여 행 한 자에게 행정심판을 제기하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22283,
+      "question": "감정평가법인등의 업무수행에 관한 수수료의 감정평가관리ㆍ징계위원회의 심의를 거쳐",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22284,
+      "question": "감정평가법인등은 손해배상책임의 보장을 에는 10일 이내에 보험계약을 다시 체결해",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22285,
+      "question": "금고 이상의 형의 집행유예를 받고 그 유 가사는 감정평가사사무소 개설의 결격사유",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22286,
+      "question": "감정평가법인 소속 사무직원은 소속된 감정평 소유할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "slug": "g7-2025-subj-522e83",
+  "name": "전자회로",
+  "exam_group": "국가직 7급 · 2025년",
+  "subject": "전자회로",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 19,
+  "questions": [
+    {
+      "id": 8860,
+      "question": "차단주파수 f  이다. c  R C ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8861,
+      "question": "수동필터이다. V s R R out  ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8862,
+      "question": "전달함수  이다.  V s sCR  in ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8863,
+      "question": "A 지점에는 총 2개의 주파수 성분이 존재한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8864,
+      "question": "A 지점에는 10[kHz]의 주파수 성분이 존재한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8865,
+      "question": "V 에는 총 3개의 주파수 성분이 존재한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8866,
+      "question": "V 에는 4.99[MHz]의 주파수 성분이 존재한다. out 2025년도 국가공무원 7급 공채 제2차 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8867,
+      "question": "공통 베이스(common－base) 증폭기이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8868,
+      "question": "전압이득은 1보다 약간 작거나 대략 같다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8869,
+      "question": "입력전압과 출력전압의 위상차는 90°이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8870,
+      "question": "낮은 저항값을 갖는 부하를 구동하기에 적당하지 않다. 전자회로 책형 2쪽  V  out",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8871,
+      "question": "저항 R 양단에 걸리는 전압은 ±8.0[V]이다. ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8872,
+      "question": "저항 R 에 흐르는 전류는 ±0.2[mA]이다. ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8873,
+      "question": "상측 및 하측 트리거 전압은 ±2.0[V]이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8874,
+      "question": "출력전압은 ±14.0[V]이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8875,
+      "question": "3개의 귀환 RC 회로는 각각 최대 90°의 위상차를 가진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8876,
+      "question": "반전증폭기 위상변이가 180°, 3개의 귀환 RC 회로의 위상변이가 180°가 되는 경우 전체 360°(또는 0°) 위상변이가 발생하여 발진조건을 만족하게 된다. ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8877,
+      "question": "발진주파수에서 3개의 귀환 RC 회로의 감쇠율은 이며, 발진을   시작하려면 반전증폭기의 전압이득 절댓값은 29보다 커야 한다. ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8878,
+      "question": "발진주파수는 이다.   RC V s out",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

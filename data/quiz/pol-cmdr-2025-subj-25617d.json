@@ -1,0 +1,109 @@
+{
+  "slug": "pol-cmdr-2025-subj-25617d",
+  "name": "소프트웨어공학",
+  "exam_group": "경찰 간부 · 2025년",
+  "subject": "소프트웨어공학",
+  "phase": null,
+  "source": "경찰 간부",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 8,
+  "questions": [
+    {
+      "id": 16695,
+      "question": "확인은 사용자 관점에서 설계명세서들을 점검하는 작업이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16696,
+      "question": "검증과 확인은 모두 계획단계에서 명세서를 점검하는 작업이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16697,
+      "question": "확인은 사용자 관점에서 발주자와 합의한 요구사항들을 점검 하는 작업이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16698,
+      "question": "검증은 개발자 관점에서 계획서를 점검하는작업이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16699,
+      "question": "MSA(Microservice Architecture)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16700,
+      "question": "ROA(Resource Oriented Architecture)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16701,
+      "question": "MDA(Model Driven Architecture)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16702,
+      "question": "Data-flow architecture 29 -",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

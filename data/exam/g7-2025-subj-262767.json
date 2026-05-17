@@ -1,0 +1,523 @@
+{
+  "category": {
+    "slug": "g7-2025-subj-262767",
+    "name": "통신이론",
+    "exam_group": "국가직 7급 · 2025년",
+    "subject": "통신이론",
+    "phase": null,
+    "exam_year": 2025,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 9124,
+      "statement": " 의 푸리에 변환은 음수값을 가지지 않는다. ",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 7,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9126,
+      "statement": "변조 과정에는 중첩의 원리를 위배하는 비선형성이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9127,
+      "statement": "변조된 신호의 평균 전송 전력은 메시지 신호에 따라 변한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9128,
+      "statement": "메시지 신호가 변하여도 변조된 신호의 영점 교차점은 시간축에서 규칙적으로 동일한 간격을 갖는다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9129,
+      "statement": "동일한 메시지에 대하여 일반적으로 광대역 FM 변조된 신호의 대역폭이 진폭 변조(AM)된 신호의 대역폭보다 작다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9133,
+      "statement": "대역폭은 신호대잡음비와 상관이 없다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 12,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9135,
+      "statement": "각 심볼은 개의 서로 다른 위상값을 갖는다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 13,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9136,
+      "statement": "비트 매핑에 그레이(Gray) 부호를 적용할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 13,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9137,
+      "statement": "각 심볼은 성상도에서 동일 반경의 원주상에 위치한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 13,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9138,
+      "statement": "송신 신호들을 각각 서로 다른 주파수를 가지는 반송파들로 변조한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 14,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9139,
+      "statement": "채널 간 보호 대역을 두기 때문에 주파수 대역 사용 효율이 낮아진다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 14,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9140,
+      "statement": "채널 간 보호 대역은 인접 채널 간의 신호 간섭을 완전히 제거한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 14,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9141,
+      "statement": "다중화 및 역다중화 시에 신호를 분리하기 위해 필터가 필요하다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 14,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9142,
+      "statement": "허프만(Huffman) 부호화는 채널 부호화의 일종이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 16,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9143,
+      "statement": "(7,4) 선형 블록 부호에서 메시지와 패리티 비트 수는 각각 4개와 3개다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 16,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9144,
+      "statement": "선형 블록 부호의 오류정정 능력은 부호어 사이의 최소 해밍 거리와 관련이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 16,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9145,
+      "statement": "ARQ 방식은 수신단에서 송신단으로 재전송 요청을 하기 위한 역방향 링크가 필요하다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 16,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9146,
+      "statement": "CDMA 시스템에서 기지국 및 섹터를 구분하는 데 사용된다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 22,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9147,
+      "statement": "모든 천이 레지스터의 값이 0인 경우에도 PN 부호열을 생성할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 22,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9148,
+      "statement": "부호의 길이가 길수록 한 칩 지연된 부호열과의 자기상관 값은 에 가깝게 된다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 22,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9149,
+      "statement": "무왜곡 전송이 가능한 통신 채널의 주파수 진폭 응답은 상수이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 24,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9150,
+      "statement": "무왜곡 전송이 가능한 통신 채널의 주파수 위상 응답은 주파수에 대해 선형적이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 24,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9151,
+      "statement": "수신 신호가 일정 시간만큼 지연되면 파형이 송신 신호와 동일한 모양을 가지더라도 무왜곡 전송으로 볼 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 24,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 9152,
+      "statement": "채널의 왜곡 효과를 보상하기 위해 사용되는 등화기의 주파수 응답은 채널의 주파수 응답의 역수이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 통신이론-가.pdf",
+      "source": {
+        "qid": 24,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:38+00:00",
+    "total": 24,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "category": {
+    "slug": "g7-2026---cf679a",
+    "name": "(근로감독,산업안전) 수리수문학",
+    "exam_group": "국가직 7급 · 2026년",
+    "subject": "(근로감독,산업안전) 수리수문학",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 6357,
+      "statement": "같은 수위라도 수위 하강 시 유량이 상승 시 유량보다 더 크다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 4,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6358,
+      "statement": "배수효과가 발생하는 경우 수위－유량관계곡선의 조정을 위해 일정수위하강고 방법이 적용될 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 4,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6359,
+      "statement": "수위－유량관계곡선을 연장하는 방법에는 전대수지법과 Stevens 방법 등이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 4,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6360,
+      "statement": "유량측정 지점의 수면경사가 배수 영향을 받는 경우 수위－유량 측정 자료의 분산이 커진다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 4,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6361,
+      "statement": "흐름 폭이 축소되므로 교각 사이의 수면고는 상승한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6362,
+      "statement": "수로의 단면이 축소되어 교각 상류(upstream)에 배수를 일으킨다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6363,
+      "statement": "교대나 교각 주위에 3차원 와류를 일으켜 국부세굴이 발생할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6364,
+      "statement": "교각의 후류 와류(wake vortex)는 교각 하류로 가면서 강도가 점점 감소하므로 교각의 직하류 지역에서 퇴적이 발생할 수 있다. 근로감독 및 산업안전 분야 국가공무원 7급 공채 제2차시험",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6365,
+      "statement": "20°C 표준대기압 상태에서 물은 공기보다 점성이 크다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 19,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6366,
+      "statement": "온도가 증가하면 기체의 점성은 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 19,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6367,
+      "statement": "온도가 증가하면 액체의 점성은 감소한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 19,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6368,
+      "statement": "액체의 점성은 분자 간의 충돌 때문이다. 수리수문학 책형 4쪽",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 19,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6369,
+      "statement": "층류와 난류에서 에너지는 손실된다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 24,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6370,
+      "statement": "층류에서 마찰손실은 유체의 밀도와 점성에 비례한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 24,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6371,
+      "statement": "마찰손실은 관로 길이와 마찰손실계수에 비례한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 24,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 6372,
+      "statement": "밸브, 곡관 등에서 발생하는 손실을 미소손실(minor losses)이라 한다.  ",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "260124 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 24,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 16,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

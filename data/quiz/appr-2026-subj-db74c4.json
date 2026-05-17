@@ -1,0 +1,109 @@
+{
+  "slug": "appr-2026-subj-db74c4",
+  "name": "경제학원론",
+  "exam_group": "감정평가사 1차 · 2026년",
+  "subject": "경제학원론",
+  "phase": null,
+  "source": "감정평가사 1차",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 8,
+  "questions": [
+    {
+      "id": 22287,
+      "question": "세금은 모두 공급자가 부담한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 42,
+        "option": "ㄱ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22292,
+      "question": "기펜재(Giffen goods)는 가격이 하락할 때 소",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 44,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22295,
+      "question": "가격 상승 시 소득효과는 모든 재화의 수요    ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 44,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22296,
+      "question": "H사는 우월전략을 가지고 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 46,
+        "option": "ㄱ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22301,
+      "question": "시간당 임금이 하락할 경우, 소득효 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 53,
+        "option": "ㄴ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22302,
+      "question": "시간당 임금이 상승할 경우, 소득효 공급은 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 53,
+        "option": "ㄷ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22314,
+      "question": "장ㆍ단기 모두 물가와 국민소득은 상승한다",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 70,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22318,
+      "question": "고정환율제도에서는 순수출이 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 79,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

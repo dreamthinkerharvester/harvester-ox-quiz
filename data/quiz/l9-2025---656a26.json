@@ -1,0 +1,61 @@
+{
+  "slug": "l9-2025---656a26",
+  "name": "경력경쟁 전기이론",
+  "exam_group": "지방직 9급 · 2025년",
+  "subject": "경력경쟁 전기이론",
+  "phase": null,
+  "source": "지방직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 4,
+  "questions": [
+    {
+      "id": 10312,
+      "question": "선전류는 [A]이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10313,
+      "question": "선간전압은   [V]이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10314,
+      "question": "역률은 [%]이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10315,
+      "question": "무효전력은 [kVAR]이다. 2025년도 지방공무원 9급 등 경력경쟁임용 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

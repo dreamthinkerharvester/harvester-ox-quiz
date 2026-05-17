@@ -1,0 +1,877 @@
+{
+  "slug": "g7-2026---88c244",
+  "name": "(근로감독,산업안전) 행정학",
+  "exam_group": "국가직 7급 · 2026년",
+  "subject": "(근로감독,산업안전) 행정학",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 72,
+  "questions": [
+    {
+      "id": 6594,
+      "question": "중앙정부가 교부할 때 지출 용도를 제한한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6595,
+      "question": "지방자치단체의 고유 재원이라는 성격을 가진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6596,
+      "question": "지역 간의 재정력 격차를 완화하는 기능을 수행한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6597,
+      "question": "재정적 결함이 있는 지방자치단체에 필요한 재원을 교부한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6598,
+      "question": "생활급은 노동 대가의 원칙을 적용한 것이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6599,
+      "question": "직무급은 동일 직무에 대한 동일 보수의 원칙에 충실하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6600,
+      "question": "연공급은 능력 개발이나 생산성 향상을 위한 동기 부여에 효과적이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6601,
+      "question": "직능급을 적용한 예로는 물가상승률에 연동하여 보수를 조정하는 경우를 들 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6602,
+      "question": "부하의 욕구에 관심을 가지고 지원한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6603,
+      "question": "부하가 창의적인 사고를 할 수 있도록 자극한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6604,
+      "question": "부하에게 조직의 비전을 제시하고 동기를 유발한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6605,
+      "question": "부하에게 조직의 목표와 목표 달성 시 보상이 무엇인지를 명확히 제시한다. 행 정 학 책형 1쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6606,
+      "question": "예산총계주의 원칙의 예외에 해당한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6607,
+      "question": "양곡관리특별회계, 조달특별회계 등이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6608,
+      "question": "재정에 대한 외부통제가 용이하나 재정운영의 자율성을 침해한다는 단점이 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6609,
+      "question": "법령에 따라 국가가 지급하여야 하는 지출이 발생하거나 증가하는 경우 설치할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6610,
+      "question": "비용과 편익은 가치의 공통단위인 화폐가치로 측정된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6611,
+      "question": "정책의 능률성과 형평성의 판단기준으로 사용할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6612,
+      "question": "미래 시점에서 발생하는 비용과 편익을 현재가치로 환산한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6613,
+      "question": "정책대안에 관련된 유ㆍ무형의 비용과 편익을 계량화하여 측정한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6614,
+      "question": "직무 스트레스는 이직의도를 증가시키는 요인이 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6615,
+      "question": "직무 스트레스는 역할 모호성 때문에 발생하기도 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6616,
+      "question": "직무 소진은 직무 스트레스보다 단기적으로 발생하는 현상이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6617,
+      "question": "직무 소진은 구성원들이 직무로부터 느끼는 피로감과 탈진을 의미한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6618,
+      "question": "전통적 견해는 갈등을 부정적인 것으로 본다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6619,
+      "question": "조직의 혁신과 창의성을 제고하는 순기능이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6620,
+      "question": "조직구조 측면에서는 계선과 참모 조직 간 갈등이 발생할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6621,
+      "question": "최근에는 민사소송의 한 종류인 대안적 갈등해결 방식(Alternative Dispute Resolution)이 주목받고 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6622,
+      "question": "규제는 법률에 근거하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6623,
+      "question": "규제내용은 쉬운 용어로 구체적이고 명확하게 규정되어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6624,
+      "question": "기술적 사항이나 경미한 사항일지라도 고시 등으로 정할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6625,
+      "question": "행정기관은 법률에 근거하지 아니한 규제로 국민의 권리를 제한 하거나 의무를 부과할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6626,
+      "question": "정책집행을 담당하는 일선 관료도 순응의 대상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6627,
+      "question": "정책대상집단의 경제적 부담은 불응을 초래하기 쉽다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6628,
+      "question": "정책의 내용에 대한 긍정적 판단은 순응을 유도하는 요인이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6629,
+      "question": "던칸(Duncan)은 정책대상집단의 내면적 가치관의 변화를 순응에 포함한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6630,
+      "question": "영기준 예산제도는 점증주의를 극복하기 위한 경제적 합리성에 초점을 둔 제도이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6631,
+      "question": "품목별 예산제도는 지출대상을 품목별로 분류해서 지출대상과 한계를 규정하는 제도이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6632,
+      "question": "성과주의 예산제도는 투입 요소 중심이 아니라 성과를 중심으로 예산을 운용하는 제도이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6633,
+      "question": "계획 예산제도는 계획에 기반한 상향식 접근을 선택하여 재원 배분 권한의 분권화를 강조하는 제도이다. 행 정 학 책형 2쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6634,
+      "question": "4급 이상 일반직공무원은 근무성적평가 적용 대상이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6635,
+      "question": "성과계약 등 평가는 매년 1회 실시되며, 평가 결과는 성과급 등급 결정에 활용된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6636,
+      "question": "채용시험성적과 임용 후의 근무성적을 비교함으로써 공무원 선발 도구의 신뢰성을 검증할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6637,
+      "question": "평정 오류 중 시간적 오류는 평정자가 일정한 규칙에 입각해서 특정 오류를 계속 범하는 것을 의미한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6638,
+      "question": "집행기관과 정책수단의 부적절한 선정이 문제가 되었다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6639,
+      "question": "많은 기관과 사람이 참여하여 이해관계의 복잡성이 증가하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6640,
+      "question": "주요 지위에 있는 이들의 교체로 집행에 대한 지지와 협조가 약해졌다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6641,
+      "question": "정책이 지나치게 단순하여 정책추진 과정에서 예상하지 못한 갈등이 발생하였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6642,
+      "question": "사회보험 원리와 부양 원리가 혼합된 제도로 운영된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6643,
+      "question": "2010년 이후 신규임용자의 퇴직연금 지급 개시 연령은 60세다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6644,
+      "question": "공무원 연금제도의 운영에 관한 사항은 인사혁신처장이 주관한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6645,
+      "question": "퇴직연금 수급 자격을 갖추기 위해서는 10년 이상 재직하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6646,
+      "question": "정책집행 이후에 관리절차 또는 관리전략 등을 평가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6647,
+      "question": "영향평가는 의도된 효과뿐만 아니라 부수적 효과도 평가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6648,
+      "question": "산출평가는 계량적으로 측정이 용이한 단기적인 산출물을 평가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6649,
+      "question": "결과평가는 정책대상의 행동이나 태도에서 실제로 일어난 변화를 평가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6650,
+      "question": "국가가 특정한 목적을 위하여 특정한 자금을 신축적으로 운용할 필요가 있을 때 설치한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6651,
+      "question": "예산과 마찬가지로 국회의 심의ㆍ의결을 받는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6652,
+      "question": "국가재정법 상 세입세출예산에 의하지 아니하고 운용할 수 없도록 하고 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6653,
+      "question": "기금운용계획안을 제출할 때 기금의 성과계획서 및 성과보고서를 함께 제출하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6654,
+      "question": "정당은 공식적 통제 기능을 수행한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6655,
+      "question": "감사원의 회계 검사는 내부통제 방식이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6656,
+      "question": "통제상황에 맞는 통제과정의 신축성이 필요하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6657,
+      "question": "통제는 책임 이행을 보장하려는 활동이다. 행 정 학 책형 3쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6658,
+      "question": "선거관리위원회 소속 6급 이하의 공무원은 중앙선거관리위원회 위원장이 임용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6659,
+      "question": "금고 이상의 형의 선고유예를 받은 경우에 그 선고유예 기간 중에 있는 자는 공무원으로 임용될 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6660,
+      "question": "공무원의 임용은 시험성적ㆍ근무성적, 그 밖의 능력의 실증에 따라 행한다고 함으로써 실적주의 원칙을 천명하고 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6661,
+      "question": "고위공무원단에 속하는 일반직공무원의 경우 소속 장관은 해당 기관에 소속되지 아니한 공무원에 대하여도 임용제청할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6662,
+      "question": "규제등록제는 정부가 관리대상 규제를 등록하는 방법이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6663,
+      "question": "규제유예제는 규제의 효력을 한시적으로 중지해 규제 적용을 유예하는 방법이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6664,
+      "question": "규제일몰제는 규제의 존속기간을 정해 기존 규제의 타당성을 주기적으로 관리하는 방법이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6665,
+      "question": "규제비용관리제는 규제의 총량을 정하고 규제의 건수가 그 이하로 감소하지 않도록 관리하는 방법이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "slug": "l9-2025---82ec75",
+  "name": "경력경쟁 물리",
+  "exam_group": "지방직 9급 · 2025년",
+  "subject": "경력경쟁 물리",
+  "phase": null,
+  "source": "지방직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 28,
+  "questions": [
+    {
+      "id": 10175,
+      "question": "진동수는 0.5Hz이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10176,
+      "question": "파동의 속력은 4m/s이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10177,
+      "question": "＝3m인 지점이 마루가 되는 순간, ＝0m인 지점도 마루가 된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10178,
+      "question": "1초일 때 물체의 가속도의 크기는 5m/s2이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10179,
+      "question": "5초일 때 물체의 속력은 2.5m/s이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10180,
+      "question": "0초부터 8초까지 물체의 이동 거리는 50m이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10181,
+      "question": "0초부터 8초까지 물체의 평균 속력은 6.25m/s이다. 2025년도 지방공무원 9급 등 경력경쟁임용 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10182,
+      "question": "p가 A를 당기는 힘의 크기는 p가 B를 당기는 힘의 크기보다 크다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10183,
+      "question": "A가 p를 당기는 힘과 B가 p를 당기는 힘은 작용 반작용 관계이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10184,
+      "question": "p가 A를 당기는 힘의 크기는 보다 작다. ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10187,
+      "question": "크립톤(Kr)의 중성자 수는 36이다. ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10188,
+      "question": "핵반응 전후 질량 결손이 일어나지 않는다. 물 리 책형 3쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10189,
+      "question": "O에서는 상쇄 간섭이 일어난다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10190,
+      "question": "Q에서 중첩되는 소리의 위상은 서로 반대이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10191,
+      "question": "두 스피커 소리의 진동수를 2배로 하면, O에서 상쇄 간섭이 일어난다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10192,
+      "question": "A에 있는 스피커만 제거할 때, P에서 측정되는 소리의 세기는 A에 있는 스피커를 제거하기 전보다 작아진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10193,
+      "question": "운동량의 크기는 A가 B의 2배이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10194,
+      "question": "속력은 B가 A보다 크다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10195,
+      "question": "운동 에너지는 A와 B가 같다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10196,
+      "question": "운동량은 물질파의 파장에 비례한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10197,
+      "question": "X는 p형 반도체이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10198,
+      "question": "스위치를 a에 연결하면 다이오드 내부의 접합면에서 양공과 전자가 결합한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10199,
+      "question": "스위치를 b에 연결하면 저항에 전류가 흐르지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10200,
+      "question": "스위치를 b에 연결하면 다이오드 내부에서 X의 전자는 접합면을 향하여 이동한다. 2025년도 지방공무원 9급 등 경력경쟁임용 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10201,
+      "question": "기체의 온도는 A에서가 C에서보다 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10202,
+      "question": "기체가 한 일의 크기는 A→B 과정에서가 B→C 과정에서보다 크다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10203,
+      "question": "A→B 과정에서 기체의 내부 에너지 변화량은 과 같다. ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10204,
+      "question": "B→C 과정에서 기체가 한 일의 크기는 와 같다. ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

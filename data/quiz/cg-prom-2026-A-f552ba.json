@@ -1,0 +1,1129 @@
+{
+  "slug": "cg-prom-2026-A-f552ba",
+  "name": "해경실무A",
+  "exam_group": "해경 승진 · 2026년",
+  "subject": "해경실무A",
+  "phase": null,
+  "source": "해경 승진",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 93,
+  "questions": [
+    {
+      "id": 21393,
+      "question": "등록의무자가 등록할 재산은 본인, 배우자(사실상 혼인관계에 있는 사람 포함), 본인의 직계존속, 직계비속으로 한다. 다만, 혼인한 직계비속인 여성과 외증조부모, 외조부모, 외손자녀, 외증손자녀는 제외한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21394,
+      "question": "소유자별 합계액 1천만원 이상의 현금, 주식 및 소유자별 월간 1천만원 이상의 지식재산권은 등록대상재산에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21395,
+      "question": "재산등록의무자는 매년 1월 1일부터 12월 31일 까지의 재산 변동사항을 다음 해 2월 말일까지 등록기관에 신고하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21396,
+      "question": "퇴직한 재산등록의무자는 퇴직일로부터 2개월이 되는 날이 속하는 달의 말일까지 그 해 1월 1일 부터 퇴직일까지의 재산 변동사항을 퇴직 당시의 등록기관에 신고하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21397,
+      "question": "청원심의회는 위원장 1명을 포함하여 5명 이상 7명 이하의 위원으로 구성한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21398,
+      "question": "심의회 위원은 해양경찰관서의 계장급 이상 공무원과 해양경찰청 소관 사무 분야의 학식과 경험이 풍부한 외부 전문가 중에서 해양경찰관서의 장이 지명 또는 위촉한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21399,
+      "question": "위원의 임기는 2년으로 하며, 연임할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21400,
+      "question": "위원 결원의 발생으로 위촉되는 위원의 임기는 전임위원 임기의 남은 기간으로 한다. 실무A 경 위 CODE 10 1/8 (관리운영,경비안전)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21401,
+      "question": "가족수당을 지급하는 부양가족의 수는 4명 이내로 한다. 다만 자녀의 경우에는 부양가족의 수가 4명을 초과하더라도 가족수당을 지급한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21402,
+      "question": "부양의무를 가진 공무원과 주민등록상 세대를 같이하는 사람으로서 현실적으로 생계를 같이 하는 사람 중 본인 및 배우자의 60세(여성인 경우에는 55세) 이상의 직계존속(계부 및 계모 포함)은 부양가족에 포함한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21403,
+      "question": "배우자 및 자녀를 제외한 부양가족 1명당 월 지급액은 40,000원이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21404,
+      "question": "본인 및 배우자의 19세 이상의 직계비속 중 장애가 있는 경우 부양가족에 포함한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21405,
+      "question": "국가정보원 2026년도 경찰공무원 승진시험 문제지",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21406,
+      "question": "매 회계연도의 세출예산은 다음 연도에 이월하여 사용할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21407,
+      "question": "예산을 이월하는 때에는 대통령령으로 정하는 바에 따라 이월명세서를 작성하여 다음연도 1월 31일까지 국회에 송부하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21408,
+      "question": "명시이월비, 경상적 성격의 경비로 대통령령으로 정하는 경비는 다음 회계연도로 이월하여 사용 할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21409,
+      "question": "계속비의 연도별 연부액 중 당해연도에 지출하지 못한 금액은 계속사업의 완성연도까지 계속 이월하여 사용할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21410,
+      "question": "선박보안경보에는 선박의 위치, 선박식별 및 송신일시 등의 정보를 포함할 것",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21411,
+      "question": "다른 선박에게 경보를 송신하지 아니하고, 육상의 특정장소로 송신하는 것일 것",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21412,
+      "question": "경보를 송신하는 선박에는 어떤 경보도 발생하지 않을 것",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21413,
+      "question": "이탈장치를 수동으로 제거한 경우 자동으로 작동될 것 1",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21414,
+      "question": "상태분류란, 물품의 상태를 검증하여 활용 가능 여부, 수리 가능여부 등을 조사하는 과정을 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21415,
+      "question": "물품의 상태분류 기준은 신품, 중고품, 정비 필요품, 폐품으로 분류할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21416,
+      "question": "재물조사 등 물품의 상태조사 시 조사자가 상태를 분류하고 물품운용관 입회하에 실시한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21417,
+      "question": "폐품은 사용된 물품으로서 수리를 요하지 않는 물품을 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21418,
+      "question": "총괄청은 다음 연도 계획의 작성을 위한 지침을 매년 2월 10일까지 중앙관서의 장에게 통보 하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21419,
+      "question": "중앙관서의 장은 다음 연도의 계획을 작성하여 매년 4월 30일까지 총괄청에 제출하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21420,
+      "question": "국유재산종합계획은 국무회의의 심의를 거쳐 대통령의 승인을 받아 확정한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21421,
+      "question": "총괄청은 회계연도 개시 90일 전까지 국회에 제출하여야 한다. 2026년도 경찰공무원 승진시험 문제지",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21423,
+      "question": "과에 상당하는 보좌기관의 설치와 그 소관업무",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21425,
+      "question": "기타 직제등에서 위임한 하부조직 및 소속기관의 설치와 그 운영에 관하여 필요한 사항",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21426,
+      "question": "4급 이상의 일반직 국가공무원(고위공무원단에 1 속하는 일반직공무원을 제외한다) 및 지방공무원과 이에 상당하는 보수를 받는 별정직공무원(고위 공무원단에 속하는 별정직공무원을 제외한다)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21427,
+      "question": "대통령령으로 정하는 외무공무원과 4급 이상의 국가정보원 직원 및 대통령경호처 경호공무원",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21429,
+      "question": "총경(자치총경을 포함한다) 이상의 경찰공무원과 소방교 이상의 소방공무원",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21430,
+      "question": "다음 연도 2월 말일까지 총괄청에 제출하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21431,
+      "question": "총괄청은 국유재산관리운용총보고서를 다음 연도 4월 30일까지 감사원에 제출하여 검사를 받아야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21432,
+      "question": "총괄청은 감사원의 검사를 받은 국유재산관리 운용총보고서와 감사원의 검사보고서를 다음 연도 5월 31일까지 국회에 제출하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21433,
+      "question": "국유재산관리운용보고서에 포함되어야 할 사항은 대통령령으로 정한다. 실무A 경 위 CODE 10 3/8 (관리운영,경비안전)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21434,
+      "question": "행정기관의 장은 민원인 등의 폭언이나 폭행 등으로부터 담당자의 신체적・정신적 피해의 예방 및 치료 등 필요한 조치를 하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21435,
+      "question": "행정기관의 장은 정보 보호의 실태를 확인・ 점검하고 민원을 처리하는 담당자에게 연 1회 이상 정보 보호에 필요한 교육을 실시하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21436,
+      "question": "민원인이 직접 방문할 필요가 없는 민원은 팩스・인터넷 등 정보통신망 또는 우편 등으로 신청 할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21437,
+      "question": "민원은 민원실(전자민원창구를 제외한다)에서 접수한다. 다만 민원실이 설치되어 있지 아니한 경우에는 문서의 접수・발송을 주관하는 부서나 민원을 처리하는 주무부서에서 민원을 접수한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21438,
+      "question": "무기명투표 2026년도 경찰공무원 승진시험 문제지",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21439,
+      "question": "직무수행 능력이 부족하거나 근무성적이 극히 나쁜 자",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21440,
+      "question": "파면, 해임, 강등 또는 정직에 해당하는 징계 의결이 요구 중인자",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21441,
+      "question": "전직시험에서 세 번 이상 불합격한 자로서 직무수행 능력이 부족하다고 인정된 때",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21442,
+      "question": "금품비위, 성범죄 등 대통령령으로 정하는 비위 행위로 인하여 감사원 및 검찰・경찰 등 수사 기관에서 조사나 수사 중인 자로서 비위의 정도가 중대하고 이로 인하여 정상적인 업무 수행을 기대하기 현저히 어려운 자",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21443,
+      "question": "국가의 회계는 일반회계와 특별회계로 구분한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21444,
+      "question": "특별회계와 기금은 법률로써 설치한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21445,
+      "question": "일반회계는 조세수입 등을 주요 세입으로 하여 2 국가의 일반적인 세출에 충당하기 위하여 설치 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21446,
+      "question": "특별회계는 국가가 특정한 목적을 위하여 특정한 자금을 신축적으로 운용할 필요가 있을 때에 한정하여 법률로써 설치한다. 실무A 경 위 CODE 10 4/8 (관리운영,경비안전)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21447,
+      "question": "해저조광권자는 해저광업활동 중 취득한 탐사· 채취 또는 지질조사와 관련된 월별 자료를 산업통상부장관에게 보고하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21448,
+      "question": "대한민국의 영토인 한반도와 그 부속도서의 해안에 인접한 해역이나 대한민국이 행사할 수 있는 모든 권리가 미치는 해저에 부존하는 광물을 합리적으로 개발함으로써 산업 발전에 이바지함을 목적으로 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21449,
+      "question": "“해저광업권”이란 설정행위에 의하여 국가 소유 인 해저광구에서 해저광물을 탐사, 채취 및 취득 하는 권리를 말한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21450,
+      "question": "산업통상부장관이 면적이 4천 제곱킬로미터인 유망광구를 지정한 때에는 관보와 산업통상부 장관이 지정하는 정보처리장치를 이용하여 그 사실을 공표하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21451,
+      "question": "1개월 2026년도 경찰공무원 승진시험 문제지",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21452,
+      "question": "둘 이상의 특별시·광역시·특별자치시·도·특별 자치도에 걸쳐 을종사태에 해당하는 상황이 발생한 경우, 행정안전부장관은 즉시 국무총리를 거쳐 대통령에게 통합방위사태의 선포를 건의 하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21453,
+      "question": "갑종사태에 해당하는 상황이 발생하였을 때 국방부장관은 즉시 국무총리를 거쳐 대통령에게 통합방위사태의 선포를 건의하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21454,
+      "question": "대통령은 국방부장관 또는 행정안전부장관으로 부터 통합방위사태 선포의 건의를 받았을 때에는 중앙협의회와 국무회의의 심의를 거쳐 통합 방위사태를 선포할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21455,
+      "question": "시·도지사가 통합방위사태를 선포한 지역에 2 대하여 대통령이 통합방위사태를 선포한 때에는 그 때부터 시·도지사가 선포한 통합방위사태는 효력을 상실한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21456,
+      "question": "5개 실무A 경 위 CODE 10 5/8 (관리운영,경비안전)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21457,
+      "question": "부조종자는 무인비행장치와 관련된 부품을 교체한 때에는 반드시 무인비행장치의 시험 비행을 실시해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21458,
+      "question": "해양에서의 항공촬영은 지상이 포함되는 경우가 아니라면 별도의 허가 없이 촬영할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21459,
+      "question": "‘주간점검’이란 조종자가 1주일 마다 무인비행 장치의 전반적인 이상 유무를 확인하는 점검을 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21460,
+      "question": "운용부서의 장은 무인비행장치를 이용하여 해안선 등 지상이 포함된 항공촬영을 할 경우에는 「국방부 항공촬영지침서」에 따라 촬영 4일 전 까지 국방부장관의 위임을 받은 지역별 책임부대의 장에게 허가를 받아야 한다. 실무A 경 위 CODE 10 6/8 (관리운영,경비안전)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21461,
+      "question": "동력수상레저기구의 소유자는 동력수상레저기구의 잘 보이는 곳에 등록증을 부착하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 32,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21462,
+      "question": "동력수상레저기구의 존재 여부가 6개월간 분명 하지 아니한 경우 소유자는 시장·군수·구청장에게 말소등록을 신청하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 32,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21463,
+      "question": "해양경찰서장은 검사대행자가 업무와 관련하여 부정한 금품을 수수하거나 그 밖의 부정한 행위를 한 경우 3개월의 범위에서 기간을 정하여 업무의 전부 또는 일부의 정지를 명할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 32,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21464,
+      "question": "동력수상레저기구의 소유자는 등록번호판이 알아보기 곤란하게 된 경우 시장·군수·구청장에게 신고하고 다시 발급받을 수 있다. 2026년도 경찰공무원 승진시험 문제지",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 32,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21465,
+      "question": "해양경찰청장이 위탁하는 사업을 수행한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 33,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21466,
+      "question": "행정안전부장관이 필요하다고 인정하는 사업을 수행한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 33,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21467,
+      "question": "행정안전부령으로 정하는 바에 따라 정관을 작성한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 33,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21468,
+      "question": "지방해양경찰청장의 인가를 받아 주된 사무소의 소재지에서 설립등기를 함으로써 성립한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 33,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21469,
+      "question": "수난대비집행계획은 「민방위기본법」에 따른 민 방위계획을 포함하여 수립하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21470,
+      "question": "해양경찰청장은 수난대비기본계획을 변경할 때는 관계 행정기관의 의견을 수렴하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21471,
+      "question": "중앙구조본부의 장은 수난대비기본훈련 참여자 에게 사전교육을 실시하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21472,
+      "question": "중앙구조본부의 장은 수난대비기본훈련 실시 7일 전까지 훈련에 필요한 사항을 훈련참여기관의 장에게 통보하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21473,
+      "question": "‘심각’은 호우경보가 발표되고 호우에 의한 대 규모 재난이 발생할 가능성이 농후할 때 발 령한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21474,
+      "question": "‘관심’ 단계 발령은 중대본 비상1단계에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21475,
+      "question": "위기경보는 상황·순차에 따라 전국적으로 발령 하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21476,
+      "question": "‘경계’ 단계 발령은 대비 계획의 점검이 주요 활동에 해당한다. 실무A 경 위 CODE 10 7/8 (관리운영,경비안전)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21477,
+      "question": "윌리암스 턴은 야간에 익수자가 발생할 경우 가장 적합하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21478,
+      "question": "부환부 구명줄 구조법의 경우 로프의 끝단에 구 명뗏목 등을 설치한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21479,
+      "question": "Two 180° Turn의 경우 물에 빠진 사람을 계속 보면서 조함하는 방식으로 풍향이 침로와 180° 일 경우 유리한 방법이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21480,
+      "question": "싱글턴은 구조법 중 가장 빠른 구출방법이며, 선회성능이 좋지 않아도 유리하다. 2026년도 경찰공무원 승진시험 문제지 경 위 실무A CODE 10 8/8 (관리운영,경비안전)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21481,
+      "question": "관심(Green)은 지진해일로 인해 한반도에 영향을 줄 수 있는 해역의 특정 위치에서 짧은 기간동안 2회 이상 지진이 발생하여 상황관리 및 감시 활동이 필요한 상황을 의미한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21482,
+      "question": "주의(Yellow)는 기상청의 지진해일 정보(예상 파고 0.5m미만)가 발령된 경우를 의미한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21483,
+      "question": "경계(Orange)는 기상청의 지진해일 주의보 (예상파고 0.5~1.0m)가 발령된 경우를 의미한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21484,
+      "question": "심각(Red)은 지진해일로 인한 인명과 재산의 피해가 발생하거나 예상되어 범정부적 대처가 필요한 상황을 의미한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21485,
+      "question": "제11조제2항을 위반하여 안전수칙을 준수하지 아니한 자",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21486,
+      "question": "제12조제1항에 따른 계획서를 신고하지 아니하거나 거짓이나 그 밖에 부정한 방법으로 신고한 자",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21487,
+      "question": "제14조제1항에 따른 연안체험활동 금지 등의 조치를 따르지 아니한 자",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21488,
+      "question": "제15조제1항에 따른 공무원의 출입을 거부·방해 또는 기피한 자",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

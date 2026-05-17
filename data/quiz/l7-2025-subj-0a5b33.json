@@ -1,0 +1,397 @@
+{
+  "slug": "l7-2025-subj-0a5b33",
+  "name": "생물학개론",
+  "exam_group": "지방직 7급 · 2025년",
+  "subject": "생물학개론",
+  "phase": null,
+  "source": "지방직 7급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 32,
+  "questions": [
+    {
+      "id": 11438,
+      "question": "부착 의존성을 나타내지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11439,
+      "question": "밀도 의존성 억제를 나타낸다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11440,
+      "question": "스스로 생장인자(growth factor)를 만들어 계속 분열한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11441,
+      "question": "세포주기의 정상적인 조절 능력을 상실한 세포이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11442,
+      "question": "땀을 많이 흘리면 ADH의 분비가 감소한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11443,
+      "question": "물을 많이 마시면 신장에서 물의 재흡수가 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11444,
+      "question": "혈압이 정상치보다 낮아지면 오줌 생성량이 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11445,
+      "question": "혈장 삼투압이 정상치보다 높아지면 오줌 생성량이 감소한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11446,
+      "question": "(가)와 (나)의 신경절 이전 뉴런의 말단에서 분비되는 신경전달 물질은 서로 다르다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11447,
+      "question": "(나)의 신경절 이전 뉴런의 세포체는 척수의 회백질(gray matter)에 존재한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11448,
+      "question": "호르몬 X와 Y는 길항적으로 작용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11449,
+      "question": "호르몬 Y는 이자의 알파() 세포에서 분비된다. 2025년도 지방공무원 7급 등 공개경쟁임용 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11450,
+      "question": "P은 햇빛에 노출되면 신속하게 축적된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11451,
+      "question": "P은 어두운 상태에서 P 로 전환된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11452,
+      "question": "P 이 적색광을 흡수하여 P로 전환된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11453,
+      "question": "적색광은 상추 종자의 발아를 촉진한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11454,
+      "question": "환경수용력()는 특정 환경이 수용할 수 있는 개체군의 최대 크기이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11455,
+      "question": "지수형 개체군 생장(exponential population growth)은 제약이 없는 이상적인 환경에서 나타난다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11456,
+      "question": "로지스트형 개체군 생장(logistic population growth)에서는 개체군 크기가 환경수용력()에 가까워짐에 따라 개체군 생장률이 0에 접근한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11457,
+      "question": "사람은 모든 연령대에 걸쳐 일정한 사망률을 가지는 유형 Ⅱ의 생존곡선을 나타낸다. 생물학개론 책형 2쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11458,
+      "question": "휴지전위에서 세포 안이 세포 밖에 비해 상대적으로 음(－)전하를 띤다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11459,
+      "question": "Na+－K+ 펌프는 세포 밖으로 양이온 두 개를 더 많이 내보냄으로써 막전위 형성에 기여한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11460,
+      "question": "활동전위를 생성하기 위해 필요한 수준의 탈분극을 역치(threshold) 라고 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11461,
+      "question": "휴지전위에서 Cl-의 농도는 세포 안보다 세포 밖에서 더 높다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11462,
+      "question": "자연살생세포(natural killer cell)와 톨유사 수용체(Toll-like receptor)는 선천성 면역에 관여한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11463,
+      "question": "항원제시세포(antigen presenting cell)는 수지상세포, 대식세포, B세포가 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11464,
+      "question": "도움 T세포(helper T cell)의 CD8 단백질은 MHC Ⅱ형 분자에 결합한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11465,
+      "question": "병원체를 인식한 도움 T세포가 B세포를 자극하면 B세포는 증식하여 형질세포와 기억세포로 분화한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11466,
+      "question": "전이인자에는 트랜스포존(transposon)과 레트로트랜스포존 (retrotransposon)이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11467,
+      "question": "트랜스포존의 전이 기작에는 잘라 붙이기(cut-and-paste)와 복사하여 붙이기(copy-and-paste)가 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11468,
+      "question": "레트로트랜스포존의 전이에서는 RNA 가닥으로부터 상보적인 DNA를 복제하는 과정이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11469,
+      "question": "사람 유전체의 Alu 인자는 트랜스포존에 해당하며, 단백질을 암호화한 정보를 갖고 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

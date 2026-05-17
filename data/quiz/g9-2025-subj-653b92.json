@@ -1,0 +1,205 @@
+{
+  "slug": "g9-2025-subj-653b92",
+  "name": "재난관리론",
+  "exam_group": "국가직 9급 · 2025년",
+  "subject": "재난관리론",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 16,
+  "questions": [
+    {
+      "id": 4847,
+      "question": "재난관리책임기관의 장은 가뭄 방재를 위하여 필요한 조사 및 연구를 하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4848,
+      "question": "관계 중앙행정기관의 장은 시장ㆍ군수ㆍ구청장이 수립한 중장기대책에 필요한 사업비의 일부를 지원할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4849,
+      "question": "시장ㆍ군수ㆍ구청장은 가뭄 방재를 위하여 관계 중앙행정기관의 장과 합동으로 가뭄 예보 및 경보 체계를 운영하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4850,
+      "question": "시장ㆍ군수ㆍ구청장은 상습가뭄재해지역에 대하여 빗물모으기시설 설치 등 가뭄 피해를 줄이기 위한 중장기대책을 수립ㆍ시행하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4851,
+      "question": "재난관리책임기관의 장은 설해(雪害)에 의한 재해 발생 우려 시설 및 지역에 대한 정기점검을 매년 11월에서 다음 해 2월 중 1회 이상 하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4852,
+      "question": "재난관리책임기관의 장은 설해에 의한 재해 발생 우려 시설 및 지역에 대하여 정기점검을 한 후에는 반드시 안전진단을 하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4853,
+      "question": "재난관리책임기관의 장은 풍수해에 의한 재해 발생 우려 시설 및 지역에 대한 정기점검을 매년 3월에서 5월 중 1회 이상 하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4854,
+      "question": "재난관리책임기관의 장은 자연재해 예방을 위하여 점검 대상 시설 및 지역에 대한 점검 또는 안전진단을 하였을 때에는 그 결과에 따른 안전대책을 마련하고, 점검 또는 안전진단의 결과와 조치 사항 등을 행정안전부장관이 정하는 바에 따라 기록ㆍ관리 하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4855,
+      "question": "훈련주관기관의 장은 관계 기관과 합동으로 참여하는 재난대비 훈련을 각각 소관 분야별로 주관하여 연 1회 이상 실시하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4856,
+      "question": "재난대비훈련에 참여하는 데에 필요한 비용은 훈련주관기관이 부담한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4857,
+      "question": "훈련주관기관의 장은 재난대비훈련을 실시하는 경우, 훈련일 15일 전까지 훈련일시, 훈련장소, 훈련내용, 훈련방법, 훈련참여 인력 및 장비, 그 밖에 훈련에 필요한 사항을 훈련참여기관의 장에게 통보하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4858,
+      "question": "훈련참여기관의 장은 재난대비훈련 실시 후 10일 이내에 그 결과를 훈련주관기관의 장에게 제출하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4859,
+      "question": "장사(葬事)의 지원은 구호의 종류에 포함한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4860,
+      "question": "새마을운동조직 육성법 에 따른 새마을운동조직은 구호지원 기관에 포함한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4861,
+      "question": "구호기관이 필요하다고 인정하더라도 이재민에게 현금을 지급하여 구호할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4862,
+      "question": "구호기간은 이재민의 피해정도 및 생활정도 등을 고려하여 6개월 이내로 하지만, 구호기관이 이재민의 주거 안정을 위하여 필요하다고 인정하는 경우에는 구호기간을 연장할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

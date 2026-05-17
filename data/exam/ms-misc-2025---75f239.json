@@ -1,0 +1,544 @@
+{
+  "category": {
+    "slug": "ms-misc-2025---75f239",
+    "name": "지역인재 영어",
+    "exam_group": "군무원 · 2025년",
+    "subject": "지역인재 영어",
+    "phase": null,
+    "exam_year": 2025,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 12912,
+      "statement": "Neither my sisters nor my mom are coming.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 8,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12913,
+      "statement": "Neither my mom nor my sisters are coming.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 8,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12914,
+      "statement": "Neither my sisters nor I am going.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 8,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12915,
+      "statement": "Neither he nor she is ready. [9 ~ 11] 밑줄 친 부분에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 8,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12916,
+      "statement": "Request for Lease Extension",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 13,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12917,
+      "statement": "Inquiry About the Problem Caused by the Plumber",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 13,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12918,
+      "statement": "Urgent: Bathroom Water Leak Repair Needed",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 13,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12919,
+      "statement": "Notice of Moving Out 영어(지역인",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 13,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12920,
+      "statement": "I do my homework every day before dinner.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 18,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12921,
+      "statement": "I do want to help you, but I’m really busy today.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 18,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12922,
+      "statement": "They do not eat meat for health reasons.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 18,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12927,
+      "statement": "(C) - (A) - (B) 인재) 6 - 4",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 19,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12931,
+      "statement": "deregulatory approaches 영어(지역인 [22 ~ 23] 다음 글을 읽고 물음에 답하시오. (A) Museum Exhibits and Museum Store Open daily, 9:00 a.m. –5:00 p.m. Closed Mardi Gras Day, Thanksgiving Day, Christmas Eve, and Christmas Day. Beyond All Boundaries Daily showings, 48-minute experience, 10:00 a.m.–4:00 p.m. Shows start at the top of the hour. The Priddy Family Freedom Theater Daily showings, 30-minute experience, 9:50 a.m. –4:20 p.m. Shows run twice an hour. Final Mission: USS Tang Submarine Experience Daily showings, 15-minute experience, 11:15 a.m. –4:15 p.m. Included in General Admission. The Victory Belles Illuminate the Night Available on select nights, 60-minute experience, 1940s tunes from our signature vocal trio paired with Expressions of America our state-of-the-art outdoor sound and light show.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 21,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12932,
+      "statement": "Plan Your Visit - Directions",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 22,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12933,
+      "statement": "Plan Your Visit - Itineraries",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 22,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12934,
+      "statement": "Plan Your Visit - Hours & Information",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 22,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12935,
+      "statement": "Plan Your Visit - Purchase Ticket",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 22,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12936,
+      "statement": "오늘날 사람들은 생활이 나아지면서 더 큰 행복을 느낀다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 24,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12937,
+      "statement": "진정한 행복은 직장, 성공, 그리고 인간관계 에서 비롯된다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 24,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12938,
+      "statement": "불안과 우울은 긍정심리학을 공부하면 다스릴 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 24,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12939,
+      "statement": "진정한 행복은 행복을 추구하는 게 아니라 삶의 의미를 찾는 데서 온다. 영어(지역인",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 24,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12940,
+      "statement": "(A) memorize, (B) a clean slate",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 25,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12941,
+      "statement": "(A) absorb, (B) a sharp tool",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 25,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12942,
+      "statement": "(A) forget, (B) a dry sponge",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 25,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12943,
+      "statement": "(A) recall, (B) an empty page 인재) 6 - 6",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "영어_지역인재(최종).pdf",
+      "source": {
+        "qid": 25,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:38+00:00",
+    "total": 25,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "fire-cmdr-2026-subj-7b87e8",
+  "name": "화학개론",
+  "exam_group": "소방 간부 · 2026년",
+  "subject": "화학개론",
+  "phase": null,
+  "source": "소방 간부",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 5,
+  "questions": [
+    {
+      "id": 20488,
+      "question": "℃, atm에서 A는 기체이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20489,
+      "question": "℃에서 기체가 응축되는 압력이 존재한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20490,
+      "question": "대기압에서 고체가 승화하는 온도가 존재한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20491,
+      "question": "T에서 A는 고체와 액체로만 존재한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20492,
+      "question": "atm보다 낮은 압력에서 A는 액체로 존재하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "slug": "g9-2025-subj-d820cc",
+  "name": "회계원리",
+  "exam_group": "국가직 9급 · 2025년",
+  "subject": "회계원리",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 35,
+  "questions": [
+    {
+      "id": 5865,
+      "question": "고객에게 약속한 재화나 용역, 즉 자산을 이전하여 수행의무를 이행할 때(또는 기간에 걸쳐 이행하는 대로) 수익을 인식한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5866,
+      "question": "고객이 자산을 통제하는지를 판단할 때, 그 자산을 재매입하는 약정을 고려하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5867,
+      "question": "수행의무가 기간에 걸쳐 이행되지 않는다면, 그 수행의무는 한 시점에 이행되는 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5868,
+      "question": "수행의무의 진행률을 합리적으로 측정할 수 있는 경우에만, 기간에 걸쳐 이행하는 수행의무에 대한 수익을 인식한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5869,
+      "question": "과거 사건의 결과로 현재 의무가 존재하여야 하며, 현재 의무에는 법적 의무뿐만 아니라 의제 의무도 포함한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5870,
+      "question": "기업의 미래 행위(미래 사업행위)와 관련하여 존재하는 과거 사건에서 생긴 의무만을 충당부채로 인식한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5871,
+      "question": "해당 의무를 이행하기 위하여 경제적 효익이 있는 자원의 유출 가능성이 높다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5872,
+      "question": "해당 의무를 이행하기 위하여 필요한 금액을 신뢰성 있게 추정할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5873,
+      "question": "자산총액이 ￦1,000,000 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5874,
+      "question": "부채총액은 변동이 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5875,
+      "question": "수익총액은 ￦800,000 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5876,
+      "question": "당기순이익이 ￦800,000 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5877,
+      "question": "통상적인 영업과정에서 판매를 위하여 보유 중이거나 생산 중인 자산은 재고자산에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5878,
+      "question": "생산이나 용역제공에 사용될 원재료나 소모품은 재고자산에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5879,
+      "question": "외부에서 매입하여 재판매하기 위해 보유하는 상품은 재고자산에 해당하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5880,
+      "question": "토지도 기업의 주된 영업활동에 따라 재고자산에 해당될 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5885,
+      "question": "사무실을 1개월 후에 1년간 임차하기로 임대인과 계약 체결",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5886,
+      "question": "업무에 사용하던 비품의 자연재해로 인한 파손",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5888,
+      "question": "공장건물에 대한 수선 후 청구서 수령 2025년도 국가공무원 9급 공채 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5889,
+      "question": "보고기업의 경제적자원 및 청구권의 성격 및 금액에 대한 정보는 이용자들이 보고기업의 재무적 강점과 약점을 식별하는 데 도움을 줄 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5890,
+      "question": "보고기업의 재무성과에 대한 정보는 그 기업의 경제적자원에서 해당 기업이 창출한 수익을 이용자들이 이해하는 데 도움을 준다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5891,
+      "question": "보고기업의 경제적자원 및 청구권은 채무상품이나 지분상품의 발행과 같이 재무성과 외의 사유로는 변동되지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5892,
+      "question": "한 기간의 보고기업의 현금흐름에 대한 정보는 이용자들이 기업의 미래 순현금유입 창출 능력을 평가하고 기업의 경제적자원에 대한 경영진의 수탁책임을 평가하는 데에도 도움이 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5893,
+      "question": "(차) 수익 ￦100,000 (대) 집합손익 ￦100,000",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5894,
+      "question": "(차) 이익잉여금 ￦100,000 (대) 집합손익 ￦100,000",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5895,
+      "question": "(차) 집합손익 ￦100,000 (대) 비용 ￦100,000",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5896,
+      "question": "(차) 집합손익 ￦100,000 (대) 이익잉여금 ￦100,000 회계원리 책형 3쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5897,
+      "question": "한국채택국제회계기준 에서 요구하거나 허용하지 않는 경우 자산과 부채 그리고 수익과 비용은 상계하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5898,
+      "question": "포괄손익계산서 상 영업손익은 영업의 특수성을 고려할 필요가 있는 경우나 비용을 성격별로 분류하는 경우를 제외하고는 영업 수익에서 영업비용을 차감하여 산출한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5899,
+      "question": "매입채무 그리고 종업원 및 그 밖의 영업원가에 대한 미지급 비용과 같은 유동부채는 기업의 정상영업주기 내에 사용되는 운전자본의 일부이다. 이러한 항목은 보고기간 후 12개월 후에 결제일이 도래한다 하더라도 유동부채로 분류한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5900,
+      "question": "기업은 현금흐름 정보를 제외하고는 발생기준 회계를 적용하여 재무제표를 작성한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5901,
+      "question": "계속기록법을 적용할 경우, 재고자산 관련 기말 수정분개는 필요 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5902,
+      "question": "실지재고조사법을 적용할 경우, 수정전시산표상 재고자산 금액은 재무상태표상 기초 재고자산 금액과 동일하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5903,
+      "question": "계속기록법을 적용할 경우, 기중에도 재고자산의 수량과 단가를 상시적으로 파악할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5904,
+      "question": "실지재고조사법을 적용할 경우, 매입계정을 재고자산 취득 시 차변에 기록하고 재고자산 판매 시 대변에 기록한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

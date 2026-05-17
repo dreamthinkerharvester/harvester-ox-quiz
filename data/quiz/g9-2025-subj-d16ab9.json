@@ -1,0 +1,313 @@
+{
+  "slug": "g9-2025-subj-d16ab9",
+  "name": "기계설계",
+  "exam_group": "국가직 9급 · 2025년",
+  "subject": "기계설계",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 25,
+  "questions": [
+    {
+      "id": 4378,
+      "question": "비용 절감을 위해 최소 표면 거칠기와 치수공차 사용",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4379,
+      "question": "가공, 조립, 운반, 검사 및 보수가 용이한 구조 선택",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4380,
+      "question": "두 축이 서로 어느 각도로 교차하면 유니버설 조인트(universal joint)를 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4381,
+      "question": "원통 안에서 두 축을 맞대어 키로 고정하는 것을 플랜지 커플링 (flange coupling)이라 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4382,
+      "question": "진동이 많이 발생하는 곳에 충격을 흡수하기 위해 플렉시블 커플링(flexible coupling)을 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4383,
+      "question": "두 축이 평행하고 축심이 약간의 거리가 있을 때 올덤 커플링 (oldham coupling)을 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4384,
+      "question": "동시에 여러 축에 동력을 전달할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4385,
+      "question": "초기 장력 없이 구동할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4386,
+      "question": "미끄럼 현상이 있어 일정한 속도비를 얻을 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4387,
+      "question": "회전하는 2개의 스프로킷 휠 사이에 동력을 전달하기 위해 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4389,
+      "question": "관성력을 작게 하기 위해 소형, 경량으로 할 것",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4390,
+      "question": "마모의 발생에 대하여 적절한 수정이 가능할 것",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4391,
+      "question": "종동축에 과대한 하중이 작용하더라도 미끄럼이 발생하지 않을 것",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4392,
+      "question": "접촉 면적이 넓어서 큰 동력을 전달할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4393,
+      "question": "축간거리를 단축시킬 수 있어 설치 면적을 절약할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4394,
+      "question": "이음매가 없어서 충격을 완화할 수 있고 운전이 정숙하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4395,
+      "question": "미끄럼이 없어 속도비가 고정되므로 정밀 동기 운전에 적합하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4396,
+      "question": "접촉 위치가 변해도 압력각이 일정하게 유지된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4397,
+      "question": "치형의 맞물림 과정에서 마모와 소음이 적은 편이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4398,
+      "question": "시계와 같은 정밀 기계 장치에서 사용되는 예가 많다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4399,
+      "question": "외접 구름원(epicycloid)과 내접 구름원(hypocycloid)에 의해 치형 윤곽이 형성된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4400,
+      "question": "게이트 밸브는 밸브 봉을 돌려서 열 때 밸브 시트의 면과 직선적으로 미끄럼 운동한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4401,
+      "question": "체크 밸브는 밸브의 무게와 밸브 양면에 작용하는 압력차로써 자동적으로 작동하여 역류를 방지한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4402,
+      "question": "나사 이음은 관에 나사산을 내어 맞물리게 체결하는 방식으로, 접속부에 패킹 등을 넣어 누설을 방지한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4403,
+      "question": "플랜지 이음은 관 끝단에 플랜지를 설치하고 결합하는 방식으로, 주로 소구경 배관이나 저압 배관에 적합하다. ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

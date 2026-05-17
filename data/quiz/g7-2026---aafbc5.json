@@ -1,0 +1,1213 @@
+{
+  "slug": "g7-2026---aafbc5",
+  "name": "(근로감독,산업안전) 행정법",
+  "exam_group": "국가직 7급 · 2026년",
+  "subject": "(근로감독,산업안전) 행정법",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 100,
+  "questions": [
+    {
+      "id": 6494,
+      "question": "취소소송에는 당해 처분등과 관련되는 손해배상ㆍ부당이득반환ㆍ 원상회복등 청구소송을 이송할 수 있으나, 당해 처분등과 관련되는 취소소송을 이송할 수는 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6495,
+      "question": "취소소송에는 사실심의 변론종결시까지 관련청구소송을 병합할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6496,
+      "question": "취소소송의 피고와 관련청구소송의 피고가 다른 경우에도 병합하여 제기할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6497,
+      "question": "무효등 확인소송과 부작위위법확인소송에도 관련청구소송의 병합이 인정된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6498,
+      "question": "신뢰보호원칙은 행정기본법 에 규정됨으로써 비로소 법원칙으로 인정되었다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6499,
+      "question": "신뢰보호원칙은 행정청의 적극적 언동이 아닌 소극적 부작위에는 적용되지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6500,
+      "question": "행정청의 견해표명이 정당하다고 신뢰한 데에 대하여 그 개인에게 귀책사유가 있더라도 신뢰보호의 원칙이 적용된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6501,
+      "question": "행정청이 공적인 의사표명을 한 후 사실적ㆍ법률적 상태가 변경 되었다면 특별한 사정이 없는 한 그 공적인 의사표명은 신뢰 보호의 대상이 되지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6502,
+      "question": "확약은 문서로 하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6503,
+      "question": "확약을 한 후에 내용을 이행할 수 없을 정도로 사정이 변경된 경우라도, 그 확약이 위법하지 않다면 행정청은 그 확약에 기속된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6504,
+      "question": "행정청은 확약이 위법함을 이유로 확약을 이행할 수 없는 경우에는 지체 없이 당사자에게 그 사실을 통지하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6505,
+      "question": "행정청은 다른 행정청과의 협의 등의 절차를 거쳐야 하는 처분에 대하여 확약을 하려는 경우에는 확약을 하기 전에 그 절차를 거쳐야 한다. 행 정 법 책형 1쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6506,
+      "question": "공개청구의 대상이 되는 정보가 이미 다른 사람에게 공개하여 널리 알려져 있다거나 인터넷이나 관보 등을 통하여 공개하여 인터넷 검색이나 도서관에서의 열람 등을 통하여 쉽게 알 수 있다는 사정만으로는 소의 이익이 없다거나 비공개결정이 정당화될 수는 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6507,
+      "question": "공개청구의 대상이 되는 ‘정보’라 함은 공공기관이 직무상 작성 또는 취득하여 관리하고 있는 문서(전자문서 포함) 및 전자매체를 비롯한 모든 형태의 매체 등에 기록된 사항을 말하므로, 이 문서 등은 원본이어야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6508,
+      "question": "정보공개를 구하는 자가 공개를 구하는 정보를 행정기관이 보유ㆍ 관리하고 있을 상당한 개연성이 있다는 점을 입증하여야 하고, 공공기관이 그 정보를 더 이상 보유ㆍ관리하고 있지 않다고 주장하는 경우에도 정보공개를 구하는 자가 그 반대 사실을 증명하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6509,
+      "question": "전자적 형태로 보유ㆍ관리되는 정보의 경우, 그 정보가 청구인이 구하는 대로 되어 있지 않아 공개청구를 받은 공공기관이 공개 청구대상정보의 기초자료를 검색하여 청구인이 구하는 대로 편집하여야 한다면, 이러한 경우 기초자료를 검색ㆍ편집하는 것은 ‘새로운 정보’의 생산 또는 가공에 해당한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6510,
+      "question": "경찰관은 수상한 행동이나 그 밖의 주위 사정을 합리적으로 판단하여 볼 때 어떠한 죄를 범하였다고 의심할 만한 상당한 이유가 있는 사람에 대하여 경찰서로 동행할 것을 요구할 수 있고, 이 경우 동행을 요구받은 사람은 그 요구를 거절할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6511,
+      "question": "경찰관의 적법한 직무집행으로 인하여 손실발생의 원인에 대하여 책임이 없는 자가 경찰관의 직무집행에 자발적으로 협조하여 신체에 손실을 입은 경우 국가는 그에 대하여 정당한 보상을 하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6512,
+      "question": "경찰관이 신분증을 제시하지 않고 불심검문을 하였으나, 검문하는 사람이 경찰관이고 검문하는 이유가 범죄행위에 관한 것임을 상대방이 충분히 알고 있었다면 그 불심검문은 적법한 공무집행에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6513,
+      "question": "경찰관은 범죄행위가 목전에 행하여지려고 하고 있다고 인정될 때에는 이를 예방하기 위하여 관계인에게 필요한 경고를 하고, 그 행위로 인하여 사람의 생명ㆍ신체에 위해를 끼치거나 재산에 중대한 손해를 끼칠 우려가 있는 긴급한 경우에는 그 행위를 제지할 수 있으며, 이러한 경고나 제지는 범죄행위에 관한 실행의 착수 이후 범죄행위가 계속되는 중에 그 진압을 위하여도 행하여질 수 있다. 근로감독 및 산업안전 분야 국가공무원 7급 공채 제2차시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6514,
+      "question": "각 중앙관서의 장은 세출예산이 정한 목적 외에 경비를 사용할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6515,
+      "question": "예산은 예산총칙ㆍ세입세출예산ㆍ계속비ㆍ명시이월비 및 국고채무 부담행위를 총칭한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6516,
+      "question": "정부는 성인지 결산서를 작성하여야 하지만 온실가스감축인지 결산서를 작성할 의무는 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6517,
+      "question": "정부는 결산이 국가회계법 에 따라 재정에 관한 유용하고 적정한 정보를 제공할 수 있도록 객관적인 자료와 증거에 따라 공정하게 이루어지게 하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6518,
+      "question": "행정청은 사실심 변론을 종결할 때까지 당초의 처분사유와 기본적 사실관계가 동일한 범위 내에서 처분사유를 추가 또는 변경할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6519,
+      "question": "행정청이 점용허가를 받지 않고 도로를 점용한 사람에 대하여 도로법 에 의한 변상금 부과처분을 하였다가, 처분에 대한 취소 소송이 제기된 후 해당 도로가 도로법 적용을 받는 도로에 해당하지 않을 경우를 대비하여 처분의 근거 법령을 구 국유재산 법령 등으로 변경하여 주장하는 것은 허용될 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6520,
+      "question": "사회적 사실관계의 기본적 동일성이 인정되는 경우라고 하더라도 그에 대한 규범적 평가와 처분의 근거 법령의 변경으로, 기속행위가 재량행위로 변경되는 경우와 같이, 당초 처분의 내용을 변경할 필요성이 제기되는 경우, 당초 처분의 내용을 그대로 유지한 채 근거 법령만 추가ㆍ변경하는 것은 허용될 수 없다고 보아야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6521,
+      "question": "처분청이 거부처분에 대한 항고소송에서 기존의 처분사유와 기본적 사실관계가 동일하지 않은 사유를 처분사유로 추가ㆍ 변경한 것에 대하여 처분상대방이 추가ㆍ변경된 처분사유의 실체적 당부에 관하여 해당 소송 과정에서 심리ㆍ판단하는 것에 명시적으로 동의하는 경우에는, 법원으로서는 그 처분사유가 기존의 처분사유와 기본적 사실관계가 동일한지와 무관하게 예외적으로 이를 허용할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6522,
+      "question": "주류판매업 면허는 강학상의 허가로 해석되므로 주세법 에 열거된 면허제한사유에 해당하지 아니하는 한 면허관청으로서는 임의로 그 면허를 거부할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6523,
+      "question": "한의사 면허는 권리를 설정하는 강학상 특허에 해당하고, 한의사들이 한약조제시험을 통하여 한약조제권을 인정받은 약사들에 대한 합격처분의 무효확인을 구할 원고적격이 인정된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6524,
+      "question": "마을버스운송사업면허의 허용 여부는 사업구역의 교통수요, 노선 결정, 운송업체의 수송능력, 공급능력 등에 관하여 기술적ㆍ전문적인 판단을 요하는 분야로서, 법령이 특별히 규정한 바가 없으면 이에 관한 행정처분은 행정청의 재량에 속한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6525,
+      "question": "민법 에서 말하는 재단법인의 정관변경 허가는 법률상의 표현이 허가로 되어 있기는 하나, 그 성질에 있어 법률행위의 효력을 보충해 주는 것이지 일반적 금지를 해제하는 것이 아니므로, 그 법적 성격은 인가라고 보아야 한다. 행 정 법 책형 2쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6526,
+      "question": "일반적으로 법률의 위임에 의하여 효력을 갖는 법규명령의 경우, 구법에 위임의 근거가 없어 무효였더라도 사후에 법개정으로 위임의 근거가 부여되면 그 때부터는 유효한 법규명령이 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6527,
+      "question": "행정규칙은 법규명령과 같은 엄격한 제정 및 개정절차를 요하지 아니하므로, 재산권 등과 같은 기본권을 제한하는 작용을 하는 법률이 입법위임을 할 때에는 대통령령, 총리령, 부령 등 법규명령에 위임하여야 하며 전문적ㆍ기술적 사항이라고 하더라도 고시와 같은 행정규칙으로 위임할 수는 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6528,
+      "question": "헌법 제107조제2항의 규칙에는 지방자치단체의 조례와 규칙이 모두 포함된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6529,
+      "question": "법령의 규정이 특정 행정기관에게 법령 내용의 구체적 사항을 정할 수 있는 권한을 부여하면서 권한행사의 절차나 방법을 특정하지 아니한 경우에는 수임 행정기관은 행정규칙이나 규정 형식으로 법령 내용이 될 사항을 구체적으로 정할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6530,
+      "question": "행정청이 종교단체에 대하여 기본재산전환인가를 함에 있어 인가조건을 부가하고 그 불이행시 인가를 취소할 수 있도록 한 경우, 인가조건의 의미는 철회권을 유보한 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6531,
+      "question": "행정청은 부관을 붙일 수 있는 처분이 법률에 근거가 있거나 당사자의 동의가 있는 경우 또는 사정이 변경되어 부관을 새로 붙이거나 종전의 부관을 변경하지 아니하면 해당 처분의 목적을 달성할 수 없다고 인정되는 경우에는 그 처분을 한 후에도 부관을 새로 붙이거나 종전의 부관을 변경할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6532,
+      "question": "기부채납 받은 행정재산에 대한 사용ㆍ수익허가에서 공유재산의 관리청이 정한 사용ㆍ수익허가의 기간은 그 허가의 효력을 제한하기 위한 행정처분의 부관으로서 이러한 사용ㆍ수익허가의 기간에 대해서는 독립하여 행정소송을 제기할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6533,
+      "question": "행정처분에 부담인 부관을 붙인 경우 부관의 무효화에 의하여 본체인 행정처분 자체의 효력에도 영향이 있게 될 수는 있지만, 그 처분을 받은 사람이 부담의 이행으로 사법상 매매 등의 법률 행위를 한 경우에는 그 법률행위 자체를 당연히 무효화하는 것은 아니다. 근로감독 및 산업안전 분야 국가공무원 7급 공채 제2차시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6534,
+      "question": "지방세법 에 의한 압류재산 매각절차에 따라 영업시설의 전부를 인수함으로써 그 영업자의 지위를 승계한 자가 관계 행정청에 이를 신고하여 행정청이 구 식품위생법 규정에 의하여 영업자 지위승계신고를 수리하는 경우, 행정청은 행정절차법 에 따라 종전의 영업자에게 사전통지를 하고 의견제출의 기회를 주어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6535,
+      "question": "석유판매업의 양도에 따라 양수인이 양도인의 지위를 승계한다고 규정되어 있더라도, 양수인이 그 지위를 승계할 당시에 양도인의 위반 사실을 알았음을 등록관청이 증명하지 못한 경우에 한하여 양도인의 위반행위를 이유로 양수인에게 응분의 제재조치를 취할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6536,
+      "question": "식품위생법령상 영업양도에 따른 지위승계 신고의 수리는 양도자에 대한 영업허가 등의 취소와 아울러 양수자에게 적법하게 영업을 할 수 있는 지위를 설정하여 주는 행위로서 영업허가자 등의 변경이라는 법률효과를 발생시키는 행위이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6537,
+      "question": "영업장 면적이 변경되었음에도 그에 관한 식품위생법령에 따른 신고의무가 이행되지 않은 영업을 양수한 자가 이러한 신고의무를 이행하지 않은 채 영업을 계속하였다면 시정명령 또는 영업정지 등 제재처분의 대상이 될 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6538,
+      "question": "처분의 재심사 대상인 처분에서 제재처분과 행정상 강제는 제외된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6539,
+      "question": "처분의 재심사를 신청할 수 있는 자는 처분의 상대방으로 한정된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6540,
+      "question": "처분의 재심사 결과 중 처분을 유지하는 결과에 대해서는 행정 심판, 행정소송 및 그 밖의 쟁송수단을 통하여 불복할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6541,
+      "question": "행정청은 처분의 재심사 절차가 진행되면 행정기본법 제18조에 따른 직권취소를 할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6542,
+      "question": "개인정보보호위원회는 개인정보 보호법 을 위반하여 개인정보를 처리한 경우 해당 개인정보처리자에게 과징금을 부과할 수 있으며, 전체 매출액을 기준으로 과징금을 산정한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6543,
+      "question": "구 정보통신망 이용촉진 및 정보보호 등에 관한 법률 에 근거하여, 개인정보 보호조치를 하지 않아 이용자의 개인정보를 분실ㆍ 도난ㆍ누출ㆍ변조 또는 훼손한 정보통신서비스 제공자에게 부과되는 과징금은 해당 위반행위로 인해 증가한 매출액에서 얻은 이익을 박탈하는 데 목적이 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6544,
+      "question": "구 정보통신망 이용촉진 및 정보보호 등에 관한 법률 상 개인정보 유출 관련 과징금 산정의 기초가 되는 정보통신서비스 제공자의 매출액을 산정할 때 ‘위반행위로 직접 또는 간접적으로 영향을 받는 서비스’의 범위는 유출된 개인정보를 보유ㆍ관리하고 있는 서비스 범위를 기준으로 판단해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6545,
+      "question": "개인정보처리자는 개인정보를 가명 또는 익명으로 처리하여도 개인정보 수집목적을 달성할 수 있는 경우 가명처리가 가능한 경우에는 가명에 의하여, 가명처리로 목적을 달성할 수 없는 경우에는 익명에 의하여 처리될 수 있도록 하여야 한다. 행 정 법 책형 3쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6546,
+      "question": "처분이 있음을 안 날부터 90일이 지나지 않은 경우에는, 설령 처분이 있은 날로부터 180일이 경과하였더라도 정당한 사유가 있으면 행정심판을 제기할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6547,
+      "question": "행정심판위원회는 취소심판의 청구가 이유 있다고 인정하면 처분을 취소하거나 다른 처분으로 변경할 수 있으며, 피청구인에게 처분을 취소하거나 변경할 것을 명할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6548,
+      "question": "행정심판의 재결은 피청구인인 행정청을 기속하는 효력을 가지므로 재결이 확정되었다면 처분의 기초가 된 사실관계나 법률적 판단이 확정되고 당사자들이나 법원은 이에 기속되어 모순되는 주장이나 판단을 할 수 없게 된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6549,
+      "question": "행정심판위원회는 무효등확인심판에서 심판청구가 이유가 있다고 인정하는 경우에도 이를 인용하는 것이 공공복리에 크게 위배된다고 인정하면 그 심판청구를 기각하는 재결을 할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6550,
+      "question": "생명ㆍ신체의 침해로 인한 국가배상을 받을 권리는 양도하거나 압류하지 못한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6551,
+      "question": "국가배상법 상 상호보증은 외국의 법령, 판례 및 관례 등에 의하여 발생요건을 비교하여 인정되면 충분하고 반드시 당사국과의 조약이 체결되어 있을 필요는 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6552,
+      "question": "국가나 지방자치단체에 대한 배상신청사건을 심의하기 위하여 법무부에 본부심의회를 두며, 군인이나 군무원이 타인에게 입힌 손해에 대한 배상신청사건을 심의하기 위하여 국방부에 특별 심의회를 둔다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6553,
+      "question": "지방자치단체로부터 대집행권한을 위탁받은 한국토지주택공사가 수탁 공무인 대집행을 실행하면서 불법행위로 손해를 발생시킨 경우 국가배상책임은 해당 지방자치단체에게 발생한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6554,
+      "question": "행정처분의 무효확인을 구하는 소에는 원고가 그 처분의 취소를 구하지 아니한다고 밝히지 아니한 이상 그 처분이 만약 당연무효가 아니라면 그 취소를 구하는 취지도 포함되어 있는 것으로 보아야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6555,
+      "question": "항고소송은 원칙적으로 당해 처분을 대상으로 하나, 당해 처분에 대한 재결 자체에 주체, 절차, 형식 또는 내용상의 고유한 위법이 있는 경우에 한하여 그 재결을 대상으로 할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6556,
+      "question": "수도조례 및 하수도사용조례에 기한 과태료 부과처분은 과태료라는 금전 납부의무를 지우는 것으로, 항고소송의 대상이 되는 행정처분에 해당한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6557,
+      "question": "거부처분이 있은 후 당사자가 다시 신청을 한 경우에는 신청의 제목 여하에 불구하고 그 내용이 새로운 신청을 하는 취지라면 관할 행정청이 이를 다시 거절하는 것은 새로운 거부처분으로 봄이 원칙이다. 근로감독 및 산업안전 분야 국가공무원 7급 공채 제2차시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6558,
+      "question": "국가공무원법 에서 금지하는 ‘노동운동이나 그 밖에 공무 외의 일을 위한 집단 행위’란 공익에 반하는 목적을 위한 다수인의 행위로서 집단성이라는 표지를 갖춘 것을 말하는데, 집단성이 인정되기 위해서 그 행위가 반드시 같은 시간, 장소에서 행하여져야 하는 것은 아니다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6559,
+      "question": "국가공무원법 상 공무원의 성실의무는 경우에 따라 근무시간 외에 근무지 밖에까지 미칠 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6560,
+      "question": "공무원이 외부에 자신의 상사 등을 비판하는 의견을 발표하는 행위는, 발표행위 내용 중에 진위에 의심이 가는 부분이 있거나 표현이 개인적 감정에 휩쓸려 지나치게 단정적이고 과장된 부분이 있더라도 행정조직의 개선ㆍ발전과 행정청의 권한행사의 적정화에 기여하는 면이 있다면 공무원의 품위유지의무 위반행위에 해당하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6561,
+      "question": "공무원이 비밀엄수의무에 따라 엄수해야 하는 직무상의 비밀에 해당하는지 여부는, 행정기관이 비밀이라고 형식적으로 정하고 있는지의 여부를 기준으로 하여 판단할 것이 아니라, 실질적으로 비밀로서 보호할 가치가 있는지, 정부나 국민의 이익 또는 행정 목적 달성을 위하여 비밀로서 보호할 필요성이 있는지 등을 객관적으로 검토하여 판단하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6562,
+      "question": "행정기관의 장이 행정조사를 실시하려면, 출석요구서ㆍ보고요구서ㆍ 자료제출요구서ㆍ현장출입조사서를 조사개시 7일 전까지 서면으로 조사대상자에게 통지해야 하며, 다만 미리 통지하면 조사 목적을 달성하기 어려운 경우 등에는 조사개시와 동시에 제시할 수 있지만 조사 목적 등을 구두로만 통지할 수는 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6563,
+      "question": "‘조사대상자의 자발적인 협조를 얻어 실시하는 행정조사’는 개별 법령 등에 별도의 규정이 없어도 실시할 수 있으나, 이미 개별 법령 등에서 행정조사를 규정하고 있는 경우에는 이를 근거로 하지 않은 채 협조만으로 실시할 수는 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6564,
+      "question": "세무조사결정은 부과처분에 필요한 정보를 수집하는 조사를 하기로 하는 과세관청의 내부적 준비행위에 불과하고 납세의무자의 권리ㆍ의무에 직접적인 법률상 변동을 발생시키지 않으므로 항고소송의 대상이 되지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6565,
+      "question": "조사원이 조사목적을 달성하기 위하여 시료를 채취하는 경우에는 그 시료의 소유자 및 관리자의 정상적인 경제활동을 방해하지 않는 범위에서 최소한도로 하여야 하며, 그로 인해 조사대상자에게 손실을 입힌 때에는 별도의 법령 등에 특별한 규정이 없는 한 행정조사기본법령에 따라 보상하여야 한다. 행 정 법 책형 4쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6566,
+      "question": "적법한 주민감사청구를 감사기관이 부적법하다고 오인하여 위법하게 각하한 경우, 감사청구한 주민은 위법한 각하결정에 대해 별도의 항고소송으로 다툴 필요 없이 바로 주민소송을 제기할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6567,
+      "question": "지방자치단체가 기관위임사무를 처리하면서 공무원의 불법행위로 손해를 입힌 경우 국가가 손해배상의 책임자이며, 지방자치단체는 손해배상책임을 지지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6568,
+      "question": "이행강제금의 부과ㆍ징수를 게을리한 행위만으로는 주민소송의 대상이 되는 공금의 부과ㆍ징수를 게을리한 사항에 해당하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6569,
+      "question": "자치사무에 대한 지방자치단체장의 처분에 대하여 감독청이 시정명령을 한 경우 지방자치단체장은 이에 대해 대법원에 제소하여 다툴 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6570,
+      "question": "행정벌과 징계벌은 목적을 달리하므로 병과될 수 있고 양자 사이에는 일사부재리의 원칙이 적용되지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6571,
+      "question": "양벌규정의 대상이 되는 법인에는 자치사무를 수행하는 지방자치 단체가 포함된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6572,
+      "question": "행정상의 단속을 주안으로 하는 법규라 하더라도 명문의 규정이 있거나 해석상 과실범도 벌할 뜻이 명확한 경우를 제외하고는 형법 의 원칙에 따라 고의가 있어야 벌할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6573,
+      "question": "지방공무원의 신분을 가지지 아니하는 사람이 구 지방공무원법 제58조제1항에서 규정하고 있는 집단행위의 금지를 위반하여 같은 법 제82조(현행 제83조)에 따라 처벌되는 지방공무원의 범행에 가공하더라도, 형법 제33조 본문에 의해 공범으로 처벌할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6574,
+      "question": "도로법 상 도로의 관리청은 무단점용에 대하여 변상금을 부과할 수 있으나, 관리청이 도로부지의 소유권을 취득하지 못한 경우에는 부과할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6575,
+      "question": "소하천구역에 대한 인공구조물(집수정) 설치 및 점용에 대해 신고를 하지 않은 사람에게 해당 인공구조물의 철거 및 원상복구를 명하는 시정명령이 절차적 하자로 위법하다면, 그 시정명령을 이행하지 않았다 하더라도 소하천정비법 제27조제4호(현행 제5호) 위반죄가 성립하지 아니한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6576,
+      "question": "도로의 특별사용은 반드시 독점적, 배타적인 것이 아니라 그 사용목적에 따라서는 도로의 일반사용과 병존이 가능한 경우도 있고, 이러한 경우에는 도로점용 부분이 동시에 일반공중의 교통에 공용되고 있다고 하여 도로점용이 아니라고 말할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6577,
+      "question": "하천법 상 하천수 사용허가를 받아 이용하고 있는 경우, 이 하천수 사용권은 특허에 의한 공물사용권의 일종으로 재산적 가치를 가지는 구체적 권리이다. 근로감독 및 산업안전 분야 국가공무원 7급 공채 제2차시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6578,
+      "question": "질서위반행위 후 법률이 변경되어 그 행위가 질서위반행위에 해당하지 아니하게 되거나 과태료가 변경되기 전의 법률보다 가볍게 된 때에는 법률에 특별한 규정이 없는 한 변경된 법률을 적용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6579,
+      "question": "과태료는 행정청의 과태료 부과처분이나 법원의 과태료 재판이 확정된 후 5년간 징수하지 아니하거나 집행하지 아니하면 시효로 인하여 소멸한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6580,
+      "question": "과태료 사건의 관할 법원은 직권으로 사실의 탐지와 필요하다고 인정하는 증거의 조사를 하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6581,
+      "question": "행정청의 과태료 부과 통지를 받은 자가 해당 행정청에 서면으로 이의제기를 하더라도, 과태료 부과처분의 효력에는 영향이 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6582,
+      "question": "취소소송에서 영업정지처분이 위법한지 여부는 사실심 변론종결시 까지의 법령과 사실상태를 기준으로 판단하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6583,
+      "question": "영업정지처분을 취소하는 판결이 확정되는 경우 판결의 주문에 기속력이 미치나, 주문의 전제가 되는 처분의 구체적 위법사유에 관한 판단에는 기속력이 미치지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6584,
+      "question": "영업정지처분을 취소하는 판결이 확정되면 원칙적으로 그 처분은 장래를 향하여 효력을 잃게 되나, 특별한 사정이 있는 경우에는 처분시에 소급하여 효력을 잃게 된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6585,
+      "question": "집행정지결정이 이루어졌더라도 본안에서 영업정지처분이 최종적 으로 적법한 것으로 확정되어 영업정지처분을 다시 집행할 수 있게 되면, 관할 행정청은 甲에 대하여 당초 집행정지결정이 없었던 경우와 동등한 수준으로 영업정지처분이 집행되도록 필요한 조치를 취하여야 한다. 행 정 법 책형 5쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6586,
+      "question": "자동차 운전면허 취소처분을 받은 사람이 자동차를 운전하였으나 운전면허 취소처분의 원인이 된 교통사고 또는 법규 위반에 대하여 범죄사실의 증명이 없는 때에 해당한다는 이유로 무죄판결이 확정된 경우, 취소처분이 취소되지 않았더라도 도로교통법 에 규정된 무면허운전의 죄로 처벌할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6587,
+      "question": "직무집행과 관련하여 공상을 입은 군인 등이 먼저 국가배상법 에 따라 손해배상금을 지급받은 다음 구 국가유공자 등 예우 및 지원에 관한 법률 이 정한 보상금 등 보훈급여금의 지급을 청구하는 경우, 국가배상법 에 따라 손해배상을 받았다는 이유로 그 지급을 거부할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6588,
+      "question": "다른 약사에 대한 약국개설등록처분으로 인하여 조제 기회를 전부 또는 일부라도 상실하게 된 기존 약국개설자는 특별한 사정이 없는 한 해당 처분의 취소를 구할 법률상 이익이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6589,
+      "question": "재개발조합설립인가신청에 대한 행정청의 조합설립인가처분은 단순히 사인들의 조합설립행위에 대한 보충행위로서의 성질을 가지는 것이 아니라 법령상 일정한 요건을 갖추는 경우 행정주체의 지위를 부여하는 일종의 설권적 처분의 성질을 가진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6590,
+      "question": "임용 당시 공무원 임용결격사유가 있었다면 비록 국가의 과실에 의하여 임용결격자임을 밝혀내지 못하였다 하더라도 그 임용행위는 당연무효이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6591,
+      "question": "공무원에게 당연퇴직의 사유가 발생한 경우 법률에 따라 당연히 퇴직하는 것이므로 당연퇴직의 인사발령이 있었다고 하더라도 그 인사발령은 항고소송 대상이 되지 아니한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6592,
+      "question": "교육공무원법령상 승진후보자 명부에 의한 승진심사 방식으로 행해지는 승진임용에서 승진후보자 명부에 포함되어 있던 후보자를 승진임용인사발령에서 제외하는 행위는 항고소송의 대상이 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6593,
+      "question": "공무원에 대한 직위해제처분은 당해 공무원이 장래에 있어서 계속 직무를 담당하게 될 경우 예상되는 업무상의 장애 등을 예방하기 위하여 일시적으로 당해 공무원이 직무에 종사하지 못하도록 하는 잠정적인 조치로서, 징벌적 제재로서의 징계에 해당한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,733 @@
+{
+  "slug": "g9-2025-subj-32bcf8",
+  "name": "국제법개론",
+  "exam_group": "국가직 9급 · 2025년",
+  "subject": "국제법개론",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 60,
+  "questions": [
+    {
+      "id": 4316,
+      "question": "국제연합(UN)은 모든 회원국의 주권평등 원칙에 기초한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4317,
+      "question": "모든 회원국은 UN이 방지조치 또는 강제조치를 취하는 대상국가에 대해 원조를 삼간다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4318,
+      "question": "UN은 본질상 어떤 국가의 국내 관할권 안에 있는 사항에 대하여 어떠한 경우에도 간섭할 권한을 갖지 아니한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4319,
+      "question": "모든 회원국은 자국의 국제 분쟁을 국제 평화와 안보 그리고 정의를 위태롭게 하지 않는 방식으로 평화적 수단에 의하여 해결한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4320,
+      "question": "우리나라는 영해 및 접속수역법 에서 직선기선을 적용하고 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4321,
+      "question": "통상기선은 연안국이 공인한 대축척해도에 표시된 해안의 저조선으로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4322,
+      "question": "국제사법재판소(ICJ)는 Anglo-Norwegian Fisheries 사건에서 노르웨이의 경우에는 직선기선을 채택할 수 없다고 판단하였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4323,
+      "question": "직선기선을 채택하더라도 해안의 일반적 방향으로부터 현저히 벗어나게 설정할 수는 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4324,
+      "question": "신생국에 대한 독립 축하 메시지 전달은 묵시적 승인으로 인정되지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4325,
+      "question": "신생국의 UN가입 신청에 대한 지지는 묵시적 승인으로 인정된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4326,
+      "question": "신생국 국민에 대한 비자 발급은 묵시적 승인으로 인정된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4327,
+      "question": "신생국의 외교사절을 공식적으로 접수하는 것은 묵시적 승인으로 인정되지 않는다. 국제법개론 책형 1쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4328,
+      "question": "국가의 경계선을 확정하는 조약의 경우, 사정의 근본적 변경은 조약의 종료 사유로 원용될 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4329,
+      "question": "일반국제법상 새로운 강행규범이 출현하는 경우, 그 규범과 충돌하는 기존 조약은 무효로 되어 종료한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4330,
+      "question": "조약의 시행에 불가결한 대상의 영구적 소멸이나 파괴로 인하여 조약의 이행이 종국적으로 불가능해진 경우, 당사국은 이를 그 조약의 종료 사유로 원용할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4331,
+      "question": "다른 체약국과 협의한 후 모든 당사국의 동의를 얻으면 언제든지 조약을 종료할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4332,
+      "question": "UN헌장에는 평화유지활동에 대한 명시적 규정이 존재한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4333,
+      "question": "UN 평화유지군은 총회의 결의로만 창설 가능하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4334,
+      "question": "UN 평화유지군은 자위권을 행사하기 위한 경우에도 무력을 사용할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4335,
+      "question": "우리나라는 국제연합 평화유지활동 참여에 관한 법률 에 UN 평화유지활동 참여를 위한 상비부대를 설치ㆍ운영할 수 있다고 규정하고 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4336,
+      "question": "국제적 성격의 일방적 약속은 UN에 등록할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4337,
+      "question": "UN헌장에서는 회원국이 체결하는 모든 조약을 UN사무국에 등록하도록 규정하고 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4338,
+      "question": "미등록 조약의 경우, 조약의 당사국은 당해 조약의 내용을 UN의 모든 기관에 대하여 원용할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4339,
+      "question": "국제연맹규약 에서는 조약의 등록에 관해 규정하고 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4340,
+      "question": "복수국적을 허용하지 않는 국가는 자국민이 외국 국적을 취득하면 본인의 의사와 관계없이 국적을 상실시키기도 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4341,
+      "question": "‘세계인권선언’에서는 국적은 개인의 권리이기 때문에 누구도 자의적으로 개인의 국적을 박탈하지 못한다고 규정하고 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4342,
+      "question": "외국 영주권 취득은 국적 취득과는 무관하므로 대한민국 국적을 유지한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4343,
+      "question": "국적법 상 복수국적자가 국가안보에 반하는 행위를 하는 경우에는 외교부장관은 청문을 거쳐 대한민국 국적의 상실을 결정할 수 있다. 2025년도 국가공무원 9급 공채 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4344,
+      "question": "우리나라는 독점규제 및 공정거래에 관한 법률 에서 효과이론 (effect doctrine)을 도입하고 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4345,
+      "question": "동일 행위에 대해 복수 국가에서 중복하여 처벌하는 것을 일반적으로 금지하는 국제법이 확립되어 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4346,
+      "question": "집행관할권은 그 본질상 자국의 영토에 국한되기 때문에 조약이나 국제관습법에 의해서라도 영토 밖에서는 행사될 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4347,
+      "question": "상설국제사법재판소(PCIJ)는 Lotus호 사건에서 국가는 자국의 영토 밖에서 발생한 사건에 대해서는 어떠한 경우에도 입법관할권을 행사할 수 없다고 판단하였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4348,
+      "question": "내륙국을 포함하여 모든 국가의 선박은 타국의 영해에서 무해 통항권을 갖는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4349,
+      "question": "연안국은 자국이 인지하고 있는 영해 내 통항의 위험요인이 있다면 이를 공표해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4350,
+      "question": "연안국은 외국 군함이 연안국 법령을 준수하지 않으면 즉시 퇴거나 시정을 요청할 수 있고 이에 응하지 않을 때는 나포할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4351,
+      "question": "연안국은 외국선박에 대하여 영해의 통항만을 이유로 외국 선박에 수수료를 부과할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4352,
+      "question": "범죄인의 인도를 의무적인 것으로 규정하는 국제관습법은 존재하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4353,
+      "question": "대법원은 인도국의 사후 동의를 얻어 기소된 범죄를 유죄로 처단하는 것은 위법하다고 판단하였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4354,
+      "question": "범죄인인도의 대상은 인도 청구국과 피청구국 모두에서 범죄로 인정되어야 하는 것이 원칙이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4355,
+      "question": "Söring v. United Kingdom 사건에서 유럽인권재판소는 영국이 ‘고문, 비인도적인 또는 굴욕적인 처우나 처벌’의 위험이 있는 곳으로 범죄인을 인도하기로 한 결정은 유럽인권협약 제3조를 위반하는 것으로 판단하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4356,
+      "question": "LaGrand 사건에서 ICJ는 국제법상 의무를 국내적으로 이행하는 방법은 개별 국가에 맡겨진다고 판단하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4357,
+      "question": "헌법재판소는 조약의 위헌 여부도 심판대상이 된다고 판단하고 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4358,
+      "question": "Barcelona Traction Co. 사건에서 ICJ는 회사에 대한 국내법상의 개념이 국제재판에서 활용될 수 있다고 판단하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4359,
+      "question": "국제법의 시각에서 국내법은 국제관습법이나 법의 일반원칙의 증거 등으로 활용할 수 없으며, 국내법은 기본적으로 규범이 아닌 사실로만 간주한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4360,
+      "question": "분쟁당사국이 ICJ의 관할권이나 재판적격성과 관련된 선결적 항변을 제기하더라도, 사건의 본안절차는 독립적으로 진행된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4361,
+      "question": "ICJ 판결에 불복하는 소송당사국은 ICJ 소재판부에 상소할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4362,
+      "question": "ICJ에 권고적 의견을 요청한 국제기구가 그 권고적 의견에 구속력을 부여하기로 합의하는 경우에도 ICJ 권고적 의견은 구속력을 가지지 못한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4363,
+      "question": "제3국이 쟁송사건의 결정에 의해 영향을 받을 수 있는 경우, 자신의 법적 성격의 이익을 보호하기 위해 스스로 소송 참가를 신청할 수 있으며, 이 경우 소송당사국이 반대하더라도 ICJ는 소송 참가를 허용할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4364,
+      "question": "관세와 무역에 관한 일반협정 (GATT)과는 달리 WTO 분쟁해결은 각 절차마다 결정시한을 부여함으로써 신속성을 확보하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4365,
+      "question": "GATT는 국제기구가 아닌 국제조약으로 출발하였으나, WTO는 처음부터 독립된 법인격을 가진 국제기구로 창설되었다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4366,
+      "question": "GATT는 상품무역만을 규율대상으로 한 반면, WTO는 상품무역에 더하여 서비스 무역과 지식재산권의 교역관련 측면까지도 규율대상으로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4367,
+      "question": "WTO 회원국은 설립협정과 부속서 1, 2, 3을 일괄적으로 수락해야 하지만, 개발도상국에 한하여 개별적인 유보 첨부가 가능하다. 2025년도 국가공무원 9급 공채 필기시험 국제법개론 책형 3쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4368,
+      "question": "조약은 발효 이전에 발생한 행위에 대해서는 원칙적으로 소급하여 적용된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4369,
+      "question": "조약의 발효에 관한 규정 또는 별도의 합의가 없는 경우 조약은 모든 교섭국이 기속적 동의를 표시해야 발효한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4370,
+      "question": "조약에서 달리 규정하지 아니하는 한, 일단 발효된 다자조약이라도 당사국 수가 그 발효에 필요한 수 이하로 감소하면 조약은 효력을 잃는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4371,
+      "question": "조약의 발효 이전에도 교섭국이 합의하는 경우 조약의 전부 또는 일부가 잠정적용될 수 있으며, 90일이 지나면 잠정적용국의 비준과는 관계없이 완전적용된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4372,
+      "question": "난민이 비호받을 국가로 입국할 권리에 대해 보장하고 있지 않다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4373,
+      "question": "모든 난민은 현재 체류 중인 국가의 법령과 공공질서의 유지를 위해 취해진 조치에 따를 의무를 진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4374,
+      "question": "국제적으로 통일된 난민 판정절차를 따르고 있으며, 체약국은 협약에 명시된 난민 지위 결정 절차를 준수해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4375,
+      "question": "협약의 해석 또는 적용에 관한 분쟁에 대해 ICJ에 강제관할권을 부여하고 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "slug": "g9-2025-subj-d99639",
+  "name": "임업경영",
+  "exam_group": "국가직 9급 · 2025년",
+  "subject": "임업경영",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 42,
+  "questions": [
+    {
+      "id": 4803,
+      "question": "임목의 성숙기는 경영주의 경영목적에 따라 다를 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4804,
+      "question": "파종, 식재, 시비 등 인위적 조절 요인이 많아 토지에 대한 요구도가 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4805,
+      "question": "생산기간이 길기 때문에 대부분 부업 또는 겸업적으로 경영된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4806,
+      "question": "농업이나 축산업을 할 수 없는 곳에서 경영할 수 있는 이점이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4807,
+      "question": "벌채작업 면에서 집재, 운재를 고려하면 짧은 회귀년이 유리하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4808,
+      "question": "조림의 기술적인 면에서는 긴 회귀년이 유리하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4809,
+      "question": "산림의 보호적인 면에서는 긴 회귀년이 유리하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4810,
+      "question": "기반시설 면에서 시설의 투자비가 많이 들 때는 긴 회귀년이 유리하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4811,
+      "question": "같은 해의 법정춘계축적은 법정추계축적보다 벌기평균생장량만큼 많다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4812,
+      "question": "전임분의 법정생장량은 벌기임분재적에서 벌기 직전 영계의 임분재적을 제외한 재적이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4813,
+      "question": "법정영급면적을 계산할 때, 갱신기가 필요한 경우에는 윤벌령과 갱신기의 합으로 윤벌기를 구한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4814,
+      "question": "법정임분배치는 지황, 임황 및 반출시설에 상관없이 동일해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4815,
+      "question": "지위는 수종별 지위지수곡선에서 2m 괄약을 적용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4816,
+      "question": "소밀도는 입목재적의 비율에 의하여 구분한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4817,
+      "question": "지리는 임반경계에서 임도 또는 도로까지의 거리를 100m 단위로 구분한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4818,
+      "question": "임상은 주요 수종으로 구분하되, 점유비율이 높은 다섯 수종의 입목본수 100분율로 구분한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4819,
+      "question": "경영계획구의 명칭은 국유림관리소명 다음에 지역명을 붙여 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4820,
+      "question": "임반의 번호는 경영계획구 유역 하류에서 시계방향으로 연속되게 아라비아 숫자로 표기한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4821,
+      "question": "소반의 면적은 10ha 이상으로 구획하되, 부득이한 경우 1ha 단위로 조정할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4822,
+      "question": "지종에 따라 시업상 취급을 달리할 때는 소반을 달리 구획할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4823,
+      "question": "자연보호: 공식적인 지침이 없더라도 모든 산림계획 및 시행 시 고려하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4824,
+      "question": "경관보호: 임연부의 형성 및 유지관리에 대해 특별히 배려하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4825,
+      "question": "기후보호: 특별히 인구밀집지역에 있어서 평가되는 산림기능으로서 온도의 조절 및 대기의 환류를 통해 생활환경을 개선하는 기능을 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4826,
+      "question": "토양보호: 산림 안에 소재하는 토양기념물을 보호하고, 산림의 미적 가치를 증대시켜야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4827,
+      "question": "형수는 원주체적을 수간재적으로 나눈 값이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4828,
+      "question": "입목의 재적은 흉고단면적ㆍ수고ㆍ형수의 곱으로 구한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4829,
+      "question": "절대형수는 비교원주의 직경위치를 최하부에 정한 것이다. ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4830,
+      "question": "정형수는 수고의 이 되는 부위의 직경을 비교원주의 직경으로   사용한다. 2025년도 국가공무원 9급 공채 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4831,
+      "question": "불법정한 현실림은 제1윤벌기 동안에 경제적 손실이 크다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4832,
+      "question": "벌채할 재적은 축적량 및 생장량의 양과 분포에 따라 결정된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4833,
+      "question": "경영하지 않던 산림에 대한 수확수준을 빠르게 추정하고, 그 수준을 유지할 수 있을지 사정할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4834,
+      "question": "가장 중요한 결정인자는 매년 계획되는 벌채량과 관계가 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4835,
+      "question": "경제분석에서 정부보조금은 비용에서 제외한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4836,
+      "question": "경제분석에서 할인율은 자본비용이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4837,
+      "question": "재무분석에서 임금은 시장임금이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4838,
+      "question": "재무분석에서 지불이자는 비용에서 제외한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4841,
+      "question": "탄소흡수원 유지 및 증진을 위한 국제협력 및 해외시장 진출에 관한 사항",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4842,
+      "question": "산림부문 온실가스 정보 및 통계 구축에 관한 사항",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4843,
+      "question": "산림청장: 50만제곱미터 이상의 국유림 및 공유림",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4844,
+      "question": "도지사: 10만제곱미터 이상 50만제곱미터 미만의 국유림, 공유림 및 사유림",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4845,
+      "question": "군수: 3만제곱미터 이상 10만제곱미터 미만의 공유림 및 사유림",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4846,
+      "question": "구청장: 3만제곱미터 미만의 공유림 및 사유림",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

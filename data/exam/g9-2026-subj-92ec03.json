@@ -1,0 +1,691 @@
+{
+  "category": {
+    "slug": "g9-2026-subj-92ec03",
+    "name": "회계학",
+    "exam_group": "국가직 9급 · 2026년",
+    "subject": "회계학",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 3929,
+      "statement": "생산에 사용될 원재료는 재고자산에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 4,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3930,
+      "statement": "재고자산은 취득원가와 순공정가치 중 낮은 금액으로 측정한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 4,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3931,
+      "statement": "위탁약정에 따라 수탁자의 매장에 진열 중인 상품은 위탁자의 재고자산이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 4,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3932,
+      "statement": "판매원가는 재고자산의 취득원가에 포함할 수 없고, 발생기간의 비용으로 인식한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 4,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3933,
+      "statement": "보고기간 종료일을 변경한 경우가 아니라면, 전체 재무제표(비교 정보를 포함)는 적어도 1년마다 작성한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 8,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3934,
+      "statement": "한국채택국제회계기준에서 요구하거나 허용하지 않는 한 자산과 부채 그리고 수익과 비용은 상계하지 아니한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 8,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3935,
+      "statement": "유동/비유동 구분법을 적용할 경우 유동자산과 비유동자산, 유동 부채와 비유동부채로 재무상태표에 구분하여 표시한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 8,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3936,
+      "statement": "성격별 분류법은 비용을 매출원가, 물류원가, 관리활동원가 등과 같이 분류하며, 적어도 매출원가를 다른 비용과 분리하여 공시한다. 회 계 학 책형 2쪽",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 8,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3937,
+      "statement": "매출채권 계정의 마감을 위해 대변에 차기이월 ￦14,000을 기록한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3938,
+      "statement": "매출채권 계정의 마감을 위한 분개가 필요하지 않다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3939,
+      "statement": "소모품비 계정의 마감을 위한 분개가 필요하다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3940,
+      "statement": "소모품비 계정의 마감으로 이익잉여금이 ￦2,000만큼 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 9,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3941,
+      "statement": "측정기준의 변경은 회계정책의 변경에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 12,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3942,
+      "statement": "감가상각자산에 내재된 미래경제적효익의 예상소비 형태의 변경은 회계추정치 변경에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 12,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3943,
+      "statement": "과거에 발생하지 않았던 거래에 대하여 새로운 회계정책을 적용 하는 경우는 회계정책의 변경에 해당하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 12,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3944,
+      "statement": "회계정책의 변경과 회계추정치 변경을 구분하는 것이 어려운 경우에는 이를 회계정책의 변경으로 본다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 12,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3945,
+      "statement": "최초 인식시점에 A사채를 ￦101,000으로 측정한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 16,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3946,
+      "statement": "A사채의 계약 조건에 따라 특정일에 원리금 지급만으로 구성되어 있는 현금흐름이 발생한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 16,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3947,
+      "statement": "만약 (주)한국이 A사채를 상각후원가 측정 금융자산으로 분류 하였다면, 20×1년 당기손익은 달라진다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 16,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3948,
+      "statement": "(주)한국은 계약상 현금흐름의 수취와 금융자산의 매도 둘 다를 통해 목적을 이루는 사업모형 하에서 A사채를 보유한다. 2026년도 국가공무원 9급 공채 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 16,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3949,
+      "statement": "사회기반시설 중 유지보수를 통하여 현상이 유지되는 도로, 도시 철도, 하천부속시설 등은 감가상각 대상에서 제외할 수 있으며, 유지보수에 투입되는 비용과 감가상각을 하지 아니한 이유를 주석으로 공시하되, 사회기반시설에 대한 사용수익권은 해당 자산에서 차감하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3950,
+      "statement": "일반유형자산과 주민편의시설 중 상각대상 자산에 대한 감가상각은 정액법을 원칙으로 하고, 일반유형자산과 주민편의시설에 대한 사용수익권은 해당 자산의 차감항목으로 표시한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3951,
+      "statement": "장기투자증권은 매입가액에 부대비용을 더하고 이에 종목별로 선입선출법을 적용하여 산정한 취득원가로 평가함을 원칙으로 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3952,
+      "statement": "문화재, 예술작품, 역사적 문건 및 자연자원은 자산으로 인식하고 필수보충정보의 관리책임자산으로 보고한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3953,
+      "statement": "정부가 부과하는 방식의 국세는 국가가 고지하는 때에 수익으로 인식",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 18,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3954,
+      "statement": "신고ㆍ납부하는 방식의 국세는 납세의무자가 세액을 자진신고하는 때에 수익으로 인식",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 18,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3955,
+      "statement": "원천징수하는 국세는 원천징수의무자가 원천징수한 금액을 신고 ㆍ납부하는 때에 수익으로 인식",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 18,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3956,
+      "statement": "연부연납 또는 분납이 가능한 국세는 징수할 세금이 확정된 때에 그 납부할 연납액 또는 분납액을 수익으로 인식 회 계 학 책형 4쪽",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 18,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3957,
+      "statement": "제조간접원가 예정배부율은 예상 총제조간접원가를 예상 총배부 기준량으로 나누어 계산한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 19,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3958,
+      "statement": "직접재료원가와 직접노무원가는 실제원가를 사용하고, 제조간접 원가는 예정배부율을 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 19,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3959,
+      "statement": "제조간접원가 실제발생액이 예정배부액보다 큰 경우 과대배부액이 발생하고, 실제발생액이 예정배부액보다 작은 경우 과소배부액이 발생한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 19,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 3960,
+      "statement": "제조간접원가 과소배부액이 발생하여, 매출원가계정에서 전액 조정 한다면 ‘(차) 매출원가 × × × (대) 제조간접원가 × × × ’로 분개가 이루어진다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "회계학_가.pdf",
+      "source": {
+        "qid": 19,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 32,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "slug": "fire-cmdr-2026-subj-cda2fd",
+  "name": "전기공학개론",
+  "exam_group": "소방 간부 · 2026년",
+  "subject": "전기공학개론",
+  "phase": null,
+  "source": "소방 간부",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 5,
+  "questions": [
+    {
+      "id": 20167,
+      "question": " 이 일정하면  은 저항 의 크기에 반비례한다.  ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20168,
+      "question": "의 주파수가 배가 되면, 의 위상이 달라 진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20169,
+      "question": "인덕터 의 값이 배가 되고 커패시터 의 값이 배가 되면, 의 위상은 달라지지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20170,
+      "question": " 이 바뀌어도 의 위상은 달라지지 않는다. ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20171,
+      "question": "주파수가 일정하면 커패시터 의 서셉턴스  와  인덕터 의 서셉턴스  은 같다.  자연계열 22 /",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

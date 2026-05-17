@@ -1,0 +1,205 @@
+{
+  "slug": "g9-2025-subj-a961b4",
+  "name": "알고리즘",
+  "exam_group": "국가직 9급 · 2025년",
+  "subject": "알고리즘",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 16,
+  "questions": [
+    {
+      "id": 4748,
+      "question": "탐색 범위가 절반씩 줄어든다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4749,
+      "question": "탐색할 데이터는 순서 없이 저장되어 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4750,
+      "question": "시간 복잡도는 log이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4751,
+      "question": "1,000개의 데이터가 존재하는 경우, 최대 10회의 탐색으로 완료된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4752,
+      "question": "큰 문제를 작은 문제로 나눌 수 있어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4753,
+      "question": "작은 문제들이 반복해서 사용되며, 이 작은 문제들의 결괏값을 저장해 두고 활용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4754,
+      "question": "상향식(bottom-up) 접근 방식 또는 하향식(top-down) 접근 방식으로 구현할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4755,
+      "question": "메모하기(memoization) 방법을 활용하여 연산과 탐색이 증가하고 실행속도가 저하된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4756,
+      "question": "널리 사용되는 것은 최악 시간 복잡도이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4757,
+      "question": "모든 알고리즘은 최악 시간 복잡도와 평균 시간 복잡도가 다르다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4758,
+      "question": "최악의 경우 실행 시간은 모든 입력에 대한 실행 시간의 하한을 제공한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4759,
+      "question": "최선의 경우 실행 시간은 모든 입력에 대한 실행 시간의 상한을 제공한다. 2025년도 국가공무원 9급 공채 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4762,
+      "question": "스택(stack)을 이용하여 구현할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4763,
+      "question": "재귀적(recursive)으로 구현할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4764,
+      "question": "제약 충족(constraint satisfaction) 문제에 유용하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4765,
+      "question": "균형 탐색 트리(balanced search tree) 구조를 유지한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

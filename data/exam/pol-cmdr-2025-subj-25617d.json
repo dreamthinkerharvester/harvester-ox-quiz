@@ -1,0 +1,187 @@
+{
+  "category": {
+    "slug": "pol-cmdr-2025-subj-25617d",
+    "name": "소프트웨어공학",
+    "exam_group": "경찰 간부 · 2025년",
+    "subject": "소프트웨어공학",
+    "phase": null,
+    "exam_year": 2025,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 16695,
+      "statement": "확인은 사용자 관점에서 설계명세서들을 점검하는 작업이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소프트웨어공학.pdf",
+      "source": {
+        "qid": 34,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16696,
+      "statement": "검증과 확인은 모두 계획단계에서 명세서를 점검하는 작업이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소프트웨어공학.pdf",
+      "source": {
+        "qid": 34,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16697,
+      "statement": "확인은 사용자 관점에서 발주자와 합의한 요구사항들을 점검 하는 작업이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소프트웨어공학.pdf",
+      "source": {
+        "qid": 34,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16698,
+      "statement": "검증은 개발자 관점에서 계획서를 점검하는작업이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소프트웨어공학.pdf",
+      "source": {
+        "qid": 34,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16699,
+      "statement": "MSA(Microservice Architecture)",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소프트웨어공학.pdf",
+      "source": {
+        "qid": 40,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16700,
+      "statement": "ROA(Resource Oriented Architecture)",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소프트웨어공학.pdf",
+      "source": {
+        "qid": 40,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16701,
+      "statement": "MDA(Model Driven Architecture)",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소프트웨어공학.pdf",
+      "source": {
+        "qid": 40,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16702,
+      "statement": "Data-flow architecture 29 -",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소프트웨어공학.pdf",
+      "source": {
+        "qid": 40,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:38+00:00",
+    "total": 8,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

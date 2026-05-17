@@ -1,0 +1,61 @@
+{
+  "slug": "g9-2026-subj-e8cab0",
+  "name": "응용역학개론",
+  "exam_group": "국가직 9급 · 2026년",
+  "subject": "응용역학개론",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 4,
+  "questions": [
+    {
+      "id": 2966,
+      "question": "균질재료는 재료 내 모든 점 및 모든 방향에서 탄성 성질이 같다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2967,
+      "question": "재료의 포아송비는 선형탄성 영역에서만 일정한 값을 유지한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2968,
+      "question": "응력－변형률 곡선에서 응력이 최대치에 도달할 때의 응력을 극한응력이라고 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2969,
+      "question": "재료에 탄성한도 이상으로 하중을 가한 후 하중을 완전히 제거해도 남아 있는 변형을 잔류변형 또는 영구변형이라 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

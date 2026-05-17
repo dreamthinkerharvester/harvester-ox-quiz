@@ -1,0 +1,409 @@
+{
+  "slug": "g9-2025-subj-208c3d",
+  "name": "조경학",
+  "exam_group": "국가직 9급 · 2025년",
+  "subject": "조경학",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 33,
+  "questions": [
+    {
+      "id": 5064,
+      "question": "육성토양층은 식물의 지속적 생장을 좌우하는 가장 중요한 하부 시스템 중의 하나이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5065,
+      "question": "육성토양층은 녹화로 인해 늘어나는 중량의 대부분을 차지하므로 경량토양을 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5066,
+      "question": "방근층은 토양수분이 건물로 전파되는 것을 차단하는 기능을 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5067,
+      "question": "토양여과층은 빗물에 씻겨 내리는 세립토양이 하부시스템으로 유출되지 않도록 하는 기능을 한다. 조 경 학 책형 1쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5068,
+      "question": "단립구조(單粒構造)의 토양은 모래알과 같이 독립적으로 존재하는 구조를 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5069,
+      "question": "판상구조(板狀構造)의 토양은 수직배수가 잘되는 구조이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5070,
+      "question": "주상구조(柱狀構造)의 토양은 찰흙의 함량이 많은 염류토의 심토에서 보기 쉽다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5071,
+      "question": "입단구조(粒團構造)의 토양은 유기물이 많은 토양에서 잘 발견된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5072,
+      "question": "미관상으로 중요한 장소에 식재된 소나무의 경우 고유 수형을 유지하기 위하여 소나무 순지르기(적심) 작업을 하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5073,
+      "question": "약전정은 굵은 가지 솎아내기 및 장애지 베어내기 등으로 수형을 다듬는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5074,
+      "question": "생울타리 전정은 수목의 수형을 자연스럽게 유도하는 것이 아닌 인위적인 모양으로 유도하는 전정이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5075,
+      "question": "약전정 방법은 맹아력이 강한 수목의 수고를 낮추어야 할 때 사용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5076,
+      "question": "소생물권(bio-top)조성을 통해 식생군락이 안정화되어 야생동물의 서식처 및 휴식처가 될 수 있는 공간을 계획한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5077,
+      "question": "조류탐방을 위한 공간은 탐방객을 위한 공간과 조류를 위한 공간을 분리하지 않고 통합적으로 설계한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5078,
+      "question": "자연재료와 인공재료의 비율이 6:4 이상이 되도록 조성한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5079,
+      "question": "귀화 및 외래수종은 특별한 목적으로 식재된 것을 제외하고 모두 제거한다. 2025년도 국가공무원 9급 공채 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5080,
+      "question": "멸종위기 야생생물의 보호를 위하여 필요한 지역",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5081,
+      "question": "현재의 상태를 개선하기 위하여 원래의 생태계를 다른 생태로 대체하는 것",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5082,
+      "question": "구조에 있어서는 간단할 수 있지만 보다 생산적일 수 있음",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5083,
+      "question": "원래보다는 못하지만 원래의 자연 상태와 유사한 것을 목적으로 하는 것",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5084,
+      "question": "초지를 농업적 목초지로 전환하여 높은 생산성을 보유하게 함",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5085,
+      "question": "이식한 나무가 바람에 쓰러지지 않도록 나무를 깊게 심고 밑동에 흙을 높게 덮어 준다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5086,
+      "question": "뿌리분을 포장했던 재료 중 철망, 부직포 등 부식되지 않는 재료는 제거한 뒤 식재한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5087,
+      "question": "식재 후 흙채우기가 끝나면 뿌리분 가장자리보다 더 바깥쪽으로 물매턱을 만들어 충분히 관수한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5088,
+      "question": "식재구덩이의 크기는 뿌리분의 크기보다 넓게 되도록 하여야 한다. 조 경 학 책형 2쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5089,
+      "question": "경관적 가치로서 자연 속에 구현한 경관의 전통적 아름다움이 잘 남아있는 것을 지정할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5090,
+      "question": "역사적 가치로서 자연환경과 사회ㆍ경제ㆍ문화적 요인 간의 조화를 보여주는 상징적 공간 혹은 생활 장소로서의 의미가 있는 것을 지정할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5091,
+      "question": "학술적 가치로서 조경의 구성 원리와 유래, 발달 과정 등에 대하여 학술적으로 기여하는 바가 있는 것을 지정할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5092,
+      "question": "사찰, 서원, 정자 등 종교ㆍ교육ㆍ위락과 관련된 인공경관은 복합경관으로 분류된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5093,
+      "question": "가공된 대형 화강석, 가공된 조경석 등으로 수직적 형태의 한 면을 가질 수 있도록 축조한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5094,
+      "question": "외관상으로는 보기 좋으나 돌의 크기와 형태가 규칙적이므로 견고성이 다소 떨어질 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5095,
+      "question": "부분파손이 전체에 영향을 미치지 않으므로 하천공사의 견치석을 쌓을 때 많이 이용된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5096,
+      "question": "가장 저렴한 돌쌓기로서 견고한 견칫돌을 사용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

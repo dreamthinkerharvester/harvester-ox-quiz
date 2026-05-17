@@ -1,0 +1,433 @@
+{
+  "slug": "fire-cmdr-2026-subj-7337b2",
+  "name": "자연과학개론",
+  "exam_group": "소방 간부 · 2026년",
+  "subject": "자연과학개론",
+  "phase": null,
+  "source": "소방 간부",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 35,
+  "questions": [
+    {
+      "id": 20132,
+      "question": "A는 북태평양 아열대 순환의 서안 경계류이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20133,
+      "question": "B의 형성에는 무역풍보다 편서풍의 영향이 더 크다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20134,
+      "question": "평균 유속은 A가 C보다 빠르다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20135,
+      "question": "표층에서의 용존 산소량은 A가 C보다 낮다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20136,
+      "question": "해류에 작용하는 수압 경도력의 방향은 A와 C가 같다. 자연계열 14 /",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20137,
+      "question": "젊은 별의 비율은 Sa형 은하가 Sc형 은하보다 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20138,
+      "question": "붉은 별의 비율은 타원 은하가 불규칙 은하보다 높다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20139,
+      "question": "우리은하의 형태는 타원 은하보다 막대 나선 은하에 가깝다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20140,
+      "question": "타원 은하에서의 별 생성은 현재보다 은하 형성 초기에 활발했다. 성간물질의 질량",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20141,
+      "question": "은 불규칙 은하가 타원 은하보다 은하의 질량 크다. 자연계열 15 /",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20142,
+      "question": "(가)는 뮐러 의태이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20143,
+      "question": "(나)는 특정 지역에서 둘 이상의 종이 수렴진화 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20144,
+      "question": "(다)는 기계적 방어이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20145,
+      "question": "‘여치가 썩어 가는 낙엽과 유사한 몸의 형태와 색을 가진다.’는 (a)에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20146,
+      "question": "‘폭탄먼지벌레는 위험 인지 시 복부 끝에서 ℃ 내외의 유독한 물질을 뿜어낸다.’는 (b)에 해당한다. 자연계열 17 /",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20147,
+      "question": "의 ABO식 혈액형의 유전자형은 동형 접합이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20148,
+      "question": "의 적혈구를 의 혈장과 섞으면 응집 반응이 일어난다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20149,
+      "question": "는 적록 색맹 유전자를 가지고 있지 않다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20150,
+      "question": "가 태어날 때 의 감수 분열에서 성염색체 비분리가 일어났다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20151,
+      "question": "의 동생이 태어날 때, B형의 적록 색맹인 남자  아이가 태어날 확률은 이다.   자연계열 18 /",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20152,
+      "question": "Si와 Si는 같은 전자수를 가진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20153,
+      "question": "Si와 Si는 다른 질량수를 가진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20154,
+      "question": "Si와 Si는 다른 중성자 수를 가진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20155,
+      "question": "Si와 Si는 다른 양성자 수를 가진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20156,
+      "question": "Si와 Si는 같은 원자 번호를 가진다. 자연계열 19 /",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20157,
+      "question": "양이온의 크기는 Na가 K보다 크다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20158,
+      "question": "음이온의 크기는 F가 Cl보다 크다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20159,
+      "question": "원자 반지름은 Al이 Si보다 작다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20160,
+      "question": "전자 친화도는 S가 Cl보다 큰 음의 값을 가진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20161,
+      "question": "삼차 이온화 에너지는 B가 C보다 작다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20162,
+      "question": "활성화 에너지는 온도와 반응 경로 변화에 따라 바뀐다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20163,
+      "question": "반응 속도 상수는 반응 경로와 상관없이 일정하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20164,
+      "question": "일정한 온도에서 촉매화 반응은 반응 평형에 더 빠르게 도달한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20165,
+      "question": "일정한 온도에서 반응 엔탈피는 촉매의 종류에 따라 달라진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20166,
+      "question": "일정한 온도에서 촉매화 반응 속도는 더 빨라지지만 그 반응 속도 상수는 일정하다. 열-필수 / 21",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

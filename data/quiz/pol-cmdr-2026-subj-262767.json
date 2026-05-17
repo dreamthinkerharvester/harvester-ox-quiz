@@ -1,0 +1,1225 @@
+{
+  "slug": "pol-cmdr-2026-subj-262767",
+  "name": "통신이론",
+  "exam_group": "경찰 간부 · 2026년",
+  "subject": "통신이론",
+  "phase": null,
+  "source": "경찰 간부",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 101,
+  "questions": [
+    {
+      "id": 15377,
+      "question": "수신 여부를 확인하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15378,
+      "question": "전송된 데이터의 오류 검증이 불가능하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15379,
+      "question": "통신 시작 전에 3-Way Handshaking 과정을 수행하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15380,
+      "question": "멀티캐스팅과 브로드캐스팅을 위한 전송 프로토콜로 적절하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15381,
+      "question": "부반송파 대역은 서로 중첩되지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15382,
+      "question": "직교하는 수많은 협대역 부반송파에 디지털 정보를 나누어 싣는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15383,
+      "question": "보호 구간(guard interval)의 사용으로 심벌 간 간섭(ISI)을 효과적으로 줄일 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15384,
+      "question": "협대역 간섭이 일부 부반송파에만 영향을 주므로, 다중 경로에 의한 주파수 선택적 페이딩에 강하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15385,
+      "question": "AMI(Alternate Mark Inversion) 부호는 데이터가 ‘0’이면 양 (+)과 음(-)의 펄스를 교대로 대응하고, 데이터가 ‘1’이면 0 전압을 전송한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15386,
+      "question": "맨체스터(Manchester) 부호는 디지털 비트 구간의 1/2 지점 에서 신호 레벨 전이가 발생한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15387,
+      "question": "CMI(Coded Mark Inversion) 부호는 데이터가 ‘0’이면 비트 구간의 1/2 지점에서 신호 레벨 전이가 발생하고, 데이터가 ‘1’이면 양(+)과 음(-)의 펄스를 교대로 대응한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15388,
+      "question": "NRZ-L(Non-Return to Zero-Level) 부호는 데이터가 ‘0’이면 양(+)의 펄스에 대응하고, 데이터가 ‘1’이면 음(-)의 펄스에 대응한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15389,
+      "question": "도플러 확산은 주파수 영역의 확산이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15390,
+      "question": "도플러 확산은 수신기에 전달되는 전파에 간섭과 페이딩을 일으키는 주요 요인이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15391,
+      "question": "도플러 천이는 이동체의 속도, 수신전파 주파수, 전파도래각 도에 영향을 받는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15392,
+      "question": "도플러 확산이 커지면 코히런스 시간(coherence time)이 증가 하고, 도플러 확산이 작아지면 코히런스 시간이 감소한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15393,
+      "question": "데이터 압축에 사용하는 가변 길이 부호화 방식이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15394,
+      "question": "발생 확률이 낮은 심벌에는 짧은 길이의 코드(code)를 할당 하고 발생 확률이 높은 심벌에는 긴 길이의 코드를 할당한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15395,
+      "question": "균일한 길이의 코드를 할당한 방식보다 압축 효과가 크다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15396,
+      "question": "전송되는 데이터의 평균 코드 길이를 줄일 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15397,
+      "question": "ADPCM은 적응 양자화기(adaptive quantizer)와 적응 예측기 (adaptive predictor)를 적용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15398,
+      "question": "DM은 보통 4∼5비트 양자화를 수행한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15399,
+      "question": "DPCM은 양자화기에 입력되는 순시 진폭값과 예측값과의 차 이만을 양자화한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15400,
+      "question": "ADM은 양자화기의 스텝 크기를 입력 신호의 특성에 맞추어 적응적으로 변화시킨다. 20 -",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15401,
+      "question": "같은 기지국 내에서 다른 섹터 간의 단말기 이동에 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15402,
+      "question": "현재 기지국에서 사용 중인 채널을 끊고, 즉시 다른 기지국의 채널로 연결한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15403,
+      "question": "인접 기지국 2개의 채널을 동시에 운영하며, 종국에는 1개의 채널을 서서히 끊는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15404,
+      "question": "이종 시스템 간의 핸드오버이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15405,
+      "question": "주파수 재사용 계수가 1이면 모든 셀에서 동일 주파수를 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15406,
+      "question": "지연 확산(delay spread)은 주파수 선택적 페이딩을 발생 시킨다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15407,
+      "question": "원근단 간섭을 해결하기 위해서는 기지국의 송신출력을 증 가시키는 순방향 전력제어를 수행해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15408,
+      "question": "직접파와 반사파가 동시에 존재하는 경우의 채널 전파 특성 은 라이시안 분포(rician distribution)를 따른다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15409,
+      "question": "각 라우터가 패킷을 포워딩할 때마다 송수신 MAC 주소가 변경된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15410,
+      "question": "IP 주소는 목적지까지 전달되는 동안 변경되지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15411,
+      "question": "MAC 주소에 48비트, IP 주소는 IPv4에 32비트, 포트 번호에 16비트를 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15412,
+      "question": "포트 번호는 네트워크 접속 계층에서, IP 주소는 전송 계층 에서, MAC 주소는 인터넷 계층에서 사용하는 주소 체계이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15413,
+      "question": "CRC 계산에 비트 단위 XOR 연산이 사용된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15414,
+      "question": "데이터에 추가적인 비트를 덧붙이므로 전송 데이터의 크기가 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15415,
+      "question": "수신 측에서 연산 결과로 얻은 나머지가 0이 아니면 전송오 류가 없다고 판단하고, 0이면 오류가 발생했다고 판단한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15416,
+      "question": "에러 검출 능력은 생성 다항식의 차수에 의하여 결정된다. - 21",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15417,
+      "question": "국제 표준화 기구인 ISO가 확립한 OSI 7계층 모델은 개방화 된 데이터 통신 환경에 적합한 계층적 구현 모델의 표준이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15418,
+      "question": "전송 데이터는 송신 호스트의 응용 계층에서 시작해 하위 계 층으로 순차적으로 전달되어, 최종적으로 물리 계층에서 수 신 호스트에 전달된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15419,
+      "question": "데이터가 하위 계층으로 내려갈 때는 각 계층의 프로토콜에 서 정의한 헤더 정보가 제거된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15420,
+      "question": "송신 호스트와 수신 호스트 사이에는 다수의 라우터 등이 존 재하여 중개 기능을 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15421,
+      "question": "서로 다른 네트워크 간에 통신하는 데 사용하는 장치이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15422,
+      "question": "효율적인 경로를 선택하는 라우팅 기능을 수행한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15423,
+      "question": "라우팅은 라우터에 있는 라우팅 테이블이 결정한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15424,
+      "question": "오류 패킷의 폐기 기능과 혼잡을 제어하는 기능이 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15425,
+      "question": "허브와 달리 데이터 충돌이 발생하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15426,
+      "question": "회선 하나를 송신과 수신이 번갈아 가면서 사용하는 반이중 통신 방식이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15427,
+      "question": "스위치는 데이터 링크 계층에서 동작하고, 스위칭 허브라고도 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15428,
+      "question": "스위치는 허브에 비해 충돌 도메인의 범위가 좁다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15429,
+      "question": "  ↔    ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15431,
+      "question": " ↔   ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15432,
+      "question": " ↔      - 22",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15433,
+      "question": "링형에서 각 장치는 바로 이웃하는 장치에만 연결되어 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15434,
+      "question": "성형은 한 링크의 장애가 전체 네트워크를 사용할 수 없게 하는 형태이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15435,
+      "question": "그물형은 네트워크상의 모든 장치가 다른 장치에 대해 점대 점 링크를 갖는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15436,
+      "question": "버스형은 하나의 긴 케이블이 네트워크상의 모든 장치를 연 결하는 백본 네트워크 역할을 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15441,
+      "question": "Carson의 법칙으로 구한 대역폭은 60[kHz]이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 26,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15443,
+      "question": "메시지신호 주파수는 10[kHz]이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 26,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15444,
+      "question": "방송채널의 주파수는 50[MHz]이다. 22 -",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 26,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15445,
+      "question": "송수신 안테나의 길이가 축소된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15446,
+      "question": "원거리 통신이 가능해진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15447,
+      "question": "잡음과 간섭이 영향의 증대된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15448,
+      "question": "사용자별 신호를 서로 다른 주파수대로 천이시켜서, 다른 사 용자 신호의 간섭없이 원하는 신호를 복구할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15450,
+      "question": "최소해밍거리는 4이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 28,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15451,
+      "question": "오류정정능력은 1이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 28,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15452,
+      "question": "오류검출능력은 2이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 28,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15453,
+      "question": "라디오파(radio frequency wave), 지상 마이크로파(terrestrial microwave), 위성 마이크로파(satellite microwave) 등이 있 다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15454,
+      "question": "비유도매체(unguided media)라고도 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15455,
+      "question": "지상마이크로파는 장거리 전송에 적합하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15456,
+      "question": "무선 라디오파는 방향 지향적인 마이크로파와 같이 특정 방 향으로 전송된다. - 23",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15457,
+      "question": "동기식과 비동기식 다중화 방식이 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 32,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15458,
+      "question": "다중화하고자 하는 각 채널의 신호는 각기 다른 반송주파수 로 변조된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 32,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15459,
+      "question": "부채널 간의 상호 간섭을 방지하기 위해서 가드밴드(guard band)를 두어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 32,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15460,
+      "question": "넓은 대역폭을 몇 개의 좁은 대역폭으로 나누어 사용하는 것 이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 32,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15461,
+      "question": "Go-Back-N은 오류 발생 이후의 모든 프레임을 재전송한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 33,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15462,
+      "question": "Selective Repeat ARQ에서 수신 측은 순서에 상관없이 프레 임들을 받아들인다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 33,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15463,
+      "question": "Go-Back-N에서 프레임의 수신은 순차적이어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 33,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15464,
+      "question": "Selective Repeat ARQ는 여러 개의 프레임에 대한 수신확인 을 하나로 수행할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 33,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15465,
+      "question": "초기 설정 과정이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15466,
+      "question": "속도변환과 코드변환이 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15467,
+      "question": "대화식 사용이 가능할 정도로 빠르다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15468,
+      "question": "전송을 위해서 전송로나 경로가 설정된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15469,
+      "question": "지연시간을 예측할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15470,
+      "question": "통신량이 적을 때 채널 이용률이 높다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15471,
+      "question": "일정길이 이하의 데이터를 전송할 때는 충돌을 검출할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15472,
+      "question": "하나의 스테이션이 고장이 나도 다른 스테이션들은 정상적으 로 통신할 수 있다. 23 -",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15474,
+      "question": "요청: Unicast 응답: Broadcast",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 36,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15475,
+      "question": "요청: Broadcast 응답: Unicast",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 36,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15476,
+      "question": "요청: Broadcast 응답: Broadcast",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 36,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15481,
+      "question": "             ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15482,
+      "question": "             ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15483,
+      "question": "               ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15484,
+      "question": "           ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15485,
+      "question": "서버: well-known port 클라이언트: well-known port",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 39,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15486,
+      "question": "서버: well-known port 클라이언트: dynamic port",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 39,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15487,
+      "question": "서버: dynamic port 클라이언트: well-known port",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 39,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15488,
+      "question": "서버: dynamic port 클라이언트: dynamic port - 24",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 39,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 15491,
+      "question": "DASH(Dynamic Adaptive Streaming over HTTP) 24 -",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

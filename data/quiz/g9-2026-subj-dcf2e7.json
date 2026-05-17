@@ -1,0 +1,37 @@
+{
+  "slug": "g9-2026-subj-dcf2e7",
+  "name": "공업화학",
+  "exam_group": "국가직 9급 · 2026년",
+  "subject": "공업화학",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 2,
+  "questions": [
+    {
+      "id": 2233,
+      "question": "1,2－다이브로모에테인(CH BrCH Br) 2 2",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 2237,
+      "question": "LTC(리튬염화싸이오닐) 배터리 공업화학 책형 2쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

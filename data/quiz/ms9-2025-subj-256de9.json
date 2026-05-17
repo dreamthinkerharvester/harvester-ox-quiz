@@ -1,0 +1,361 @@
+{
+  "slug": "ms9-2025-subj-256de9",
+  "name": "냉동공학",
+  "exam_group": "군무원 9급 · 2025년",
+  "subject": "냉동공학",
+  "phase": null,
+  "source": "군무원 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 29,
+  "questions": [
+    {
+      "id": 11998,
+      "question": "암모니아 냉동장치에는 토출가스 온도가 높기 때문에 윤활유의 변질이 일어나기 쉽다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11999,
+      "question": "프레온 냉동장치에서 사이트글라스는 응축기 이전에 설치한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12000,
+      "question": "액순환식 냉동장치에서 액펌프는 저압 수액기 액면보다 높게 설치해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12001,
+      "question": "액관 중에 플래시가스가 발생하면 냉매의 증발온도가 낮아지고 압축기 흡입증기 과열도는 작아진다. 냉동공학(9급 학 (9 급 ) 드 : 027) 성명 : 측 4. 다단압축 냉동사이클에 대한 설명으로 가장 적절하지 히 않은 것은? ① 압축기를 2단 이상으로 나누어 압축 손실을 줄이기 위한 방식이다. ② 중간냉각기를 사용하면 저단측과 고단측의 냉매 온도를 조절하여 전체 냉동 효율을 높일 수 있다. ③ 다단압축은 저온에서 고온으로 압축하는 데 필요한 압력을 한 번에 처리함으로써 냉동 효율을 극대화한다. ④ 초저온(-40°C 이하) 조건이 필요한 산업용 한 냉동 시스템에 많이 쓰이는 압축 방식이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12002,
+      "question": "USRT는 1일 동안 2000lb(약 907kg)의 물을 0℃에서 얼음으로 만드는 데 필요한 냉동 능력을 기준으로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12003,
+      "question": "1USRT는 약 3.517kW에 해당하는 냉동능력 이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12004,
+      "question": "1USRT는 시간당 약 12,000BTU의 열 제거 능력을 나타낸다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12005,
+      "question": "USRT는 냉매의 종류와 무관하게 냉매가 액체 상태에서 증기로 바뀔 때의 부피 기 증가량을 기준으로 정해진 단위이다. 기 의 6. 냉동장치에서 압축기의 역할로 가장 적절한 것은? 는 ① 냉매의 압력을 낮춘다. ② 냉매를 압축하여 고온 고압 상태로 만든다. ③ 냉매를 기화시킨다. ④ 냉매를 액체 상태로 응축시킨다. (9급) 4 - 1",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12006,
+      "question": "지열 히트펌프는 지중 온도가 계절 변화에 덜 민감하기 때문에 연중 안정적인 성능을 낸다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12007,
+      "question": "수열 히트펌프는 일정한 수온을 유지하는 냉각탑이나 하천, 지하수 등을 열원으로 사용 1 할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12008,
+      "question": "공기열 히트펌프는 초기 설치비가 낮지만, 외기 온도가 낮을수록 효율이 떨어지는 단점이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12009,
+      "question": "수열 히트펌프는 공기열 히트펌프보다 설치비가 낮고 유지관리가 간편하다는 장점이 있다. 냉동공학(9급 지 10. 냉동장치에서 액분리기(Accumulator)의 역할로 가장 적절한 것은? 정 ① 압축기로 액체 냉매가 유입되는 것을 방지하기 위해 설치하는 장치이다. 에 ② 냉매를 고온에서 응축시키는 장치이다. ③ 냉매의 압력을 높이기 위해 설치하는 장치이다. 가 ④ 외부 공기와 열을 교환하여 실내 온도를 조절하는 장치이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12011,
+      "question": "소요동력 감소 에 을 는 용 13. 압축기 입구의 냉매 엔탈피가 250kcal/kg이고, 압축기 출구의 엔탈피가 290kcal/kg이다. 응축기 , 에서 냉매가 100kcal/kg의 열을 방출했다면, 이 이 냉동기의 냉동효과는 몇 kcal/kg인가? ① 40 ② 60 가 ③ 100 ④ 120 (9급) 4 - 2",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12012,
+      "question": "비열이 큰 물질일수록 천천히 뜨거워지거나 천천히 식는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12013,
+      "question": "SI 단위계에서 비열이란 어떤 물질 1g을 1℃ 높이는 데 필요한 열량이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12014,
+      "question": "비열의 단위는 kJ/kg·K이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12015,
+      "question": "비열비는 로 표시된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12017,
+      "question": "COP는 냉매의 분자량에 비례한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12018,
+      "question": "COP는 열원 온도에 따라 변하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12019,
+      "question": "COP는 흡수된 열량을 소비된 일량으로 나눈 값이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12020,
+      "question": "COP가 클수록 냉동기의 성능이 낮다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12021,
+      "question": "비교적 대용량에 적합하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12022,
+      "question": "물-LiBr식에서는 물이 흡수제가 된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12023,
+      "question": "운전 시 소음과 진동이 심하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12024,
+      "question": "연료비용이 크기 때문에 운전비가 상대적으로 많이 든다. (9급) 4 - 3",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12026,
+      "question": "프레온 냉동장치에서 오일포밍(oil foaming)을 방지하기 위해서",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12028,
+      "question": "펌프 기동 시 해머링(hammering) 방지를 위해서",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12031,
+      "question": "냉각탑 흡입구 측에 습구온도가 상승하지 않는 곳",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12033,
+      "question": "냉각탑 공기흡입에 영향을 주지 않는 곳 (9급) 4 - 4",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "slug": "na9-2025-subj-593800",
+  "name": "취재보도론",
+  "exam_group": "국회직 9급 · 2025년",
+  "subject": "취재보도론",
+  "phase": null,
+  "source": "국회직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 41,
+  "questions": [
+    {
+      "id": 13300,
+      "question": "뉴스의 보도 여부는 사건의 중요성에 따라 결정된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13301,
+      "question": "사건 발생 시점과 보도 시점의 간격이 짧을수록 뉴스 가치는 높 아진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13302,
+      "question": "보도 내용이 공공의 이익에 부합해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13303,
+      "question": "사건의 장소가 독자와 가까울수록 보도 가치가 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13304,
+      "question": "뉴스가 독자의 흥미를 유발해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13305,
+      "question": "방송 기사는 눈으로 읽지 않고 귀로 듣기 때문에 신문 기사보다 더 짧고 쉽게 써야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13306,
+      "question": "방송은 다양한 이해관계를 가진 집단이 시청하는 영향력이 큰 공 적 매체이므로, 주관적 의견을 배제하고 객관적 사실을 보도해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13307,
+      "question": "앵커 멘트는 기사의 핵심 내용을 요약하거나 시청자의 호기심을 유발하되, 본문과의 중복을 가급적 피해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13308,
+      "question": "문어체가 아닌 구어체를 사용하므로 유행하는 신조어와 비속어 를 자유롭게 활용할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13309,
+      "question": "자막, 영상, 음악, CG 등의 효과를 적절히 살려 기사의 전달력을 높일 수 있다. - 19 - 취재보도론",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13310,
+      "question": "A씨의 여론조작 의혹을 수사하는 특별검사팀이 최모씨를 최근 비공개 소환 조사한 것으로 전해졌다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13311,
+      "question": "군 관계자에따르면 “이제 논의 시작단계로 아직 어떻게하겠다고 결정된 것은 없다”고 말했다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13312,
+      "question": "최근 20대를 상대로 한 설문조사 결과는 응답자의 60%가 “굳이 결혼하지 않겠다”고 답했다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13313,
+      "question": "미국의 이란 핵시설 공습 여파로 23일 코스피 지수가 장중 3000선 아래로 떨어졌다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13314,
+      "question": "조사단 발표에 따르면 이번 폭발로 850가구가 파괴됐다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13315,
+      "question": "팩트 체크는 보도 전 사전 검증을 포함하며, 뉴스 생산 전반에서 이루어지는 일련의 절차이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13316,
+      "question": "가짜 뉴스는 명확한 정의라기보다는 정치적 의도가 개입된 용어 로 남용되며, 종종 언론의 정당한 보도까지도 부정하는 수단으로 쓰이기도 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13317,
+      "question": "팩트 체크 기관은 객관성과 중립성을 유지하기 위해 정당, 기업, 정부 등으로부터 독립된 편집 구조를 갖추어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13318,
+      "question": "팩트 체크는 단순한 사실 확인을 넘어 사실 왜곡이 초래한 사회 적 영향까지 분석하는 확장된 저널리즘 행위로 본다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13319,
+      "question": "가짜 뉴스는 일반적으로 의도적 허위 정보와 사실 기반의 풍자를 모두 포함하는 포괄적 개념으로 정의된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13320,
+      "question": "게이트키핑 이론(Gatekeeping Theory)은 뉴스 소비자의 선택과 취향이 뉴스 유통의 결정 요인이 된다는 점을 강조한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13321,
+      "question": "프레이밍 이론(Framing Theory)은 기자가 가치 판단을 배제하고 중립적인 틀에서 뉴스를 구성한다는 점에 주목한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13322,
+      "question": "침묵의 나선 이론(Spiral of Silence Theory)은 사회적 합의 형성 이 개인의 의견 표현을 더 촉진시킨다고 본다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13323,
+      "question": "확증편향(Confirmation Bias)은 개인이 다양한 관점을 고려하고 인지 균형을 이루려는 성향을 의미한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13324,
+      "question": "의제설정 이론(Agenda-Setting Theory)은 언론이 특정 사안을 반복적으로 강조할수록 수용자들이 그 사안을 중요하게 인식하 게 된다고 본다. - 20 - 취재보도론",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13325,
+      "question": "19세기 초 미국에서 도시 노동자 계급을 타깃으로 등장한 저렴한 가격의 대중신문을 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13326,
+      "question": "노동자 계급의 이해관계를 대변하는 정치적 주장을 펼치는 진보 성향의 신문이었다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13327,
+      "question": "범죄와 성적 추문 등 선정적인 사건을 중점적으로 기사화하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13328,
+      "question": "독자의 주목을 끌기 위해 큰 활자의 헤드라인이나 삽화 등 시각 적 요소를 적극적으로 활용하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13329,
+      "question": "재원 확보의 수단으로 광고를 게재한 상업 신문이었다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13330,
+      "question": "BBC: 영국의 공영 방송이자 세계 최초의 공영방송사로, 수신료 를 재원 삼아 운영된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13331,
+      "question": "CNN: 미국의 24시간 보도 전문 케이블 채널로, 미디어 재벌 루 퍼트 머독이 창립자이다. 걸프 전쟁 당시 바그다드 실시간 생중 계를 계기로 급성장했다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13332,
+      "question": "뉴욕타임스: 미국의 일간신문으로, 1970년대 워터게이트 특종 보 도로 유명하다. 2013년 아마존 CEO 제프 베이조스에 의해 인수 되었다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13333,
+      "question": "르몽드: 프랑스의 일간신문으로, 국제 뉴스에 강하며 중도 우파/ 보수 성향으로 유명하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13334,
+      "question": "알자지라: 사우디아라비아에 본사를 둔 위성 방송사로, 비서구적 시각의 국제 뉴스로 유명하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13335,
+      "question": "공적 인물이라 하더라도 사생활 영역에서의 촬영은 초상권 침해 가 성립할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13336,
+      "question": "공익을 위한 보도라 하더라도 얼굴이 명확히 식별 가능한 피해자 사진은 원칙적으로 사용을 피해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13337,
+      "question": "집회 현장에서의 군중 촬영은 원칙적으로 동의를 받지 않아도 된 다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13338,
+      "question": "초상권 침해는 명예훼손과 달리 허위 사실 여부와 무관하게 성립 여부가 판단된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13339,
+      "question": "초등학생들의 행사 장면은 학교장의 동의만 있으면 촬영하거나 보도할 수 있다. - 2025년도 국회사무처 시행 9급 공개경쟁채용시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13340,
+      "question": "“제 노래 어떻게 변했는지 한꺼번에 들려 드릴께요”",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

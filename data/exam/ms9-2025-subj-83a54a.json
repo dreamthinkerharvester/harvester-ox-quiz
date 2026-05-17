@@ -1,0 +1,187 @@
+{
+  "category": {
+    "slug": "ms9-2025-subj-83a54a",
+    "name": "전기공학",
+    "exam_group": "군무원 9급 · 2025년",
+    "subject": "전기공학",
+    "phase": null,
+    "exam_year": 2025,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 12105,
+      "statement": "주보호는 고장 발생 시 인근 지역 전체를 신속히 차단하여 계통 안전을 확보하는 방식이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "전기공학_9급(최종).pdf",
+      "source": {
+        "qid": 14,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12106,
+      "statement": "후비보호는 주보호에 적용된 릴레이와 차단기를 다시 이용하여 이중 안전을 확보하는 방식이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "전기공학_9급(최종).pdf",
+      "source": {
+        "qid": 14,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12107,
+      "statement": "후비보호는 주보호가 작동하지 않을 경우를 대비하여 일정 시간 지연 후 동작하도록 하 설계된다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "전기공학_9급(최종).pdf",
+      "source": {
+        "qid": 14,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12108,
+      "statement": "주보호는 전체계통을 포괄적으로 보호하는 기능을 가지며 고장점 식별 기능은 없다. (9급) 4 - 2",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "전기공학_9급(최종).pdf",
+      "source": {
+        "qid": 14,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12109,
+      "statement": "자속의 단위는 []로 자계강도를 나타 낸다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "전기공학_9급(최종).pdf",
+      "source": {
+        "qid": 22,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12110,
+      "statement": "자계에 저장된 에너지는 자속과 무관하게 항상 일정하다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "전기공학_9급(최종).pdf",
+      "source": {
+        "qid": 22,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12111,
+      "statement": "자속은 자기장의 세기와 무관하며 단지 면적에 의해 결정된다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "전기공학_9급(최종).pdf",
+      "source": {
+        "qid": 22,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 12112,
+      "statement": "자계에 저장되는 에너지는 자계강도의 제곱에 비례한다. ∞",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "전기공학_9급(최종).pdf",
+      "source": {
+        "qid": 22,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:38+00:00",
+    "total": 8,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

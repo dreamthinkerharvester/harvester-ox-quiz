@@ -1,0 +1,61 @@
+{
+  "category": {
+    "slug": "g9-2026-subj-dcf2e7",
+    "name": "공업화학",
+    "exam_group": "국가직 9급 · 2026년",
+    "subject": "공업화학",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 2233,
+      "statement": "1,2－다이브로모에테인(CH BrCH Br) 2 2",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "공업화학_가.pdf",
+      "source": {
+        "qid": 5,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 2237,
+      "statement": "LTC(리튬염화싸이오닐) 배터리 공업화학 책형 2쪽",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "공업화학_가.pdf",
+      "source": {
+        "qid": 17,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 2,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

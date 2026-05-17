@@ -1,0 +1,253 @@
+{
+  "slug": "g9-2025-subj-dd04fc",
+  "name": "환경공학개론",
+  "exam_group": "국가직 9급 · 2025년",
+  "subject": "환경공학개론",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 20,
+  "questions": [
+    {
+      "id": 5845,
+      "question": "기체의 용해도는 수온이 낮을수록 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5846,
+      "question": "염분의 농도는 전기전도도로 측정할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5847,
+      "question": "해수의 음파 전달 속도는 수온에 영향을 받는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5848,
+      "question": "염분(salinity)이란 해수 100mL에 녹아 있는 염류(고형물질)의 총량을 의미한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5849,
+      "question": "기존 질산화－탈질화 공정보다 산소소모량이 많다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5850,
+      "question": "최적 운전조건은 고온(50～55°C)조건이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5851,
+      "question": "안정적인 운전을 위해 메탄올을 외부탄소원으로 주입해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5852,
+      "question": "Anammox균은 암모늄이온(NH +)을 전자공여체로, 아질산이온 4 (NO -)을 전자수용체로 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5853,
+      "question": "아질산염의 방해가 우려되면 황산은을 첨가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5854,
+      "question": "염소이온의 방해가 우려되면 설파민산을 첨가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5855,
+      "question": "반응시료(100mL)의 염소이온 농도가 2,000mg/L 이상인 경우에 적용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5856,
+      "question": "정밀도는 측정값의 상대표준편차로 산출하며 측정한 결과 25% 이내이어야 한다. [NH +]",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5857,
+      "question": "양이온 교환반응은 비가역적이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5858,
+      "question": "pH가 감소하면 토양의 양이온 교환용량도 감소한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5859,
+      "question": "토양 1kg이 보유하는 교환성 양이온의 총량은 cmol(centimole)로 표시한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5860,
+      "question": "콜로이드 표면에 대한 흡착력이 큰 양이온을 순서대로 나열하면 Al3+, Mg2+, NH +, Na+이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5861,
+      "question": "주파수가 높은 파동일수록 진동레벨의 거리감쇠가 작다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5862,
+      "question": "지반을 통해 전파되는 진동파의 종류에는 종파, 횡파, 표면파가 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5863,
+      "question": "지반 내에서 파동이 전파될 때, 진동원에서 멀어지면 파동의 진폭이 작아진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5864,
+      "question": "철도 궤도에 자갈을 두는 것은 진동 제어를 위해 유효한 방법이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

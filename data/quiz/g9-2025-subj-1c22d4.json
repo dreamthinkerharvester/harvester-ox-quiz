@@ -1,0 +1,349 @@
+{
+  "slug": "g9-2025-subj-1c22d4",
+  "name": "무선공학개론",
+  "exam_group": "국가직 9급 · 2025년",
+  "subject": "무선공학개론",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 28,
+  "questions": [
+    {
+      "id": 4557,
+      "question": "파장은 A가 B의 10배이고, 전파속도는 A와 B가 같다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4558,
+      "question": "파장은 B가 A의 10배이고, 전파속도는 A와 B가 같다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4559,
+      "question": "파장은 A가 B의 10배이고, 전파속도는 B가 A의 10배이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4560,
+      "question": "파장은 B가 A의 10배이고, 전파속도는 A가 B의 10배이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4561,
+      "question": "ASK는 반송파의 진폭을 변화시킨다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4562,
+      "question": "FSK는 반송파의 주파수를 변화시킨다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4563,
+      "question": "QAM은 반송파의 진폭과 주파수를 동시에 변화시킨다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4564,
+      "question": "DPSK는 이전 신호와 현재 신호의 반송파 간의 위상차를 알면 복조가 가능하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4565,
+      "question": "등방성 안테나의 지향성은 1보다 크다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4566,
+      "question": "다이폴(dipole) 안테나는 일반적으로 전방향성 빔 패턴을 갖는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4567,
+      "question": "기하학적 모양에 따라 도선 안테나, 개구면 안테나, 평면형 안테나 등으로 분류된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4568,
+      "question": "등방성 안테나로부터 수신되는 신호의 전력밀도는 이론적으로 안테나로부터 거리의 제곱에 반비례한다. 무선공학개론 책형 2쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4569,
+      "question": "단일 반송파 전송 방식보다 등화기 구조가 간단하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4570,
+      "question": "CP(cyclic prefix)의 길이가 길어질수록 심볼 전송률이 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4571,
+      "question": "CP의 길이를 최대 지연 시간보다 길게 설정하면 부반송파들 간의 직교성이 깨지는 현상을 방지할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4572,
+      "question": "심볼에 보호구간을 삽입하여 다중경로 채널에 의해 발생하는 인접 심볼 간 간섭 문제를 해결할 수 있다. 2025년도 국가공무원 9급 공채 필기시험 무선공학개론 책형 3쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4573,
+      "question": "궤도 경사각이 0°이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4574,
+      "question": "도플러 천이 특성이 거의 나타나지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4575,
+      "question": "지표면으로부터 약 36,000[km]의 고도에서 운용된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4576,
+      "question": "극지방에서는 앙각이 커서 수신 신호의 품질이 좋아진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4577,
+      "question": "주파수는 Ku 밴드가 Ka 밴드보다 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4578,
+      "question": "가용 주파수 대역폭은 L 밴드가 Ku 밴드보다 넓다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4579,
+      "question": "대기권이나 전리층을 통과할 수 있는 대역의 주파수를 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4580,
+      "question": "일반적으로 상향 링크보다 하향 링크에 더 높은 주파수 대역을 할당한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4581,
+      "question": "GNSS(global navigation satellite system)의 일종이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4582,
+      "question": "GPS 위성과 수신기 사이의 전파시간으로부터 거리를 결정한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4583,
+      "question": "지상으로부터 약 20,000[km] 높이의 중궤도 위성으로 구성된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4584,
+      "question": "GPS 수신기는 2개의 위성 신호만으로 지구상에서 자신의 위치를 파악할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

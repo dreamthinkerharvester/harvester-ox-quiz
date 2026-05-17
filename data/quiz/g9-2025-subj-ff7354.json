@@ -1,0 +1,217 @@
+{
+  "slug": "g9-2025-subj-ff7354",
+  "name": "네트워크보안",
+  "exam_group": "국가직 9급 · 2025년",
+  "subject": "네트워크보안",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 17,
+  "questions": [
+    {
+      "id": 4432,
+      "question": "FTP(File Transfer Protocol)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4433,
+      "question": "SCTP(Stream Control Transmission Protocol)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4434,
+      "question": "SMTP(Simple Mail Transfer Protocol)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4438,
+      "question": "이메일 환경에서 S/MIME 사용 네트워크 보안 책형 1쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4445,
+      "question": "순서 번호(sequence number) 사용",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4446,
+      "question": "IP 주소 고갈 문제를 해결하기 위해 도입되었다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4447,
+      "question": "IP 주소를 클래스 구분 없이 지정할 수 있게 해 준다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4448,
+      "question": "IPv4 주소체계에서만 지원하며, IPv6 주소체계에서는 지원하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4449,
+      "question": "슬래시(slash, ‘/’)를 사용하여 네트워크 프리픽스(prefix)의 길이를 표시한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4450,
+      "question": "VPN 구현을 위해 터널링 기술을 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4451,
+      "question": "기밀성을 제공하기 위해 암호화 기술을 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4452,
+      "question": "VPN 구현을 위해 PPTP, L2TP 등을 사용할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4453,
+      "question": "SSL VPN은 SA(Security Association)를 생성하기 위해 IKE (Internet Key Exchange)를 사용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4454,
+      "question": "네트워크 관리에 필요한 정보를 주고받기 위해 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4455,
+      "question": "하위 계층 프로토콜로 UDP를 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4456,
+      "question": "에이전트(agent)는 비정상적인 상황에 대한 경고 메시지를 관리자(manager)에게 보낼 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4457,
+      "question": "관리자는 에이전트로부터 정보를 가져올 수 있으나, 에이전트에 있는 정보를 설정할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

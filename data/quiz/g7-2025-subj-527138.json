@@ -1,0 +1,193 @@
+{
+  "slug": "g7-2025-subj-527138",
+  "name": "자료해석",
+  "exam_group": "국가직 7급 · 2025년",
+  "subject": "자료해석",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 15,
+  "questions": [
+    {
+      "id": 8708,
+      "question": "‘단맛’으로 원두를 비교할 때 가장 높은 점수를 받은 원두는 아프리카 지역의 원두이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8709,
+      "question": "아프리카 지역의 원두는 모두 ‘향’ 평가점수가 ‘단맛’ 평가점수보다 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8710,
+      "question": "아메리카 지역은 ‘바디감’으로 원두를 비교할 때 가장 낮은 점수를 받은 원두가 ‘향’으로 원두를 비교할 때도 가장 낮은 점수를 받았다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8711,
+      "question": "아시아 지역은 ‘산미’로 원두를 비교할 때 가장 높은 점수를 받은 원두가 종합 평가점수도 가장 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8712,
+      "question": "각 지역에서 종합 평가점수가 가장 높은 원두의 종합 평가점수는 모두 같다. 자료해석영역 책형 4쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8713,
+      "question": "‘도로 연장’당 ‘도로 면적’은 A지역이 D지역보다 크다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8714,
+      "question": "B지역의 ‘도로 연장’은 ‘갑’시 ‘도로 연장’의 25% 이상이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8715,
+      "question": "‘도로율’이 가장 낮은 지역은 ‘시가화 면적’이 가장 크다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8716,
+      "question": "D지역의 ‘시가화 면적’은 10km2 이하이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8717,
+      "question": "‘갑’시의 ‘시가화 면적’은 50km2 이상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8718,
+      "question": "장식조명 민원건수가 전년 대비 증가한 모든 해에는 전광판조명 민원건수도 전년 대비 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8719,
+      "question": "2023년 공간조명으로 인한 수면방해 민원건수는 92건 이상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8720,
+      "question": "2021년 전체 민원건수 중 수면방해 민원건수의 비중은 85% 이상이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8721,
+      "question": "눈부심 민원건수의 전년 대비 증가율은 2024년이 가장 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8722,
+      "question": "기타를 제외하고 매년 조명종류의 민원건수 순위는 동일하다. 자료해석영역 책형 9쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

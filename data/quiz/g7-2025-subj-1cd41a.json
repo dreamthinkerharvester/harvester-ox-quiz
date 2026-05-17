@@ -1,0 +1,205 @@
+{
+  "slug": "g7-2025-subj-1cd41a",
+  "name": "심리학",
+  "exam_group": "국가직 7급 · 2025년",
+  "subject": "심리학",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 16,
+  "questions": [
+    {
+      "id": 8386,
+      "question": "경두개 자기 자극(TMS, Transcranial Magnetic Stimulation)은 자기장을 이용하여 뇌의 특정한 부위의 활동 정도를 일시적으로 조작하고, 수반된 인지 기능의 변화를 살필 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8387,
+      "question": "뇌전도(EEG, electroencephalography)는 혈액 속 산소를 포함한 헤모글로빈의 분포를 통해 뇌의 전반적인 활동을 조사하는 방식이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8388,
+      "question": "손상법(lesion study)은 뇌의 특정 영역의 손상으로 말미암아 어떻게 지각, 행동, 인지 및 정서의 변화가 발생했는지를 조사하는 방법이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8389,
+      "question": "양전자 방출 단층촬영법(PET, Positron Emission Tomography)은 뇌 활동 변화의 위치를 알아낸다는 장점이 있지만, 방사능물질에 피검자가 노출될 위험이 있다는 단점이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8390,
+      "question": "암순응 과정 중 막대세포(rod cell)가 자신의 최대 암순응 수준에 도달하는 데 걸리는 시간은 원뿔세포(cone cell)보다 짧다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8391,
+      "question": "망막의 중심와(fovea)에는 원뿔세포가 집중적으로 분포되어 시각 해상도를 높인다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8392,
+      "question": "동공(pupil)은 빛의 양에 따라 반응하는 수정체(lens)에 의해 그 크기가 달라진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8393,
+      "question": "빛은 망막에 있는 여러 종류의 신경세포 중 원뿔세포와 막대세포로 이루어진 시각 수용기층에 가장 먼저 도달한다. 심 리 학 책형 2쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8394,
+      "question": "사회적 자기평가에 대한 관심이 줄어든다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8395,
+      "question": "몰개인화된 사람들은 친사회적 행동을 보이지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8396,
+      "question": "익명성 증대를 통해 이기적으로 행동하려는 마음을 갖게 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8397,
+      "question": "사회 정체성을 더욱 특출하게 만듦으로써, 내집단 규범이 개인의 태도와 행동에 큰 영향을 미친다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8398,
+      "question": "사람들은 첫인상의 평가와 상관없이 자주 접하다 보면 그 사람에게 호감을 보인다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8399,
+      "question": "우리는 외모가 매력적인 사람들을 좋아하지만, 자신이 좋아하는 사람을 그렇지 않은 사람보다 더 매력적으로 평가하기도 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8400,
+      "question": "유사하다는 느낌이 매력성 평가에 미치는 긍정적 영향은 삶의 모든 영역 사이에서 차이가 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8401,
+      "question": "자존감이 높은 사람은 수용적인 상대방에게는 호감을 보이고 거부적인 사람에게는 그렇지 않은 반면, 자존감이 낮은 사람은 상대방이 어떻게 행동하든 상대방의 호감도 평가에서 차이가 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

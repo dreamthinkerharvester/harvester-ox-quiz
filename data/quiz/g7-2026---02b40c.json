@@ -1,0 +1,685 @@
+{
+  "slug": "g7-2026---02b40c",
+  "name": "(근로감독,산업안전) 건축계획학",
+  "exam_group": "국가직 7급 · 2026년",
+  "subject": "(근로감독,산업안전) 건축계획학",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 56,
+  "questions": [
+    {
+      "id": 5957,
+      "question": "각 세대의 일조, 통풍에 불리하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5958,
+      "question": "동일한 형식으로 주호를 배열하기 용이하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5959,
+      "question": "조망, 경관 계획에서 탑상형에 비해 유리하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5960,
+      "question": "배치나 외부공간을 탑상형에 비해 다양하게 할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5961,
+      "question": "국제 수영 경기를 위한 경기장 풀의 길이는 50m이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5962,
+      "question": "육상경기장의 운동장은 일반적으로 장변을 남북 방향으로 배치한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5963,
+      "question": "육상경기장 좌석의 통로 및 출입구는 관객의 입장 시간을 기준으로 계획한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5964,
+      "question": "실내체육관의 경기장 바닥 계획 시 탄력성, 강도(견고성 및 내구성), 평활 등에 주의하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5965,
+      "question": "오디토리엄 뒤쪽 벽면과 천장면 사이를 적절한 경사면으로 계획하면 객석에 발생하는 에코를 막을 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5966,
+      "question": "오디토리엄 양쪽의 벽은 무대의 음을 반사하여 객석 뒷부분까지 이르도록 보강해 주는 역할을 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5967,
+      "question": "원형이나 타원형 홀은 음이 한곳에 집중되거나 불균등한 분포를 보이기 때문에 음향 확산을 위한 설계가 필요하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5968,
+      "question": "발코니 하부 공간의 양호한 음향 환경을 위해 발코니 깊이는 발코니 높이의 3배 이하로 하는 것이 바람직하다. 근로감독 및 산업안전 분야 국가공무원 7급 공채 제2차시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5969,
+      "question": "서고의 규모는 서고 1m2당 150～250권, 평균 200권/m2로 계획하는 것이 일반적이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5970,
+      "question": "서고는 도서 증가에 따른 미래 확장 수요를 고려하여 계획하고, 도서 보존을 위해 서고 내부 조명은 어둡게 유지한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5971,
+      "question": "적층식 서가 구조는 특수구조를 사용하여 도서관 한쪽을 하층에서 상층까지 서고로 계획하는 유형이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5972,
+      "question": "캐럴(carrel)은 목록실, 출납실에 가깝게 배치하고 일반 열람실과는 별도로 두며 각종 서적, 목록류의 서가, 목록케이스 등을 비치하고 이용자의 이용 및 도서 안내를 위해 사서를 둔다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5973,
+      "question": "종합교실형(U형)은 교실 수와 학급 수가 일치하고 각 학급은 자기 교실에서 모든 학습을 하므로 교실의 이용률이 높다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5974,
+      "question": "일반교실ㆍ특별교실형(U＋V형)은 학교생활 거점의 역할을 하는 전용 학급교실이 주어져서 안정된 학교생활이 가능하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5975,
+      "question": "달톤형(D형)은 각 학급을 2분단으로 나누어 한쪽이 일반교실을 사용할 때 다른 한쪽은 특별교실을 사용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5976,
+      "question": "개방학교(Open School)는 학생 개인의 능력, 자질에 따라 다양한 학습활동을 할 수 있게 운영한다. 건축계획학 책형 2쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5977,
+      "question": "대표적 작품으로 필립 웹(Philip Webb)의 붉은 집과 불레(Louis Boullee)의 뉴튼기념관 계획안이 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5978,
+      "question": "영국에서 시작되어 윌리엄 모리스(William Morris)를 중심으로 전개되었다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5979,
+      "question": "기계적 생산을 거부하고 중세의 미학적, 정신적 원리의 부흥을 꾀했다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5980,
+      "question": "당시에 예술과 관련된 사람들을 각성시키는 공적은 높이 평가되나, 제품의 가격이 비싸져 대중성 확보에는 실패하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5983,
+      "question": "철도역사의 연면적 2천제곱미터 이상인 대합실",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5984,
+      "question": "연면적 1천제곱미터 이상이거나 병상 수 80개 이상인 의료기관",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5985,
+      "question": "공명기형 흡음재에는 단일공동공명기, 천공판공명기, 슬릿(slit) 공명기 등이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5986,
+      "question": "다공질형 흡음재의 흡음률은 저주파수에서는 크지만 중ㆍ고주파수 에서는 급격히 저하된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5987,
+      "question": "판(막)진동형 흡음재의 흡음판은 막진동하기 쉬운 얇은 것일수록 흡음률이 크다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5988,
+      "question": "천장에 매단 구조인 현수형(懸垂型) 흡음체는 벽이나 천장에 흡음처리를 했더라도 흡음 면적이 충분하지 못한 경우에 사용된다. 건축계획학 책형 3쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5989,
+      "question": "일반기숙사의 경우 기숙사의 침실은 지하층에 둘 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5990,
+      "question": "복도 최소폭은 편복도 1.2미터 이상, 중복도 1.8미터 이상으로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5991,
+      "question": "화장실과 세면ㆍ목욕시설, 채광ㆍ환기 설비, 냉ㆍ난방 설비 또는 기구 등을 적절하게 갖춘다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5992,
+      "question": "임대형기숙사의 경우 개인공간은 2인 1실을 기본으로 하며, 최대 6인 1실을 넘게 설치할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5993,
+      "question": "높이가 3미터를 넘는 계단에는 높이 3미터 이내마다 유효너비 120센티미터 이상의 계단참을 설치하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5994,
+      "question": "높이가 1미터를 넘는 계단 및 계단참의 양옆에는 난간(벽 또는 이에 대치되는 것을 포함한다)을 설치하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5995,
+      "question": "계단의 바닥 마감면부터 상부 구조체의 하부 마감면까지의 연직방향의 높이는 1.8미터 이상으로 하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5996,
+      "question": "너비가 3미터를 넘는 계단에는 계단의 중간에 너비 3미터 이내마다 난간을 설치하여야 한다. 다만, 계단의 단높이가 15센티미터 이하이고, 계단의 단너비가 30센티미터 이상인 경우에는 그러하지 아니하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5997,
+      "question": "일주문은 기둥이 일렬로 서 있어서 붙은 이름으로 마음이 둘이 아닌 하나라는 뜻에서 불이문이라고도 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5998,
+      "question": "사천왕문 또는 천왕문은 삼문 중 중문에 해당하는데 불법의 외호신인 사천왕을 모신다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5999,
+      "question": "금강문은 불교의 수호신인 금강역사를 모신 전각으로 사천왕문 대신 세워지기도 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6000,
+      "question": "해탈문은 삼문의 마지막 문으로 중생이 극락에 가기 위한 해탈의 경지에 다다른 것을 의미한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6002,
+      "question": "영화관으로서 같은 건축물 안에서 해당 용도로 쓰이는 바닥면적의 합계가 500제곱미터 미만인 시설",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6003,
+      "question": "수퍼마켓으로서 동일한 건축물(하나의 대지 안에 2동 이상의 건축물이 있는 경우에는 이를 동일한 건축물로 본다) 안에서 당해 용도에 쓰이는 바닥면적의 합계가 50제곱미터 이상 1천제곱미터 미만인 시설",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6004,
+      "question": "자동방화셔터는 방화구획의 구획 구조물로 인정되지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6005,
+      "question": "건축물에 설치하는 방화구획은 매층마다 구획하나 지하 1층에서 지상으로 직접 연결하는 경사로 부위는 제외한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6006,
+      "question": "주요구조부가 내화구조 또는 불연재료로 된 건축물로서 연면적이 5백 제곱미터를 넘는 것은 방화구획으로 구획해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6007,
+      "question": "스프링클러 기타 이와 유사한 자동식 소화설비를 설치하지 않은 10층 이하의 층은 바닥면적 2천제곱미터 이내마다 방화구획으로 구획해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6008,
+      "question": "엘리베이터 대수 산정은 아침 출근 피크시간 5분간 이용자 수를 기준으로 계획한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6009,
+      "question": "기준층 평면의 결정요소는 구조상 스팬의 한도, 피난거리 법적 한계, 설비 시스템상 한계, 자연채광, 방화구획 등이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6010,
+      "question": "스모크 타워(smoke tower)는 화재 시 비상계단 전실로 유입된 연기를 배출하기 위한 샤프트(shaft)로, 전실의 천장 높이는 가능한 한 높게 계획한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6011,
+      "question": "엘리베이터 조닝 방식 중 스카이 로비(sky lobby) 방식은 2대의 엘리베이터를 수직으로 연결하여 사용하는 것으로 2대분의 수송력을 갖추어 출근 시의 혼잡함을 해결한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6012,
+      "question": "연면적의 합계가 500제곱미터 이상인 모든 건축물은 에너지 절약계획서를 제출해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6013,
+      "question": "지역녹색건축물 조성계획은 5년마다 수립ㆍ시행한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6014,
+      "question": "녹색건축물 기본계획은 녹색건축물 전문인력의 육성ㆍ지원 및 관리에 관한 사항을 포함한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 6015,
+      "question": "제로에너지건축물이란 건축물에 필요한 에너지 부하를 최소화하고 신에너지 및 재생에너지를 활용하여 에너지 소요량을 최소화하는 녹색건축물을 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

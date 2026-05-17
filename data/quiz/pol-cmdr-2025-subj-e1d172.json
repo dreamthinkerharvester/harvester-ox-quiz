@@ -1,0 +1,709 @@
+{
+  "slug": "pol-cmdr-2025-subj-e1d172",
+  "name": "정보보호론",
+  "exam_group": "경찰 간부 · 2025년",
+  "subject": "정보보호론",
+  "phase": null,
+  "source": "경찰 간부",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 58,
+  "questions": [
+    {
+      "id": 16899,
+      "question": "가, 나, 다, 라 - 1 보 호 론 사 이 버",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16900,
+      "question": "SEED는 SPN 구조로 이루어져 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16901,
+      "question": "ARIA는 256비트 크기의 블록을 사용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16902,
+      "question": "CBC 모드는 오류 전파가 발생하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16903,
+      "question": "암호 알고리즘에 따라 블록의 크기는 다를 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16904,
+      "question": "통계적 분석(Statistical Analysis)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16905,
+      "question": "선형 해독법(Linear Cryptanalysis)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16906,
+      "question": "전수 공격법(Exhaustive Key Search)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16907,
+      "question": "차분 해독법(Differential Cryptanalysis)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16909,
+      "question": "암호문의 크기는 평문의 크기와 같다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16910,
+      "question": "N이 소인수 분해되면 D를 찾을 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16911,
+      "question": "N을 생성하기 위해 2개의 소수가 필요하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16914,
+      "question": "중간자(Man In The Middle) 공격",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16918,
+      "question": "보안 솔루션 도입 비용 절감과 유연성을 확보할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16919,
+      "question": "주요 기능으로 네트워크 보안, 웹 보안, 취약점 스캐닝 등의 서비스를 제공한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16920,
+      "question": "보안 위협에 대응하기 위해서는 사용 기관에서 보안 업데이 트를 직접 수행해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16921,
+      "question": "클라우드 환경과 솔루션을 투자하기 어려운 환경에서 서비스 형태로 이용할 수 있다. 2 -",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16922,
+      "question": "자신의 모습(Something you are) : 신분증",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16923,
+      "question": "알고 있는 것(Something you know) : ID/PW",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16924,
+      "question": "위치하는 곳(Somewhere you are) : 사용자 IP",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16925,
+      "question": "가지고 있는 것(Something you have) : 스마트키",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16927,
+      "question": "백신은 PC 또는 서버에 설치되어 시스템의 바이러스를 탐지 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16928,
+      "question": "DRM(Digital Right Management)은 문서의 열람, 편집, 인쇄 에 접근 권한을 설정하여 통제한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16929,
+      "question": "DLP(Data Loss Prevention)는 인터넷 회선을 임대 회선처럼 사용할 수 있도록 해주는 솔루션이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16930,
+      "question": "NAC(Network Access Control)는 MAC(Media Access Control) 주소를 기반으로 접근제어 및 인증을 수행하여 임 의의 사용자가 접속할 수 없도록 한다. - 3",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16931,
+      "question": "ISMS-P 제도에는 갱신 심사를 운영하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16932,
+      "question": "심사기관은 심사팀장과 심사원을 구성해 인증을 수행하는 기관이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16933,
+      "question": "ISMS의 인증범위는 정보 시스템의 운영 및 보호에 필요한 조직, 물리적 위치, 정보 자산을 포함한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16934,
+      "question": "사후 심사는 인증을 취득한 이후 정보보호 관리체계가 지속 적으로 유지되고 있는지 확인하는 것으로 인증 유효기간 중 매년 1회 이상 시행하는 심사이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16935,
+      "question": "TLS는 SSL(Secure Socket Layer)을 기반으로 구성한 프로 토콜이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16936,
+      "question": "Record 프로토콜은 프로토콜 개체의 가용성을 모니터링 할 때 사용하는 프로토콜이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16937,
+      "question": "TLS 1.2에는 안전하지 않은 프로토콜이 포함되어 있으므로 사용 시 주의할 필요가 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16938,
+      "question": "Handshake 프로토콜을 사용하여 서버와 클라이언트가 서로 인증하고, TLS 레코드 안에 송신 데이터를 보호하는데 사용 할 암호화키를 협상할 수 있다. 3 -",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16939,
+      "question": "Blind SQL Injection 공격은 오류 메시지가 아닌 쿼리 결과의 참과 거짓을 통해 의도하지 않은 SQL 문을 실행하여 DB를 비정상적으로 공격하는 방법이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16940,
+      "question": "Form SQL Injection 공격은 DB 쿼리에 대한 에러값을 기반 으로 한 단계씩 점진적으로 DB 정보를 획득하는 방법이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16941,
+      "question": "Union SQL Injection 공격은 게시판이나 자료실과 같은 사 용자 글을 저장할 수 있는 부분에 정상적인 평문이 아닌 스 크립트 코드를 입력하는 방법이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16942,
+      "question": "Error-based SQL Injection 공격은 피해자가 공격을 인지하지 못하는 상태에서 피해자의 브라우저가 특정 사이트에 강제 적으로 request를 보내도록 하는 방법이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16943,
+      "question": "아마존 웹 서비스(Amazon Web Service)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16944,
+      "question": "제로 트러스트 네트워크(Zero Trust Networks)",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16945,
+      "question": "구글 클라우드 플랫폼(Google Cloud Platform)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16946,
+      "question": "서비스 수준 계약(Service Level Agreement)",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16947,
+      "question": "웹 애플리케이션을 겨냥한 전형적인 공격으로부터 시스템을 보호한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16948,
+      "question": "통신 식별 방식으로 블랙리스트 방식과 화이트리스트 방식 모두 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16949,
+      "question": "발견된 공격 패턴을 WAF에 등록하고 등록된 패턴과 매치되면 부정 접속으로 간주한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16950,
+      "question": "SQL 인젝션 공격, XSS 공격을 방어하기 어렵다. - 4",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16951,
+      "question": "기업이나 담당자의 경험에 의존한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 26,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16952,
+      "question": "정량적으로 취약점의 심각도를 비교할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 26,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16953,
+      "question": "취약점에 대한 개방적이고 범용적인 평가 방법으로 국제적 으로 사용되고 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 26,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16954,
+      "question": "취약점에 대해 동일한 기준으로 비교할 수 있기 때문에 우 선적으로 대응해야 할 내용을 판단할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 26,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16955,
+      "question": "개인정보의 처리로 인하여 발생한 피해를 신속하고 공정한 절차에 따라 구제받을 권리",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 28,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16956,
+      "question": "개인정보의 처리에 관한 동의 여부, 동의 범위 등을 선택하고 결정할 권리",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 28,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16957,
+      "question": "완전히 자동화된 개인정보 처리에 따른 결정을 거부하거나 그에 대한 설명 등을 요구할 권리",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 28,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16958,
+      "question": "개인정보의 처리에 관한 실태조사 및 개인정보 보호 수준을 평가할 권리 4 -",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 28,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16962,
+      "question": "정보보호 관리체계를 수립ㆍ운영하는 방법과 절차",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16964,
+      "question": "위치정보 제공사실 등을 기록한 취급대장의 운영ㆍ관리",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16965,
+      "question": "위치정보 및 위치정보시스템의 접근권한을 확인할 수 있는 식별 및 인증 실시",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16966,
+      "question": "위치정보시스템에 대한 접근사실의 전자적 자동 기록ㆍ보존 장치의 운영",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16967,
+      "question": "위치정보시스템의 침해사고 방지를 위한 보안프로그램 설치 및 운영",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

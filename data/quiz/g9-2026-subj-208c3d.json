@@ -1,0 +1,445 @@
+{
+  "slug": "g9-2026-subj-208c3d",
+  "name": "조경학",
+  "exam_group": "국가직 9급 · 2026년",
+  "subject": "조경학",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 36,
+  "questions": [
+    {
+      "id": 3180,
+      "question": "도로 양쪽의 높이가 도로보다 높아 하부 통로의 설치가 불가능한 지점에 설치한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3181,
+      "question": "철로나 하천과 같이 선형으로 이어진 단절지를 연속적으로 연결해야 하는 지역에 설치한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3182,
+      "question": "도로 양쪽의 고도차가 심하게 나거나 경사도가 급한 경우에 설치한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3183,
+      "question": "생태적 가치가 우수하여 설치의 필요성이 높은 지역에 주로 적용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3184,
+      "question": "삼각지주는 도로변이나 광장주변 등 보행자 통행이 빈번한 곳에 설치한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3185,
+      "question": "이각지주는 소형 가로수나 수고 2m 이하의 수목에 설치한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3186,
+      "question": "지주목이 통행에 지장을 많이 초래된다고 판단되는 경우 매몰형을 설치한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3187,
+      "question": "당김줄형은 주로 소형목에 적용하며, 경관적 가치가 높지 않은 곳에 설치한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3188,
+      "question": "질소(N)는 암모늄 이온(NH +)과 질산염 이온(NO -)의 형태로 4 3 식물에 의해 흡수된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3189,
+      "question": "황(S)은 최초에 황화수소(H S)의 형태로 대기에 유입되고, 2 황화수소는 산소와 반응하여 아황산가스(SO )를 만든다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3190,
+      "question": "탄소(C)는 모든 유기화합물의 기본 구성물질이며 광합성에 의한 에너지 고정에 관련된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3191,
+      "question": "인(P)은 대기 부피의 21%를 차지하며, 식물의 기공을 통해 흡수되어 영양소로 이용된다. 조 경 학 책형 1쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3192,
+      "question": "빗자루병: 가지의 일부에 황록색의 잔가지가 모여 나서 겨울이 지나면 수목이 고사함",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3193,
+      "question": "흰가루병: 잎의 앞뒷면이나 꽃봉오리에 백색 반점이 생기고 심하면 위축됨",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3194,
+      "question": "부란병: 수피가 적갈색으로 변색되면서 약간 부풀어 오르고 벗겨지기도 하며 초기에는 시큼한 냄새가 남",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3195,
+      "question": "소나무재선충병: 선충이 침입하면 잎이 밑으로 처지고, 7일이 지나면 잎이 붉게 변함",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3196,
+      "question": "습지에 적합한 수생식물 중 대가래, 물질경이, 개구리밥, 보풀은 부엽식물에 속한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3197,
+      "question": "양서류 서식처를 조성하는 습지는 수면의 50% 내외(수생식물 피도 약 50% 내외)가 개방되도록 조성한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3198,
+      "question": "조류(鳥類) 서식처를 조성하는 습지는 일반적으로 2m 이내의 깊이에서 다양한 생태계를 구성한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3199,
+      "question": "곤충류 서식처를 조성하는 습지는 수심의 변화를 주고 물에서 육지에 이르는 복잡한 구조를 갖는 소생물권을 설계한다. 2026년도 국가공무원 9급 공채 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3200,
+      "question": "초화류 관수 빈도는 생육기에 주 1회로 설계한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3201,
+      "question": "관목의 관수량은 토양이 10cm 이상 젖도록 설계한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3202,
+      "question": "수목류의 관수 기준은 기온이 5°C 이상, 토양 온도가 10°C 이상인 날이 10일 이상 지속할 때 실행한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3203,
+      "question": "잔디는 생육기에 보통 때는 2～3일에 1회, 가물 때는 매일 관수할 수 있도록 설계한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3204,
+      "question": "토양 내 시비법은 땅을 갈거나 구덩이를 파서 비료성분이 직접 토양 내부로 유입될 수 있도록 하는 방법이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3205,
+      "question": "엽면시비법은 비료를 물에 희석하여 직접 엽면에 살포하는 방법으로 주로 미량원소의 부족 시 효과가 빠르다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3206,
+      "question": "수간주사법은 수간에 드릴로 구멍을 내어 비료성분을 주입하는 방법으로, 인력과 시간이 많이 소요된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3207,
+      "question": "천공시비법은 비료를 토양 표면에 살포하는 방법으로 시간이 오래 걸리지만 비료의 유실량이 적다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3208,
+      "question": "계단의 최고기울기는 30～35° 정도로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3209,
+      "question": "계단의 폭은 1인용일 경우 90～110cm, 2인용일 경우 150cm 정도로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3210,
+      "question": "한 단의 높이는 12cm, 단의 너비는 20～25cm를 표준으로 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3211,
+      "question": "돌계단의 높이가 2m를 초과할 경우 너비 120cm 이상의 계단참을 설치한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3212,
+      "question": "임시 적치장에서 적치의 두께는 1.5m를 기준으로 최대 3.0m를 초과하지 않도록 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3213,
+      "question": "표토의 포설두께는 0.3m를 기준으로 하며, 필요시 하층토와 표토와의 조화를 위해 최소 깊이 0.5m 이상의 지반 경운을 설계한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3214,
+      "question": "토양입자는 4.75～19mm 중간자갈과 2～4.75mm의 고운자갈의 합계 비율이 30% 이상 되도록 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 3215,
+      "question": "활용표토는 산림토양 또는 경작지 토양(현황 답 제외) 중의 O층과 A층의 양질 토사로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,493 @@
+{
+  "slug": "g7-2024-subj-faf79a",
+  "name": "도시계획",
+  "exam_group": "국가직 7급 · 2024년",
+  "subject": "도시계획",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2024,
+  "exam_round": null,
+  "count": 40,
+  "questions": [
+    {
+      "id": 9866,
+      "question": "도시ㆍ군관리계획은 시ㆍ도지사가 직접 또는 시장ㆍ군수의 신청에 따라 결정한다. 다만, 지방자치법 제198조에 따른 서울특별시와 광역시 및 특별자치시를 제외한 인구 (가) 이상의 대도시의 경우에는 해당 시장이 직접 결정하고, (생략) ① 10만",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9867,
+      "question": "호이트(Hoyt)는 도시가 성장함에 따라 도심에서 외곽으로 상업 지역의 위계별로 군집을 이루는 중심지이론(central place theory)을 제시하였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9868,
+      "question": "해리스(C.D. Harris)와 울만(E.L. Ullman)은 도시의 공간구조가 수 개의 핵을 중심으로 성장한다는 다핵심이론(multiple nuclei theory)을 제시하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9869,
+      "question": "폰 튀넨(von Thünen)은 리카도의 차액지대설을 바탕으로 입지 지대이론을 제시하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9870,
+      "question": "버제스(E.W. Burgess)는 도시의 성장 패턴이 중심업무지구 (CBD)로부터 방사상으로 확대되는 경향의 동심원 구조를 보인다는 동심원이론(concentric zone theory)을 제시하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9871,
+      "question": "종합적 계획은 목표와 문제, 수단과 제약조건 등이 종합적으로 제시된다는 장점이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9872,
+      "question": "점진적 계획은 종합적 계획이 갖는 비현실성에 대한 비판과 보완에서 출발하였다. 이 계획은 시장경제와 민주주의의 의사 결정은 분권화된 협상과정과 상호절충과정을 통하여 이루어지는 것이 가장 바람직하다고 보았다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9873,
+      "question": "옹호적 계획은 공익이라고 정의되는 불확실한 계획의 목표를 추구하기보다는 계획의 집행에 직접적으로 영향을 받는 사람들과의 상호 교류와 대화를 통하여 수립하는 계획이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9874,
+      "question": "급진적 계획은 단편적인 문제의 해결보다는 사회, 경제 전반에 걸친 근본적인 개혁을 시도하는 계획이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9876,
+      "question": "근린지구 내에 대중교통 노선을 따라 재개발 등 촉진",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9877,
+      "question": "공공공간을 건물 배치 및 근린 생활의 중심지로 조성",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9878,
+      "question": "철도역에서 가까울수록 저밀도 개발, 철도역에서 멀어질수록 고밀도 개발",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9879,
+      "question": "보행의 쾌적성을 높이기 위하여 녹지체계와의 연관성을 고려할 것",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9880,
+      "question": "보행자통행량의 주된 발생원과 버스정류장ㆍ지하철역 등 대중 교통시설이 체계적으로 연결되도록 할 것",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9881,
+      "question": "보행자의 통행이 빈번한 지점으로 통행흐름을 자연스럽게 연결하여 보행자의 우회거리 및 횡단거리를 최소화할 수 있는 지점에 설치할 것",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9882,
+      "question": "차량통행으로 인하여 보행자의 통행에 지장이 많거나 집회ㆍ 공연 등 각종 행사로 인하여 보행자의 통행량이 급증할 것으로 예상되는 지역에 설치할 것",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9887,
+      "question": "집산도로는 가구(街區)를 구획하는 도로이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9888,
+      "question": "주간선도로와 보조간선도로의 배치간격은 1천미터 내외로 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9889,
+      "question": "국도대체우회도로 및 자동차전용도로에는 집산도로 또는 국지 도로가 직접 연결되지 않도록 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9890,
+      "question": "보조간선도로는 시ㆍ군내 주요지역을 연결하거나 시ㆍ군 상호간을 연결하는 도로이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9891,
+      "question": "“스마트도시기술”이란 스마트도시기반시설을 건설하여 스마트도시 서비스를 제공하기 위한 건설ㆍ정보통신 융합기술과 정보통신기술을 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9892,
+      "question": "“스마트도시산업”이란 스마트도시기술과 스마트도시기반시설, 스마트도시서비스 등을 활용하여 경제적 또는 사회적 부가가치를 창출하는 산업을 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9893,
+      "question": "“스마트도시”란 도시의 경쟁력과 삶의 질의 향상을 위하여 건설ㆍ 정보통신기술 등을 융ㆍ복합하여 건설된 도시기반시설을 바탕으로 다양한 도시서비스를 제공하는 지속가능한 도시를 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9894,
+      "question": "“스마트혁신기술ㆍ서비스”란 스마트도시기반시설 등을 통하여 행정ㆍ교통ㆍ복지ㆍ환경ㆍ방재 등 도시의 주요 기능별 정보를 수집한 후 그 정보 또는 이를 서로 연계하여 제공하는 서비스로서 대통령령으로 정하는 서비스를 말한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9895,
+      "question": "접근통제: 일정한 패턴으로 이동을 유도하고 진출입을 차단",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9896,
+      "question": "영역성: 가시성을 최대화시킬 수 있도록 건물, 시설물 등을 배치",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9897,
+      "question": "활동지원: 공공장소의 활발한 이용 유도를 위한 시설배치와 디자인",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9898,
+      "question": "유지관리: 시설 설치 이후의 지속적인 관리와 유지관리 용이성을 고려한 시설계획 및 설비의 사용",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9899,
+      "question": "목표연도는 계획수립시점으로부터 10년을 기준으로 하되 연도의 끝자리는 0 또는 5년으로 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9900,
+      "question": "지속가능한 국토관리를 위해서는 경제ㆍ산업, 주택, 교통ㆍ기반 시설, 환경ㆍ에너지, 사회ㆍ문화ㆍ복지 등 각 분야에서 수립한 부문별 정책 및 계획 등이 서로 조화를 이루어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9901,
+      "question": "시장·군수는 10년마다 목표연도 계획인구의 적정성, 기후변화에 의한 재해취약요인 등 도시ㆍ군기본계획의 타당성을 전반적으로 재검토하여 이를 정비한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9902,
+      "question": "수도권에 속하지 아니하고 광역시와 경계를 같이하지 아니한 시ㆍ 군으로서 계획수립 기준연도 현재 인구 50 만명 이하인 시ㆍ군은 도시ㆍ군기본계획을 수립하지 아니할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9903,
+      "question": "용도지역제와 획지분할 규제를 근간으로 하는 종래 택지개발방식이 지닌 문제점을 해소할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9904,
+      "question": "공공성과 사업성을 동시에 추구할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9905,
+      "question": "지방자치단체는 협상 과정에서 재량권을 행사하여 기반시설의 정비를 이룰 수 있어 재정적 부담을 경감할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9906,
+      "question": "소규모 개발에 의한 스프롤, 단조로운 경관, 과도한 용도 획일화 등의 문제점에 대한 비판에서 제기되었다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9907,
+      "question": "행정안전부장관 및 시ㆍ도지사는 재해 발생 우려가 있는 지역을 자연재해위험개선지구로 지정ㆍ고시한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9908,
+      "question": "자연재해위험개선지구 정비사업 시행 등으로 재해 위험이 없어진 경우에는 관계 전문가의 의견을 수렴하여 자연재해위험개선지구 지정을 해제하고 그 결과를 고시하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9909,
+      "question": "자연재해위험개선지구 정비사업을 시행하기 위하여 필요한 경우 사업구역에 있는 토지ㆍ건축물 또는 그 토지에 정착된 물건의 소유권이나 그 토지ㆍ건축물 또는 물건에 관한 소유권 외의 권리를 수용하거나 사용할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9910,
+      "question": "자연재해위험개선지구로 지정ㆍ고시된 지역에서 재해 예방을 위하여 필요하면 건축, 형질 변경 등의 행위를 제한할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

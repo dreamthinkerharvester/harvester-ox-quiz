@@ -1,0 +1,157 @@
+{
+  "slug": "g7-2025-subj-531f06",
+  "name": "토질역학",
+  "exam_group": "국가직 7급 · 2025년",
+  "subject": "토질역학",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 12,
+  "questions": [
+    {
+      "id": 9092,
+      "question": "수위가 (나)에서 (가)로 상승 시: 유효응력 감소",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9093,
+      "question": "수위가 (나)에서 (가)로 상승 시: 전응력 증가",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9094,
+      "question": "수위가 (다)에서 (나)로 상승 시: 유효응력 감소",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9095,
+      "question": "수위가 (다)에서 (라)로 하강 시: 유효응력 증가 토질역학 책형 3쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9096,
+      "question": "다짐 지반의 건조단위중량을 결정하는 방법이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9097,
+      "question": "시험 구덩이에서 파낸 흙의 무게와 함수비를 구한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9098,
+      "question": "다짐 지반의 지지력을 결정하는 방법이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9099,
+      "question": "시험 구덩이를 채우는 표준 모래의 무게가 필요하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9100,
+      "question": "과압밀점토의 정지토압계수는 과압밀비가 증가함에 따라 감소한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9101,
+      "question": "박스 암거와 같이 벽체의 변위가 거의 허용되지 않는 경우 정지토압계수를 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9102,
+      "question": "옹벽 배면에 지하수면이 형성되면 주동토압이 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9103,
+      "question": "옹벽과 배면 흙 사이의 벽면마찰은 토압의 크기와 방향에 영향을 준다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

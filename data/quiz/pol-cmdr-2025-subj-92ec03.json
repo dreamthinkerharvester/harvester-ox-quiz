@@ -1,0 +1,685 @@
+{
+  "slug": "pol-cmdr-2025-subj-92ec03",
+  "name": "회계학",
+  "exam_group": "경찰 간부 · 2025년",
+  "subject": "회계학",
+  "phase": null,
+  "source": "경찰 간부",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 56,
+  "questions": [
+    {
+      "id": 17653,
+      "question": "다른 질적특성과 달리 비교가능성은 단 하나의 항목에 관련 된 것이 아니기 때문에, 비교하려면 최소한 두 항목이 필요 하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17654,
+      "question": "하나의 경제적 현상은 여러 가지 방법으로 충실하게 표현될 수 있으며, 동일한 경제적 현상에 대해 대체적인 회계처리 방법을 허용하면 비교가능성이 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17655,
+      "question": "재무정보의 비교가능성은 비슷한 것을 달리 보이게 하여 보강되지 않는 것처럼, 비슷하지 않은 것을 비슷하게 보이게 한다고 해서 보강되지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17656,
+      "question": "목적적합한 경제적 현상에 대한 표현충실성은 다른 보고기업의 유사한 목적적합한 경제적 현상에 대한 표현충실성과 어느 정도의 비교가능성을 자연히 가져야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17657,
+      "question": "한국채택국제회계기준의 요구에 따라 공시되는 정보가 중요 하지 않아도 그 공시를 제공할 필요가 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17658,
+      "question": "동일 거래에서 발생하는 수익과 관련비용의 상계표시가 거래나 그 밖의 사건의 실질을 반영한다면 그러한 거래의 결과는 상계하여 표시한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17659,
+      "question": "한국채택국제회계기준은 오직 재무제표에만 적용하며 연차 보고서, 감독기구 제출서류 또는 다른 문서에 표시되는 그 밖의 정보에 반드시 적용하여야 하는 것은 아니다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17660,
+      "question": "합리적인 추정치의 사용은 재무정보의 작성에 필수적인 부분 이며, 추정치가 명확하고 정확하게 기술되고 설명되는 한 정보의 유용성을 저해하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17661,
+      "question": "20×1년 오물처리장의 취득원가는 ￦126,000이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17662,
+      "question": "20×1년 기말 감가상각비는 ￦23,200이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17663,
+      "question": "20×1년 기말 복구충당부채전입액은 ￦2,080이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17664,
+      "question": "내용연수 종료시점에 당기손실 ￦2,000을 인식한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17665,
+      "question": "냉장고 인도시점에 차변에 계약자산 ￦3,000을 인식한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17666,
+      "question": "냉장고 인도시점에 대변에 계약부채 ￦5,000을 인식한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17667,
+      "question": "세탁기 인도시점에 차변에 수취채권 ￦2,000을 인식한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17668,
+      "question": "세탁기 인도시점에 대변에 매출수익 ￦5,000을 인식한다. 7 -",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17669,
+      "question": "재평가의 빈도는 재평가되는 유형자산의 공정가치 변동에 따라 달라지며, 재평가된 자산의 공정가치가 장부금액과 중요하게 차이가 나는 경우에는 추가적인 재평가가 필요하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17670,
+      "question": "동일한 유형 내의 유형자산은 선택적 재평가를 하거나 서로 다른 기준일에 재평가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17671,
+      "question": "동일한 자산에 대하여 이전에 당기손익으로 인식한 재평가 감소액이 있다면 그 금액을 한도로 재평가증가액만큼 당기손익 으로 인식한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17672,
+      "question": "재평가잉여금을 이익잉여금으로 대체하는 경우 그 금액은 당기손익으로 인식하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17673,
+      "question": "사채의 액면이자율이 시장이자율보다 낮은 경우 사채를 할인 발행하게 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17674,
+      "question": "사채가 할증발행되고 유효이자율법에 의해 상각하는 경우 기간경과에 따라 매기 인식하는 할증발행차금의 상각액은 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17675,
+      "question": "사채를 할증발행할 때 사채발행비가 발생한다면 유효이자율은 사채발행비가 발생하지 않는 경우보다 낮다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17676,
+      "question": "사채가 할증발행된다면 기간경과에 따라 매기 인식하는 유효 이자는 감소한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17677,
+      "question": "보고기간 말마다 충당부채의 잔액을 검토하고, 보고기간 말 현재 최선의 추정치를 반영하여 조정한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17678,
+      "question": "제삼자와 연대하여 의무를 지는 경우에는 이행할 전체 의무 중 제삼자가 이행할 것으로 예상되는 부분을 우발부채로 처리한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17679,
+      "question": "구조조정충당부채로 인식할 수 있는 지출은 구조조정에서 발생하는 직접비용과 간접비용을 포함하되, 구조조정 때문에 반드시 생기는 지출이며, 기업의 계속적인 활동과 관련 있는 지출이어야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17680,
+      "question": "현재의무를 이행하기 위하여 해당 금액을 신뢰성 있게 추정 할 수 있고 경제적 효익이 있는 자원을 유출할 가능성이 높은 경우 충당부채로 인식한다. 9 -",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17681,
+      "question": "무상증자와 주식배당의 경우 자본금은 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17682,
+      "question": "주식배당과 주식분할의 경우 자본잉여금은 변하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17683,
+      "question": "주식배당의 경우 이익잉여금이 감소하지만 주식분할의 경우 이익잉여금은 변하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17684,
+      "question": "무상증자, 주식배당, 주식분할 및 주식병합의 경우 발행주식수가 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17685,
+      "question": "금융자산을 당기손익-공정가치 측정 금융자산으로 분류하였 다면, 20×1년 말 재무상태표상 장부가액은 ₩970,000이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17686,
+      "question": "금융자산을 상각후원가 측정 금융자산으로 분류하였다면, 20×1년 말 재무상태표상 장부가액은 ₩965,000이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17687,
+      "question": "금융자산을 당기손익-공정가치 측정 금융자산으로 분류하였 다면, 20×1년 당기순이익은 ₩100,000 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17688,
+      "question": "금융자산을 상각후원가 측정 금융자산으로 분류하였다면, 20×1년 당기순이익은 ₩80,000 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17689,
+      "question": "한국채택국제회계기준에서 회계정책의 변경을 요구하는 경우 에는 회계정책을 변경할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17690,
+      "question": "과거에 발생한 거래와 실질이 다른 거래, 기타 사건 또는 상황에 대하여 다른 회계정책을 적용하는 경우는 회계정책의 변경에 해당하지 아니한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17691,
+      "question": "전기오류는 특정기간에 미치는 오류의 영향이나 오류의 누적 효과를 실무적으로 결정할 수 없는 경우에도 소급재작성에 의하여 수정한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17692,
+      "question": "오류수정은 회계추정치 변경과 구별된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17693,
+      "question": "기본주당이익은 지배기업의 보통주에 귀속되는 특정 회계 기간의 당기순손익(분자)을 그 기간에 유통된 보통주식수를 가중평균한 주식수(분모)로 나누어 계산한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17694,
+      "question": "기본주당이익 정보의 목적은 회계기간의 경영성과에 대한 지배기업의 보통주 1주당 지분의 측정치를 제공하는 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17695,
+      "question": "기본주당이익을 계산하기 위한 보통주식수는 그 기간에 유통된 보통주식수를 가중평균한 주식수로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17696,
+      "question": "잠재적보통주는 보통주로 전환된다고 가정할 경우 주당계속 영업이익을 증가시키거나 주당계속영업손실을 감소시킬 수 있는 경우에만 희석성 잠재적보통주로 취급한다. 10 -",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 24,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17697,
+      "question": "전부원가계산에서는 영업이익이 판매량뿐만 아니라 생산량에 의해서도 영향을 받으며, 생산량이 증가하면 비용화되지 않는 고정제조간접원가가 증가하여 영업이익이 증가하므로 경영자는 생산량을 증가시키는 유인을 갖게 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17698,
+      "question": "단기적으로 고정원가는 지출이 확정되어 있으므로 경영자는 조업도가 증가함에 따라서 원가가 변화하는 변동원가에 관심을 가지게 되는데, 변동원가계산에서는 변동원가와 공헌이익에 대한 정보를 제공하므로 단기의사결정과 성과평가에 유용하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17699,
+      "question": "초변동원가계산에서는 직접재료원가 외에는 기간원가로 처리 하기 때문에 제조간접원가를 변동원가와 고정원가로 구분할 필요가 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17700,
+      "question": "초변동원가계산에서는 경영자가 재고자산을 최대로 보유하도록 유도하여 생산량이 불필요하게 증가할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17701,
+      "question": "균형성과표에는 재무적 관점, 고객 관점, 외부 프로세스 관점, 학습과 성장 관점의 네 가지 관점이 존재한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 36,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17702,
+      "question": "균형성과표는 조직의 외부 경영지표와 내부 경영지표의 균형을 유지할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 36,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17703,
+      "question": "균형성과표는 재무적 성과와 비재무적 성과의 평가에서 균형을 유지할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 36,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17704,
+      "question": "균형성과표에 포함되어 있는 비재무적 관점의 성과지표에 대해서는 주관이 개입되고 객관성이 확보되지 않는다. 12 -",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 36,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17705,
+      "question": "현재 세대와 미래 세대를 위하여 정부가 영구히 보존하여야 할 자산으로서 역사적, 자연적, 문화적, 교육적 및 예술적으로 중요한 가치를 갖는 자산은 자산으로 인식하지 아니하고 그 종류와 현황 등을 주석 및 부속명세서로 공시한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17706,
+      "question": "국가회계실체 사이에 발생하는 관리전환은 무상거래일 경우 에는 자산의 장부가액을 취득원가로 하고, 유상거래일 경우 에는 자산의 공정가액을 취득원가로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17707,
+      "question": "국가안보와 관련된 자산은 기획재정부장관과 협의하여 자산 으로 인식하지 아니할 수 있으며 해당 중앙관서의 장은 해당 자산의 종류, 취득시기 및 관리현황 등을 별도의 장부에 기록하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 17708,
+      "question": "무주부동산의 취득, 국가 외의 상대방과의 교환 또는 기부채납 등의 방법으로 자산을 취득한 경우에는 취득 당시의 공정 가액을 취득원가로 한다. 13 -",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

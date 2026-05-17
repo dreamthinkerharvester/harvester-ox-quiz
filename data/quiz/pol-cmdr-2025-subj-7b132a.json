@@ -1,0 +1,517 @@
+{
+  "slug": "pol-cmdr-2025-subj-7b132a",
+  "name": "시스템네트워크보안",
+  "exam_group": "경찰 간부 · 2025년",
+  "subject": "시스템네트워크보안",
+  "phase": null,
+  "source": "경찰 간부",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 42,
+  "questions": [
+    {
+      "id": 16704,
+      "question": "/dev : 장치 파일이 담긴 디렉터리이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16705,
+      "question": "/opt : 추가 패키지가 설치되는 디렉터리이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16706,
+      "question": "/sys : 시스템의 환경설정 및 주요 설정 파일을 담고 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16707,
+      "question": "/var : 시스템 운영 중에 발생하는 데이터나 로그 등 내용이 자주 바뀌는 파일이 저장된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16708,
+      "question": "Telnet이나 보안을 제공하지 않는 다른 원격 로그인 방식을 대체하기 위해 개발되었다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16709,
+      "question": "원격 로그인과 X-터미널에 채택되어 사용되었으며 현재도 가장 널리 사용되는 응용 기술이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16710,
+      "question": "Alert 프로토콜과 Record 프로토콜을 정의하여 암호화를 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16711,
+      "question": "안전하지 않은 TCP 연결을 포트 포워딩을 사용하여 안전한 연결로 변환시킬 수 있다. - 7 트 워 크 보 안 사 이 버",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16717,
+      "question": "신경망, 통계적 방법, 특징 추출 등의 기술을 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16718,
+      "question": "미리 학습된 사용자 패턴과 다른 경우에 침입으로 판단할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16719,
+      "question": "오용(Misuse)탐지 방식보다 False Positive가 상대적으로 낮다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16720,
+      "question": "Zero Day Attack에 대응이 가능한 방법이다. 7 -",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16724,
+      "question": "ext 파일시스템은 Extended File System의 약자로 MFS의 기능을 확장했다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16725,
+      "question": "ext3 파일시스템은 저널링 기능을 도입하여 데이터의 복구 기능을 강화했다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16726,
+      "question": "swap은 스왑 영역을 관리하기 위한 스왑 파일시스템이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16727,
+      "question": "proc는 메모리에 임시 파일을 저장하기 위한 파일시스템이며, 시스템이 재시작할 때마다 기존 내용이 없어진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16731,
+      "question": "도전-응답(Challenge-response) 방식 – 난수",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16737,
+      "question": "csrss.exe : 윈도우 콘솔을 관장하고, 스레드를 생성․삭제하며, 32비트 가상 MS-DOS 모드를 지원하는 프로세스이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16738,
+      "question": "smss.exe : 사용자 세션을 시작하는 기능을 담당하는 프로세 스로, winlogon, win32를 구동시킨다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16739,
+      "question": "svchost.exe : DLL이 실행하는 프로세스의 기본 프로세스로, 한 시스템에서 svchost 프로세스를 여러 개 볼 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16740,
+      "question": "winmgmt.exe : 윈도우 작업 관리자 자신의 프로세스이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16745,
+      "question": "애플리케이션 게이트웨이 / 패킷 필터링 / 상태기반 패킷 검사",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16746,
+      "question": "애플리케이션 게이트웨이 / 상태기반 패킷 검사 / 패킷 필터링",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16747,
+      "question": "회선 게이트웨이 / 데이터그램 필터링 / 상태기반 패킷 검사",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16748,
+      "question": "회선 게이트웨이 / 상태기반 패킷 검사 / 데이터그램 필터링 - 9",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16757,
+      "question": "보안 서비스가 제공되는 방식에는 전송 모드와 터널 모드가 존재한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16758,
+      "question": "AH는 암호화를, ESP는 인증과 무결성 기능을 제공한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16759,
+      "question": "암호화 기술을 이용하여 IP 패킷 단위로 데이터 변조 방지 및 은닉 기능을 제공한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16760,
+      "question": "터널 모드는 IP 헤더를 포함한 기존 전체 패킷 앞에 새로운 IPSec 헤더 정보가 추가된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16761,
+      "question": "RC4 대칭형 암호화 알고리즘을 사용하며 24bit의 IV를 결합 하여 공유 비밀키를 생성한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 28,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16762,
+      "question": "IEEE 802.11b의 표준인 스트림 암호화 기법을 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 28,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16763,
+      "question": "정적 키를 사용하기 때문에 무작위 공격에 취약하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 28,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16764,
+      "question": "AP는 인증 요청을 받으면 임의로 생성한 인증용 문자열을 암호화키로 암호화하여 클라이언트에 전송한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 28,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16769,
+      "question": "Process-to-Process Service",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 32,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16780,
+      "question": "보안솔루션 위주의 로그를 수집하고 통합한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 36,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16781,
+      "question": "사용자, IP, Port, Application 등의 단위로 분석이 가능하고, APT 공격 및 알려지지 않은 패턴에 대한 분석이 가능하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 36,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16782,
+      "question": "MapReduce, indexing 등을 사용하며 고성능의 데이터 분석이 가능하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 36,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16783,
+      "question": "수집하는 정보는 보안시스템, 보안소프트웨어, 네트워크 장비에 대한 로그, 이벤트, 웹로그 등을 대상으로 한다. - 11",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 36,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16784,
+      "question": "매주 일요일 새벽 1시 1분에 cron.sh를 실행",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16785,
+      "question": "매주 월요일 새벽 1시 1분에 cron.sh를 실행",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16786,
+      "question": "매월 1일 새벽 1시 1분에 cron.sh를 실행",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 16787,
+      "question": "매일 새벽 1시 1분에 cron.sh를 실행",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

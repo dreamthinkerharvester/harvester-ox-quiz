@@ -1,0 +1,157 @@
+{
+  "slug": "l9-2024-subj-362088",
+  "name": "컴퓨터일반",
+  "exam_group": "지방직 9급 · 2024년",
+  "subject": "컴퓨터일반",
+  "phase": null,
+  "source": "지방직 9급",
+  "exam_year": 2024,
+  "exam_round": null,
+  "count": 12,
+  "questions": [
+    {
+      "id": 11338,
+      "question": "사용자로부터 작업이 요구되는 즉시 처리한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11339,
+      "question": "일정량 또는 일정 기간의 작업을 모아 한꺼번에 처리한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11340,
+      "question": "네트워크로 연결된 여러 대의 컴퓨터에서 작업을 분산하여 처리 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11341,
+      "question": "CPU 운영시간을 골고루 할당하여 여러 사용자가 순환하며 작업을 수행한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11346,
+      "question": "주로 SRAM을 사용하여 구현된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11347,
+      "question": "주기억장치보다 용량은 작지만 접근 속도가 빠르다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11348,
+      "question": "성능 향상을 위해 지역성의 원리(principle of locality)를 이용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11349,
+      "question": "직접 사상(direct mapping) 방식을 사용하면, 특정 주기억장치 블록을 여러 개의 캐시기억장치 블록으로 사상할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11350,
+      "question": "페이지 테이블의 캐시로서 동작한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11351,
+      "question": "한 시스템 내에 여러 개가 존재할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11352,
+      "question": "TLB 실패(miss)가 발생할 때마다 페이지 부재(page fault)가 발생한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11353,
+      "question": "물리 주소(physical address)를 가상 주소(virtual address)로 빠르게 변환하기 위한 것이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

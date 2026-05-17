@@ -1,0 +1,355 @@
+{
+  "category": {
+    "slug": "appr-2026-subj-1f4184",
+    "name": "민법",
+    "exam_group": "감정평가사 1차 · 2026년",
+    "subject": "민법",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 22323,
+      "statement": "국립공원의 입장료는 민법상 과실이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 8,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22325,
+      "statement": "부동산은 종물이 될 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 8,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22327,
+      "statement": "‘종물은 주물의 처분에 따른다’는 법리는 압",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 8,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22329,
+      "statement": "특정 양식장 내의 뱀장어일지라도 성장을 담보계약은 그 담보목적물이 특정되지 않아",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 21,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22331,
+      "statement": "물권의 객체는 물건에 한정된다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 21,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22334,
+      "statement": "점유자가 스스로 매매 또는 증여와 같은 자 되지 않으면 이로써 자주점유의 추정은 번",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 26,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22335,
+      "statement": "매매목적물이 아닌 다른 토지를 인도받아 점유는 타주점유이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 26,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22336,
+      "statement": "국가나 지방자치단체는 지적공부의 관리주체 것으로 추정되지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 26,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22337,
+      "statement": "타주점유자가 그 명의로 소유권이전등기를 대하여 소유의 의사를 표시함으로써 자주점",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 26,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22338,
+      "statement": "지역권은 요역지와 분리하여 양도하거나 다",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 33,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22339,
+      "statement": "승역지 소유자는 지역권의 행사를 방해하 행사를 위하여 승역지에 설치한 공작물을",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 33,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22340,
+      "statement": "요역지 소유자가 승역지 소유자와 승역지상 정하였다면, 존속기간을 정하지 않았으므로 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 33,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22341,
+      "statement": "요역지 소유자는 통로의 개설 없이 승역지 할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 33,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22342,
+      "statement": "지역권자는 승역지의 점유침탈이 있는 경 행사할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 33,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22345,
+      "statement": "유치권에는 우선변제적 효력이 인정되지 위하여 유치물을 경매할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 34,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22346,
+      "statement": "저당권의 실행으로 부동산에 경매개시결정 취득한 사람은 경매절차의 매수인에게 유치",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 34,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 16,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

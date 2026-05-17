@@ -1,0 +1,121 @@
+{
+  "slug": "franch-2026-subj-4f2a11",
+  "name": "경영학",
+  "exam_group": "가맹거래사 1차 · 2026년",
+  "subject": "경영학",
+  "phase": null,
+  "source": "가맹거래사 1차",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 9,
+  "questions": [
+    {
+      "id": 22417,
+      "question": "진열장에 진열된 제품 200,000원을 도난당하",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 82,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22418,
+      "question": "화재로 인해 제품 100,000원이 소실되었다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 82,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22419,
+      "question": "거래처의 파산으로 매출채권 100,000원이 회",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 82,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22421,
+      "question": "영업부에서 월 급여 3,000,000원을 주기로",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 82,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22422,
+      "question": "유보가격(reservation price)은 소비자가 제 가격이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 94,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22423,
+      "question": "준거가격(reference price)은 구매자가 의심",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 94,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22424,
+      "question": "묶음가격(bundling pricing)은 특정 제품과 가격설정방식이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 94,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22425,
+      "question": "유인가격(loss-leader pricing)은 소비자들에 하게 낮은 가격을 제시하는 가격설정방식이",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 94,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22426,
+      "question": "초기고가전략(skimming pricing)은 도입기 하는 가격전략이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 94,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

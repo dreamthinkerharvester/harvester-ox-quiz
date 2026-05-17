@@ -1,0 +1,313 @@
+{
+  "slug": "pol-misc-2026---db7127",
+  "name": "대편입 영어",
+  "exam_group": "경찰 · 2026년",
+  "subject": "대편입 영어",
+  "phase": null,
+  "source": "경찰",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 25,
+  "questions": [
+    {
+      "id": 18075,
+      "question": "Modernization of Agricultural Sector in Europe",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18076,
+      "question": "Post-War Revolution in European Animal Farming",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18077,
+      "question": "Deteriorated Well-being: Animal Welfare in Europe",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18078,
+      "question": "Confinement Systems in European Animal Farming",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18079,
+      "question": "Benefits of Systematic Animal Farms in Europe 21 - [26-30] 다음 글의 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18080,
+      "question": "the role of technology in shaping workplace perception",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 33,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18081,
+      "question": "how behaviour evaluations improve employee satisfaction",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 33,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18082,
+      "question": "the structure and function of formal organizational policies",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 33,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18083,
+      "question": "the benefits of diversity training in multicultural organizations",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 33,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18084,
+      "question": "the influence of individual perception on organizational effectiveness",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 33,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18085,
+      "question": "AI must strengthen social as well as contextual intelligence to pass the Turing test.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18086,
+      "question": "Human intelligence is a complex system connected to the body, environment, society, and culture.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18087,
+      "question": "Turing’s view on intelligence, which focuses on problem -solving, has hindered the development of AI.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18088,
+      "question": "The externalization of intelligence is a complex driver that s has allowed humanity to improve itself over a long period.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18089,
+      "question": "For AI to reach human-level intelligence, it must overcome the limitation of the brain’s congnitive system.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18091,
+      "question": "The Federalists and Their Sacred Text",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18092,
+      "question": "Jefferson vs. Hamilton: Constitutional Conflicts",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18093,
+      "question": "The Rise of the NewYorkJournal",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18094,
+      "question": "The Early Life of Thomas Jefferson in Paris",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18095,
+      "question": "Hamilton’s Role in Manhattan Politics 21 - [39-40] 다음 글을 읽고 물음에 답하시오. Learning is a fascinating, but highly complex, aspect of human activity. In psychology, a distinction is often made between cognitive and affective development ― contrasts being drawn between thought and feeling; rationality and emotion; and even some forms of knowledge and understanding. There are interesting interconnections of course ― with a recent neuroscientific analysis entitled ‘we feel, therefore we learn’. Indeed, attention, memory, decision-making and other cognitive capabilities are strongly influenced by affective disposition and feelings. The latter respond to characteristics of learning environments ― such as homes, classrooms and even examination halls, as many of us will recognise. Of course, humans learned for many thousands of years before anyone thought that a ‘curriculum’ and ‘schooling’ were necessary. Indeed, at its simplest, learning can be seen as the product of a between development and experience through life. The professional teacher’s job is to understand the process as well as possible and to offer children the benefit of that understanding.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18101,
+      "question": "Memory Alone Drives How We Learn",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18102,
+      "question": "Genes Decide Development, Not Environments",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18103,
+      "question": "Emotion vs. Reason: Why Feelings Block Learning",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18104,
+      "question": "The Rise of Schooling and the Modern Curriculum",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 18105,
+      "question": "Learning Process: A Complex Integration of Thought and Feeling ※확인사항 ▷ 답안지의 해당란에 필요한 내용을 정확히 기입․표기 했는지 확인하시오. - 10",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 40,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

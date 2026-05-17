@@ -1,0 +1,133 @@
+{
+  "slug": "na8-2026-subj-8d5d23",
+  "name": "자료해석영역",
+  "exam_group": "국회직 8급 · 2026년",
+  "subject": "자료해석영역",
+  "phase": null,
+  "source": "국회직 8급",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 10,
+  "questions": [
+    {
+      "id": 13720,
+      "question": "갑국 박사 중 ‘일본’에서 ‘예술·인문학’ 전공 박사학위를 취득한 박사의 수는 ‘일본’에서 ‘사회과학’ 전공 박사학위를 취득한 박사 의 수보다 많다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13721,
+      "question": "갑국 박사 중 ‘중국’에서 박사학위를 취득한 박사수 중에서 ‘경영· 법’ 전공 박사학위를 취득한 박사수가 차지하는 비중은 10% 이 상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13722,
+      "question": "갑국 박사 중 ‘공학’ 전공 박사수와 ‘예술·인문학’ 전공 박사수의 합은 갑국 전체 박사수의 50% 이상이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13723,
+      "question": "갑국 박사 중 ‘미국’에서 박사학위를 취득한 박사의 수는 남성이 여성의 3배 이상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13724,
+      "question": "갑국 박사 중 ‘독일’에서 박사학위를 취득한 박사의 수는 4,000명 이상이다. - 5 - 석영역 책형 가",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "⑤",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13725,
+      "question": "A국의 2021년 전년 대비 대형 자동차 검사대수 증가율은 같은 기간 중형 자동차 검사대수 증가율의 3배 이상이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13726,
+      "question": "A국의 전체 자동차 검사대수 중 승용차 검사대수 비중은 매년 70% 이상을 차지한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13727,
+      "question": "A국의 2022년 전년 대비 특수차 검사대수 증가율은 2024년 전년 대비 특수차 검사대수 증가율보다 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13728,
+      "question": "A국의 2020∼2024년 동안 중형 자동차 검사대수는 매년 대형 자 동차 검사대수의 2배 미만이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13729,
+      "question": "A국의 2020년 대비 2024년 특수차 검사대수 증가율은 같은 기간 승용차 검사대수 증가율보다 높다. - 2026년도 8급 공개경쟁채용시험 자료해석영역 책형 가",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

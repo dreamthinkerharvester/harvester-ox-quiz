@@ -1,0 +1,313 @@
+{
+  "slug": "g9-2025-subj-2eed19",
+  "name": "기계일반",
+  "exam_group": "국가직 9급 · 2025년",
+  "subject": "기계일반",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 25,
+  "questions": [
+    {
+      "id": 4404,
+      "question": "열팽창계수가 감소한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4405,
+      "question": "경계윤활과 혼합윤활 영역은 불완전윤활 영역으로 분류된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4406,
+      "question": "유체윤활 영역에서 윤활유의 점도가 작아지면 마찰계수는 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4407,
+      "question": "경계윤활 영역에서는 접촉면 사이의 유막이 얇아서 표면의 작은 요철부가 직접 접촉한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4408,
+      "question": "혼합윤활 영역에서는 마찰계수가 베어링계수(bearing modulus)에 반비례하며 급격히 변화한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4412,
+      "question": "기어 치형 표면에 구름동작을 통하여 표면정밀도 및 피로수명을 증가시킨다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4413,
+      "question": "기어 치형과 같은 형상을 가지는 커터를 이용하여 기어 치형에서 소량의 재료를 제거한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4414,
+      "question": "연마재가 박혀 있는 플라스틱 기어 형태의 공구로 고속으로 기어 표면을 마무리한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4415,
+      "question": "치형의 정밀한 표면마무리를 위해서 연마재를 이용하고 고품질, 긴 수명 및 저소음의 경화된 기어 생산에 적합하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4416,
+      "question": "2행정 사이클 기관은 1사이클 동안 크랭크축이 1회전 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4417,
+      "question": "2행정 사이클 기관은 밸브 기구가 필요하지 않고 실린더에 배기 구멍이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4418,
+      "question": "4행정 사이클 기관은 흡입, 압축, 팽창, 배기 행정을 거쳐 1사이클을 완성한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4419,
+      "question": "배기량이 같은 경우 2행정 사이클 기관보다 4행정 사이클의 출력이 크다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4420,
+      "question": "재료의 경도나 인성에 관계없이 전기 도체이면 쉽게 가공할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4421,
+      "question": "전극으로 구리나 흑연을 이용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4422,
+      "question": "가공 속도를 조정하여 다듬질 면의 거칠기를 조절할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4423,
+      "question": "콘덴서의 용량이 크면 가공면과 치수 정밀도가 좋다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4424,
+      "question": "볼트 구멍이 클 때 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4425,
+      "question": "너트의 풀어짐을 방지하는 효과가 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4426,
+      "question": "너트가 닿는 자리면이 거칠거나 기울어져 있을 때 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4427,
+      "question": "자리면의 재료가 연질이어서 볼트의 체결압력을 지탱하기 어려울 때는 사용할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4428,
+      "question": "안전계수는 재료의 허용응력에 대한 기준강도의 비이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4429,
+      "question": "고온에서 정하중이 작용할 때는 피로한도를 기준강도로 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4430,
+      "question": "안전계수를 결정할 때 재질의 균질성, 하중, 수명, 사용조건 등을 고려한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4431,
+      "question": "정하중이 연강과 같은 연성재료에 작용할 때는 항복응력을 기준강도로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

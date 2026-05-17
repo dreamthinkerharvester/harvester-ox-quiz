@@ -1,0 +1,85 @@
+{
+  "slug": "g9-2025-subj-e8cab0",
+  "name": "응용역학개론",
+  "exam_group": "국가직 9급 · 2025년",
+  "subject": "응용역학개론",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 6,
+  "questions": [
+    {
+      "id": 4795,
+      "question": "마찰력은 접촉면의 크기에 상관없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4796,
+      "question": "최대정지마찰력은 운동마찰력보다 작다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4797,
+      "question": "마찰력은 항상 움직이는 방향의 반대 방향으로 작용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4798,
+      "question": "마찰력이 최대정지마찰력에 도달했을 때 마찰각도 최댓값을 갖는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4801,
+      "question": "탄성좌굴하중 P  cr  L ED",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 4802,
+      "question": "탄성좌굴응력   cr  L 응용역학개론 책형 4쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

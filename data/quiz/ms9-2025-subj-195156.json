@@ -1,0 +1,205 @@
+{
+  "slug": "ms9-2025-subj-195156",
+  "name": "전자공학",
+  "exam_group": "군무원 9급 · 2025년",
+  "subject": "전자공학",
+  "phase": null,
+  "source": "군무원 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 16,
+  "questions": [
+    {
+      "id": 12140,
+      "question": "온도가 올라가면 정공과 전자의 재결합이 줄어들기 때문이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12141,
+      "question": "접합면 경계 영역에서 드리프트(drift)를 위한 소수 캐리어의 생성이 촉진되기 때문이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12142,
+      "question": "온도가 올라가면 도핑 농도가 증가하기 때문이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12143,
+      "question": "온도가 올라가면 전자의 이동 속도가 느려지기 때문이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12144,
+      "question": "출력은 구간별로 선형적으로 증가 또는 감소 하는 파형으로, 사다리꼴 형태가 반복된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12145,
+      "question": "출력은 정현파처럼 매끄러운 곡선을 따르며, 위상은 입력과 같다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12146,
+      "question": "출력은 계단파 모양으로 불연속적인 점프를 하며, 입력에 정비례한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12147,
+      "question": "출력은 삼각파 형태를 따르며, 주기적으로 증가하고 감소한다. 전자공학(9급",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12148,
+      "question": "진성반도체는 온도가 증가함에 따라 자유전자의 며, 농도가 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12149,
+      "question": "p타입 반도체의 억셉터(acceptor)의 농도를 를 높이면 전자의 농도가 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12150,
+      "question": "실리콘의 최외각 전자의 수는 4이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12151,
+      "question": "Si에 Al을 도핑하면 p타입 반도체가 된다. (9급) 5 - 2",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12154,
+      "question": "입력 정현파 전압의 진폭(amplitude)  을  크게 하면 은 커진다. ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12155,
+      "question": "입력 정현파 전압의 주기 T을 크게 하면 은 커진다.  전자공학(9급 를 12. 그림의 회로의 출력 전압 V 으로 가장 적절한 out 는 것은? 이 ? ① 2V ② 3V ③ 4V ④ 6V",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12160,
+      "question": " V    V  전자공학(9급 , 18. 아래 회로에서  값으로 가장 적절한 것은?  한 (단,   V,  =100)   ① 1V ② 2V ③ 3V ④ 4V",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 12168,
+      "question": "(가): 1, (나): 1, (다): 0 전자공학(9급 니 23. 공통소스 MOSFET 증폭기(Common-Source Amplifier)에 대한 설명 중 가장 적절한 것은? 서 ① 출력 신호는 입력 신호와 위상이 같다. ② 입력은 드레인(Drain) 단자에 인가된다. ③ 전압 이득이 거의 없다. ④ 입력 신호를 증폭하며 위상이 반전된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

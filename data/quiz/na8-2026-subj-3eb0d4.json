@@ -1,0 +1,205 @@
+{
+  "slug": "na8-2026-subj-3eb0d4",
+  "name": "언어논리영역",
+  "exam_group": "국회직 8급 · 2026년",
+  "subject": "언어논리영역",
+  "phase": null,
+  "source": "국회직 8급",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 16,
+  "questions": [
+    {
+      "id": 13700,
+      "question": "사후 처리 위주에서 원천적인 사전 예방의 방식으로",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13701,
+      "question": "개별적인 쓰레기 처리에서 공공의 하수 인프라 관리로",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13702,
+      "question": "생산자 책임의 강화에서 소비자의 가치 소비 유도로",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13703,
+      "question": "위생상의 필수적 요구에서 산업계의 기술적 혁신으로",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13704,
+      "question": "모호한 환경 마케팅 규제에서 표준화된 인증제 도입으로 - 2026년도 8급 공개경쟁채용시험 언어논리영",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13705,
+      "question": "㉠을 “매매계약으로 볼 수 없다”로 수정한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13706,
+      "question": "㉡을 “게임 이용자가 독점해서 가지고 있을 수밖에 없고”로 수정 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13707,
+      "question": "㉢을 “거래에 있어서 불평등 요소는 배제된다”로 수정한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13708,
+      "question": "㉣을 “나올 수 없는 아이템”으로 수정한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13709,
+      "question": "㉤을 “의사와 표시가 일치하지 않는 상황”으로 수정한다. - 3 - 리영역 책형 가",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13710,
+      "question": "하이데거는 헤겔의 선례를 따라 철학과 역사의 관계를 탐구하였 으나, 범주 문제에 있어서는 주체의 역할을 배제하고 대상의 객 관적 규정성만을 강조하는 한계를 보였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13711,
+      "question": "하이데거는 후설이 강조한 의식의 지향성 개념을 수용하였지만, 주체를 단지 ‘순수 사유 기능’을 수행하는 인식론적 주체로만 국 한하는 것에는 반대하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13712,
+      "question": "하이데거는 대상이 경험되는 방식이 주체의 삶의 방식과 무관하 게 독립적으로 존재한다고 보았으며, 이를 통해 인식론적 주체와 삶의 주체를 엄격히 분리하고자 하였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13713,
+      "question": "하이데거는 던스 스코터스의 범주론을 연구함으로써 중세 철학 의 전통을 계승하려 했으며, 이는 그가 신칸트주의의 ‘살아 있는 활동’으로서의 주체 개념을 적극적으로 수용한 결과이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13714,
+      "question": "하이데거의 초기 저작들은 당대에는 독창성을 인정받지 못했으 나, 이는 그가 주체의 ‘본래적 삶’이나 ‘현존재’와 같은 개념을 배 제하고 철저히 딱딱한 학술적 범주론에만 천착했기 때문이다. - 2026년도 8급 공개경쟁채용시험 언어논리영",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 13719,
+      "question": "(라)-(나)-(다)-(가) - 2026년도 8급 공개경쟁채용시험 언어논리영",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "⑤",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

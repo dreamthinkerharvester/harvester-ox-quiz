@@ -1,0 +1,145 @@
+{
+  "slug": "l7-2025-subj-0b6013",
+  "name": "물리학개론",
+  "exam_group": "지방직 7급 · 2025년",
+  "subject": "물리학개론",
+  "phase": null,
+  "source": "지방직 7급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 11,
+  "questions": [
+    {
+      "id": 11426,
+      "question": "A 구간에서는 얼음의 온도가 －30°C에서 0°C로 변화한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11427,
+      "question": "B 구간에서는 얼음과 물이 공존한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11428,
+      "question": "C 구간에서는 물의 상전이가 일어나지 않으며, 물에 가한 총에너지는 물의 잠열과 같다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11429,
+      "question": "E 구간에서는 상전이가 일어나지 않으며, 가한 에너지는 수증기의 온도를 높이는 데 사용된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11430,
+      "question": "A의 전기장이 B의 전기장보다 크기가 작다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11431,
+      "question": "b가 a보다 전하 밀도가 더 높다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11432,
+      "question": "축전기에서 유전체를 제거하면 축전기의 용량은 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11433,
+      "question": "축전기에 작용하는 전위차를 2배로 증가시키면 축전기에 저장된 에너지도 2배로 커진다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11435,
+      "question": " 는 진동수와 관계없이 항상 일정하다. ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11436,
+      "question": " 과  는 진동수와 무관하게 항상 같다.  ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11437,
+      "question": "어떤 진동수에서 전류가 최대로 흐를 때 축전기의 전하량은 최대이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

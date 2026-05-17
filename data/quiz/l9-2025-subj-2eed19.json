@@ -1,0 +1,493 @@
+{
+  "slug": "l9-2025-subj-2eed19",
+  "name": "기계일반",
+  "exam_group": "지방직 9급 · 2025년",
+  "subject": "기계일반",
+  "phase": null,
+  "source": "지방직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 40,
+  "questions": [
+    {
+      "id": 10452,
+      "question": "텅스텐 전극을 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10453,
+      "question": "보호가스는 주로 아르곤이나 헬륨을 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10454,
+      "question": "알루미늄과 스테인리스강의 용접에 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10455,
+      "question": "산소－아세틸렌 화염으로 용접하는 가스용접법이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10456,
+      "question": "공구나 일감은 확실하게 고정한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10457,
+      "question": "절삭작업 시 반드시 면장갑을 착용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10458,
+      "question": "절삭작업 시 반드시 보안경을 착용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10459,
+      "question": "절삭칩을 제거할 때 브러시를 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10460,
+      "question": "열간 가공은 금속 재료의 재결정 온도 이상에서 행해진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10461,
+      "question": "인발은 봉(rod)이나 선재(wire rod)를 다이(die) 구멍을 통해 잡아당겨 단면적을 줄이는 공정이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10462,
+      "question": "단접은 재료를 실린더 모양의 컨테이너에 넣고 한쪽에 압력을 가하여 제품을 만드는 성형 공정이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10463,
+      "question": "단조는 해머나 프레스 등으로 공작물에 충격 또는 점진적 압력을 가하여 부품을 만드는 변형 공정이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10464,
+      "question": "페라이트(ferrite)는 철에 탄소가 고용된 고용체이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10465,
+      "question": "오스테나이트(austenite)는 철에 탄소가 고용된 고용체이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10466,
+      "question": "시멘타이트(cementite)는 탄소와 철의 화합물로 단단하고 취성이 크다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10467,
+      "question": "펄라이트(pearlite)는 오스테나이트(austenite)와 시멘타이트 (cementite)의 층상 조직이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10468,
+      "question": "사형 주조는 모래 주형에 용탕을 붓고, 금속을 응고시켜 주물을 제작하는 공정이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10469,
+      "question": "다이캐스팅(die casting)은 용융금속을 금형 내에 고압으로 주입하여 주물을 제작하는 소모성 주형 주조 공정이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10470,
+      "question": "인베스트먼트 주조(investment casting)는 왁스로 만든 모형을 내화재료로 코팅한 후, 모형을 용해유출시키고 그 공간에 용탕을 주입하여 주물을 만드는 공정이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10471,
+      "question": "슬러시 주조(slush casting)는 용탕을 금형에 주입하여 원하는 두께의 응고층을 얻은 뒤, 주형을 거꾸로 하여 미응고 용탕을 배출함으로써 속이 빈 주물을 만드는 공정이다. 2025년도 지방공무원 9급 등 공개경쟁임용 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10472,
+      "question": "철(Fe)이나 구리(Cu)보다 가볍다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10473,
+      "question": "알루미늄 합금은 주물용 및 가공용이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10474,
+      "question": "표면의 알루미나 피막으로 내식성이 좋지 않다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10475,
+      "question": "도전율, 열전도율이 우수하여 전기재료로 적합하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10476,
+      "question": "속도지수는 평균압력과 원주속도의 곱으로, 발열에 의한 손상 없이 장시간 운전이 가능한 허용속도를 나타낸다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10477,
+      "question": "기본 동정격하중은 힘의 크기와 방향이 변하지 않고, 외륜을 고정하고 내륜을 회전시키면서 100만 회전의 정격수명을 얻을 수 있는 하중이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10478,
+      "question": "기본 정정격하중은 가장 큰 하중이 작용하는 접촉부에서 전동체 영구 1 변형량과 궤도륜 영구 변형량의 합이 전동체 지름의 이 10,000 되는 하중이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10479,
+      "question": "정격수명은 같은 규격의 베어링을 동일 조건에서 각각 운전했을 때, 이 중 90%가 피로 박리현상을 일으키지 않고 회전할 수 있는 총회전수이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10480,
+      "question": "사각나사가 자립상태를 유지할 때 나사효율은 50%를 넘지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10481,
+      "question": "두줄 나사의 리드는 동일한 피치를 갖는 한줄 나사 리드의 2배이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10482,
+      "question": "아이 볼트(eye bolt)는 볼트의 머리 부분에 핀을 끼우거나 훅을 걸 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10483,
+      "question": "둥근나사는 나사산과 골이 같은 반지름의 원호로 이은 모양이고, 나사산의 각도는 60°이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10484,
+      "question": "판재가 강판일 때 리벳 재질은 연강이나 특수강을 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10485,
+      "question": "리벳 작업 후 기밀을 더 좋게 하기 위해 풀러링(fullering)을 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10486,
+      "question": "리벳은 결합용 기계요소로 구조가 간단하고 잔류 변형이 거의 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10487,
+      "question": "리벳이음에서 판의 효율은 구멍 없는 판의 인장강도에 대한 리벳의 전단강도비이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10488,
+      "question": "고정와셔: 너트와 결합 부품을 고정한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10489,
+      "question": "톱니붙이 와셔: 와셔의 바깥쪽 면 또는 안쪽 면에 있는 경사진 이빨로 고정한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10490,
+      "question": "멈춤나사: 너트 옆면에 있는 나사 구멍으로 작은 나사를 조여 강한 마찰면을 만든다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10491,
+      "question": "절입너트: 두 개의 너트는 서로 미는 상태가 되고, 나사면의 접촉 압력으로 마찰력이 증대된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

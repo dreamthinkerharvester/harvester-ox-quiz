@@ -1,0 +1,877 @@
+{
+  "slug": "g7-2025-subj-acc26a",
+  "name": "행정학",
+  "exam_group": "국가직 7급 · 2025년",
+  "subject": "행정학",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 72,
+  "questions": [
+    {
+      "id": 9233,
+      "question": "시장성과 기업성이 강한 업무를 수행함으로써 정부에 재정적으로 의존하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9234,
+      "question": "공무원연금공단, 한국연구재단, 국립생태원 등이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9235,
+      "question": "준정부기관의 장은 임원추천위원회가 복수로 추천한 사람 중에서 주무기관의 장이 임명하지만 대통령령으로 정하는 기관의 장은 주무기관의 장의 제청으로 대통령이 임명한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9236,
+      "question": "정부조직이 아니면서 정부로부터 권한을 위임받아 정부가 수행해야 할 공공서비스를 전달한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9237,
+      "question": "공공의 이익을 추구하기 위해 자발적으로 조직되고 운영된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9238,
+      "question": "정부가 각종 사회문제를 해결하지 못하고 시민의 욕구를 충족시키지 못하는 한계를 보완하기 위해 등장하였다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9239,
+      "question": "서비스형 NGO는 국민권익을 보호하는 역할을 담당하고, 주창형 NGO는 사회적 약자를 위한 복지혜택을 제공하는 역할을 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9240,
+      "question": "시민의 참여를 통해 구성되기 때문에 자치성(self-governing)을 특징으로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9241,
+      "question": "배치전환이라고도 하며 외부임용 중 하나이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9242,
+      "question": "기관이 수행하는 다양한 업무에 대한 이해를 가능하게 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9243,
+      "question": "특정 분야에서 전문성 축적을 어렵게 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9244,
+      "question": "조직단위에서 새로운 아이디어의 유입을 기대할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9245,
+      "question": "참여자의 주관적 판단에 의존하는 질적 방법을 따르기 때문에 통계 수치를 활용하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9246,
+      "question": "참여자들의 익명성을 철저히 보장하여 의견의 자유로운 표현을 유도한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9247,
+      "question": "참여자들은 전문성 자체보다 다양한 이해관계와 식견을 가진 인물 중심으로 구성된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9248,
+      "question": "참여자 간 갈등을 최대한 억제하며 합의된 의견의 도출을 지향한다. 행 정 학 책형 1쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9249,
+      "question": "사회현상에 대한 분석도 자연과학과 마찬가지로 엄밀한 과학적 연구가 가능하다고 본다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9250,
+      "question": "자료의 계량적 분석을 특징으로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9251,
+      "question": "행태의 규칙성, 상관성 및 인과성을 경험적으로 입증하고 설명할 수 있다고 본다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9252,
+      "question": "가치와 사실의 분리를 통해 급박한 정책문제 해결을 위한 역할을 하고 학문의 실천적 성격을 회복하였다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9253,
+      "question": "구조화된 모의 상황을 설정해 현실적 직무 상황에 근거한 행동을 관찰해 평가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9254,
+      "question": "과거의 근무성과와 근무태도에 대한 근무평정 점수를 반영한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9255,
+      "question": "다양한 기법을 활용해 평가대상자의 미래 행동에 대한 잠재력을 평가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9256,
+      "question": "역량평가 기법으로는 집단토론, 서류함기법 등이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 7,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9257,
+      "question": "대의민주주의를 견고히 강화하는 수단으로 활용된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9258,
+      "question": "정책결정의 절차적 정당성과 수용성을 높이는 데 기여한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9259,
+      "question": "숙의민주주의를 구체화하는 방법으로 공론조사, 합의회의, 시민 배심원제 등이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9260,
+      "question": "충분한 정보제공과 균형 잡힌 토론을 전제로 하며, 정책에 대한 사회적 갈등을 완화하는 기능을 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9261,
+      "question": "형식주의나 공식성에 얽매이지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9262,
+      "question": "수평적 분화가 낮고 수직적 분화가 높다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9263,
+      "question": "업무 수행 상황에 대한 탄력적 대응을 강조하기 때문에 규칙을 최소화한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9264,
+      "question": "상황에 대한 신속한 대응을 강조하기 때문에 문제해결의 전문성을 가진 사람이 참여한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9265,
+      "question": "위원의 임명 시기를 달리함으로써 정책의 계속성을 확보할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9266,
+      "question": "의사결정에 다양한 사람이 참여한다는 점에서 신중한 결정을 내릴 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9267,
+      "question": "참여자들의 결정에 대한 책임성을 높인다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9268,
+      "question": "의사결정 과정에서 시간이 지연되어 비용이 소요된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9269,
+      "question": "신고전주의 경제학의 원리를 통해 정치 및 행정 현상을 설명한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9270,
+      "question": "공공서비스를 생산하고 제공하는 데 있어 정부관료제가 유일한 최선의 방안은 아니라는 입장이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9271,
+      "question": "방법론적 개체주의(methodological individualism) 입장을 견지한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9272,
+      "question": "오스트롬(E. Ostrom)은 관료가 소관 예산의 극대화를 추구한다고 주장한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9273,
+      "question": "조직의 전략 및 성과와 인적자원관리 활동을 연계한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9274,
+      "question": "목표중심적이고 성과중심적인 인력관리를 추구한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9275,
+      "question": "장기적 관점에서 조직의 전략수립과 전략달성을 가능하게 하는 인적자본의 육성에 초점을 둔다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9276,
+      "question": "직무만족, 동기부여, 조직시민행동 등 개인의 심리적 측면을 강조한다. 행 정 학 책형 2쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9277,
+      "question": "우리나라에서는 지출 항목별 평가 등을 통해 국회의 심의와 의결을 받고 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9278,
+      "question": "세법상의 비과세, 감면, 공제 등 다양한 형태로 이루어진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9279,
+      "question": "정부가 실제로 지출하지 않고도 지출과 유사한 효과를 얻을 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9280,
+      "question": "조세 상의 특혜를 부여한다는 점에서 ‘감추어진 보조금’ (hidden subsidies)이라고도 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9281,
+      "question": "공직자의 이해충돌 방지법 상 모든 공직자는 직무관련자가 사적 이해관계자임을 안 경우 안 날부터 7일 이내에 신고하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9282,
+      "question": "국가공무원법 에는 종교중립의 의무가 규정되어 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9283,
+      "question": "공직자윤리법 에는 선물신고와 주식의 매각 또는 신탁에 관한 규정이 포함되어 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9284,
+      "question": "국가공무원법 상 수사기관이 공무원을 구속하려면 그 소속 기관의 장에게 미리 통보하여야 하나, 현행범은 그러하지 아니하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9285,
+      "question": "2개 이상의 지방자치단체에 관련된 사무의 일부를 공동으로 처리하기 위하여 구성된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9286,
+      "question": "협의회의 규약에는 운영과 사무처리에 필요한 경비의 부담이나 지출방법이 포함되어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9287,
+      "question": "사무와 관계된 중앙행정기관의 장은 공익상 필요하면 관계 지방자치단체장에 대하여 협의회를 구성하도록 권고할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9288,
+      "question": "협의회에서 합의가 이루어지지 아니한 사항에 대하여 관계 지방자치단체의 장이 조정을 요청하면 시ㆍ도 간의 협의사항에 대해서는 행정안전부장관이 조정할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9289,
+      "question": "모니터링은 집행의 능률성과 효과성을 확보하기 위한 목적으로 수행된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9290,
+      "question": "형성평가는 정책집행 도중에 프로그램의 개선을 위해 실시된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9291,
+      "question": "총괄평가는 정책집행 후 정책이 미친 영향을 판단하는 활동이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9292,
+      "question": "환경영향평가와 교통영향평가는 정책집행 이후에 실시되며, 효과성 평가의 대표적인 예이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9293,
+      "question": "정부는 재정운용의 효율화와 건전화를 위해 매년 국가재정운용 계획을 수립하여 국회에 제출해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9294,
+      "question": "국가재정운용계획에는 재정운용의 기본방향과 목표, 중기 재정전망 및 근거, 분야별 재원배분계획 등이 포함되어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9295,
+      "question": "각 중앙관서의 장은 재정지출을 수반하는 중ㆍ장기계획을 수립하는 때에는 미리 기획재정부장관과 협의하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9296,
+      "question": "지방자치단체의 장은 국가의 재정지원에 따라 수행되는 사업의 계획을 수립하는 때에는 미리 기획재정부장관과 협의하여야 한다. 행 정 학 책형 3쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9297,
+      "question": "중앙행정기관에 소속되어, 당해 관할구역 내에서 시행되는 소속 중앙행정기관의 권한에 속하는 행정사무를 관장하는 국가의 지방행정기관이 해당된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9298,
+      "question": "전국적 통일성이나 고도의 전문성보다는 주민의 자치사무를 촉진하기 위한 목적이 강하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9299,
+      "question": "지방노동청, 지방경찰청, 지방보훈청, 우체국 등이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9300,
+      "question": "지방자치단체의 기능과 유사하거나 중복되는 측면이 있어 행정 비용이 증가하는 문제점이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9301,
+      "question": "5급 이상 모든 공무원은 1년의 시보임용 기간을 거친다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9302,
+      "question": "시보임용 기간 중에 있는 공무원은 훈련을 받는 기간 동안 봉급이 지급되지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9303,
+      "question": "임용권자는 시보임용 기간 중에 공무원으로서 품위를 크게 손상하는 행위를 함으로써 공무원으로서의 자질이 부족하다고 판단되는 경우 시보 공무원을 면직시킬 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 9304,
+      "question": "6급 이하 임기제 공무원의 시보임용 기간은 6개월이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

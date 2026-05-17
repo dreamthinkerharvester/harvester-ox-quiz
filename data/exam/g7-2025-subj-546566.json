@@ -1,0 +1,229 @@
+{
+  "category": {
+    "slug": "g7-2025-subj-546566",
+    "name": "수리수문학",
+    "exam_group": "국가직 7급 · 2025년",
+    "subject": "수리수문학",
+    "phase": null,
+    "exam_year": 2025,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 8290,
+      "statement": "프루드(Froude) 수가 1보다 큰 흐름의 수심",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 4,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8293,
+      "statement": "평균유속이 장파의 전파속도보다 작은 흐름의 수심",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 4,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8294,
+      "statement": "사이펀 내 부압이 생기는 곳이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 19,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8295,
+      "statement": "관의 일부가 동수경사선보다 높은 경우의 관수로를 의미한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 19,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8296,
+      "statement": "관의 정점부의 위치가 높을수록 정점부에서의 압력은 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 19,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8297,
+      "statement": "현장에서 사이펀의 정점부와 동수경사선의 고저차가 8.0～9.0m 이상일 경우, 사이펀을 적용하지 않는다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 19,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8298,
+      "statement": "온도가 상승하면 물의 점성계수는 작아진다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 21,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8299,
+      "statement": "온도가 상승하면 물의 동점성계수는 커진다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 21,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8300,
+      "statement": "동점성계수는 점성계수를 밀도로 나눈 값이며, 단위는 stokes를 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 21,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 8301,
+      "statement": "액체의 점성계수와 기체의 점성계수는 온도에 따라 상반되는 변화관계를 보인다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "250920 국가 7급 2차 수리수문학-가.pdf",
+      "source": {
+        "qid": 21,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:38+00:00",
+    "total": 10,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

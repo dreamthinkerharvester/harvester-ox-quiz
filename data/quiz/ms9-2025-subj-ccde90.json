@@ -1,0 +1,397 @@
+{
+  "slug": "ms9-2025-subj-ccde90",
+  "name": "공기조화",
+  "exam_group": "군무원 9급 · 2025년",
+  "subject": "공기조화",
+  "phase": null,
+  "source": "군무원 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 32,
+  "questions": [
+    {
+      "id": 11922,
+      "question": "실이 외기와 접하는 창문면의 정도에 따라 환기횟수에 의한 방법",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11923,
+      "question": "창이나 문의 열관류율에 의한 방법 공기조화(9급 화 (9 급 ) 드 : 005) 성명 : 용 4. 습공기선도에 대한 설명으로 가장 적절한 것은? 화 ① 습공기선도를 통하여 일정한 상태점 공기의 의 습구온도, 절대습도, 엔트로피, 비열비, 풍속 지 등을 알 수 있다. ② 습공기선도의 일정한 상태점에서 좌측으로 그은 수평선과 포화공기선과의 교점에서 노점온도를 읽을 수 있다. ③ 습공기선도에서 우측 하향으로 기울기가 급한 선이 습공기의 상대습도를 나타내는 선이다. ④ 습공기의 가습 상태변화 시 발생하는 가습 방향을 추적하기 위해서는 현열비를 이용 장 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11924,
+      "question": "난방에 필요한 온열원장치로는 보일러를 사용 하고, 냉방에 필요한 냉열원장치로는 냉동기가 사용된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11925,
+      "question": "열을 운반하는 매개물질인 공기와 물을 이동 시키는 송풍기, 펌프, 덕트, 배관 등을 열운반 장치라고 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11926,
+      "question": "실내로 공급되는 공기를 사용 목적에 적합하도록 만들어 주는 공기조화기는 일반적으로 송풍기, 냉각코일, 가열코일, 가습기, 필터 순서로 구성 된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11927,
+      "question": "공기조화 장치의 경제적인 운전을 위하여 각종 기기의 운전, 정지, 유량 조정 등을 하는 밸브, 량 댐퍼, 각종 스위치 등을 자동제어장치라고 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11928,
+      "question": "대수평균온도차(LMTD)               ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11929,
+      "question": "대수평균온도차(LMTD)               ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11930,
+      "question": "대수평균온도차(LMTD)           1     ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11931,
+      "question": "대수평균온도차(LMTD)           ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11932,
+      "question": "남측 외벽 공기조화(9급 절 10. 공기조화 부하에 대한 설명으로 가장 적절하지 않은 것은? ① 실내의 온도와 습도를 일정하게 유지시키기 위하여 제거해야 할 열량 또는 공급해야 할 열량을 열원부하라고 한다. ② 환기를 위해 외기를 공조기로 도입하여 실내의 온도와 습도 상태까지 냉각·감습하거나 가열· 가습하는데 필요한 열량을 외기부하라고 한다. 장 ③ 공기의 건구온도를 변화시키기 위하여 가열 와 또는 냉각하는 열부하를 현열부하라고 한다. 와 ④ 기간부하는 합리적인 공조설비 계획과 연간 운전비를 산출하는데 활용된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11933,
+      "question": "실내에는 취출구나 흡입구를 설치하면 되므로 팬코일과 같은 기구의 노출이 없어서 실내 유효 면적을 넓힐 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11934,
+      "question": "송풍량이 많아서 실내공기의 오염이 심하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11935,
+      "question": "열매체인 냉·온풍의 운반에 필요한 팬의 소요 동력이 냉·온수를 운반하는 펌프동력보다 적게 든다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11936,
+      "question": "이 방식의 적용은 업무용 사무실, 병실 등과 같이 극간풍이 비교적 많고 재실인원이 적은 방에 적당하다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11937,
+      "question": "흡입구는 수위면에서부터 관경의 2배 이상 물속으로 들어가게 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11938,
+      "question": "토출부에 설치한 체크밸브는 펌프에서 가까운 곳에 설치한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11939,
+      "question": "흡입관의 길이는 되도록 길게 하는 것이 좋다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11940,
+      "question": "흡입관의 수평배관 펌프를 향해 위로 올라가도록 설계한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11941,
+      "question": "중앙기계실의 열원장치로부터 냉수 또는 온수나 증기를 배관을 통해 각 실에 있는 팬코일 유닛 1 (FCU)에 공급하여 실내공기와 열교환시켜 냉난방 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11942,
+      "question": "각 실에 수배관 파손으로 인한 누수의 우려가 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11943,
+      "question": "외기량이 부족하여 실내공기의 오염은 심하지만 실내 소음은 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11944,
+      "question": "겨울철 유닛을 실내 외측 창문 밑에 설치하면 콜드 드래프트(Cold draft)를 줄일 수 있다. 공기조화(9급 로 16. 수분무식 가습방식에 대한 설명으로 가장 적절하지 않은 것은? 로 ① 수분무식은 분사력이나 초음파 진동 등으로 효 물을 미세화시켜 공기 중에 방출하여 가습 하는 방식이다. ② 가습된 공기의 상대습도가 100% 이내이므로 요 주변 물체에 결로를 일으키지 않는다. 게 ③ 가습기에서 나온 미세한 물방울이 공기 중에 확산 증발되는 과정에서 공기 중의 증발잠열을 과 흡수하므로 가습 후 공기온도가 내려간다. 은 ④ 수분무식의 종류는 원심식, 초음파식, 노즐 분무식이 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11946,
+      "question": "배관에 코팅, 도장, 도금을 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11947,
+      "question": "보급수의 용존산소를 제거한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11948,
+      "question": "이온화 경향의 차이가 큰 관끼리 연결한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11949,
+      "question": "금속관에 물기가 없도록 하거나 난방 코일 2 등에는 물을 완전히 채워 공기의 접촉이 없게 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11950,
+      "question": "동일한 풍량을 송풍할 때 덕트의 마찰손실은 단면이 원형인 원형덕트가 가장 적다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11951,
+      "question": "원형덕트를 장방형덕트로 환산하는 이유는 공기를 15m/s 이상의 고속으로 이동시키기 위해서다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11952,
+      "question": "장방형덕트의 장변과 단변의 비를 아스펙트비 (Aspect ratio)라 하며 보통 4:1이하가 바람직 2 하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11953,
+      "question": "원형덕트 직경 d와 장방형덕트 장변 a, 단변  ․  b와의 관계식은 d=  이다. ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 21,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11954,
+      "question": "166.77kW 공기조화(9급 가 23. 노통 연관보일러에 대한 설명으로 가장 적절한 것은? ① 재질이 주철이므로 내식성이 강하여 수명이 길다. ② 보유수면이 넓어 급수용량 제어가 쉽고 예열 시간이 길다. ③ 비교적 설치면적이 넓고 초기투자비가 많이 들며 급수처리가 까다롭다. ④ 수직으로 세운 드럼 내에 연관(Fire tube) 또는 수관(Water tube)이 있는 소규모 보일러이다. 일 24. 정상 운전 중인 송풍기의 풍량 제어에 대한 설명 이 으로 가장 적절하지 않은 것은? ① 토출댐퍼에 의한 제어는 댐퍼를 조이면 송풍량이 감소하고 송풍압력은 증가한다. ② 흡입댐퍼에 의한 제어는 댐퍼를 조이면 송풍량이 로 감소하고 송풍압력도 감소한다. ③ 흡입베인에 의한 제어는 베인을 조금씩 닫으면 은 송풍량이 감소하고 송풍압력도 감소한다. ④ 전동기 회전수를 바꾸는 회전수에 의한 제어는 는 효율은 좋으나 축동력이 가장 많이 소요된다. 기 비 직 25. 공기조화 배관회로방식에 대한 설명으로 가장 적절하지 않은 것은? 변 ① 배관 말단이 개방된 개방회로방식은 물이 대기 중에 노출되므로 수중에 산소량이 많아 배관 부식이 심하다. ② 순환수가 공기와 접촉하지 않는 밀폐회로 방식은 펌프 양정이 크기 때문에 개방회로 이 방식보다 동력비가 많이 든다. 의 ③ 직접환수방식에서 기기에 흐르는 유량을 는 균일하게 하기 위해서는 각 기기마다 정유량 조절밸브를 설치한다. ④ 역환수방식은 급수로부터 각 유닛을 거쳐 나오는 총 길이가 동일하므로 기기마다의 저항이 균일하게 되어 유량도 균일하다. (9급) 4 - 4",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

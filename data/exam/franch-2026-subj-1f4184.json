@@ -1,0 +1,334 @@
+{
+  "category": {
+    "slug": "franch-2026-subj-1f4184",
+    "name": "민법",
+    "exam_group": "가맹거래사 1차 · 2026년",
+    "subject": "민법",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 22462,
+      "statement": "甲의 이해관계인은 위난이 종료한 때로부터 할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 43,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22463,
+      "statement": "甲의 실종선고로 인한 재산상속에 있어서 속인은 특별한 사정이 없는 한 법원에 甲의",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 43,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22465,
+      "statement": "법원으로부터 실종선고를 받은 甲은 2020.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 43,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22466,
+      "statement": "법원으로부터 실종선고를 받은 甲이 2026 그때부터 별도의 절차없이 효력을 상실한다",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 43,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22468,
+      "statement": "이행기가 각각 도래한 후 매매목적물의 인도 특별한 사정이 없는 한 그 이후의 과실수취",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 68,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22469,
+      "statement": "부동산 매도인이 매수인에게 소유권이전등 으로는 특별한 사정이 없는 한 그의 권리이",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 68,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22470,
+      "statement": "매도인이 말소할 의무를 부담하고 있는 매 있다면 매수인은 그 위험의 한도에서 매매",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 68,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22471,
+      "statement": "수량지정 매매에 있어서 매도인의 담보책임에 악의인 경우에는 인정되지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 68,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22476,
+      "statement": "계약에 위반한 사용ㆍ수익으로 인한 손해의 부터 6개월이 지났지만, 3년이 지나기 전에",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 72,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22479,
+      "statement": "건물의 임대차기간은 3년으로 정할 수 있다",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 73,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22481,
+      "statement": "동산의 임대차기간은 6개월로 정할 수 있다",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 73,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22482,
+      "statement": "수임인은 부득이한 사유가 있는 경 위임사무를 처리하게 할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 79,
+        "option": "ㄱ"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22483,
+      "statement": "수임인이 위임인을 위하여 자기의 하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 79,
+        "option": "ㄴ"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22484,
+      "statement": "위임사무의 처리에 비용을 요하는 때 이를 선급하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 79,
+        "option": "ㄷ"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22485,
+      "statement": "수임인이 위임사무의 처리를 위하여 대하여 그 배상을 청구할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "민법.pdf",
+      "source": {
+        "qid": 79,
+        "option": "ㄹ"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 15,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

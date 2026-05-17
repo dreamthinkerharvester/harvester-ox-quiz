@@ -1,0 +1,133 @@
+{
+  "slug": "fire-misc-2026---074557",
+  "name": "경력채용 화학개론",
+  "exam_group": "소방 · 2026년",
+  "subject": "경력채용 화학개론",
+  "phase": null,
+  "source": "소방",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 10,
+  "questions": [
+    {
+      "id": 20803,
+      "question": "CaC 몰에는 총 몰의 이온이 들어 있다. ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20805,
+      "question": "기체 입자의 평균 속력은   에 반비례한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20806,
+      "question": "기체 입자의 평균 속력은   에 비례한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20807,
+      "question": "기체 입자의 평균 운동 에너지는 에 비례한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20808,
+      "question": "기체 입자의 평균 운동 에너지는 에 비례한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20810,
+      "question": "온도가 높아지면 는 작아진다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20811,
+      "question": "평형 상태에서 정촉매를 넣으면 생성물의 농도가 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20812,
+      "question": "평형 상태에서 용기 부피를 감소시켜 압력을 증가시키면 역반응이 우세하게 진행된다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20813,
+      "question": "㉯~㉱ 중 광학 이성질체를 갖는 것은 개이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 20814,
+      "question": "결정장 갈라짐 에너지는 ㉱가 ㉮보다 크다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 30,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

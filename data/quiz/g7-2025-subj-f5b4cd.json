@@ -1,0 +1,61 @@
+{
+  "slug": "g7-2025-subj-f5b4cd",
+  "name": "전기자기학",
+  "exam_group": "국가직 7급 · 2025년",
+  "subject": "전기자기학",
+  "phase": null,
+  "source": "국가직 7급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 4,
+  "questions": [
+    {
+      "id": 8835,
+      "question": "전기장과 자기장의 위상은 항상 같다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8836,
+      "question": "전기장과 자기장은 항상 서로 수직이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8837,
+      "question": "전기장과 자기장은 항상 진행 방향과 수직한 방향이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 8838,
+      "question": "전기장의 크기와 자기장의 크기의 비는 모든 지점에서 항상 일정하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

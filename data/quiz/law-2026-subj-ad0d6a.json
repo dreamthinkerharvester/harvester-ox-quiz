@@ -1,0 +1,61 @@
+{
+  "slug": "law-2026-subj-ad0d6a",
+  "name": "형사법",
+  "exam_group": "변호사시험 · 2026년",
+  "subject": "형사법",
+  "phase": null,
+  "source": "변호사시험",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 4,
+  "questions": [
+    {
+      "id": 22486,
+      "question": "㉠에서 양벌규정에서 행위자인 甲과 사업주인 乙주식회사는 공소시효의 정지에 관한 ｢형사소송법｣ 제253조 제2항의 ‘공 범’에 포함되므로, 甲에 대한 공소제기로 乙주식회사에 대한 공소사실에 관한 공소시효의 진행이 정지되어 乙주식회사에 대한 공소사실은 공소시효가 완성되지 않았다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "ㄱ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22487,
+      "question": "甲의 ㉡행위는 사문서위조죄와 위조사문서행사죄에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "ㄴ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22488,
+      "question": "甲의 ㉢과 ㉣의 행위는 포괄하여 상습존속폭행죄에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "ㄷ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 22489,
+      "question": "만약 甲이 ㉢행위에 대하여 존속폭행죄로 기소되었고 제1심 에서 상습존속폭행죄로 공소장변경이 되었다면, 공소장변경 이후 제1심판결 선고 전에 A가 법원에 처벌불원의사를 밝혔 더라도 법원은 이를 이유로 공소기각판결을 선고할 수 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "ㄹ",
+        "qtype": "sub-all-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

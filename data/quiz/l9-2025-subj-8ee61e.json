@@ -1,0 +1,505 @@
+{
+  "slug": "l9-2025-subj-8ee61e",
+  "name": "지적측량",
+  "exam_group": "지방직 9급 · 2025년",
+  "subject": "지적측량",
+  "phase": null,
+  "source": "지방직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 41,
+  "questions": [
+    {
+      "id": 11065,
+      "question": "회전타원체의 장축은 지구의 자전축과 일치해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11066,
+      "question": "우리나라에서 채택한 세계측지계 타원체는 GRS80이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11067,
+      "question": "회전타원체의 중심은 지구의 질량중심과 일치해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11068,
+      "question": "지구를 편평한 회전타원체로 상정하여 실시하는 위치측정의 기준이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11071,
+      "question": "경계점좌표등록부 시행지역의 지적도근점: ±15",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11072,
+      "question": "측량성과 검사대상은 지구계점, 가구점 및 필계점으로 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11073,
+      "question": "확정측량에 의한 세계좌표의 성과검사는 현지측량 검사를 원칙으로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11074,
+      "question": "세계좌표의 현지 측량성과 검사방법은 경위의측량방법 또는 위성측량방법으로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11075,
+      "question": "확정측량 성과검사는 측량에 사용한 기지점과 신설점, 신설점 상호간의 실측거리에 의하여 비교해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11076,
+      "question": "지적삼각점은 위성측량방법으로 실시할 경우 정지측량에 의한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11077,
+      "question": "지적도근점은 위성측량방법으로 실시할 경우 정지측량 및 단일기준국 실시간 이동측량에 의한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11078,
+      "question": "지적기준점 및 지적공부상 좌표의 산출은 소수점 이하 셋째 자리까지 하고 결정은 소수점 이하 둘째 자리까지 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11079,
+      "question": "지적기준점의 좌표는 세계좌표로 산출한다. 다만, 사업지구계 결정을 위하여 필요한 경우 지역좌표 산출을 병행할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11080,
+      "question": "경중률은 노선거리에 비례한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11081,
+      "question": "경중률은 측정 횟수에 비례한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11082,
+      "question": "경중률은 정밀도의 제곱에 비례한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11083,
+      "question": "경중률은 우연오차의 제곱에 반비례한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11084,
+      "question": "관측은 20초독 이상의 경위의를 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11085,
+      "question": "연직각을 관측하는 경우에는 올려본 각과 내려본 각을 관측하여 교차가 90초 이내일 때에는 평균치를 연직각으로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11086,
+      "question": "수평각의 관측은 시가지지역, 축척변경지역 및 경계점좌표등록부 시행지역 등은 방위각법에 따르고, 그 밖의 지역은 배각법을 사용한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11087,
+      "question": "점간거리를 측정하는 경우에는 2회 측정하여 그 측정치의 교차가 평균치의 3천분의 1 이하일 때에는 평균치를 점간거리로 한다. 이 경우 점간거리가 경사거리일 때에는 수평거리로 계산하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11088,
+      "question": "DOP의 수치가 낮을수록 기하학적으로 정도가 낮다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11089,
+      "question": "VDOP는 수신기의 높이 정밀도 저하율을 수치로 나타낸 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11090,
+      "question": "HDOP는 수신기의 수평위치 정밀도 저하율을 수치로 나타낸 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11091,
+      "question": "GDOP는 수신기의 위도, 경도, 높이, 시계 정밀도 저하율 전체를 수치로 나타낸 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11092,
+      "question": "지적위성측량에 의한 표고결정은 국가 지오이드모델을 이용할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11093,
+      "question": "GNSS측량기로부터 수신된 원시데이터는 GNSS 공통 포맷인 DWG 파일로 변환하여 원시데이터와 함께 관리하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11094,
+      "question": "이동측량을 수행하는 경우, GNSS측량기에 표시하는 HDOP가 2 이상이거나 위치정밀도가 수평 ±2cm 이상 또는 수직 ±3cm 이상인 경우 관측을 중지해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11095,
+      "question": "‘다중기준국 실시간 이동측량’이란 2점 이상의 위성기준점을 이용하여 산출한 보정정보와 기지국이 수신한 GNSS 반송파 위상 신호를 실시간 기선해석을 통해 이동국의 위치를 결정하는 측량이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11096,
+      "question": "지적위성측량에 의한 기선해석은 세션별로 실시하되 단일기선 해석방법으로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11097,
+      "question": "기선해석 시에 사용되는 단위는 미터단위로 하고 계산은 소수점이하 셋째 자리까지 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11098,
+      "question": "기선해석을 점검할 때 폐합기선장의 총합이 10km 미만인 경우 기선벡터의 각 성분의 폐합차 허용범위는 5cm 이내이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11099,
+      "question": "기선해석은 당해 관측지역의 가장 가까운 위성기준점(최소 2점 이상) 또는 세계좌표를 이미 알고 있는 측량기준점을 기점으로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11100,
+      "question": "지적삼각점표지의 점간 거리는 평균 2km 이상 5km 이하로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11101,
+      "question": "지적삼각점은 유심다각망, 삽입망, 사각망, 삼각쇄 또는 삼변 이상의 망으로 구성하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11102,
+      "question": "삼각형의 각 내각은 30° 이상 120° 이하로 한다. 다만, 망평균 계산법과 삼변측량에 따를 경우 그러하지 아니하다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11103,
+      "question": "수평각의 측각공차에서 1측회 폐색 오차는 ±40초 이내여야 하며, 3대회(윤곽도는 0°, 60°, 120°)의 방향관측법을 따라야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11104,
+      "question": "정사영상의 기준점과 지상기준점의 위치 차이는 평면 ±0.05m 이내여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11105,
+      "question": "지적재조사측량 지역인 경우 정사영상의 검사점 평면위치의 연결교차는 ±0.07m 이내여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11106,
+      "question": "드론영상 촬영 시 지상표본거리는 지적재조사측량의 경우 0.03m, 그 외의 지적측량의 경우 0.05m 이내로 설정한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11107,
+      "question": "드론영상의 중복도는 촬영 진행방향으로 65% 이상으로 하고, 매칭점이 부족하거나 높이차가 있는 지역의 촬영방향의 중복도는 60% 이상으로 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

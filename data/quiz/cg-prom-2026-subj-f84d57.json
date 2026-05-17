@@ -1,0 +1,937 @@
+{
+  "slug": "cg-prom-2026-subj-f84d57",
+  "name": "항공법규",
+  "exam_group": "해경 승진 · 2026년",
+  "subject": "항공법규",
+  "phase": null,
+  "source": "해경 승진",
+  "exam_year": 2026,
+  "exam_round": null,
+  "count": 77,
+  "questions": [
+    {
+      "id": 21209,
+      "question": "교체비행장까지 비행에 필요한 연료의 양에 30분간 더 비행할 수 있는 양",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21210,
+      "question": "교체비행장까지 비행에 필요한 연료의 양에 45분간 더 비행할 수 있는 양",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21214,
+      "question": "비상위치지시용 무선표지설비(ELT) 경 사 항공법규 CODE 05 1/5",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21219,
+      "question": "활공기를 중심으로 반지름 500 m 이내의 가장 높은 장애물 상단으로부터 300 m 이하의 고도",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21220,
+      "question": "지표로부터 450 m (1,500피트) 미만의 고도 2026년도 경찰공무원 승진시험 문제지",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21225,
+      "question": "정면 또는 이와 유사하게 접근하는 경우에는 1 서로 기수를 왼쪽으로 돌려야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21226,
+      "question": "비상착륙하는 항공기를 인지한 항공기는 그 항공기에 진로를 양보하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21227,
+      "question": "앞지르기하려는 항공기는 앞지르기당하는 항공기의 오른쪽을 통과해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21228,
+      "question": "다른 항공기에 진로를 양보하는 항공기는 그 다른 항공기의 상하 또는 전방을 통과해서는 아니 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21229,
+      "question": "비행장 이동지역 안에서 이동시 충돌방지등과 1 항행등을 켜야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21230,
+      "question": "비행장에서 항공기를 조명하는 시설이 있는 경우 에는 더 밝게 보이도록 항행등을 전부 켜야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21231,
+      "question": "섬광등이 업무를 수행하는 데 장애를 주거나 외부에 있는 사람에게 눈부심을 주어 위험을 유발할 수 있는 경우에는 섬광등을 끄거나 빛의 강도를 줄여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21232,
+      "question": "항공기를 야간에 사용되는 비행장에 주기시키는 경우에는 항행등으로 잘못 인식될 수 있는 1 다른 등불을 켜서는 아니 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21233,
+      "question": "항공유 저장시설 경 사 항공법규 CODE 05 2/5",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 13,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21235,
+      "question": "항공기의 중대한 손상, 파손 또는 구조상의 결함이 발생했을 경우",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21236,
+      "question": "다른 항공기의 추락, 충돌 또는 화재가 발생한 사실을 무선설비로 인지한 경우",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21237,
+      "question": "항공기의 위치를 확인할 수 없거나 항공기에 접근이 불가능한 경우",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21240,
+      "question": "착륙복행표면 2026년도 경찰공무원 승진시험 문제지",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21242,
+      "question": "외국에 임대할 목적으로 도입한 항공기로서 외국국적을 취득할 항공기",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21243,
+      "question": "외국에 등록된 항공기를 임차하여 국내에서 사용할 항공기",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21244,
+      "question": "국내에서 제작되고 대한민국 국민인 소유자가 결정된 항공기",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21248,
+      "question": "자격증명의 정지기간 중에 항공업무에 종사한 경우",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21249,
+      "question": "항공업무를 수행할 때 고의 또는 중대한 과실로 인명피해나 재산피해를 발생하게 한 경우",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21250,
+      "question": "운항기술기준을 지키지 아니하고 비행을 하거나 업무를 수행한 경우",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21251,
+      "question": "최대이륙중량 5,700 kg 을 초과하는 항공기를 운항 하는 항공사업자",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21254,
+      "question": "항공기사용사업자 경 사 항공법규 CODE 05 3/5",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 22,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21255,
+      "question": "항공기사고 외에 항공기사고로 발전할 수 있는 상황, 상태 등",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21256,
+      "question": "항공기사고 및 항공기준사고 외에 항공기사고로 발전할 수 있는 상황, 상태 등",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21257,
+      "question": "항공기사고 및 항공기준사고 외에 항공기 운항 및 항행안전시설과 관련하여 항공안전에 영향을 미칠 우려가 있는 상황, 상태 등",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21258,
+      "question": "항공기사고, 항공기준사고 또는 항공안전장애를 발생시킬 수 있거나 발생 가능성의 확대에 기여할 수 있는 상황, 상태 등",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 23,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21259,
+      "question": "항공기, 발동기, 프로펠러를 정비・수리 또는 개조하는 업무",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21260,
+      "question": "항공기 장비품 또는 부품을 정비・수리 또는 개조하는 업무",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21261,
+      "question": "항공기, 발동기, 프로펠러를 정비・수리 또는 개조하는 업무에 대한 기술관리 및 품질관리 등을 지원하는 업무",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21262,
+      "question": "항공기를 사용하여 유상으로 항공기 정비자재 등을 운반하는 업무",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 25,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21263,
+      "question": "정밀기압고도계 2026년도 경찰공무원 승진시험 문제지",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 26,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21264,
+      "question": "최대이륙중량 15,000 kg 이상의 비행기",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21266,
+      "question": "항공운송사업에 사용되는 터빈발동기를 장착한 비행기",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21267,
+      "question": "승객 4명을 태운 항공운송사업 외의 용도로 사용되는 터빈발동기를 장착한 비행기",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 27,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21268,
+      "question": "착륙하지 아니하고 550 km 이상의 구간을 비행 하는 항공기 – 조종사 및 항공사",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 28,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21269,
+      "question": "구조상 단독으로 발동기 및 기체를 완전히 취급할 수 없는 항공기 – 조종사 및 항공기관사",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 28,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21270,
+      "question": "인명구조 등 특수임무를 수행하는 쌍발 헬리콥터 – 조종사(기장과 기장 외의 조종사) 3",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 28,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21271,
+      "question": "여객운송에 사용되는 항공기 – 조종사 및 운항 관리사",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 28,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21273,
+      "question": "예항줄의 길이는 40 m 이상 80 m 이하로 할 것 3",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 29,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21275,
+      "question": "예항줄 길이의 70 % 에 상당하는 고도 이상의 고도에서 예항줄을 이탈시킬 것",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 29,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21277,
+      "question": "정당한 사유 없이 정비조직인증기준을 위반한 경우",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21278,
+      "question": "고의 또는 중대한 과실에 의하여 항공기사고가 발생한 경우",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21279,
+      "question": "승인을 받지 아니하고 국토교통부령으로 정하는 중요 사항을 변경한 경우",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 31,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21280,
+      "question": "국토교통부장관의 승인를 받아야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 32,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21281,
+      "question": "국토교통부장관의 허가를 받아야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 32,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21282,
+      "question": "지방항공청장의 승인를 받아야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 32,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21283,
+      "question": "지방항공청장의 허가를 받아야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 32,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21284,
+      "question": "2년 이하의 징역 또는 5,000만원 이하의 벌금",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 33,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21285,
+      "question": "2년 이하의 징역 또는 3,000만원 이하의 벌금",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 33,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21286,
+      "question": "3년 이하의 징역 또는 5,000만원 이하의 벌금",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 33,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21287,
+      "question": "3년 이하의 징역 또는 3,000만원 이하의 벌금",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 33,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21288,
+      "question": "비행장에 설치된 항공기의 이륙ㆍ착륙을 위한 시설과 그 부대시설로서 국토교통부장관이 지정한 시설",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21289,
+      "question": "항공기의 이륙(이수)과 착륙(착수)을 위하여 사용되는 육지 또는 수면의 일정한 구역",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21290,
+      "question": "항공기의 안전운항을 위하여 공항 또는 비행장 주변에 장애물의 설치 등이 제한되는 표면",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21291,
+      "question": "활주로와 항공기가 활주로를 이탈하는 경우 항공기와 탑승자의 피해를 줄이기 위하여 활주로 주변에 설치하는 안전지대 2026년도 경찰공무원 승진시험 문제지",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 34,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21292,
+      "question": "배기에 대한 방화장치가 있는 차량은 모두 격납고 내에서 운전할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21293,
+      "question": "보호구역에서는 공항운영자가 승인한 자 이외의 자는 차량 등을 운전할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21294,
+      "question": "차량 등의 수선 및 청소는 공항운영자가 정하는 장소 이외에서는 할 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21295,
+      "question": "공항구역에 정기로 출입하는 버스는 공항운영자가 3 승인한 장소 이외에서 승객을 승강시킬 수 없다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 35,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21296,
+      "question": "수평거리 300 m 범위 안의 지역에 있는 가장 높은 장애물의 상단에서 150 m 의 고도",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 36,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21297,
+      "question": "수평거리 600 m 범위 안의 지역에 있는 가장 높은 장애물의 상단에서 150 m 의 고도",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 36,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21298,
+      "question": "수평거리 600 m 범위 안의 지역에 있는 가장 높은 장애물의 상단에서 300 m 의 고도",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 36,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21299,
+      "question": "지표면・수면 또는 물건의 상단에서 150 m 의 4 고도",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 36,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21300,
+      "question": "당신은 요격을 당하고 있으니 나를 따라오라.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21302,
+      "question": "지정한 비행장이 적절하지 못하다. 경 사 항공법규 CODE 05 5/5",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 37,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21303,
+      "question": "사형, 무기징역 또는 7년 이상의 징역에 처한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21304,
+      "question": "사형, 무기징역 또는 5년 이상의 징역에 처한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21305,
+      "question": "사형 또는 7년 이상의 징역이나 금고에 처한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21306,
+      "question": "사형 또는 5년 이상의 징역이나 금고에 처한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 38,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21307,
+      "question": "A가 B를 좌측으로 보기 때문에 A가 B의 우측 으로 회피해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 39,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21308,
+      "question": "A가 B를 우측으로 보기 때문에 A가 B에게 진로를 양보한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 39,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21309,
+      "question": "B가 A를 좌측으로 보기 때문에 B가 A에게 진로를 양보한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 39,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 21310,
+      "question": "B가 A를 우측으로 보기 때문에 A가 B의 좌측 으로 회피해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 39,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

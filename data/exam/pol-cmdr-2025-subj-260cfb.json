@@ -1,0 +1,733 @@
+{
+  "category": {
+    "slug": "pol-cmdr-2025-subj-260cfb",
+    "name": "통계학",
+    "exam_group": "경찰 간부 · 2025년",
+    "subject": "통계학",
+    "phase": null,
+    "exam_year": 2025,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 16974,
+      "statement": "  인 실수 에 대해    ≤≤  - 25 계 학 세 무 회 계",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 6,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16975,
+      "statement": "확률밀도함수가 대칭이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 7,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16976,
+      "statement": "확률밀도함수의 봉우리가 하나이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 7,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16977,
+      "statement": "확률밀도함수는 모평균과 모분산의 값에 의해 결정된다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 7,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16978,
+      "statement": "자유도가 커질수록 확률밀도함수가 정규분포의 확률밀도함수에 가까워진다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 9,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16979,
+      "statement": "자유도가 작아질수록 정규분포에 비해 확률밀도함수의 꼬리가 두꺼워진다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 9,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16980,
+      "statement": "확률밀도함수가 대칭이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 2,
+      "frequency": 2,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 9,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16981,
+      "statement": "중앙값은 0보다 크다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 9,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16984,
+      "statement": "",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 5,
+      "frequency": 67,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 16,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16985,
+      "statement": "",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 5,
+      "frequency": 67,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 16,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16986,
+      "statement": "설명변수와 반응변수 간의 선형 관계가 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 26,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16987,
+      "statement": "오차항의 분산이 설명변수의 값과 관계없이 일정하다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 26,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16988,
+      "statement": "모든 오차항이 서로 독립이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 26,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16990,
+      "statement": "현재의 선형회귀모형이 적절하다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 27,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16991,
+      "statement": "오차항 사이에 상관관계가 있으므로 다른 모형을 고려해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 27,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16992,
+      "statement": "설명변수 값이 커짐에 따라 오차항의 분산이 커지므로 다른 모형을 고려해야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 27,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16993,
+      "statement": "설명변수와 반응변수가 선형함수로 표현될 수 없으므로 다른 모형을 고려해야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 27,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16994,
+      "statement": "ㄴ은 분포 확률밀도함수에서 보다 크거나 같은 확률이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 29,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16995,
+      "statement": "단순회귀모형에 대한 분산분석표이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 29,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16996,
+      "statement": "분석에 사용된 자료의 개수는 이다. 27 -",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 29,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16997,
+      "statement": "확률변수 가 정규분포  를 따를 때,  는   표준정규분포를 따른다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 31,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16998,
+      "statement": "평균이 인 지수분포는 감마분포  이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 31,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 16999,
+      "statement": "확률변수 가 자유도 인 분포를 따를 때, 은  분포를 따른다.   ",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 31,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17000,
+      "statement": "확률변수 가  분포를 따를 때,  는       분포를 따른다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 31,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17001,
+      "statement": "일원배치법에 해당하는 분산분석표이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 32,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17002,
+      "statement": "유의수준 에서 검정 결과, 연구원마다 시료 측정에 차이가 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 32,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17004,
+      "statement": "귀무가설은 각 범주가 동일한 분포를 따른다고 가정한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 33,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17005,
+      "statement": "귀무가설 하에서 각 셀의 기대도수와 실제 관측값의 차이가 충분히 작을 때 귀무가설을 기각할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 33,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17006,
+      "statement": "카이제곱통계량을 검정통계량으로 사용할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 33,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17007,
+      "statement": "동일성검정의 검정 절차는 독립성검정의 검정 절차와 동일하다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 33,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17008,
+      "statement": "서로 다른 두 모집단에서 두 표본을 서로 독립적으로 추출한 경우 두 모집단의 차이를 확인하기 위해 사용할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 39,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17009,
+      "statement": "하나의 모집단에서 두 표본을 서로 독립적으로 추출하였을 때 사용할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 39,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17010,
+      "statement": "새로운 정책에 대한 지지율이 성별에 따라 차이가 있는지 확인 하기 위해 사용할 수 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 39,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 17011,
+      "statement": "고혈압 환자들에게 혈압강하제를 투여하기 전과 후 혈압 차 이가 있는지를 확인하기 위해 사용할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "통계학.pdf",
+      "source": {
+        "qid": 39,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:38+00:00",
+    "total": 34,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

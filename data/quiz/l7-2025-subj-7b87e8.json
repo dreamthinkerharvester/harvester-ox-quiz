@@ -1,0 +1,229 @@
+{
+  "slug": "l7-2025-subj-7b87e8",
+  "name": "화학개론",
+  "exam_group": "지방직 7급 · 2025년",
+  "subject": "화학개론",
+  "phase": null,
+  "source": "지방직 7급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 18,
+  "questions": [
+    {
+      "id": 11785,
+      "question": "연소된 Mg의 양은 0.5몰이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11786,
+      "question": "소모된 O 의 양은 16g이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11787,
+      "question": "생성된 MgO에서 O 원자의 개수는 3.0×1023이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11788,
+      "question": "모든 원자는 팔전자 규칙을 만족한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11789,
+      "question": "N의 형식 전하는 ＋1이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11790,
+      "question": "N는 비공유 전자쌍을 갖는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 8,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11791,
+      "question": "1차 이온화 에너지는 기체 상태의 중성 원자로부터 전자 하나를 제거할 때 필요한 에너지이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11792,
+      "question": "한 원소의 2차 이온화 에너지는 1차 이온화 에너지보다 크다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11793,
+      "question": "같은 주기에서 1차 이온화 에너지는 18족 원소가 가장 크다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11794,
+      "question": "같은 족에서 1차 이온화 에너지는 주기 번호가 클수록 크다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11795,
+      "question": "원자가 전자 개수는 2이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11796,
+      "question": "바닥 상태에서 홀전자 개수는 4이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 11,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11797,
+      "question": "Cr O 2－에서 Cr의 산화수는 ＋7이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11798,
+      "question": "(＋ )는 5이다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11799,
+      "question": "1몰의 Cr O 2－이 반응할 때, 6몰의 전자가 이동한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11801,
+      "question": "완충 용액의 pH는 plog 이다. a  HF [F－]",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11802,
+      "question": "두 완충 용액의 가 같으면 완충 용량이 같다. [HF] [F－]",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 11803,
+      "question": "완충 용액에 NaOH()을 첨가하면 가 커진다. [HF]",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

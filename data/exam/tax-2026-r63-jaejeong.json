@@ -24,7 +24,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -49,7 +49,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -76,7 +76,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -101,7 +101,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -127,7 +127,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -152,7 +152,7 @@
       "explanation_o": "비례세는 정의상 모든 소득 구간에 동일한 한계세율을 적용하므로, 소득 규모와 무관하게 일정한 한계세율을 가짐",
       "explanation_x": null,
       "meta_quality": 80,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -177,7 +177,7 @@
       "explanation_o": "누진세 구조에서는 소득이 증가하면 더 높은 한계세율 구간에 진입하면서 평균세율도 함께 상승",
       "explanation_x": null,
       "meta_quality": 80,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -202,7 +202,7 @@
       "explanation_o": null,
       "explanation_x": "누진세 체계에서 한계세율이 평균세율보다 높음 — 한계세율이 평균을 끌어올리므로 \"평균이 한계보다 높다\"는 반대 명제로 틀림",
       "meta_quality": 80,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -227,7 +227,7 @@
       "explanation_o": null,
       "explanation_x": "평균세율이 일정한 것은 비례세의 특징 — 누진세는 평균세율이 소득에 따라 증가해야 하므로 틀림",
       "meta_quality": 80,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -252,7 +252,7 @@
       "explanation_o": "면세점·기초공제가 있는 단일 한계세율 체계는 한계세율이 일정해도 평균세율이 소득에 따라 상승 → 누진성 발생 (선형누진세)",
       "explanation_x": null,
       "meta_quality": 80,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -273,7 +273,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -294,7 +294,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -315,7 +315,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -339,7 +339,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -360,7 +360,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -384,7 +384,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -408,7 +408,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -432,7 +432,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -456,7 +456,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -480,7 +480,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -501,7 +501,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -525,7 +525,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -546,7 +546,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -567,7 +567,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -591,7 +591,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -615,7 +615,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -636,7 +636,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -660,7 +660,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -681,7 +681,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -702,7 +702,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -723,7 +723,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -744,7 +744,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -765,7 +765,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -789,7 +789,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -813,7 +813,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -837,7 +837,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -861,7 +861,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -885,7 +885,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -909,7 +909,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -933,7 +933,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -954,7 +954,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -980,7 +980,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1005,7 +1005,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1026,7 +1026,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1047,7 +1047,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1068,7 +1068,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1089,7 +1089,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1110,7 +1110,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1134,7 +1134,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1158,7 +1158,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1182,7 +1182,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1206,7 +1206,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1227,7 +1227,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1248,7 +1248,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1269,7 +1269,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1290,7 +1290,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1311,7 +1311,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1332,7 +1332,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1353,7 +1353,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1374,7 +1374,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1395,7 +1395,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1416,7 +1416,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1437,7 +1437,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1458,7 +1458,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1479,7 +1479,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1500,7 +1500,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1524,7 +1524,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1545,7 +1545,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1566,7 +1566,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1590,7 +1590,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1614,7 +1614,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1635,7 +1635,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1659,7 +1659,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1680,7 +1680,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1701,7 +1701,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1722,7 +1722,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1743,7 +1743,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1764,7 +1764,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1785,7 +1785,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1806,7 +1806,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1827,7 +1827,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1848,7 +1848,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1869,7 +1869,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1890,7 +1890,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1911,7 +1911,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1932,7 +1932,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1953,7 +1953,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1974,7 +1974,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -1998,7 +1998,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2022,7 +2022,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2046,7 +2046,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2071,7 +2071,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2092,7 +2092,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2117,7 +2117,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2142,7 +2142,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2163,7 +2163,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2184,7 +2184,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2205,7 +2205,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2226,7 +2226,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2247,8 +2247,8 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
-      "frequency": 1,
+      "star_rating": 2,
+      "frequency": 2,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
         "qid": 28,
@@ -2268,8 +2268,8 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
-      "frequency": 1,
+      "star_rating": 2,
+      "frequency": 2,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
         "qid": 28,
@@ -2289,8 +2289,8 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
-      "frequency": 1,
+      "star_rating": 2,
+      "frequency": 2,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
         "qid": 28,
@@ -2310,8 +2310,8 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
-      "frequency": 1,
+      "star_rating": 2,
+      "frequency": 2,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
         "qid": 28,
@@ -2331,7 +2331,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2352,7 +2352,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2376,7 +2376,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2400,7 +2400,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2421,7 +2421,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2445,7 +2445,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2469,7 +2469,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2493,7 +2493,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2517,7 +2517,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2541,7 +2541,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2566,7 +2566,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2590,7 +2590,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2611,7 +2611,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2632,7 +2632,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2656,7 +2656,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2677,7 +2677,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2698,7 +2698,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2719,7 +2719,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2743,7 +2743,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2764,7 +2764,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2785,7 +2785,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2806,7 +2806,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2827,7 +2827,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2848,7 +2848,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2869,7 +2869,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2890,7 +2890,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2911,7 +2911,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2932,7 +2932,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2953,7 +2953,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2974,7 +2974,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -2995,7 +2995,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -3016,7 +3016,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -3037,7 +3037,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -3058,7 +3058,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -3079,7 +3079,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 0,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -3103,7 +3103,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -3129,7 +3129,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -3153,7 +3153,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -3177,7 +3177,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -3201,7 +3201,7 @@
       "explanation_o": null,
       "explanation_x": null,
       "meta_quality": 45,
-      "star_rating": 0,
+      "star_rating": 1,
       "frequency": 1,
       "source_pdf": "1교시 시험지 원본.pdf",
       "source": {
@@ -3212,7 +3212,7 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-16T08:59:48+00:00",
+    "exported_at": "2026-05-17T05:24:37+00:00",
     "total": 143,
     "with_full_meta": 5,
     "source": "0gichul.com"

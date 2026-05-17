@@ -1,0 +1,241 @@
+{
+  "slug": "l9-2025-subj-bf6e59",
+  "name": "영어",
+  "exam_group": "지방직 9급 · 2025년",
+  "subject": "영어",
+  "phase": null,
+  "source": "지방직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 19,
+  "questions": [
+    {
+      "id": 10602,
+      "question": "City Parking Ticket Payment Methods",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10603,
+      "question": "How to Avoid Getting Parking Tickets",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10604,
+      "question": "Save Time and Money! Helpful Parking Tips",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10605,
+      "question": "Alert! Fake Parking Ticket Payment Text Messages",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 6,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10606,
+      "question": "의료비 지원이 필요한 사람들을 위한 기부를 독려하려고",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10607,
+      "question": "행복하고 건강한 삶을 위한 캠페인을 제안하려고",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10609,
+      "question": "NHC의 파트너를 선정하려고 영 어 책형 2쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10610,
+      "question": "to submit an application form",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10611,
+      "question": "to set up an interview appointment",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10612,
+      "question": "to inquire about updates on the decision process",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10613,
+      "question": "to request more information about the company’s business 2025년도 지방공무원 9급 등 공개경쟁임용 필기시험",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10614,
+      "question": "Sunlight’s help in fighting artificial blue light effects",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10615,
+      "question": "The dangers of using devices during the day",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10616,
+      "question": "How screens affect children’s sleep cycles",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10617,
+      "question": "Why melatonin levels drop in the evening",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10618,
+      "question": ") If you’re feeling the heat and somebody offers you a fan, it’s likely that you’ll try and cool your face first. (",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10619,
+      "question": ") Certainly, all that breeze on your face will stimulate cold receptors there, which will give you a very powerful sensation of comfort. But actually, it’s not going to extract the heat from your body. Instead, a better cooling strategy is to immerse your hands in cold water for 15 to 20 minutes. (",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10620,
+      "question": ") Your hands have a high surface area to mass area―they have lots of blood flowing in them when you’re hot. (",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10621,
+      "question": ") If your core temperature is hot, your body will send blood to the extremities in order to lose heat. 영 어 책형 4쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 17,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

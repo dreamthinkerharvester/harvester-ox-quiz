@@ -1,0 +1,385 @@
+{
+  "slug": "g9-2025-subj-92ec03",
+  "name": "회계학",
+  "exam_group": "국가직 9급 · 2025년",
+  "subject": "회계학",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 31,
+  "questions": [
+    {
+      "id": 5905,
+      "question": "지방자치단체 회계기준에 관한 규칙 의 재정상태표상 부채는 유동부채, 장기차입부채 및 기타비유동부채로 분류한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5906,
+      "question": "국가회계기준에 관한 규칙 의 재정상태표상 충당부채는 지출시기 또는 지출금액이 불확실한 부채로서 연금충당부채, 퇴직수당충당 부채, 보증충당부채, 보험충당부채 및 기타 충당부채를 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5907,
+      "question": "지방자치단체 회계기준에 관한 규칙 의 재정상태표상 일반순자산은 순자산에서 고정순자산과 특정순자산을 제외한 금액을 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5908,
+      "question": "국가회계기준에 관한 규칙 의 재정상태표상 순자산은 기본순자산 에서 적립금 및 잉여금과 순자산조정을 뺀 금액으로 표시한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 1,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5909,
+      "question": "고객에게 약속한 재화나 용역, 즉 자산을 이전하여 수행의무를 이행할 때(또는 기간에 걸쳐 이행하는 대로) 수익을 인식한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5910,
+      "question": "고객이 자산을 통제하는지를 판단할 때, 그 자산을 재매입하는 약정을 고려하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5911,
+      "question": "수행의무가 기간에 걸쳐 이행되지 않는다면, 그 수행의무는 한 시점에 이행되는 것이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5912,
+      "question": "수행의무의 진행률을 합리적으로 측정할 수 있는 경우에만, 기간에 걸쳐 이행하는 수행의무에 대한 수익을 인식한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5913,
+      "question": "과거 사건의 결과로 현재 의무가 존재하여야 하며, 현재 의무에는 법적 의무뿐만 아니라 의제 의무도 포함한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5914,
+      "question": "기업의 미래 행위(미래 사업행위)와 관련하여 존재하는 과거 사건에서 생긴 의무만을 충당부채로 인식한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5915,
+      "question": "해당 의무를 이행하기 위하여 경제적 효익이 있는 자원의 유출 가능성이 높다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5916,
+      "question": "해당 의무를 이행하기 위하여 필요한 금액을 신뢰성 있게 추정할 수 있다. 회 계 학 책형 1쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5917,
+      "question": "통상적인 영업과정에서 판매를 위하여 보유 중이거나 생산 중인 자산은 재고자산에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5918,
+      "question": "생산이나 용역제공에 사용될 원재료나 소모품은 재고자산에 해당한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5919,
+      "question": "외부에서 매입하여 재판매하기 위해 보유하는 상품은 재고자산에 해당하지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5920,
+      "question": "토지도 기업의 주된 영업활동에 따라 재고자산에 해당될 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5921,
+      "question": "국가운영수익은 국가의 재정활동과 관련하여 발생하는 수익 중 국세수익과 이전수익을 제외한 수익이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5922,
+      "question": "재무제표는 재정상태표, 재정운영표, 순자산변동표로만 구성하되, 재무제표에 대한 주석을 포함한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5923,
+      "question": "투자증권 중 지분증권은 재정상태표일 현재 신뢰성 있게 공정가액을 측정할 수 있더라도 취득원가로 평가하여야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5924,
+      "question": "현재 세대와 미래 세대를 위하여 정부가 영구히 보존하여야 할 자산으로서 역사적, 자연적, 문화적, 교육적 및 예술적으로 중요한 가치를 갖는 자산은 자산으로 인식하지 아니하고 그 종류와 현황 등을 필수보충정보로 공시한다. 회 계 학 책형 2쪽",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 9,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5929,
+      "question": "사무실을 1개월 후에 1년간 임차하기로 임대인과 계약 체결",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5930,
+      "question": "업무에 사용하던 비품의 자연재해로 인한 파손",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5932,
+      "question": "공장건물에 대한 수선 후 청구서 수령 회 계 학 책형 3쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5933,
+      "question": "보고기업의 경제적자원 및 청구권의 성격 및 금액에 대한 정보는 이용자들이 보고기업의 재무적 강점과 약점을 식별하는 데 도움을 줄 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5934,
+      "question": "보고기업의 재무성과에 대한 정보는 그 기업의 경제적자원에서 해당 기업이 창출한 수익을 이용자들이 이해하는 데 도움을 준다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5935,
+      "question": "보고기업의 경제적자원 및 청구권은 채무상품이나 지분상품의 발행과 같이 재무성과 외의 사유로는 변동되지 않는다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5936,
+      "question": "한 기간의 보고기업의 현금흐름에 대한 정보는 이용자들이 기업의 미래 순현금유입 창출 능력을 평가하고 기업의 경제적자원에 대한 경영진의 수탁책임을 평가하는 데에도 도움이 된다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 16,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5937,
+      "question": "(차) 수익 ￦100,000 (대) 집합손익 ￦100,000",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5938,
+      "question": "(차) 이익잉여금 ￦100,000 (대) 집합손익 ￦100,000",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5939,
+      "question": "(차) 집합손익 ￦100,000 (대) 비용 ￦100,000",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5940,
+      "question": "(차) 집합손익 ￦100,000 (대) 이익잉여금 ￦100,000 2025년도 국가공무원 9급 공채 필기시험 회 계 학 책형 4쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 18,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

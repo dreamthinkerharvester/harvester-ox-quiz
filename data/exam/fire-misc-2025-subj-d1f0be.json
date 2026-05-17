@@ -1,0 +1,691 @@
+{
+  "category": {
+    "slug": "fire-misc-2025-subj-d1f0be",
+    "name": "소방학개론",
+    "exam_group": "소방 · 2025년",
+    "subject": "소방학개론",
+    "phase": null,
+    "exam_year": 2025,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 21018,
+      "statement": "고려 시대: 소방을 소재(消災)라 하였고, 우리나라 소방 행정의 근원이라 볼 수 있는 금화원 제도를 시행하였다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 1,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21019,
+      "statement": "조선 시대: 5가를 1통으로 묶어 우물을 파고 물통을 준비 하도록 하는 5가 작통제를 시행하였다. 아울러 세종 8년 (1426년) 2월에 금화도감을 설치하였고, 6월에는 수성금화 도감으로 개편하였다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 1,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21020,
+      "statement": "일제 강점기: 1925년 최초의 소방서인 경성소방서가 설치 되었다. 이후 1938년 부산 및 평양에 소방서가 개소되었 으며, 1944년 용산･인천･함흥에 소방서가 증설되었다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 1,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21021,
+      "statement": "미군정 시대: 1946년 소방부 및 소방위원회를 설치하고, 소방조직 및 업무를 경찰로부터 독립하여 자치소방체제로 전환하였다. 1947년 중앙소방위원회의 집행기구로 소방청 이 설치되었다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 1,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21024,
+      "statement": "프로필렌글리콜(Propylene Glycol)",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 2,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21025,
+      "statement": "폴리에틸렌옥사이드(Polyethylene Oxide) 1 / 1 학개론 】",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 2,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21035,
+      "statement": "원형패턴(Circular shaped pattern)",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 6,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21036,
+      "statement": "틈새연소패턴(Seam burn pattern)",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 6,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21037,
+      "statement": "물질의 두께에 비례한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 10,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21038,
+      "statement": "물질의 전열면적에 비례한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 10,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21039,
+      "statement": "물질 양면의 온도차에 비례한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 10,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21040,
+      "statement": "물질의 열전도율에 비례한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 10,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21041,
+      "statement": "“인화성고체”라 함은 고형알코올 그 밖에 1기압에서 인화 점이 섭씨 40도 미만인 고체를 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 15,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21042,
+      "statement": "“제1석유류”라 함은 아세톤, 휘발유 그 밖에 1기압에서 인화점이 섭씨 21도 미만인 것을 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 15,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21043,
+      "statement": "“특수인화물”이라 함은 이황화탄소, 디에틸에테르 그 밖에 1기압에서 발화점이 섭씨 100도 이하인 것 또는 인화점이 섭씨 영하 20도 이하이고 비점이 섭씨 40도 이하인 것을 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 15,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21044,
+      "statement": "“자연발화성물질 및 금수성물질”이라 함은 고체 또는 액체 로서 공기 중에서 발화의 위험성이 있거나 산과 접촉하여 발화하거나 고압 수증기를 발생하는 위험성이 있는 것을 말한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 15,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21045,
+      "statement": "유출사고 시에는 건조사 및 중화제를 사용한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 16,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21046,
+      "statement": "불연성 물질로 분해 시 산소가 발생하며 대부분 염기성이다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 16,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21047,
+      "statement": "저장하고 있는 용기는 파손되거나 액체가 누설되지 않도록 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 16,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21048,
+      "statement": "소량 화재 시에는 다량의 물로 희석하는 소화방법을 사용 할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 16,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21052,
+      "statement": "(가): 화학소방차에 주로 사용하는 방식이다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 22,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21053,
+      "statement": "(나): 혼합기의 압력손실이 적고, 흡입 가능한 유량의 범위가 넓다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 22,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21054,
+      "statement": "(다): 약제 원액 잔량을 버리지 않고 계속 사용할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 22,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21055,
+      "statement": "(라): 비행기 격납고, 석유화학 플랜트 등과 같은 대단위 고정식 소화설비에 주로 사용하며, 설치비가 비싸다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 22,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21056,
+      "statement": "흡입관의 마찰 손실을 최대한 적게 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 23,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21057,
+      "statement": "펌프의 임펠러의 회전 속도를 낮게 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 23,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21058,
+      "statement": "펌프의 흡입관의 관경 크기를 크게 한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 23,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21059,
+      "statement": "펌프의 설치 위치를 수원보다 높게 한다. 5 / 1",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 23,
+        "option": "④"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21060,
+      "statement": "“발신기”란 수동누름버튼 등의 작동으로 화재신호를 수신 기에 발신하는 장치를 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 25,
+        "option": "①"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21061,
+      "statement": "“원격감시서버”란 원격지에서 각각의 화재알림설비로부터 수신한 화재정보값 및 화재신호, 상태신호 등을 원격으로 감시하기 위한 서버를 말한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 25,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21062,
+      "statement": "“화재알림형 비상경보장치”란 화재알림형 감지기, 발신기, 표시등, 지구음향장치(경종 또는 사이렌 등)를 내장한 것 으로 화재발생 상황을 경보하는 장치를 말한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 25,
+        "option": "③"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 21063,
+      "statement": "“화재알림형 중계기”란 화재알림형 감지기, 발신기 또는 전기적인 접점 등의 작동에 따른 화재정보값 또는 화재신호 등을 받아 이를 화재알림형 수신기에 전송하는 장치를 말한다. / 18",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "opt-wrong",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "소방학개론.pdf",
+      "source": {
+        "qid": 25,
+        "option": "④"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:38+00:00",
+    "total": 32,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}

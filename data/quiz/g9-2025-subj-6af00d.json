@@ -1,0 +1,397 @@
+{
+  "slug": "g9-2025-subj-6af00d",
+  "name": "토목설계",
+  "exam_group": "국가직 9급 · 2025년",
+  "subject": "토목설계",
+  "phase": null,
+  "source": "국가직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 32,
+  "questions": [
+    {
+      "id": 5237,
+      "question": "활동에 대한 저항력은 옹벽에 작용하는 수평력의 1.5배 이상이어야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5238,
+      "question": "전도에 대한 저항휨모멘트는 횡토압에 의한 전도모멘트의 1.5배 이상이어야 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5239,
+      "question": "전도 및 지반지지력에 대한 안정조건은 만족하지만, 활동에 대한 안정조건만을 만족하지 못할 경우에는 활동방지벽 혹은 횡방향 앵커 등을 설치하여 활동저항력을 증대시킬 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5240,
+      "question": "지반의 지지력은 지반공학적 방법 중 선택하여 적용할 수 있으며, 지반의 내부마찰각, 점착력 등과 같은 특성으로부터 지반의 극한 지지력  를 추정할 수 있다. 다만, 이 경우에 허용지지력  는     이어야 한다.  ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 2,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5241,
+      "question": "최대 계수휨모멘트를 계산할 때, 강재 밑판을 갖는 기둥을 지지하는 기초판은 강재 밑판 단부를 위험단면으로 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5242,
+      "question": "최대 계수휨모멘트를 계산할 때, 콘크리트 기둥, 주각 또는 벽체를 지지하는 기초판은 기둥, 주각 또는 벽체의 외면을 위험단면으로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5243,
+      "question": "1방향 기초판 또는 2방향 정사각형 기초판에서 철근은 기초판 전체 폭에 걸쳐 균등하게 배치하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5244,
+      "question": "기초판 각 단면의 휨모멘트는 기초판을 자른 수직면에서 그 수직면의 한쪽 전체 면적에 작용하는 힘에 대해 계산하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 3,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5245,
+      "question": "프리스트레스트콘크리트 부재의 설계는 프리스트레스를 도입할 때부터 구조물의 수명 기간 동안에 모든 재하단계의 강도 및 사용조건에 따른 거동에 근거하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5246,
+      "question": "프리스트레스에 의해 발생되는 부재의 탄ㆍ소성변형, 처짐, 길이 변화 및 회전 등에 의해 인접한 구조물에 미치는 영향을 고려하여야 한다. 이때 온도와 수축의 영향도 고려하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5247,
+      "question": "설계에서는 프리스트레스에 의하여 발생하는 응력집중을 고려할 필요는 없다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5248,
+      "question": "덕트의 치수가 과대하여 긴장재와 덕트가 부분적으로 접촉하는 경우, 접촉하는 위치 사이에 있어서 부재 좌굴과 얇은 복부 및 플랜지의 좌굴이 발생할 가능성을 검토하여야 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 4,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5249,
+      "question": "커버플레이트: 트러스의 부재, 스트럿, 또는 가새재(브레이싱)를 보 또는 기둥에 연결하는 판요소",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5250,
+      "question": "유효길이계수: 유효좌굴길이와 부재의 비지지길이의 비",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5251,
+      "question": "국부좌굴: 부재 전체의 파괴를 유발할 수도 있는 압축 판요소의 좌굴",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5252,
+      "question": "다이아프램: 지지요소에 힘을 전달하도록 이용된 면내 전단강성과 전단강도를 갖고 있는 플레이트",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 5,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5253,
+      "question": " 인 경우 부재축에 직각으로 배치된 전단철근의 간격은    이하로 감소시켜야 한다.  ",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5254,
+      "question": " ≤인 경우 부재축에 직각으로 배치된 전단철근의 간격은    이하이고, 600mm 이하이어야 한다.  ",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5255,
+      "question": "주인장철근에 45° 이상의 각도로 설치되는 스터럽을 사용할 수 있다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5256,
+      "question": " ≤인 경우 경사스터럽과 굽힘철근은 부재의 중간 높이인   0.5에서 반력점 방향으로 주인장철근까지 연장된 45° 선과 한 번 이상 교차되도록 배치하여야 한다. 2025년도 국가공무원 9급 공채 필기시험",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 12,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5257,
+      "question": "습도 증가에 따라 크리프는 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5258,
+      "question": "물－시멘트비의 증가에 따라 크리프는 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5259,
+      "question": "크리프계수는 탄성변형률과 크리프변형률의 비이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5260,
+      "question": "크리프는 일정하고 지속적인 응력하에서 변형률이 증가하는 현상이다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 14,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5261,
+      "question": "응력을 전달하는 필릿용접의 최소유효길이는 공칭용접치수의 10배 이상 또한 30mm 이상을 원칙으로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5262,
+      "question": "응력을 전달하는 겹침이음은 2열 이상의 필릿용접을 원칙으로 하고, 겹침길이는 얇은 쪽 판 두께의 5배 이상 또한 25mm 이상으로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5263,
+      "question": "고장력볼트의 구멍중심 간 거리는 공칭직경의 2.5배를 최소거리로 하고 3배를 표준거리로 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5264,
+      "question": "고장력볼트의 구멍중심에서 볼트머리 또는 너트가 접하는 부재의 연단까지의 최대거리는 판 두께의 15배 이하 또한 300 mm 이하로 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 15,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5265,
+      "question": "인장철근이 설계기준항복강도  에 대응하는 변형률에 도달하고  동시에 압축 콘크리트가 가정된 극한변형률에 도달할 때, 그 단면이 균형변형률 상태에 있다고 본다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5266,
+      "question": "압축연단 콘크리트가 가정된 극한변형률에 도달할 때, 최외단 인장철근의 순인장변형률  가 압축지배변형률 한계 이하인 단면을  압축지배단면이라고 한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5267,
+      "question": "압축연단 콘크리트가 가정된 극한변형률에 도달할 때, 최외단 인장철근의 순인장변형률  가 0.005의 인장지배변형률 한계 미만인  단면을 인장지배단면이라고 한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 5268,
+      "question": "프리스트레스를 가하지 않은 휨부재는 공칭강도 상태에서 순인장 변형률  가 휨부재의 최소 허용변형률 이상이어야 한다.  토목설계 책형 4쪽",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 19,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    }
+  ]
+}

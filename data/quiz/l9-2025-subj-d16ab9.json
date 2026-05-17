@@ -1,0 +1,109 @@
+{
+  "slug": "l9-2025-subj-d16ab9",
+  "name": "기계설계",
+  "exam_group": "지방직 9급 · 2025년",
+  "subject": "기계설계",
+  "phase": null,
+  "source": "지방직 9급",
+  "exam_year": 2025,
+  "exam_round": null,
+  "count": 8,
+  "questions": [
+    {
+      "id": 10444,
+      "question": "밸브를 완전히 열었을 때 유체의 에너지 손실이 적다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "①",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10445,
+      "question": "밸브 디스크의 승강 길이가 길어져 개폐 시간이 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "②",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10446,
+      "question": "밸브 디스크가 유체의 관로를 수직으로 막아서 개폐한다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "③",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10447,
+      "question": "유체압력이 일정압 초과 시 자동으로 열려 압력을 조절한다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 10,
+        "option": "④",
+        "qtype": "opt-wrong",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10448,
+      "question": "축기준 치수이며, h5공차가 h7공차보다 더 크다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "①",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10449,
+      "question": "축기준 치수이며, h7공차가 h5공차보다 더 크다.",
+      "answer": "O",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "②",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10450,
+      "question": "구멍기준 치수이며, h5공차가 h7공차보다 더 크다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "③",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    },
+    {
+      "id": 10451,
+      "question": "구멍기준 치수이며, h7공차가 h5공차보다 더 크다.",
+      "answer": "X",
+      "explanation": "",
+      "source": {
+        "qid": 20,
+        "option": "④",
+        "qtype": "opt-correct",
+        "difficulty": null
+      }
+    }
+  ]
+}

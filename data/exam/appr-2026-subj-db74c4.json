@@ -1,0 +1,187 @@
+{
+  "category": {
+    "slug": "appr-2026-subj-db74c4",
+    "name": "경제학원론",
+    "exam_group": "감정평가사 1차 · 2026년",
+    "subject": "경제학원론",
+    "phase": null,
+    "exam_year": 2026,
+    "exam_round": null
+  },
+  "questions": [
+    {
+      "id": 22287,
+      "statement": "세금은 모두 공급자가 부담한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경제학원론.pdf",
+      "source": {
+        "qid": 42,
+        "option": "ㄱ"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22292,
+      "statement": "기펜재(Giffen goods)는 가격이 하락할 때 소",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경제학원론.pdf",
+      "source": {
+        "qid": 44,
+        "option": "②"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22295,
+      "statement": "가격 상승 시 소득효과는 모든 재화의 수요    ",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경제학원론.pdf",
+      "source": {
+        "qid": 44,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22296,
+      "statement": "H사는 우월전략을 가지고 있다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경제학원론.pdf",
+      "source": {
+        "qid": 46,
+        "option": "ㄱ"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22301,
+      "statement": "시간당 임금이 하락할 경우, 소득효 증가한다.",
+      "answer": "O",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경제학원론.pdf",
+      "source": {
+        "qid": 53,
+        "option": "ㄴ"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22302,
+      "statement": "시간당 임금이 상승할 경우, 소득효 공급은 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "sub-all-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경제학원론.pdf",
+      "source": {
+        "qid": 53,
+        "option": "ㄷ"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22314,
+      "statement": "장ㆍ단기 모두 물가와 국민소득은 상승한다",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경제학원론.pdf",
+      "source": {
+        "qid": 70,
+        "option": "⑤"
+      },
+      "related_videos": []
+    },
+    {
+      "id": 22318,
+      "statement": "고정환율제도에서는 순수출이 증가한다.",
+      "answer": "X",
+      "explanation": "",
+      "qtype": "opt-correct",
+      "topic": null,
+      "tags": null,
+      "theory": null,
+      "explanation_o": null,
+      "explanation_x": null,
+      "meta_quality": 10,
+      "star_rating": 1,
+      "frequency": 1,
+      "source_pdf": "경제학원론.pdf",
+      "source": {
+        "qid": 79,
+        "option": "①"
+      },
+      "related_videos": []
+    }
+  ],
+  "_meta": {
+    "exported_at": "2026-05-17T05:24:37+00:00",
+    "total": 8,
+    "with_full_meta": 0,
+    "source": "0gichul.com"
+  }
+}
