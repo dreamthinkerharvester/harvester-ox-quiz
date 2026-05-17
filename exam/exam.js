@@ -11,6 +11,43 @@
    ============================================================ */
 
 const DATA_BASE = '../data/exam';
+const JIK_ICON_BASE = '_assets/jik';
+
+// slug prefix → 자격증 코드 (exam/_assets/jik/{code}.png 존재 여부와 1:1)
+// 매핑 안된 prefix는 아이콘 없이 기존 텍스트 표식 fallback.
+const JIK_ICON_AVAILABLE = new Set([
+  'g5', 'g7', 'g9',
+  'l7', 'l9',
+  's7', 's9',
+  'na5', 'na8', 'na9',
+  'ct5', 'ct9',
+  'pol-cmdr', 'pol-misc', 'pol-prom', 'pol-spec',
+  'fire-cmdr', 'fire-misc',
+]);
+
+function jikCodeFromSlug(slug) {
+  if (!slug) return '';
+  // slug 형태: "{jik}-{year}-..." e.g. "g9-2024-subj-xxx", "pol-cmdr-2024-..."
+  for (const code of JIK_ICON_AVAILABLE) {
+    if (slug.startsWith(code + '-')) return code;
+  }
+  return '';
+}
+
+function jikIconChildren(cat) {
+  const code = jikCodeFromSlug(cat.slug);
+  if (code) {
+    const img = elem('img', {
+      class: 'cat__mark-icon',
+      src: `${JIK_ICON_BASE}/${code}.png`,
+      alt: '',
+      loading: 'lazy',
+      width: 48, height: 48,
+    });
+    return [img];
+  }
+  return [elem('span', null, cat.name.slice(0, 1))];
+}
 
 const TWEAK_DEFAULTS = {
   fontScale: 1,
@@ -690,7 +727,8 @@ function renderHome() {
       type: 'button', class: 'cat', style: { '--cat-color': cat.color },
       on: { click: () => handleSelectCategory(cat.slug, 0) },
     }, [
-      elem('div', { class: 'cat__mark' }, [ elem('span', null, cat.name.slice(0, 1)) ]),
+      elem('div', { class: 'cat__mark', 'data-jik': jikCodeFromSlug(cat.slug) || '' },
+           jikIconChildren(cat)),
       elem('div', { class: 'cat__body' }, [
         elem('div', { class: 'cat__name' }, cat.name),
         elem('div', { class: 'cat__meta' }, metaText),

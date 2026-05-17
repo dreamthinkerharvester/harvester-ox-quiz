@@ -53,6 +53,7 @@ exam/_design_handoff/
 # PDF 원본 (저작권) — _refs/sprites/는 게임 자산이라 push
 _refs/세무사기출문제/
 _refs/OX게임/
+_refs/ox2/                  # exam/_assets/jik/ 로 변환·통합 완료 — 원본은 로컬만
 _refs/video-frames/
 _refs/video-analysis*.md
 

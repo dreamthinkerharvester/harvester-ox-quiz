@@ -258,6 +258,48 @@ img { display: block; max-width: 100%; }
   color: var(--cat-color, var(--ink));
   letter-spacing: -0.02em;
 }
+.cat__mark-icon {
+  width: 48px; height: 48px;
+  object-fit: contain;
+}
+
+/* 자격증 계열별 배경 톤 — 베이지 페이퍼와 어울리는 라이트 톤 */
+.cat__mark[data-jik="g5"],
+.cat__mark[data-jik="g7"],
+.cat__mark[data-jik="g9"]            { background: #e3f2fd; border-color: #bbdefb; }
+.cat__mark[data-jik="l7"],
+.cat__mark[data-jik="l9"],
+.cat__mark[data-jik="s7"],
+.cat__mark[data-jik="s9"]            { background: #e1f5fe; border-color: #b3e5fc; }
+.cat__mark[data-jik="na5"],
+.cat__mark[data-jik="na8"],
+.cat__mark[data-jik="na9"],
+.cat__mark[data-jik="ct5"],
+.cat__mark[data-jik="ct9"]           { background: #ede7f6; border-color: #d1c4e9; }
+.cat__mark[data-jik="pol-cmdr"],
+.cat__mark[data-jik="pol-misc"],
+.cat__mark[data-jik="pol-prom"],
+.cat__mark[data-jik="pol-spec"]      { background: #ffebee; border-color: #ffcdd2; }
+.cat__mark[data-jik="fire-cmdr"],
+.cat__mark[data-jik="fire-misc"],
+.cat__mark[data-jik="fire-prom"]     { background: #fff3e0; border-color: #ffe0b2; }
+.cat__mark[data-jik="ms5"],
+.cat__mark[data-jik="ms7"],
+.cat__mark[data-jik="ms9"],
+.cat__mark[data-jik="ms-misc"],
+.cat__mark[data-jik="cg-cmdr"],
+.cat__mark[data-jik="cg-prom"],
+.cat__mark[data-jik="cg-misc"]       { background: #e8f5e9; border-color: #c8e6c9; }
+.cat__mark[data-jik="tax"],
+.cat__mark[data-jik="cpa"],
+.cat__mark[data-jik="admin"],
+.cat__mark[data-jik="cpla"],
+.cat__mark[data-jik="appr"],
+.cat__mark[data-jik="bizmgt"],
+.cat__mark[data-jik="customs"],
+.cat__mark[data-jik="franch"],
+.cat__mark[data-jik="law"]           { background: #fff8e1; border-color: #ffecb3; }
+
 .cat__body { flex: 1; min-width: 0; }
 .cat__name {
   font-family: var(--font-soft);
