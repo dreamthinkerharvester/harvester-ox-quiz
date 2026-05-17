@@ -13,7 +13,7 @@
       "id": 38461,
       "question": "반발력이 작용하고, 크기는 배가 된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 38462,
       "question": "반발력이 작용하고, 크기는 배가 된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 38463,
       "question": "흡인력이 작용하고, 크기는 배가 된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 38464,
       "question": "흡인력이 작용하고, 크기는 배가 된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 38469,
       "question": "순시전력은 복소전력의 크기이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 38470,
       "question": "유효전력은 저항에서 실제로 소비되는 전력이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 38471,
       "question": "피상전력은 전압 실횻값과 전류 실횻값의 곱이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 38472,
       "question": "무효전력은 리액턴스에서 전원과 교환되는 전력이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 38473,
       "question": "각 선전류의 위상차는 120°이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 38474,
       "question": "상전압과 선간전압의 크기가 같다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 38475,
       "question": "상전류 크기는 선전류 크기의  배이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 38476,
       "question": "상전류와 선전류 사이의 위상차가 존재한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "④",

@@ -17,6 +17,11 @@ OX 자기완결성(self-containment) 검증 시스템.
   [E7_MID_FRAGMENT]   시작이 비한글(특수문자/조사) + 짧음          (FAIL)
   [E8_EXTERNAL_REF]   "다음 중", "위의", "아래의" 등 외부 참조    (FAIL)
   [E9_QUESTION_STEM]  의문문 또는 question stem ("옳은 것은?")    (FAIL)
+  [E10_ALL_OPTIONS]   ①~⑤ 모두 본문에 — 다른 문제 fragment 잔재  (FAIL)
+  [E11_MATH_FORMULA]  계산형 — 수학기호 + 화폐 다수 (× ÷ ∑ ￦)    (FAIL)
+  [E12_SOURCE_BLOCK]  (가)·(나)·(다) 2개+ — 외부 사례 의존        (FAIL)
+  [E13_OCR_BROKEN]    OCR 깨짐 ("20 1년", "재 무 상 표")          (FAIL)
+  [E14_EXTERNAL_BLOCK] "다음 글/지문/시/<보기>" 외부 자료 참조    (FAIL)
   [W1_NO_PREDICATE]   종결어미 부재(≥24자) — 학습용 가능           (WARN)
   [W2_NUM_HEAVY]      숫자 비율 >40%                              (WARN)
   [W3_PAGE_ARTIFACT]  PDF 페이지 푸터 잔재 ("2024년도 제..A형..")  (WARN, auto-strip 가능)
@@ -105,6 +110,36 @@ NON_HANGUL_START_RE = re.compile(r"^[^\sㄱ-ㅎ가-힣A-Za-z0-9(\[\"'《「『]"
 PAGE_FOOTER_RE = re.compile(
     r"\s*\d{0,3}\s*\d{4}년도?\s*제?\s*\d+\s*회\s*[가-힣]+\s*\d+차?\s*"
     r"\d?\s*교?시?\s*[A-Z형]*\s*\(\s*\d+\s*-\s*\d+\s*\)\s*$"
+)
+
+# ── 컨텍스트 의존 패턴 (E10~E14) — 배경지식 외 외부 자료가 있어야 판단 가능 ──
+# E10: 다른 문제의 선택지가 본문에 통째로 출현 — fragment 잔재
+ALL_OPTIONS_RE = re.compile(r"①.*②.*③.*④.*⑤", re.DOTALL)
+
+# E11: 계산형 — 수학 기호 + 화폐 다수 (×, ÷, ∑, ∫, log 등 + 원/￦)
+MATH_SYMBOLS_RE = re.compile(
+    r"[∑∫∂∇√∞≤≥≠≈±÷×]"
+    r"|\\frac|log\s|sin\s|cos\s|lim\b"
+    r"|￦\s*[\d,]+"            # 화폐기호 + 숫자
+    r"|\d+×\d|\d+÷\d"          # 수식 직접
+)
+
+# E12: 자료 블록 참조 — (가)·(나)·(다)·(라) 패턴 다수 (≥2개)
+SOURCE_BLOCK_RE = re.compile(r"\(\s*[가나다라마바사]\s*\)")
+
+# E13: OCR 깨짐 — 한글 사이 숫자 공백 (예: "20 1년도", "재 무 상 표")
+OCR_BROKEN_PATTERNS = [
+    re.compile(r"[가-힣]\s+\d\s+[가-힣]"),       # "20 1년도"
+    re.compile(r"(?:[가-힣]\s){3,}[가-힣]"),     # "재 무 상 표"
+    re.compile(r"[가-힣][\d]+×[\d]+[가-힣]?"),  # "20×1년"
+    re.compile(r"￦\s*[\d,]+\s*[가-힣]"),        # "￦114,238이다" 같은 정상은 제외할 추가 정제 필요
+]
+
+# E14: 외부 글/지문 참조 — "다음 글", "다음 지문", "윗글", "<보기>" 등 명시적 참조
+EXTERNAL_BLOCK_RE = re.compile(
+    r"(?:다음|위|아래|윗)\s*(?:글|지문|시|작품|보기|자료|장면|대화|논증)"
+    r"|<\s*(?:보기|자료|지문|글)\s*>"
+    r"|\[\s*(?:보기|자료|지문)\s*\]"
 )
 
 # 한국어 종결어미가 명시적으로 부재한 short statement
@@ -222,6 +257,28 @@ def validate(stmt: str) -> tuple[str, list[str]]:
     s_no_paren = TRAILING_PAREN_RE.sub("", s.rstrip())
     if s_no_paren.endswith("?") or re.search(r"옳[은지]\s*않?은?\s*것은\b", s):
         flags.append("E9_QUESTION_STEM")
+
+    # E10: 다른 문제 선택지가 본문에 출현 (①~⑤ 모두 포함) — fragment 잔재
+    if ALL_OPTIONS_RE.search(s):
+        flags.append("E10_ALL_OPTIONS")
+
+    # E11: 계산형 수식 — 수학 기호/화폐 다수
+    if MATH_SYMBOLS_RE.search(s):
+        flags.append("E11_MATH_FORMULA")
+
+    # E12: 자료 블록 (가)·(나)·(다) 2개 이상 — 외부 사례 의존
+    if len(SOURCE_BLOCK_RE.findall(s)) >= 2:
+        flags.append("E12_SOURCE_BLOCK")
+
+    # E13: OCR 깨짐 — 한글 사이에 비정상 공백/숫자
+    for pat in OCR_BROKEN_PATTERNS:
+        if pat.search(s):
+            flags.append("E13_OCR_BROKEN")
+            break
+
+    # E14: "다음 글/지문/시/보기" 등 외부 자료 명시 참조
+    if EXTERNAL_BLOCK_RE.search(s):
+        flags.append("E14_EXTERNAL_BLOCK")
 
     # E4: 명사구 단독 (종결어미 부재 + 짧음). FAIL 조건 좁게.
     if not has_predicate(s) and L < MIN_PREDICATE_LEN:

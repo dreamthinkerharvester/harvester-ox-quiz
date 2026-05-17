@@ -7,13 +7,13 @@
   "source": "국가직 7급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 20,
+  "count": 19,
   "questions": [
     {
       "id": 36073,
       "question": "미술작품의 미적 가치가 위대한지 아닌지는 학습할 수 없다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 4,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 36074,
       "question": "미술작품의 미적 가치는 다양하기 때문에 단일한 기준으로 평가할 수 없다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 4,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 36075,
       "question": "미술작품의 원본을 실제로 보아야 그 작품의 미적 가치를 스스로 이해할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 4,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 36076,
       "question": "미술작품의 고고학적 가치를 이해하지 않고서는 미술작품의 미적 가치를 이해하지 못한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 4,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 36077,
       "question": "미술작품의 미적 가치는 우리 스스로 이해한 것이 아니라 타인의 해석을 바탕으로 이해한 것이다. 2025년도 국가공무원 7급 공채 등 필기시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "⑤",
@@ -73,7 +73,7 @@
       "id": 36078,
       "question": "㉠을 ‘화자의 위치에서 청자의 위치로의 이동을 지시하는’으로 수정한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 7,
         "option": "①",
@@ -85,7 +85,7 @@
       "id": 36079,
       "question": "㉡을 ‘화자의 위치와 관련이 있어야 하는 반면 청자의 위치와 무관하게’로 수정한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 7,
         "option": "②",
@@ -97,7 +97,7 @@
       "id": 36080,
       "question": "㉢을 ‘이동체가 표준 위치인 회사에서 벗어나 이동하는’으로 수정한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -109,7 +109,7 @@
       "id": 36081,
       "question": "㉣을 ‘앞의 해석보다는 뒤의 해석으로 보는’으로 수정한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "④",
@@ -121,7 +121,7 @@
       "id": 36082,
       "question": "㉤을 ‘화자가 현재 위치한 장소를 기준으로’로 수정한다. 언어논리영역 책형 4쪽",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 7,
         "option": "⑤",
@@ -133,7 +133,7 @@
       "id": 36083,
       "question": "분석 대상을 시간 요소로 나누어 살피더라도 인과관계는 드러나지 않기 때문에 설명에 도움이 되지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "①",
@@ -145,7 +145,7 @@
       "id": 36084,
       "question": "요소들의 결합으로 대상 전체가 어떻게 구성되는지 보여주는 데 성공하더라도 그것은 대상의 속성을 설명하는 일과 다르다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -157,7 +157,7 @@
       "id": 36085,
       "question": "요소 분석에서는 전체를 설명하기 위하여 요소들 간의 상호 관계까지 추가로 해명해야 하기 때문에 설명의 경제성이 삭감된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -169,7 +169,7 @@
       "id": 36086,
       "question": "단위가 전체의 속성들을 그대로 지닌다면 설명되어야 할 대상 자체와 다를 바 없으므로 단위 분석은 설명에 기여하지 못한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "④",
@@ -181,7 +181,7 @@
       "id": 36087,
       "question": "설명의 적절성은 설명을 요구하는 구체적인 문제의 특성에 따라 달라지기 때문에 설명에는 다양한 단위 분석이 존재할 수 있다. 언어논리영역 책형 8쪽",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "⑤",
@@ -193,7 +193,7 @@
       "id": 36088,
       "question": "심적 대상은 물리적 대상과 같지 않기 때문이다",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "①",
@@ -205,7 +205,7 @@
       "id": 36089,
       "question": "심적 대상이 물리적 대상과 같다면 심적 대상은 없기 때문이다",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -214,22 +214,10 @@
       }
     },
     {
-      "id": 36090,
-      "question": "심적 대상에 관해 그 소유자만이 알 수 있는 부분이 있기 때문이다",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 17,
-        "option": "③",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 36091,
       "question": "심적 대상에 관해 검증 불가능한 지식은 존재하지 않기 때문이다",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "④",
@@ -241,7 +229,7 @@
       "id": 36092,
       "question": "심적 대상의 소유자가 심적 대상에 접근할 수 있는 인식적 특권을 지니기 때문이다 언어논리영역 책형 9쪽",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "⑤",

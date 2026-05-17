@@ -7,13 +7,13 @@
   "source": "국가직 9급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 46,
+  "count": 45,
   "questions": [
     {
       "id": 38802,
       "question": "군사조직으로 9서당 10정을 두었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "②",
@@ -25,7 +25,7 @@
       "id": 38803,
       "question": "영락이라는 독자적인 연호를 사용하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "③",
@@ -37,7 +37,7 @@
       "id": 38804,
       "question": "지방 행정 구역을 5경 15부 62주로 나누었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 3,
         "option": "④",
@@ -49,7 +49,7 @@
       "id": 38805,
       "question": "사심관 제도를 실시하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 5,
         "option": "①",
@@ -61,7 +61,7 @@
       "id": 38806,
       "question": "정동행성 이문소를 폐지하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 5,
         "option": "②",
@@ -73,7 +73,7 @@
       "id": 38807,
       "question": "광덕, 준풍 등의 연호를 사용하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 5,
         "option": "③",
@@ -82,22 +82,10 @@
       }
     },
     {
-      "id": 38808,
-      "question": "최승로의 시무 28조 건의를 수용하였다. 한 국 사 책형 1쪽",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 5,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 38809,
       "question": "장보고가 청해진을 설치하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 6,
         "option": "①",
@@ -109,7 +97,7 @@
       "id": 38810,
       "question": "정묘호란으로 인조가 피신하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "②",
@@ -121,7 +109,7 @@
       "id": 38811,
       "question": "원나라가 탐라총관부를 두었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 6,
         "option": "③",
@@ -133,7 +121,7 @@
       "id": 38812,
       "question": "영국군이 러시아를 견제한다는 구실로 주둔하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 6,
         "option": "④",
@@ -145,7 +133,7 @@
       "id": 38813,
       "question": "효종의 북벌 운동을 지지하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -157,7 +145,7 @@
       "id": 38814,
       "question": "과농소초에서 한전제를 주장하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "②",
@@ -169,7 +157,7 @@
       "id": 38815,
       "question": "화성 건설을 위해 거중기를 설계하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -181,7 +169,7 @@
       "id": 38816,
       "question": "우리 역사를 체계화한 동사강목을 저술하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 9,
         "option": "④",
@@ -193,7 +181,7 @@
       "id": 38817,
       "question": "독서삼품과를 시행하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -205,7 +193,7 @@
       "id": 38818,
       "question": "이사부를 보내 우산국을 정벌하였다. 2025년도 국가공무원 9급 공채 필기시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 10,
         "option": "④",
@@ -217,7 +205,7 @@
       "id": 38819,
       "question": "고구려가 낙랑군을 몰아냈다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 11,
         "option": "①",
@@ -229,7 +217,7 @@
       "id": 38820,
       "question": "신라가 금관가야를 병합하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "②",
@@ -241,7 +229,7 @@
       "id": 38821,
       "question": "고구려가 안시성에서 당군을 물리쳤다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 11,
         "option": "③",
@@ -253,7 +241,7 @@
       "id": 38822,
       "question": "백제가 평양성에서 고국원왕을 전사시켰다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 11,
         "option": "④",
@@ -265,7 +253,7 @@
       "id": 38823,
       "question": "만민공동회를 개최하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -277,7 +265,7 @@
       "id": 38824,
       "question": "민립대학 설립 운동을 추진하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -289,7 +277,7 @@
       "id": 38825,
       "question": "비밀결사의 형태로 활동을 전개하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "③",
@@ -301,7 +289,7 @@
       "id": 38826,
       "question": "광주학생항일운동이 일어나자 진상조사단을 파견하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -313,7 +301,7 @@
       "id": 38827,
       "question": "삼수병으로 구성된 훈련도감을 설치하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -325,7 +313,7 @@
       "id": 38828,
       "question": "조광조 등 사림을 등용하여 훈구세력을 견제하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 13,
         "option": "②",
@@ -337,7 +325,7 @@
       "id": 38829,
       "question": "유능한 관료를 재교육하는 초계문신 제도를 시행하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 13,
         "option": "③",
@@ -349,7 +337,7 @@
       "id": 38830,
       "question": "일본과 제한된 범위의 무역을 허용하는 기유약조를 맺었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "④",
@@ -361,7 +349,7 @@
       "id": 38831,
       "question": "외국어 통역관 양성을 위한 동문학을 세웠다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -373,7 +361,7 @@
       "id": 38832,
       "question": "미국인 교사를 초빙한 육영공원을 창립하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -385,7 +373,7 @@
       "id": 38833,
       "question": "교원양성을 위해 한성사범학교 관제를 발표하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "③",
@@ -397,7 +385,7 @@
       "id": 38834,
       "question": "상공학교와 광무학교 등의 실업학교를 설립하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -409,7 +397,7 @@
       "id": 38835,
       "question": "한인촌인 신한촌이 형성되었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "③",
@@ -421,7 +409,7 @@
       "id": 38836,
       "question": "대조선 국민 군단이 창설되었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "④",
@@ -433,7 +421,7 @@
       "id": 38837,
       "question": "유ㆍ불 일치설을 주장하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 17,
         "option": "①",
@@ -445,7 +433,7 @@
       "id": 38838,
       "question": "백련사에서 결사를 조직하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -457,7 +445,7 @@
       "id": 38839,
       "question": "정혜쌍수의 수행법을 제시하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -469,7 +457,7 @@
       "id": 38841,
       "question": "영남 만인소 사건을 주도하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -481,7 +469,7 @@
       "id": 38842,
       "question": "미국에 파견된 보빙사의 일원이었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "②",
@@ -493,7 +481,7 @@
       "id": 38843,
       "question": "제2차 수신사로 조선책략을 조선에 가지고 왔다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 18,
         "option": "③",
@@ -505,7 +493,7 @@
       "id": 38844,
       "question": "왜양일체론을 내세우며 개항반대운동을 전개하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 18,
         "option": "④",
@@ -517,7 +505,7 @@
       "id": 38845,
       "question": "미군정청이 설치되었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "①",
@@ -529,7 +517,7 @@
       "id": 38846,
       "question": "5ㆍ10 총선거가 실시되었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "②",
@@ -541,7 +529,7 @@
       "id": 38847,
       "question": "반민족 행위 처벌법이 공포되었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "③",
@@ -553,7 +541,7 @@
       "id": 38848,
       "question": "한국의 독립을 언급한 카이로 회담이 개최되었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "④",

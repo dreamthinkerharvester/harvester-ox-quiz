@@ -7,13 +7,13 @@
   "source": "행정사 1차",
   "exam_year": 2025,
   "exam_round": 13,
-  "count": 98,
+  "count": 86,
   "questions": [
     {
       "id": 1044,
       "question": "행정계획이란 특정한 행정목표를 달성하기 위하여 서로 관련되는 행정수단을 종합ㆍ조 정함으로써 장래의 일정한 시점에 일정한 질서를 실현하기 위한 활동기준으로 설정된 것이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 28,
         "option": "①",
@@ -22,34 +22,10 @@
       }
     },
     {
-      "id": 1045,
-      "question": "행정주체는 구체적인 행정계 획을 입안ㆍ결정하면서 비교적 광범위한 형성의 자유를 가진다. 설 군 획 설",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 28,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 1046,
-      "question": "행정주체가 기반시 을 조성하기 위하여 도시ㆍ 계 시 결정을 할 때 행사하는 재 권 량 에는 한계가 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 28,
-        "option": "③",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 1047,
       "question": "자연환경 보호 등을 목적으로 하는 도시관리계 획결정은 행정청의 재량적 판단으로서, 그 내용이 현저히 합리성을 결여하거나 형평이나 비례의 원칙에 뚜렷하게 반하는 등의 사정이 없는 한 폭넓게 존중되어야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 28,
         "option": "④",
@@ -61,7 +37,7 @@
       "id": 1048,
       "question": "구) 「도시계획법」상 도시기본계획은 일반 국민에 대한 직접적인 구속력이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 28,
         "option": "⑤",
@@ -73,7 +49,7 @@
       "id": 1049,
       "question": "상급행정기관의 소속 공무원에 대한 업무처리지침은 일반적으로 행정조직 내부에서만 효력을 가진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 29,
         "option": "①",
@@ -82,22 +58,10 @@
       }
     },
     {
-      "id": 1050,
-      "question": "조례는 집행행위의 개입 없이도 그 자체로서 직접 국민의 구체적인 권리의무에 영향을 미치는 등의 법률상 효과를 발생하는 경우에도 항고소송의 대상이 될 수 없다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 29,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 1051,
       "question": "처분이 행정규칙을 위반하 였다고 해서 그러한 사정만으로 곧바로 위법하게 되는 것은 아니다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 29,
         "option": "③",
@@ -109,7 +73,7 @@
       "id": 1052,
       "question": "지방의회는 자치사무에 관하여 법률에 특별한 규정이 없는 한 지방자치단체의 장의 고유권한을 침해하지 않는 범위 내에서 조례를 제정할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 29,
         "option": "④",
@@ -121,7 +85,7 @@
       "id": 1053,
       "question": "법령보충적 행정규칙은 상위법령과 결합하여 대외적 구속력이 있는 법규명령으로서의 효력을 가진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 29,
         "option": "⑤",
@@ -133,7 +97,7 @@
       "id": 1054,
       "question": "인허가의제를 받으려면 주된 인허가를 신청할 때, 불가피한 사유로 함께 제출할 수 없는 경우가 아니라면 관련 인허가에 필요한 서류를 함께 제출하여야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 30,
         "option": "①",
@@ -145,7 +109,7 @@
       "id": 1055,
       "question": "주된 인허가 행정청은 주된 인허가를 하기 전에 관련 인허가에 관하여 미리 관련 인허가 행정청과 협의하여야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 30,
         "option": "②",
@@ -157,7 +121,7 @@
       "id": 1056,
       "question": "인허가의제의 효과는 주된 인허가의 해당 법률에 규정된 관련 인허가에 한정된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 30,
         "option": "③",
@@ -169,7 +133,7 @@
       "id": 1057,
       "question": "인허가의제의 경우 관련 인허가 행정청은 관련 인허가를 직접 한 것으로 보아 관계 감독 등 필요한 조치를 하여야 한다. 법령에 따른 관리 ㆍ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 30,
         "option": "④",
@@ -181,7 +145,7 @@
       "id": 1058,
       "question": "인허가의제 제도는 사업시행자의 이익을 위하여 만들어진 것이므로 사업시행자가 반드시 관련 인허가의제 처리를 신청할 의무가 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 30,
         "option": "⑤",
@@ -193,7 +157,7 @@
       "id": 1059,
       "question": "행정행위의 취소사유가 있는 경우에는 신뢰보호의 원칙 등을 고려할 필요가 없다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 31,
         "option": "①",
@@ -205,7 +169,7 @@
       "id": 1060,
       "question": "처분청은 그 처분의 성립에 하자가 있는 경우 이를 취소할 별도의 법적 근거가 없다고 하더라도 직권으로 이를 취소할 수 있다. 타 제반 사정을 종합하여",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 31,
         "option": "②",
@@ -217,7 +181,7 @@
       "id": 1061,
       "question": "행정청의 행정행위 취소가 있더라도 취소사유의 내용, 경위 기 행정행위의 효력을 장래에 향해 소멸시키는 행정행위의 철회에 해당하는지 살펴보아야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 31,
         "option": "③",
@@ -229,7 +193,7 @@
       "id": 1062,
       "question": "행정행위의 취소는 일단 유효하게 성립한 행정행위를 성립 당시 존재하 던 하자를 사유로 소급하여 효력을 소멸시키는 행정처분이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 31,
         "option": "④",
@@ -241,7 +205,7 @@
       "id": 1063,
       "question": "취소사유로는 위법이 있는 경우만이 아니라 부당한 경우도 포 함한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 31,
         "option": "⑤",
@@ -253,7 +217,7 @@
       "id": 1065,
       "question": "구)「농지법」에 따른 농지의 전용행위를 수반하는 건축허가",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 정답 조합(ㄹ)에 포함되지 않는 항목이다.",
       "source": {
         "qid": 32,
         "option": "ㄴ",
@@ -265,7 +229,7 @@
       "id": 1066,
       "question": "구)「공유수면 관리 및 매립에 관한 법률」상 공유수면 점용허가",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 정답 조합(ㄹ)에 포함되지 않는 항목이다.",
       "source": {
         "qid": 32,
         "option": "ㄷ",
@@ -277,7 +241,7 @@
       "id": 1067,
       "question": "구)「국유재산법」에 의한 국유재산의 무단점유 등에 대한 변상금부과",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 정답 조합(ㄹ)에 포함되는 항목이다.",
       "source": {
         "qid": 32,
         "option": "ㄹ",
@@ -289,7 +253,7 @@
       "id": 1068,
       "question": "행정지도를 하는 자는 그 상대방에게 그 행정지도의 취지 및 내용과 신분을 밝혀야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 33,
         "option": "①",
@@ -301,7 +265,7 @@
       "id": 1069,
       "question": "행정기관은 행정지도의 상대방이 행정지도에 따르지 아니하였다는 것을 이유로 불이익 한 조치를 하여서는 아니 된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 33,
         "option": "②",
@@ -313,7 +277,7 @@
       "id": 1070,
       "question": "「국가배상법」이 정한 배상청구의 요건인 공무원의 직무에는 행정지도와 같은 비권력적 작용은 포함되지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 33,
         "option": "③",
@@ -322,22 +286,10 @@
       }
     },
     {
-      "id": 1071,
-      "question": "행정지도의 상대방은 해당 행정지도의 방식ㆍ내용 등에 관하여 행정기관에 의견제출을 할 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 33,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 1072,
       "question": "행정지도는 그 목적 달성에 필요한 최소한도에 그쳐야 하 , 행정지도의 상대방의 의사에 반하여 부당하게 강요하여서는 아니 된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 33,
         "option": "⑤",
@@ -349,7 +301,7 @@
       "id": 1073,
       "question": "법령등의 이유로 독자적인 직무 수행이 어려운 경우",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 34,
         "option": "①",
@@ -361,7 +313,7 @@
       "id": 1074,
       "question": "행정서비스에 대한 국민의 만족도를 높이기 위하여 필요한 경우",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 34,
         "option": "②",
@@ -373,7 +325,7 @@
       "id": 1075,
       "question": "다른 행정청의 응원을 받아 처리하는 것이 보다 능률적이고 경제적인 경우",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 34,
         "option": "③",
@@ -385,7 +337,7 @@
       "id": 1076,
       "question": "다른 행정청에 소속되어 있는 전문기관의 협조가 필요한 경우",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 34,
         "option": "④",
@@ -397,7 +349,7 @@
       "id": 1077,
       "question": "인원ㆍ장비의 부족 등 사실상의 이유로 독자적인 직무 수행이 어려운 경우",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 34,
         "option": "⑤",
@@ -409,7 +361,7 @@
       "id": 1079,
       "question": "화재 예방을 위하여 정당한 권한을 가진 자가 설치ㆍ운영하는 경우",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 36,
         "option": "②",
@@ -421,7 +373,7 @@
       "id": 1080,
       "question": "교통단속을 위하여 정당한 권한을 가진 자가 설치ㆍ운영하는 경우",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 36,
         "option": "③",
@@ -430,22 +382,10 @@
       }
     },
     {
-      "id": 1081,
-      "question": "촬영 사실을 명확히 표시하여 정보주체가 촬영 사실을 알 수 있도록 하였음에도 불구하고 촬영 거부 의사를 밝히지 아니한 경우",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 36,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 1082,
       "question": "촬영된 영상정보를 저장하지 아니하는 경우로서 출입자 수, 성별, 연령대 등 통계값 또는 통계적 특성값 산출을 위해 촬영된 영상정보를 일시적으로 처리하는 경우",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 36,
         "option": "⑤",
@@ -457,7 +397,7 @@
       "id": 1083,
       "question": "행정청은 해가 지기 전에 대집행을 착수한 경우라도 해가 진 후에는 대집행을 하여서는 아니 된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 37,
         "option": "①",
@@ -469,7 +409,7 @@
       "id": 1084,
       "question": "대 집행에 요한 비용에 대하여서는 행정청은 사무비의 소속에 따라 국세에 다음가는 순위의 선취득권을 가진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 37,
         "option": "②",
@@ -481,7 +421,7 @@
       "id": 1085,
       "question": "대집행에 대하여는 행정심판을 제기할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 37,
         "option": "③",
@@ -493,7 +433,7 @@
       "id": 1086,
       "question": "대집행에 요한 비용은 「국세징수법」의 예에 의하여 징수할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 37,
         "option": "④",
@@ -502,22 +442,10 @@
       }
     },
     {
-      "id": 1087,
-      "question": "의무자가 동의한 경우 행정청은 해가 뜨기 전에 대집행을 할 수 있다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 37,
-        "option": "⑤",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 1088,
       "question": "외국인의 출입국ㆍ난민인정에 관한 사항에 관하여는 「행정기본법」 제5절(행정상 강제)을 적용하지 아니한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 38,
         "option": "①",
@@ -529,7 +457,7 @@
       "id": 1089,
       "question": "직접강제는 다른 모든 수단으로는 행정목적을 달성할 수 없는 경우에만 허용되며, 이 경우에도 최소한으로만 실시하여야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 38,
         "option": "②",
@@ -541,7 +469,7 @@
       "id": 1090,
       "question": "행정청은 이행강제금을 부과받은 자가 납부기한까지 이행강제금을 내지 아니하면 국세 강제징수의 예 또는 「지방행정제재ㆍ부과금의 징수 등에 관한 법률」에 따라 징수한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 38,
         "option": "③",
@@ -553,7 +481,7 @@
       "id": 1091,
       "question": "의무 불이행의 동기, 목적 및 결과는 이행강제금의 부과 금액을 가중하거나 감경할 수 있는 고려사항에 해당한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 38,
         "option": "④",
@@ -565,7 +493,7 @@
       "id": 1092,
       "question": "행정청은 이행강제금을 부과하기 전에 미리 의무자에게 적절한 이행기간을 정하여 그 기한까지 행정상 의무를 이행하지 아니하면 이행강제금을 부과한다는 뜻을 문서로 계고 하여야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 38,
         "option": "⑤",
@@ -574,22 +502,10 @@
       }
     },
     {
-      "id": 1093,
-      "question": "국가기관은 취소소송의 당사자가 될 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 39,
-        "option": "①",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 1094,
       "question": "교육에 관한 조례의 무효확인소송을 제기함에 있어서는 그 조례의 공포권이 있는 시ㆍ도 교육감을 피고로 하여야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 39,
         "option": "②",
@@ -601,7 +517,7 @@
       "id": 1095,
       "question": "대리권을 수여받은 데 불과하여 그 자신의 명의로는 행정처분을 할 권한이 없는 행정청 의 경우 대리관계를 밝힘이 없이 그 자신의 명의로 행정처분을 하였다면 그에 대하여는 처분명의자인 해당 행정청이 항고소송의 피고가 되는 것이 원칙이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 39,
         "option": "③",
@@ -613,7 +529,7 @@
       "id": 1096,
       "question": "지방자치단체장이 국유 일반재산을 대부하여 달라는 신청을 거부한 것은 행정처분이 아니므로 항고소송으로 그 취소를 구할 수 없다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 39,
         "option": "④",
@@ -625,7 +541,7 @@
       "id": 1097,
       "question": "행정규칙에 의한 불문경고조치는 항고소송의 대상이 되는 행정처분에 해당하지 아니한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 39,
         "option": "⑤",
@@ -634,22 +550,10 @@
       }
     },
     {
-      "id": 1098,
-      "question": "무효등확인심판에는 사정재결을 할 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 40,
-        "option": "①",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 1099,
       "question": "「행정심판법」은 당사자심판에 관해서 규정하고 있지 않다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 40,
         "option": "②",
@@ -661,7 +565,7 @@
       "id": 1100,
       "question": "행정처분의 취소를 구하는 심판에서 처분청은 당초 처분의 근거로 삼은 사유와 기본적 사 실관계가 동일성이 있다고 인정되는 한도 내에서 다른 사유를 추가 또는 변경할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 40,
         "option": "③",
@@ -673,7 +577,7 @@
       "id": 1101,
       "question": "재결에 의하여 취소되는 처분이 당사자의 신청을 거부하는 것을 내용으로 하는 경우에는 그 처분을 한 행정청은 재결의 취지에 따라 다시 이전의 신청에 대한 처분을 하여야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 40,
         "option": "④",
@@ -685,7 +589,7 @@
       "id": 1102,
       "question": "대통령의 처분에 대하여는 다른 법률에서 행정심판을 청구할 수 있도록 정한 경우 외에는 행정심판을 청구할 수 없다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 40,
         "option": "⑤",
@@ -697,7 +601,7 @@
       "id": 1103,
       "question": "취소소송은 법령의 규정에 의하여 당해 처분에 대한 행정심판을 제기할 수 있는 경우에는 이를 거치지 아니하고 제기할 수 없다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 41,
         "option": "①",
@@ -709,7 +613,7 @@
       "id": 1104,
       "question": "처분등을 취소하는 확정판결은 제3자에 대하여는 효력이 없다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 41,
         "option": "②",
@@ -721,7 +625,7 @@
       "id": 1105,
       "question": "행정처분의 무효 확인을 구하는 소에는 특단의 사정이 없는 한 취소를 구하는 취지도 포함되어 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 41,
         "option": "③",
@@ -733,7 +637,7 @@
       "id": 1106,
       "question": "거부처분취소판결의 간접강제에 관한 규정은 무효등 확인소송의 경우에 준용한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 41,
         "option": "④",
@@ -745,7 +649,7 @@
       "id": 1107,
       "question": "「행정소송법」에서는 의무이행소송을 인정하고 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 41,
         "option": "⑤",
@@ -757,7 +661,7 @@
       "id": 1108,
       "question": "사업시행자는 사용의 개시일에 토지의 사용권을 취득하며, 그 토지에 관한 다른 권리는 재결로 인정되지 아니 하더라도 사용 기간 중에 행사할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 42,
         "option": "①",
@@ -769,7 +673,7 @@
       "id": 1109,
       "question": "수용재결에 불복할 때는 이의신청을 거치지 않고도 행정소송을 제기할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 42,
         "option": "②",
@@ -781,7 +685,7 @@
       "id": 1110,
       "question": "재결에 의한 경우 보상액의 산정은 수용개시 당시의 가격을 기준으로 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 42,
         "option": "③",
@@ -793,7 +697,7 @@
       "id": 1111,
       "question": "사업인정처분이 당연무효이더라도 그것이 유효함을 전제로 이루어진 수용재결이 무효가 되는 것이 아니다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 42,
         "option": "④",
@@ -805,7 +709,7 @@
       "id": 1112,
       "question": "보상액을 산정할 경우에 해당 공익사 업으로 인하여 토지등의 가격이 변동되었을 때에는 이를 고려하여야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 42,
         "option": "⑤",
@@ -817,7 +721,7 @@
       "id": 1115,
       "question": "상급행정기관의 하급행정기관에 대한 승인 ㆍ 동의 ㆍ 지시는 국 민의 권리 의무에 직접 영향을 미치지 않더라도 행정처분에 해당한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 44,
         "option": "①",
@@ -829,7 +733,7 @@
       "id": 1116,
       "question": "법제처는 국무총리 소속 행정기관이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 44,
         "option": "②",
@@ -841,7 +745,7 @@
       "id": 1117,
       "question": "중앙행정기관의 설치와 직무범위는 법률로 정한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 44,
         "option": "③",
@@ -853,7 +757,7 @@
       "id": 1118,
       "question": "각 행정기관의 장은 소관사무를 통할하고 소속공무원을 지휘ㆍ감독한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 44,
         "option": "④",
@@ -862,22 +766,10 @@
       }
     },
     {
-      "id": 1119,
-      "question": "행정기관에는 그 소관사무의 일부를 독립하여 수행할 필요가 있는 때에는 법률로 정하는 바에 따라 행정위원회 등 합의제행정기관을 둘 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 44,
-        "option": "⑤",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 1120,
       "question": "국가사무가 지방자치단체의 장에게 위임된 기관위임사무는 원칙적으로 자치조례의 제정 범위에 속하지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 45,
         "option": "①",
@@ -889,7 +781,7 @@
       "id": 1121,
       "question": "지방자치단체의 장은 기관수임사무의 일부를 그 위임기관의 장의 승인을 받아 규칙으로 정하는 바에 따라 재위임할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 45,
         "option": "②",
@@ -901,7 +793,7 @@
       "id": 1122,
       "question": "위임기관은 수임기관의 수임사무 처리에 대하여 지휘ㆍ감독하고, 그 처리가 위법하거나 부당하다고 인정될 때에는 이를 취소하거나 정지시킬 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 45,
         "option": "③",
@@ -913,7 +805,7 @@
       "id": 1123,
       "question": "수임사무의 처리에 관하여 위임기관은 수임기관에 대하여 사전승인을 받거나 협의를 할 것을 요구할 수 없다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 45,
         "option": "④",
@@ -925,7 +817,7 @@
       "id": 1124,
       "question": "지방자치단체가 국가사무를 수임한 경우에는 수임한 지방자치단체에서 그 경비를 부담 하여야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 45,
         "option": "⑤",
@@ -937,7 +829,7 @@
       "id": 1125,
       "question": "지방자치단체의 주민은 조례를 폐지할 것을 청구할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 46,
         "option": "①",
@@ -946,22 +838,10 @@
       }
     },
     {
-      "id": 1126,
-      "question": "지방자치단체의 주민은 그 지방자치단체의 장 및 비례대표 지방의회의원을 포함한 지방 의회의원을 소환할 권리를 가진다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 46,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 1127,
       "question": "주민투표권은 헌법상 보장되는 기본권 또는 헌법상 제도적으로 보장되는 주관적 공권이 아니다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 46,
         "option": "③",
@@ -970,34 +850,10 @@
       }
     },
     {
-      "id": 1128,
-      "question": "지방자치단체장이 동일 수탁자에게 위탁사무를 재위탁하고자 할 때 지방의회의 동의를 받도록 한 조례안은 지방자치단체장의 집행권한을 본질적으로 침해하는 것으로 볼 수 없다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 46,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 1129,
-      "question": "지방의회의원 정수의 2분의 1 범위에서 해당 지방자치단체의 조 례로 정하는 바에 따라 지방의회에 정책지원 전문인력을 둘 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 46,
-        "option": "⑤",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 1130,
       "question": "예산, 결산 및 기금에 관한 사무는 기획재정부장관이 관장한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 47,
         "option": "①",
@@ -1009,7 +865,7 @@
       "id": 1131,
       "question": "각 회계연도의 경비는 그 연도의 세입 또는 수입으로 충당하여야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 47,
         "option": "②",
@@ -1021,7 +877,7 @@
       "id": 1132,
       "question": "국가의 회계는 통상회계와 임시회계로 구분한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 47,
         "option": "③",
@@ -1033,7 +889,7 @@
       "id": 1133,
       "question": "한 회계연도의 모든 수입을 세입으로 하고, 모든 지출을 세출로 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 47,
         "option": "④",
@@ -1045,7 +901,7 @@
       "id": 1134,
       "question": "예산은 예산총칙ㆍ세입세출예산ㆍ계속비ㆍ명시이월비 및 국고채무부담행위를 총칭한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 47,
         "option": "⑤",
@@ -1057,7 +913,7 @@
       "id": 1138,
       "question": "공공안녕에 대한 위험의 예방과 대응을 위한 정보의 수집 ㆍ작성 및 배포",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 정답 조합(ㅁ)에 포함되는 항목이다.",
       "source": {
         "qid": 48,
         "option": "ㅁ",
@@ -1069,7 +925,7 @@
       "id": 1139,
       "question": "검사는 특정직공무원에 해당한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 49,
         "option": "①",
@@ -1081,7 +937,7 @@
       "id": 1140,
       "question": "정무직공무원은 특수경력직공무원에 해당한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 49,
         "option": "②",
@@ -1093,7 +949,7 @@
       "id": 1141,
       "question": "직급이 란 1명의 공무원에게 부여할 수 있는 직무와 책임을 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 49,
         "option": "③",
@@ -1105,7 +961,7 @@
       "id": 1142,
       "question": "소청심사위원회의 결정은 처분 행정청을 기속한다. 願 휴",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 49,
         "option": "④",
@@ -1117,7 +973,7 @@
       "id": 1143,
       "question": "본인의 원( )에 따른 강임ㆍ 직 또는 면직처분을 할 때에는 그 처분권자 또는 처분제청 권자는 처분사유를 적은 설명서를 교부하지 않아도 된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 49,
         "option": "⑤",
@@ -1129,7 +985,7 @@
       "id": 1144,
       "question": "보존용재산은 일반재산에 속한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 50,
         "option": "①",
@@ -1141,7 +997,7 @@
       "id": 1145,
       "question": "공용재산이 란 국가가 직접 공공용으로 사용하거나 대통령령으로 정하는 기한까지 사용 하기로 결정한 재산을 말한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 50,
         "option": "②",
@@ -1153,7 +1009,7 @@
       "id": 1146,
       "question": "기업용재산은 「민법」 제245조에 따른 시효취득의 대상이 된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 50,
         "option": "③",
@@ -1165,7 +1021,7 @@
       "id": 1147,
       "question": "판결에 따라 취득하는 경우에도 사권(私權)이 설정된 재산은 그 사권이 소멸된 후가 아니면 국유재산으로 취득하지 못한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 50,
         "option": "④",
@@ -1177,7 +1033,7 @@
       "id": 1148,
       "question": "총괄청이나 중앙관서의 장은 소유자 없는 부동산을 국유재산으로 취득한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 50,
         "option": "⑤",

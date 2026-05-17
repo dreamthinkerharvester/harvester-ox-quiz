@@ -7,13 +7,13 @@
   "source": "지방직 9급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 32,
+  "count": 31,
   "questions": [
     {
       "id": 42375,
       "question": "간호처치를 수행하기 전에 기록한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 2,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 42376,
       "question": "공인되지 않은 약어를 사용하여 기록한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 42377,
       "question": "다른 간호사가 수행한 것을 대신 기록하지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 42378,
       "question": "환자의 주관적 호소를 제외하고 객관적 사실만 기록한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 2,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 42379,
       "question": "행동과 의사결정에 대한 규칙과 절차를 문서화한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 7,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 42380,
       "question": "구성원의 생산성에 비례하여 보수를 지급한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 7,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 42381,
       "question": "자원은 변환과정을 통해 제품 및 서비스로 산출된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 42382,
       "question": "구성원에 대한 관리자의 관심이 생산성을 높인다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 42383,
       "question": "자율성 존중의 원칙－환자가 자신의 생각에 따라 선택하고 행동할 권리를 존중한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 42384,
       "question": "악행금지의 원칙－의도적으로 해를 입히는 것과 해를 입히는 위험을 초래하는 것을 금한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 42385,
       "question": "선행의 원칙－해악을 제거하고 적극적으로 선을 실행한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 42386,
       "question": "정의의 원칙－환자에게 성실하게 간호를 제공하겠다는 약속을 이행한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 42387,
       "question": "입원실은 300럭스(lux) 이상의 조도를 유지한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 42388,
       "question": "다인실에는 사생활 보호를 위해 커튼이나 칸막이를 설치한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 42389,
       "question": "격리실은 전실을 두어 이중문을 설치하고 항상 양압을 유지한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -193,7 +193,7 @@
       "id": 42390,
       "question": "간호사실은 원활한 업무를 위해 70데시벨(decibel) 정도가 적절하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 9,
         "option": "④",
@@ -205,7 +205,7 @@
       "id": 42391,
       "question": "인간적 기술은 구성원의 업무 수행과 관련된 지식ㆍ방법ㆍ장비 등을 사용하는 능력이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 11,
         "option": "①",
@@ -217,7 +217,7 @@
       "id": 42392,
       "question": "실무적 기술은 상위 관리계층으로 올라갈수록 요구도가 높아진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 11,
         "option": "②",
@@ -229,7 +229,7 @@
       "id": 42393,
       "question": "개념적 기술은 조직을 전체로 보고 구성원의 활동을 조직 목표와 연결하여 이해하는 능력이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "③",
@@ -241,7 +241,7 @@
       "id": 42394,
       "question": "실무적 기술은 구성원과 함께 일할 수 있는 인간관계 능력이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 11,
         "option": "④",
@@ -250,22 +250,10 @@
       }
     },
     {
-      "id": 42395,
-      "question": "기업 재무구조의 건전성을 알 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 13,
-        "option": "①",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 42396,
       "question": "기본 요소는 수익, 비용, 당기순이익 등이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 13,
         "option": "②",
@@ -277,7 +265,7 @@
       "id": 42397,
       "question": "일정 기간 기업활동을 통해 얻어진 손익을 나타낸다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 13,
         "option": "③",
@@ -289,7 +277,7 @@
       "id": 42398,
       "question": "현금의 유입과 유출을 영업ㆍ투자ㆍ재무 활동으로 표시한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -301,7 +289,7 @@
       "id": 42399,
       "question": "멸균물품은 선입선출이 가능하도록 정리한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "①",
@@ -313,7 +301,7 @@
       "id": 42400,
       "question": "재고관리 시 품목별 수량 확인을 생략한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -325,7 +313,7 @@
       "id": 42401,
       "question": "리넨의 1일 정수량은 사용량의 3배 이상으로 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -337,7 +325,7 @@
       "id": 42402,
       "question": "유효기간이 경과하지 않았어도 사용하지 않는 물품은 폐기한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "④",
@@ -349,7 +337,7 @@
       "id": 42403,
       "question": "전년도 예산에 근거하지 않고 새롭게 예산을 책정한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 17,
         "option": "①",
@@ -361,7 +349,7 @@
       "id": 42404,
       "question": "비용과 성과를 연계함으로써 예산 낭비를 줄일 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -373,7 +361,7 @@
       "id": 42405,
       "question": "물가상승률 등 전년 대비 증감률을 반영하여 예산을 책정한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "③",
@@ -385,7 +373,7 @@
       "id": 42406,
       "question": "기존 사업의 타당성을 재평가하므로 시간이 걸리고 복잡하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 17,
         "option": "④",

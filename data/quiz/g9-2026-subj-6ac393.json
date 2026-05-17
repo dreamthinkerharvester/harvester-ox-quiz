@@ -13,7 +13,7 @@
       "id": 27613,
       "question": "순방향 바이어스에서는 주로 확산(diffusion)에 의해서 전류가 흐른다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 27614,
       "question": "동작 온도가 올라가면 역방향 바이어스 영역의 동일 전압에서 흐르는 전류 절댓값이 커진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 27615,
       "question": "GaAs 화합물 다이오드는 Si 다이오드보다 전하이동도가 우수하여 고속 동작에 주로 이용된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 27616,
       "question": "제너 다이오드는 순방향 바이어스 영역의 항복현상을 이용하여 전원 안정화 회로에 사용된다.   ",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 27617,
       "question": "턴오프 상태일 때는 내부 다이오드로 전류가 흐를 수 없다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 27618,
       "question": "드레인(D), 소스(S), 게이트(G)의 3단자로 이루어진 반도체 스위칭 소자이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 13,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 27619,
       "question": "내부 다이오드의 역회복시간(reverse recovery time)이 상대적으로 느리기 때문에 고속 스위칭 회로에는 외부에 고속 다이오드를 추가한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 13,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 27620,
       "question": "게이트－소스 전압  에 문턱전압(threshold voltage)보다 큰  양의 전압을 인가하면 드레인과 소스 사이는 턴온 상태로 전류  가 흐르게 된다. D 2026년도 국가공무원 9급 공채 필기시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 27622,
       "question": "콜피츠발진기 회로이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -121,7 +121,7 @@
       "id": 27624,
       "question": "발진주파수   ＝    [Hz]이다.         ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -133,7 +133,7 @@
       "id": 27627,
       "question": "대역폭(bandwidth)은 약 330[kHz]이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 27628,
       "question": "단위이득주파수(unit-gain frequency)는 약 2[MHz]이다. 전자공학개론 책형 3쪽",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 15,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 27629,
       "question": "가 증가할 때 차동모드이득의 절댓값이 감소한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 27630,
       "question": "가 증가할 때 공통모드제거비(CMRR)가 감소한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 27631,
       "question": "가 증가할 때 차동모드이득의 절댓값이 증가한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "③",
@@ -193,7 +193,7 @@
       "id": 27632,
       "question": "가 증가할 때 직류 출력전압  과  가 증가한다. C o o",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "④",
@@ -205,7 +205,7 @@
       "id": 27634,
       "question": "발진주파수   [Hz]이다.     ",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "②",
@@ -217,7 +217,7 @@
       "id": 27635,
       "question": "발진주파수에서 3단 귀환 RC 회로의 귀환계수   이다.  ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -229,7 +229,7 @@
       "id": 27636,
       "question": "3단 귀환 RC 회로의 전체 위상편이가 180°가 되는 경우에 발진 조건을 만족한다. 전자공학개론 책형 4쪽",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 19,
         "option": "④",
@@ -241,7 +241,7 @@
       "id": 27637,
       "question": "양호도(quality factor)  이다.   ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "①",
@@ -253,7 +253,7 @@
       "id": 27638,
       "question": "중심 각주파수   [rad/s]이다.   ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "②",
@@ -265,7 +265,7 @@
       "id": 27639,
       "question": "중심 각주파수에서 전압이득 이다. ",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "③",
@@ -277,7 +277,7 @@
       "id": 27640,
       "question": "대역폭(bandwidth)  [Hz]이다.  ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "④",

@@ -13,7 +13,7 @@
       "id": 42525,
       "question": "체인의 길이 조절이 가능하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -25,7 +25,7 @@
       "id": 42526,
       "question": "축 사이의 거리가 멀어 기어를 사용할 수 없을 때 사용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -37,7 +37,7 @@
       "id": 42527,
       "question": "체인과 스프로킷 휠(sprocket wheel)에 의해 동력을 전달한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 15,
         "option": "④",
@@ -49,7 +49,7 @@
       "id": 42528,
       "question": "은(Ag)은 구리(Cu)보다 연성이 우수하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 16,
         "option": "①",
@@ -61,7 +61,7 @@
       "id": 42529,
       "question": "금(Au)은 구리(Cu)보다 연성이 우수하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -73,7 +73,7 @@
       "id": 42530,
       "question": "은(Ag)은 구리(Cu)보다 전기 전도율이 우수하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -85,7 +85,7 @@
       "id": 42531,
       "question": "금(Au)은 구리(Cu)보다 전기 전도율이 우수하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "④",
@@ -97,7 +97,7 @@
       "id": 42532,
       "question": "사용 연료는 휘발유이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 18,
         "option": "③",
@@ -109,7 +109,7 @@
       "id": 42533,
       "question": "점화 플러그의 불꽃 점화 방식으로 점화한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 18,
         "option": "④",

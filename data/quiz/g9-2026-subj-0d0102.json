@@ -7,13 +7,13 @@
   "source": "국가직 9급",
   "exam_year": 2026,
   "exam_round": null,
-  "count": 19,
+  "count": 15,
   "questions": [
     {
       "id": 27871,
       "question": "평균은 중앙값보다 크다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 27872,
       "question": "자료의 범위는  이상이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 27873,
       "question": "왜도(skewness)의 값은 양수이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 27874,
       "question": "중앙값은 제1사분위수보다 제3사분위수에 더 가깝다.  ",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 27875,
       "question": "기울기의 추정값이 커지면 신뢰구간의 폭이 넓어진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 27876,
       "question": "의 값이 커지면 신뢰구간의 폭이 넓어진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 27877,
       "question": "평균제곱오차()의 값이 커지면 신뢰구간의 폭이 넓어진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 27878,
       "question": "독립변수의 편차의 제곱합이 커지면 신뢰구간의 폭이 넓어진다. 2026년도 국가공무원 9급 공채 필기시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 27879,
       "question": "처리의 수가 일 경우 (가)의 값은 이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 15,
         "option": "①",
@@ -118,34 +118,10 @@
       }
     },
     {
-      "id": 27880,
-      "question": "전체 자료의 수가 이고 처리의 수가 일 때, (나)의 값은 이다. ×(나)",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 15,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 27882,
-      "question": "확률변수 가 분자와 분모의 자유도가 각각 (가), (나)인 분포를 따를 때, (라)는 다이다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 15,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 27883,
       "question": "인자 의 수준수는 이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -157,7 +133,7 @@
       "id": 27884,
       "question": "인자 의 제곱합의 자유도는 이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -169,7 +145,7 @@
       "id": 27885,
       "question": "각 수준조합에서의 반복수는 이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 18,
         "option": "③",
@@ -178,22 +154,10 @@
       }
     },
     {
-      "id": 27886,
-      "question": "교호작용 ×는 유의수준 %에서 유의하지 않다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 18,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 27887,
       "question": "표본평균 는 이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -205,7 +169,7 @@
       "id": 27888,
       "question": "% 신뢰수준에서 의 오차한계는 이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 19,
         "option": "②",
@@ -217,22 +181,10 @@
       "id": 27889,
       "question": "모평균 가 구간  에 포함될 확률은 이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "③",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 27890,
-      "question": "가설   대  ≠을 유의수준 %에서 검정할 때,   귀무가설을 기각하지 못한다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 19,
-        "option": "④",
         "qtype": "opt-wrong",
         "difficulty": null
       }

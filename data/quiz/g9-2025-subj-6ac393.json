@@ -13,7 +13,7 @@
       "id": 38478,
       "question": "출력전압의 주파수는 60[Hz]이다.  ",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 38479,
       "question": "출력전압의 평균값은 [V]이다.    ",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 38480,
       "question": "출력전압의 실횻값은 [V]이다.   ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 38481,
       "question": "다이오드에 인가되는 역방향 최대전압은  [V]이다. ",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 38482,
       "question": "발진시키는 데 외부 입력신호는 필요치 않다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 38483,
       "question": "발진을 시작하기 위해서는 루프 이득이 1이어야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 38484,
       "question": "발진을 유지하기 위해서는 루프 이득이 1보다 커야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 38485,
       "question": "발진하기 위해서는 피드백 루프의 위상 천이(phase-shift)가 180°이어야 한다. 전자공학개론 책형 2쪽",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 10,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 38486,
       "question": "전류이득이 매우 크다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 38487,
       "question": "전압이득이 매우 크다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 38488,
       "question": "높은 입력임피던스를 가진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 38489,
       "question": "달링턴(Darlington) 접속회로이다. 2025년도 국가공무원 9급 공채 필기시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 38490,
       "question": "BJT보다 FET의 집적도가 높다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 38491,
       "question": "BJT보다 FET의 입력 저항이 작다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 38492,
       "question": "FET는 전자 또는 정공의 단일 캐리어에 의해 전류가 형성된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 14,
         "option": "③",
@@ -193,7 +193,7 @@
       "id": 38493,
       "question": "BJT는 활성영역에서 베이스 전류에 의해 컬렉터 전류가 제어된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -205,7 +205,7 @@
       "id": 38494,
       "question": "네트워크 토폴로지에는 버스, 링 방식 등이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "①",
@@ -217,7 +217,7 @@
       "id": 38495,
       "question": "회선교환 방식은 데이터그램 방식과 가상회선 방식으로 나뉜다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "②",
@@ -229,7 +229,7 @@
       "id": 38496,
       "question": "시스템들 간의 데이터 교환 방식에는 회선교환 방식, 패킷교환 방식 등이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -241,7 +241,7 @@
       "id": 38497,
       "question": "네트워크 토폴로지란 네트워크상의 노드 위치나 노드 간의 케이블 연결들의 물리적인 배치를 의미한다. 전자공학개론 책형 3쪽",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "④",

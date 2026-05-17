@@ -13,7 +13,7 @@
       "id": 26070,
       "question": "공은 축 방향으로 등속 운동을 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 26071,
       "question": "투수의 손을 떠난 순간부터 공의 운동에너지는 일정하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 26072,
       "question": "공은 축 방향으로 등가속도 운동을 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 26073,
       "question": "투수가 던진 공이 빠를수록 타자 위치에서 공의 높이 는 높아진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 26074,
       "question": "안경 제작에서 특정 방향으로 진동하는 빛을 제거하는 데 사용된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 2,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 26075,
       "question": "편광되지 않은 빛이 산란, 반사 또는 굴절로 인하여 편광될 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 26076,
       "question": "두 편광판의 투과 축 사이의 각이 라면 두 편광판을 통과한 빛의 세기는 cos에 비례한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 26077,
       "question": "편광은 횡파에서만 발생하고 종파에서는 발생하지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 2,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 26078,
       "question": "진동수가 큰 단색광을 사용한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 26079,
       "question": "긴 파장의 단색광을 사용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 6,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 26080,
       "question": "이중 슬릿과 스크린 사이의 거리를 늘린다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 6,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 26081,
       "question": "이중 슬릿에서 두 슬릿 사이의 간격을 줄인다. 근로감독 및 산업안전 분야 국가공무원 7급 공채 제2차시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 6,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 26082,
       "question": "B는 인체 내부를 보는 의료용으로도 사용된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -169,7 +169,7 @@
       "id": 26083,
       "question": "C는 세 전자기파 중에서 파장이 가장 짧다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "③",
@@ -181,7 +181,7 @@
       "id": 26084,
       "question": "A는 B보다 진동수가 작다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -193,7 +193,7 @@
       "id": 26086,
       "question": "B에 충전된 전하량은 전원이 공급한 전하량의 배이다.   ",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "②",
@@ -205,7 +205,7 @@
       "id": 26088,
       "question": "A에 저장된 에너지는 B에 저장된 에너지의 배이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 19,
         "option": "④",
@@ -217,7 +217,7 @@
       "id": 26089,
       "question": "전열기의 전압이 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 21,
         "option": "①",
@@ -229,7 +229,7 @@
       "id": 26090,
       "question": "전열기의 저항이 감소한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 21,
         "option": "②",
@@ -241,7 +241,7 @@
       "id": 26091,
       "question": "전열기의 소비전력이 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 21,
         "option": "③",
@@ -253,7 +253,7 @@
       "id": 26092,
       "question": "접점에서 많은 열이 발생한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 21,
         "option": "④",
@@ -265,7 +265,7 @@
       "id": 26093,
       "question": "유도용량은 전류 크기에 무관하게 일정하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 24,
         "option": "①",
@@ -277,7 +277,7 @@
       "id": 26094,
       "question": "만 배로 늘리면 유도용량도 배가 된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 24,
         "option": "②",
@@ -289,7 +289,7 @@
       "id": 26095,
       "question": "원통의 단면적만 배로 늘리면 유도용량은 배가 된다. ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 24,
         "option": "③",
@@ -301,7 +301,7 @@
       "id": 26096,
       "question": "길이 만 로 줄이면 유도용량은 배가 된다.  ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 24,
         "option": "④",

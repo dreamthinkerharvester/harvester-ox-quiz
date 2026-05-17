@@ -7,13 +7,13 @@
   "source": "지방직 9급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 27,
+  "count": 26,
   "questions": [
     {
       "id": 43213,
       "question": "정보자산을 여러 가지 위협으로부터 보호하는 것이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 43214,
       "question": "정보보호의 범위에는 사이버안전이 포함될 수 없다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 43215,
       "question": "정보의 가용성과 보안 측면에서 정보보호는 정보의 활용과 정보의 통제 사이에서 균형 감각을 갖는 행위이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 43216,
       "question": "정보보호의 대상이 되는 자산에는 소프트웨어, 하드웨어, 데이터, 인적자원이 포함될 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 43217,
       "question": "분석 대상 시스템에 어떤 서비스가 제공되고 있는지 확인하기 위한 정보수집 방법이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 43218,
       "question": "포트 번호는 0～65,535까지이며, 이 중 0～1,023은 잘 알려진 포트(well-known port)라고 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 43219,
       "question": "Nmap은 오픈소스 기반 포트 스캔 도구이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 43220,
       "question": "TCP 포트 스캔 시 닫혀 있는 포트로부터 ICMP port Unreachable 패킷이 수신된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 43221,
       "question": "위험 수용: 위험에 처한 자산의 구조나 사용을 변경한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 43222,
       "question": "위험 감소: 위험을 발생시키는 행위나 시스템을 수행하지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 43223,
       "question": "위험 전가: 위험에 대응하여 보험을 들거나 다른 기관과 계약을 맺는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 43224,
       "question": "위험 회피: 현재의 위험을 받아들이고 잠재적 손실 비용을 감수한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 43225,
       "question": "개인정보의 처리에 대한 차단/제한을 요구할 권리",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 43226,
       "question": "개인정보를 본인 또는 다른 사업자에게 전송하도록 요구할 권리",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 13,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 43228,
       "question": "프로파일링 등 자동으로 이루어지는 모든 의사결정에 대해 거부할 권리",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "④",
@@ -190,22 +190,10 @@
       }
     },
     {
-      "id": 43229,
-      "question": "개인정보처리자는 보유기간의 경과, 개인정보의 처리 목적 달성, 가명정보의 처리 기간 경과 등 그 개인정보가 불필요하게 되었을 때에는 지체 없이 그 개인정보를 파기하여야 한다. 다만, 다른 법령에 따라 보존하여야 하는 경우에는 그러하지 아니하다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 15,
-        "option": "①",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 43230,
       "question": "개인정보처리자가 개인정보를 파기할 때에는 복구 또는 재생되지 아니하도록 조치하여야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -217,7 +205,7 @@
       "id": 43231,
       "question": "개인정보처리자가 개인정보를 파기하지 아니하고 다른 법령에 따라 보존하여야 하는 경우에는 해당 개인정보 또는 개인정보파일을 다른 개인정보와 분리하여서 저장ㆍ관리하여야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -229,7 +217,7 @@
       "id": 43232,
       "question": "개인정보의 파기방법 및 절차 등에 필요한 사항은 총리령으로 정한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "④",
@@ -241,7 +229,7 @@
       "id": 43233,
       "question": "개인정보를 제공받는 자의 개인정보 이용 목적",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "①",
@@ -253,7 +241,7 @@
       "id": 43234,
       "question": "동의에 따른 이익이 있는 경우에는 그 이익의 내용",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "②",
@@ -265,7 +253,7 @@
       "id": 43235,
       "question": "동의를 거부할 권리가 있다는 사실 및 동의 거부에 따른 불이익이 있는 경우에는 그 불이익의 내용",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -277,7 +265,7 @@
       "id": 43236,
       "question": "개인정보를 제공받는 자의 개인정보 보유 및 이용 기간",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "④",
@@ -289,7 +277,7 @@
       "id": 43237,
       "question": "총계 처리는 평균값, 최댓값, 최솟값, 최빈값, 중간값 등으로 처리한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -301,7 +289,7 @@
       "id": 43238,
       "question": "일반 라운딩은 올림, 내림, 반올림 등의 기준을 적용하여 집계 처리하는 방법으로, 일반적으로 세세한 정보보다는 전체 통계 정보가 필요한 경우 많이 사용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "②",
@@ -313,7 +301,7 @@
       "id": 43239,
       "question": "로컬 일반화는 전체 정보집합물 중 특정 열 항목(들)에서 특이한 값을 가지거나 분포상의 특이성으로 인해 식별성이 높아지는 경우 해당 부분만 일반화를 적용하여 식별성을 낮추는 방법이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -325,7 +313,7 @@
       "id": 43240,
       "question": "순서보존 암호화는 원문에 대한 암호화의 적용만 가능하고 암호문에 대한 복호화 적용이 불가능한 암호화 기법이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "④",

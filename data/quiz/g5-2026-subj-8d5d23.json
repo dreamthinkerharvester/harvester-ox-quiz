@@ -7,13 +7,13 @@
   "source": "국가직 5급",
   "exam_year": 2026,
   "exam_round": null,
-  "count": 37,
+  "count": 36,
   "questions": [
     {
       "id": 25583,
       "question": "소비량은 옥수수가 매년 가장 많다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 25584,
       "question": "2024년 쌀 소비량은 전년 대비 증가하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 25585,
       "question": "양곡 생산량 중 보리가 차지하는 비중은 매년 25% 미만이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 14,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 25586,
       "question": "쌀 소비량보다 쌀 생산량이 많은 연도에는 보리 생산량이 7만 톤 미만이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 25587,
       "question": "2017년 이후 콩 자급률은 매년 증가하였다. 2026년도 국가공무원 5급 공채 등 필기시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 14,
         "option": "⑤",
@@ -73,7 +73,7 @@
       "id": 25590,
       "question": "2022～2025년 섬유제품 수입액의 전년 대비 증가율 자료해석영역 책형 8쪽",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -85,7 +85,7 @@
       "id": 25592,
       "question": "연도별 섬유류 수출액에서 섬유제품이 차지하는 비중",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 15,
         "option": "⑤",
@@ -97,7 +97,7 @@
       "id": 25593,
       "question": "수출액은 C가 A의 1.5배 이상이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 16,
         "option": "①",
@@ -109,7 +109,7 @@
       "id": 25594,
       "question": "무역개방도는 B가 D보다 높다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -121,7 +121,7 @@
       "id": 25595,
       "question": "무역규모가 가장 큰 국가는 C이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -133,7 +133,7 @@
       "id": 25596,
       "question": "GDP 대비 무역수지의 비율은 D가 C보다 높다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 16,
         "option": "④",
@@ -145,7 +145,7 @@
       "id": 25597,
       "question": "A의 무역개방도는 20% 미만이다. 2026년도 국가공무원 5급 공채 등 필기시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "⑤",
@@ -157,7 +157,7 @@
       "id": 25598,
       "question": "2024년 구조된 개의 수와 고양이의 수가 각각 두 번째로 적은 지역은 동일하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "①",
@@ -166,22 +166,10 @@
       }
     },
     {
-      "id": 25599,
-      "question": "2024년 전국 구조동물 수 중 고양이가 차지하는 비중은 25% 미만이다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 19,
-        "option": "②",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 25600,
       "question": "전국에서 구조된 개의 수는 매년 증가하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -193,7 +181,7 @@
       "id": 25601,
       "question": "2024년 구조동물 수는 경기가 전국의 20% 이상이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 19,
         "option": "④",
@@ -205,7 +193,7 @@
       "id": 25602,
       "question": "2023년 대비 2024년 전국에서 구조된 동물 수의 감소폭은 개가 고양이보다 작다. 자료해석영역 책형 10쪽",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 19,
         "option": "⑤",
@@ -217,7 +205,7 @@
       "id": 25603,
       "question": "음악과 출판의 사업체 수 합이 전체 사업체 수의 70 % 이상을 차지하였다. 특히 출판은 종사자 수가 가장 많아 핵심 분야로 자리매김하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 22,
         "option": "①",
@@ -229,7 +217,7 @@
       "id": 25604,
       "question": "매출액이 가장 큰 분야는 방송으로 사업체당 매출액 역시 가장 컸다. 다만,",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 22,
         "option": "②",
@@ -241,7 +229,7 @@
       "id": 25605,
       "question": "수출액은 게임이 방송의 8배 이상으로 콘텐츠 산업 전체 수출액의 70% 이상을 기록하여 ‘갑’국의 수출 전략산업으로서 게임의 입지를 증명하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 22,
         "option": "③",
@@ -253,7 +241,7 @@
       "id": 25606,
       "question": "수입액이 가장 큰 분야인 출판은 콘텐츠 산업 내에서 수출액 순위와 무역수지 순위가 동일하였다. 콘텐츠 산업의 전체 수출액은 전체 매출액의 10% 이상을 차지하여 해외 매출의 비중이 작지 않은 것으로 나타났다. 분야별로 살펴보면,",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 22,
         "option": "④",
@@ -265,7 +253,7 @@
       "id": 25607,
       "question": "매출액 대비 수출액 비중은 가장 큰 분야와 가장 작은 분야의 차이가 35%p 이상이었다. 2026년도 국가공무원 5급 공채 등 필기시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 22,
         "option": "⑤",
@@ -277,7 +265,7 @@
       "id": 25608,
       "question": "국내특허 보유건수와 해외특허 보유건수의 합은 ‘사립대학’이 ‘국공립대학’의 2배 이상이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 23,
         "option": "①",
@@ -289,7 +277,7 @@
       "id": 25609,
       "question": "국내특허, 해외특허, 디자인 각각에서 ‘국공립대학’의 활용률이 ‘사립대학’의 활용률보다 높다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 23,
         "option": "②",
@@ -301,7 +289,7 @@
       "id": 25610,
       "question": "국내특허의 수익발생비율로 기관유형을 비교하면 ‘사립대학’이 가장 높다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 23,
         "option": "③",
@@ -313,7 +301,7 @@
       "id": 25611,
       "question": "디자인의 수익발생비율이 90% 이상인 기관유형은 2개이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 23,
         "option": "④",
@@ -325,7 +313,7 @@
       "id": 25612,
       "question": "해외특허 활용률이 높은 기관유형일수록 해외특허 수익발생비율도 높다. 자료해석영역 책형 12쪽",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 23,
         "option": "⑤",
@@ -337,7 +325,7 @@
       "id": 25613,
       "question": "총점은 ‘기념식’이 ‘걸어(WALK)’의 2배 이상이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 26,
         "option": "①",
@@ -349,7 +337,7 @@
       "id": 25614,
       "question": "SNS 점수는 ‘우리 플래시’가 ‘XO’보다 높다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 26,
         "option": "②",
@@ -361,7 +349,7 @@
       "id": 25615,
       "question": "디지털 점수가 높은 순서대로 순위를 다시 정한다면, ‘걸어(WALK)’는 2위가 된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 26,
         "option": "③",
@@ -373,7 +361,7 @@
       "id": 25616,
       "question": "‘나에게 닿기를’의 투표 점수만 150점으로 변경된다면, ‘나에게 닿기를’은 8위가 된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 26,
         "option": "④",
@@ -385,7 +373,7 @@
       "id": 25617,
       "question": "방송 점수가 높은 순서대로 순위를 다시 정한다면, ‘Breathing’은 5위가 된다. 2026년도 국가공무원 5급 공채 등 필기시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 26,
         "option": "⑤",
@@ -397,7 +385,7 @@
       "id": 25618,
       "question": "2025년 3월 상순의 최고기온이 평년수치보다 낮은 농업지대의 수는 높은 농업지대의 수보다 많다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 40,
         "option": "①",
@@ -409,7 +397,7 @@
       "id": 25619,
       "question": "강수량 평년수치가 가장 큰 농업지대는 ‘태백고냉’이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 40,
         "option": "②",
@@ -421,7 +409,7 @@
       "id": 25620,
       "question": "강수량 평년대비 값이 가장 큰 농업지대는 일조시간 평년대비 값이 가장 작다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 40,
         "option": "③",
@@ -433,7 +421,7 @@
       "id": 25621,
       "question": "‘영남분지’는 2025년 3월 상순의 강수량 대비 일조시간의 비가 강수량 평년수치 대비 일조시간 평년수치 비의 40% 이하이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 40,
         "option": "④",
@@ -445,7 +433,7 @@
       "id": 25622,
       "question": "2025년 3월 상순의 일조시간은 ‘제주’가 ‘영남내륙’보다 짧다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 40,
         "option": "⑤",

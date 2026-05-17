@@ -13,7 +13,7 @@
       "id": 30467,
       "question": "세금은 모두 공급자가 부담한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 42,
         "option": "ㄱ",
@@ -25,7 +25,7 @@
       "id": 30472,
       "question": "기펜재(Giffen goods)는 가격이 하락할 때 소",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 44,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 30475,
       "question": "가격 상승 시 소득효과는 모든 재화의 수요    ",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 44,
         "option": "⑤",
@@ -49,7 +49,7 @@
       "id": 30476,
       "question": "H사는 우월전략을 가지고 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 46,
         "option": "ㄱ",
@@ -61,7 +61,7 @@
       "id": 30481,
       "question": "시간당 임금이 하락할 경우, 소득효 증가한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 정답 조합(ㄴ)에 포함되는 항목이다.",
       "source": {
         "qid": 53,
         "option": "ㄴ",
@@ -73,7 +73,7 @@
       "id": 30482,
       "question": "시간당 임금이 상승할 경우, 소득효 공급은 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 정답 조합(ㄴ)에 포함되지 않는 항목이다.",
       "source": {
         "qid": 53,
         "option": "ㄷ",
@@ -85,7 +85,7 @@
       "id": 30494,
       "question": "장ㆍ단기 모두 물가와 국민소득은 상승한다",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 70,
         "option": "⑤",
@@ -97,7 +97,7 @@
       "id": 30498,
       "question": "고정환율제도에서는 순수출이 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 79,
         "option": "①",

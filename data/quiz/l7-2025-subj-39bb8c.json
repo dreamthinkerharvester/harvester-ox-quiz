@@ -13,7 +13,7 @@
       "id": 42101,
       "question": "기존에 고시된 용도지역ㆍ지구제에 의한 제약 없이 개발주체가 재량권을 가지고 개발하는 방법이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 4,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 42102,
       "question": "실제 토지이용에 기초하여 발생하는 결과, 즉 소음 등 주변에 대한 영향을 기준으로 규제하는 방법이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 42103,
       "question": "역사ㆍ문화 보존을 위해 고안된 제도로서 미이용 토지의 개발가능 용량을 다른 획지로 이전하는 것을 인정한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 4,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 42104,
       "question": "민간업자의 공익 공헌도에 따라 공적규제를 완화하여 특정 개발을 유도하는 방식이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 4,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 42105,
       "question": "기존의 성장중심전략이 분배적 차원의 형평성을 무시하였다고 비판한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 7,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 42106,
       "question": "기본욕구는 동적인 개념으로서, 어떤 수준이 확보되면 바로 그 위의 욕구수준이 최저수준으로 등장한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 7,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 42107,
       "question": "프리드만과 위버(Friedmann & Weaver)는 기본욕구전략에 기초한 농촌발전모델을 제시하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 42108,
       "question": "역류효과(backwash effect)와 파급효과(spread effect)를 강조하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 42109,
       "question": "동질지역(homogeneous region)은 어떤 주요한 특성을 공유하는 지역이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 42110,
       "question": "결절지역(nodal region)은 기능적인 측면에서 상호의존성 등을 고려하여 분류한 지역이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 42111,
       "question": "계획지역(planning region)은 개발정책과 행정계획에 따라 설정된 인위적 지역이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 42112,
       "question": "침체지역(developed region in recession)은 산업화된 도시 지역이지만 현재 침체를 겪고 있는 지역이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 42113,
       "question": "국토종합계획이란 국토 전역을 대상으로 하여 국토의 장기적인 발전 방향을 제시하는 종합계획을 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 10,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 42114,
       "question": "도종합계획이란 도 또는 특별자치도의 관할구역을 대상으로 하여 해당 지역의 장기적인 발전 방향을 제시하는 종합계획을 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 42115,
       "question": "부문별계획이란 특정 지역을 대상으로 특별한 정책목적을 달성하기 위하여 수립하는 계획을 말한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "③",
@@ -193,7 +193,7 @@
       "id": 42116,
       "question": "국토종합계획은 초광역권계획, 도종합계획 및 시ㆍ군종합계획의 기본이 된다. 2025년도 지방공무원 7급 등 공개경쟁임용 필기시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 10,
         "option": "④",
@@ -205,7 +205,7 @@
       "id": 42117,
       "question": "잠재가격(shadow price)은 자원의 기회비용을 반영하지 못한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -217,7 +217,7 @@
       "id": 42118,
       "question": "시장이 존재하지 않는 경우 편익을 화폐가치로 환산할 수 없다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -229,7 +229,7 @@
       "id": 42119,
       "question": "공공투자사업의 분배 측면을 고려하기 위해서 집단별 가중치를 다르게 적용할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "③",
@@ -241,7 +241,7 @@
       "id": 42120,
       "question": "공공투자사업의 사회적 할인율은 시장이자율보다 항상 높다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -253,7 +253,7 @@
       "id": 42121,
       "question": "기반산업과 비기반산업을 분류하기 위해 입지상(LQ)을 사용할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -265,7 +265,7 @@
       "id": 42122,
       "question": "기반산업은 수요의 원천이 외부에 존재하기 때문에 지역 성장에 큰 제약이 없다고 설명한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "②",
@@ -277,7 +277,7 @@
       "id": 42123,
       "question": "비기반산업의 팽창은 기반산업의 성장을 유도하며 지역 전체의 경제성장을 주도한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "③",
@@ -289,7 +289,7 @@
       "id": 42124,
       "question": "복잡한 지역경제 성장을 지나치게 단순화한다는 비판을 받는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -301,7 +301,7 @@
       "id": 42125,
       "question": "정통 마르크스주의(Marxism)는 도시정부의 엘리트가 중앙정부의 권력유형과 계급관계로부터 독립되어 있다고 본다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -313,7 +313,7 @@
       "id": 42126,
       "question": "다원주의(Pluralism)는 정책결정과정에서 다양한 행위자들이 서로에 대해 완전히 자율적이라고 본다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -325,7 +325,7 @@
       "id": 42127,
       "question": "거버넌스(Governance) 이론은 시민참여를 통한 수평적 네트워크를 중시하기 때문에 시장(market)의 역할을 배제한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 14,
         "option": "③",
@@ -337,7 +337,7 @@
       "id": 42128,
       "question": "엘리트주의(Elitism)의 관점에서 헌터(Hunter)는 미국 애틀랜타시의 정책결정과정을 분석하면서 시정부와 경제엘리트로 구성된 지역사회 권력구조가 존재함을 밝혀냈다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "④",
@@ -349,7 +349,7 @@
       "id": 42129,
       "question": "주거환경개선사업, 재개발사업, 재건축사업은 정비사업에 해당한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "①",
@@ -361,7 +361,7 @@
       "id": 42130,
       "question": "도시저소득 주민이 집단거주하는 지역으로서 정비기반시설이 극히 열악하고 노후ㆍ불량건축물이 과도하게 밀집한 지역에서는 주거환경개선사업이 시행될 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -373,7 +373,7 @@
       "id": 42131,
       "question": "정비기반시설이 열악하고 노후ㆍ불량건축물이 밀집한 지역에서 주거환경을 개선하기 위한 사업은 재개발사업에 해당한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -385,7 +385,7 @@
       "id": 42132,
       "question": "정비구역에서 인가받은 관리처분계획에 따라 건축물을 건설하여 공급하는 방법은 재건축사업의 시행방법에 해당하지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "④",
@@ -397,7 +397,7 @@
       "id": 42133,
       "question": "구청장은 복합용도구역을 지정하고 복합용도계획을 수립하기 위하여 공간재구조화계획을 입안하여야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "①",
@@ -409,7 +409,7 @@
       "id": 42134,
       "question": "주민은 공간재구조화계획 입안권자에게 공간재구조화계획의 입안을 제안할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -421,7 +421,7 @@
       "id": 42135,
       "question": "관할 특별시장 등의 요청에 따라 국토교통부장관이 입안한 공간재구조화계획은 국토교통부장관이 결정한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -433,7 +433,7 @@
       "id": 42136,
       "question": "중앙도시계획위원회의 심의는 국토교통부장관이 공간재구조화계획을 결정할 때 거쳐야 하는 절차이다. 지역개발론 책형 2쪽",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "④",
@@ -445,7 +445,7 @@
       "id": 42137,
       "question": "A와 B는 경쟁을 완화하기 위해 상호 간에 일정한 거리를 유지하며 입지할 것이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 17,
         "option": "①",
@@ -457,7 +457,7 @@
       "id": 42138,
       "question": "최종적으로 A와 B는 직선의 양쪽 끝에 각각 입지하여 안정적인 입지균형을 이룰 것이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -469,7 +469,7 @@
       "id": 42139,
       "question": "A와 B가 최종적으로 입지한 지점은 경쟁의 균형점이지만, 사회적으로 적정한 입지는 아니다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "③",
@@ -481,7 +481,7 @@
       "id": 42140,
       "question": "A와 B의 최종입지는 모든 소비자의 총교통거리를 최소화할 것이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 17,
         "option": "④",
@@ -493,7 +493,7 @@
       "id": 42141,
       "question": "지방채는 지역개발을 목적으로 발행할 수 없다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -505,7 +505,7 @@
       "id": 42142,
       "question": "지방교부세는 지방자치단체의 부족한 재원을 보전해주고 지방자치 단체 간 재정불균형을 시정해주기 위한 제도이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "②",
@@ -517,7 +517,7 @@
       "id": 42143,
       "question": "국고보조금은 국가가 지방자치단체에 교부하는 재원으로 지방비 부담이 전혀 수반되지 않는 장점이 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 18,
         "option": "③",
@@ -529,7 +529,7 @@
       "id": 42144,
       "question": "지방세는 지방자치단체가 주민으로부터 징수하는 수입으로 징수 후 국가에 귀속되었다가 사용용도를 지정받아 재교부받는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 18,
         "option": "④",
@@ -541,7 +541,7 @@
       "id": 42145,
       "question": "특별시장ㆍ광역시장ㆍ도지사ㆍ특별자치도지사는 도시개발구역을 지정할 수 있는 자에 해당한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -553,7 +553,7 @@
       "id": 42146,
       "question": "도시개발사업이 필요하다고 인정되는 지역이 둘 이상의 특별시ㆍ 광역시ㆍ도ㆍ특별자치도의 행정구역에 걸치는 경우 국토교통부 장관이 지정하여야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "②",
@@ -565,7 +565,7 @@
       "id": 42147,
       "question": "국가가 도시개발사업을 실시할 필요가 있는 경우 국토교통부장관이 도시개발구역을 지정할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -577,7 +577,7 @@
       "id": 42148,
       "question": "서울특별시와 광역시를 제외한 인구 50만 이상의 대도시의 시장은 도시개발구역을 지정할 수 있는 자에 해당한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 19,
         "option": "④",
@@ -589,7 +589,7 @@
       "id": 42149,
       "question": "개발제한구역을 관할하는 시ㆍ도지사는 개발제한구역을 종합적으로 관리하기 위하여 10년 단위로 개발제한구역관리계획을 수립하여 국토교통부장관의 승인을 받아야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "①",
@@ -601,7 +601,7 @@
       "id": 42150,
       "question": "개발제한구역의 지정 및 해제의 기준은 대상 도시의 인구ㆍ산업ㆍ 교통 및 토지이용 등 경제적ㆍ사회적 여건과 도시 확산 추세, 그 밖의 지형 등 자연환경 여건을 종합적으로 고려하여 대통령령으로 정한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 20,
         "option": "②",
@@ -613,7 +613,7 @@
       "id": 42151,
       "question": "국토교통부장관은 도시의 무질서한 확산을 방지하고 도시 주변의 자연환경을 보전하여 도시민의 건전한 생활환경을 확보하기 위하여 도시의 개발을 제한할 필요가 있다고 인정되면 개발제한구역의 지정 및 해제를 도시ㆍ군관리계획으로 결정할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 20,
         "option": "③",
@@ -625,7 +625,7 @@
       "id": 42152,
       "question": "국토교통부장관은 국방부장관의 요청으로 보안상 도시의 개발을 제한할 필요가 있다고 인정되면 개발제한구역의 지정 및 해제를 도시ㆍ군관리계획으로 결정할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 20,
         "option": "④",

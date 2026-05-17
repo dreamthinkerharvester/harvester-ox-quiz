@@ -7,13 +7,13 @@
   "source": "국회직 9급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 44,
+  "count": 43,
   "questions": [
     {
       "id": 40253,
       "question": "Bronze OA는 출판사 웹사이트에서만 무료로 논문을 이용할 수 있고 공유와 재사용을 허용하지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 40254,
       "question": "Gold OA는 저자가 자신의 프리프린트를 리포지터리에 셀프 아카이빙할 수 있도록 허용한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 40255,
       "question": "Gratis OA는 온라인 접근이 무료이며 재사용도 가능하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 40257,
       "question": "도서관 – MARC, MODS, TEI Headers",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -61,7 +61,7 @@
       "id": 40261,
       "question": "학문의 지적 구조 파악에 널리 활용된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 6,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 40262,
       "question": "동시출현단어분석, 공저자분석 등이 포함된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 40263,
       "question": "주제 영역의 식별이나 관련성 분석에 활용된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 6,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 40264,
       "question": "문헌 간의 관계를 분석하기 위해 동시인용빈도를 활용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 6,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 40265,
       "question": "연구자 간의 협력 관계를 조사·분석하기 위한 도구로 활용된다. - 19 - 정보학개론",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 6,
         "option": "⑤",
@@ -121,7 +121,7 @@
       "id": 40266,
       "question": "색인어 가중치는 단어빈도와 역문헌빈도의 값을 조합하여 계산 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 10,
         "option": "①",
@@ -133,7 +133,7 @@
       "id": 40267,
       "question": "역문헌빈도는 문헌빈도가 낮은 단어일수록 높은 가중치가 부여 된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -145,7 +145,7 @@
       "id": 40268,
       "question": "단어빈도는 문헌집단의 크기, 텍스트 길이 등을 고려하여 정규화한 빈도를 사용하기도 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -157,7 +157,7 @@
       "id": 40269,
       "question": "단어빈도는 발생빈도가 높은 특정 단어가 해당 문헌의 주제를 잘 나타내는 것으로 판단하는 근거가 된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 10,
         "option": "④",
@@ -169,7 +169,7 @@
       "id": 40270,
       "question": "A라는 용어가 전체 문헌 5개 중에서 4개의 문헌에 출현할 때 계산식의 로그를 적용하지 않을 경우 A의 역문헌빈도는 0.8이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "⑤",
@@ -181,7 +181,7 @@
       "id": 40271,
       "question": "로트카(Lotka)의 역제곱 법칙으로도 불린다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -193,7 +193,7 @@
       "id": 40272,
       "question": "1926년 로트카가 화학자와 물리학자의 논문 건수를 조사하여 분석하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -205,7 +205,7 @@
       "id": 40273,
       "question": "다양한 학문 분야에서 저자의 생산성을 분석하고 예측하는 데 활용되고 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -217,7 +217,7 @@
       "id": 40274,
       "question": "학문 분야나 연구 방식에 따라 위 법칙의 적용 가능성에 대해 다양한 의견이 존재한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -229,7 +229,7 @@
       "id": 40275,
       "question": "위 법칙에 따르면 전체 논문 생산 저자의 수가 2,000명인 경우 2편의 논문을 생산한 저자의 수는 약 500명이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "⑤",
@@ -241,7 +241,7 @@
       "id": 40276,
       "question": "SP(Service Provider)와 DP(Data Provider) 사이에서 작동한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -253,7 +253,7 @@
       "id": 40277,
       "question": "MARC가아닌더블린코어를채택하고있어상대적으로저비용이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "②",
@@ -265,7 +265,7 @@
       "id": 40278,
       "question": "메타데이터를 수확하지 않는 분산검색방식에 비해 최신의 정보를 검색할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "③",
@@ -277,7 +277,7 @@
       "id": 40279,
       "question": "HTTP 프로토콜을 이용한 요청과 XML 레코드의 응답이라는 단순한 형식으로 커뮤니케이션한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -289,7 +289,7 @@
       "id": 40280,
       "question": "통합검색을 위해 수확검색 방식을 사용하고 있으며, 기술 장벽이 낮고 저장소 간 정보를 쉽게 공유할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "⑤",
@@ -301,7 +301,7 @@
       "id": 40281,
       "question": "CNCI(Category Normalized Citation Impact)는 실제 인용 횟수를 동일한 문서 유형, 출판 연도, 주제 영역에 속하는 문서의 예상 인용률로 나누어 정규화한 지수이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -313,7 +313,7 @@
       "id": 40282,
       "question": "Eigenfactor는 하나의 학술지가 다른 학술지에 비해 상대적으로 어느 정도의 영향력을 가지는지 평가하는 데 사용된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -325,7 +325,7 @@
       "id": 40283,
       "question": "JIF(Journal Impact Factor)는 일정 기간 특정 학술지에 게재 된 논문의 평균 피인용 횟수를 의미한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 14,
         "option": "③",
@@ -337,7 +337,7 @@
       "id": 40284,
       "question": "SJR(SCImago Journal Rankings)은 SCOPUS 내 정보를 활용한 학술지 영향력 지수이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -349,7 +349,7 @@
       "id": 40285,
       "question": "SNIP(Source Normalized Impact per Paper)는 학술 논문이 소셜 미디어, 언론 보도 등에 노출된 정도를 기반으로 계산되는 사회적 영향력 지수이다. - 21 - 정보학개론",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "⑤",
@@ -361,7 +361,7 @@
       "id": 40286,
       "question": "블록 만들기방법을사용하여 복잡한탐색과제를단순하게 분해할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 16,
         "option": "①",
@@ -373,7 +373,7 @@
       "id": 40287,
       "question": "특정 패싯 우선탐색 방법은 다수의 개념을 포함하는 탐색에 적용 되므로 초보자에게 유용하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "②",
@@ -385,7 +385,7 @@
       "id": 40288,
       "question": "눈덩이 굴리기 방법은 탐색 결과가 양적으로 증가하는 것을 의미 하며 재현율 향상을 목적으로 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -397,7 +397,7 @@
       "id": 40289,
       "question": "점진 분할 방법은 넓은 개념으로 탐색을 시작한 후에 다양한 제한 기법을 사용하여 탐색 범위를 좁혀가는 방법이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 16,
         "option": "④",
@@ -409,7 +409,7 @@
       "id": 40290,
       "question": "신속/편의 지향법은 탐색기능을 사용하지 않고 탐색하려는 용어 하나를 입력하거나 스페이스로 구분한 몇 개의 용어를 한꺼번에 입력하여 검색하는 방법이다. - 2025년도 국회사무처 시행 9급 공개경쟁채용시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 16,
         "option": "⑤",
@@ -421,7 +421,7 @@
       "id": 40291,
       "question": "비지도학습은 입력 값만을 활용하여 학습하는 방식이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -433,7 +433,7 @@
       "id": 40292,
       "question": "지도학습은입력값과출력값을함께활용하여학습하는방식이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -445,7 +445,7 @@
       "id": 40293,
       "question": "딥러닝은 인공신경망 구조를 활용하여 데이터 표현을 학습한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 18,
         "option": "③",
@@ -457,7 +457,7 @@
       "id": 40294,
       "question": "클러스터링은 동질적인 데이터를 하나의 그룹으로 묶는 대표적인 지도학습 방법이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "④",
@@ -469,7 +469,7 @@
       "id": 40295,
       "question": "강화학습은 현재의 상태에서 누적 보상이 최대가 되는 행동을 하도록 하는 학습 방법이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 18,
         "option": "⑤",
@@ -481,7 +481,7 @@
       "id": 40296,
       "question": "토브(Taube)는 유니텀에 불리언 논리를 결합하여 정보검색에 적용하는 기초를 마련하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -493,7 +493,7 @@
       "id": 40297,
       "question": "스팍 존스(Spärck Jones)는 단어의 가중치 방법으로 역문헌빈도를 이용하는 방식을 제안하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 19,
         "option": "②",
@@ -505,7 +505,7 @@
       "id": 40298,
       "question": "스몰(Small)은 텍스트에 출현한 단어의 통계적 특성에 의해 색인어를 선정하는 방식을 처음 제시하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "③",
@@ -517,22 +517,10 @@
       "id": 40299,
       "question": "설튼(Salton)은 SMART Information Retrieval System을이용하여 벡터공간모델, 적합성 피드백 등을 실험하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 19,
         "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 40300,
-      "question": "가필드(Garfield)는 인용색인 기반의 학술논문 정보서비스 기관인 ISI(Institute for Scientific Information)를 설립하였으며, 계량 서지학과 계량과학의 창시자 중 한 사람이다. - 22 - 정보학개론",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 19,
-        "option": "⑤",
         "qtype": "opt-wrong",
         "difficulty": null
       }

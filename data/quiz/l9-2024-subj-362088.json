@@ -13,7 +13,7 @@
       "id": 44157,
       "question": "사용자로부터 작업이 요구되는 즉시 처리한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 44158,
       "question": "일정량 또는 일정 기간의 작업을 모아 한꺼번에 처리한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 44159,
       "question": "네트워크로 연결된 여러 대의 컴퓨터에서 작업을 분산하여 처리 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 44160,
       "question": "CPU 운영시간을 골고루 할당하여 여러 사용자가 순환하며 작업을 수행한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 44165,
       "question": "주로 SRAM을 사용하여 구현된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 44166,
       "question": "주기억장치보다 용량은 작지만 접근 속도가 빠르다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 44167,
       "question": "성능 향상을 위해 지역성의 원리(principle of locality)를 이용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 44168,
       "question": "직접 사상(direct mapping) 방식을 사용하면, 특정 주기억장치 블록을 여러 개의 캐시기억장치 블록으로 사상할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 44169,
       "question": "페이지 테이블의 캐시로서 동작한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 44170,
       "question": "한 시스템 내에 여러 개가 존재할 수 없다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 19,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 44171,
       "question": "TLB 실패(miss)가 발생할 때마다 페이지 부재(page fault)가 발생한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 44172,
       "question": "물리 주소(physical address)를 가상 주소(virtual address)로 빠르게 변환하기 위한 것이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 19,
         "option": "④",

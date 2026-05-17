@@ -13,7 +13,7 @@
       "id": 30000,
       "question": "위기적 사건과 동시에 혹은 직후에 나타난다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 30001,
       "question": "반복되는 가벼운 스트레스의 축적에 의한 것이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 30002,
       "question": "급성 스트레스 반응으로 부상이 동반되지 않으면 발생하지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 30003,
       "question": "약물이나 알코올에 의존하는 경향이 있을 수 있으며, 정신 건강보건 전문가의 중재가 반드시 필요하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 30004,
       "question": "응급구조사의 업무범위이므로 투여하여도 문제없다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 30005,
       "question": "12유도 심전도를 측정하고 병원으로 전송한 후 투여 가능 하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 30006,
       "question": "설하 투여 이후 통증이 심할 경우 정맥로를 통해 투여할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 30007,
       "question": "환자가 처방 받은 약물이더라도, 반드시 의료지도를 받은 후 투여해야 한다. 20 / 치학개론 】",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 2,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 30008,
       "question": "감염예방을 위하여 구급차등은 주 1회 이상 소독하여야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 30009,
       "question": "특수구급차에서 사용한 의약품은 주 1회 유효기간을 확인 하고 보충한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 6,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 30010,
       "question": "환자의 응급처치에 사용한 의료용 소모품은 소속 소방서 에서 주 1회 보충한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 6,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 30011,
       "question": "구급차에 장착된 무선장비는 주 1회 이상 점검하며, 현장에 도착해서 귀환할 때까지 무선을 개방하여야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 6,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 30012,
       "question": "환자A: 호흡이 없는 상태로 발견되어 기도를 유지하였 으나 이후에도 자발 호흡이 돌아오지 않음 → 긴급(Red)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 7,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 30013,
       "question": "환자B: 다리 골절로 걷지는 못하나 호흡수가 22회/분이고 요골 맥박이 촉지되며, “손을 들어 보세요”라는 명령에 따름 → 응급(Yellow)",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 30014,
       "question": "환자C: 어지럼증으로 현장을 빠져나오지 못하고 호흡수가 35회/분이며 정신적 충격을 호소하고 있음 → 비응급(Green)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -193,7 +193,7 @@
       "id": 30015,
       "question": "환자 D: 머리에 출혈이 있고 호흡수는 28회/분이며 모세 혈관 재충혈 시간은 3초이고 요골 맥박이 느껴지지 않음 → 지연(Black) 21 /",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -205,7 +205,7 @@
       "id": 30016,
       "question": "허리뼈 골절-긴급환자 긴척추고정판 적용, 즉각적인 이송",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -217,7 +217,7 @@
       "id": 30017,
       "question": "대퇴부 골절-긴급환자 견인부목 적용, 즉각적인 이송",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -229,7 +229,7 @@
       "id": 30018,
       "question": "중증의 출혈-응급환자 상처 드레싱, 즉각적인 수액처치",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "③",
@@ -241,7 +241,7 @@
       "id": 30019,
       "question": "심한 호흡곤란-응급환자 기관내삽관, 흉관삽관술 시행 / 42",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -253,7 +253,7 @@
       "id": 30020,
       "question": "Hot zone에서는 최소 공기정화기가 있는 보호복을 착용하고 이동통로로 환자를 신속하게 이동시킨다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -265,7 +265,7 @@
       "id": 30021,
       "question": "Warm zone에서는 최소 Level C 이상의 보호복을 착용하고 제염을 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "②",
@@ -277,7 +277,7 @@
       "id": 30022,
       "question": "Cold zone에서는 HEPA 필터 마스크가 있는 보호복을 착용하고 추가 제염을 끝낸 후 응급처치를 시행한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -289,7 +289,7 @@
       "id": 30023,
       "question": "현장지휘소 의료진이 Level A 보호복을 착용하면 이동 통로를 통해 대응 구역 전체의 응급처치를 지휘한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 9,
         "option": "④",
@@ -301,7 +301,7 @@
       "id": 30024,
       "question": "수포제 포스겐(phosgen) Level C",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 10,
         "option": "①",
@@ -313,7 +313,7 @@
       "id": 30026,
       "question": "질식작용제 시안화물(cyanide) Level D",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -325,7 +325,7 @@
       "id": 30027,
       "question": "독성질식제 루이사이트(lewisite) 보호안경",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 10,
         "option": "④",
@@ -337,7 +337,7 @@
       "id": 30028,
       "question": "전문기도기를 삽관한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "①",
@@ -349,7 +349,7 @@
       "id": 30029,
       "question": "다량의 수액을 투여한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "②",
@@ -361,7 +361,7 @@
       "id": 30030,
       "question": "중탄산나트륨을 투여한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "③",
@@ -373,7 +373,7 @@
       "id": 30032,
       "question": "아미오다론을 투여한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "②",
@@ -385,7 +385,7 @@
       "id": 30033,
       "question": "경피인공심박조율(Transcutaneous Cardiac Pacing)을 시행 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -397,7 +397,7 @@
       "id": 30034,
       "question": "120J로 동기심장율동전환(Synchronized Cardioversion)을 시행한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -409,7 +409,7 @@
       "id": 30035,
       "question": "심전도 감시를 시작한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -421,7 +421,7 @@
       "id": 30036,
       "question": "흉통을 줄여주기 위해 모르핀을 정맥 투여한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "②",
@@ -433,7 +433,7 @@
       "id": 30037,
       "question": "관상동맥중재술을 시행할 수 있는 병원으로 빠르게 이송 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "③",
@@ -445,7 +445,7 @@
       "id": 30038,
       "question": "추가적인 수액은 혈역학적 감시를 하면서 투여하는 것이 좋다. / 42",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -457,7 +457,7 @@
       "id": 30041,
       "question": "12유도 심전도 검사를 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "①",
@@ -469,7 +469,7 @@
       "id": 30042,
       "question": "소변을 알칼리화하고 동맥혈 pH는 7.45 이상으로 유지한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -481,7 +481,7 @@
       "id": 30043,
       "question": "소변량이 시간당 1.0~1.5mL가 유지되도록 수액을 투여한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "③",
@@ -493,7 +493,7 @@
       "id": 30044,
       "question": "1mEq/kg의 중탄산나트륨 투여 후 시간당 0.25mEq/kg을 추가로 투여한다. 23 /",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "④",
@@ -505,7 +505,7 @@
       "id": 30045,
       "question": "병원 이송 시 구급차 내에서 반앉은자세로 이송한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -517,7 +517,7 @@
       "id": 30046,
       "question": "칼이 삽입되어 있다면 제거하고 직접 압박하여 지혈한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -529,7 +529,7 @@
       "id": 30047,
       "question": "글래스고혼수척도(GCS)는 11점으로 산소 공급 후 빠르게 이송한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 18,
         "option": "③",
@@ -541,7 +541,7 @@
       "id": 30048,
       "question": "생리식염수에 적신 멸균거즈를 노출된 장기에 드레싱하고 랩(wrap)을 덮는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "④",
@@ -553,7 +553,7 @@
       "id": 30049,
       "question": "팔이 절단된 부위에 두꺼운 멸균거즈를 대고 직접 압박을 시도한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -565,7 +565,7 @@
       "id": 30050,
       "question": "직접 압박으로 지혈이 되지 않을 경우, 절단 지점 위쪽에 지혈대를 적용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 19,
         "option": "②",
@@ -577,7 +577,7 @@
       "id": 30051,
       "question": "지혈대 적용 후 출혈이 멈추면, 혈류 확인을 위해 지혈대를 풀어서 상태를 확인한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "③",
@@ -589,7 +589,7 @@
       "id": 30052,
       "question": "절단된 팔은 생리식염수를 적신 거즈로 감싸 비닐봉지에 넣고 밀봉한 뒤, 얼음물에 담가 이송한다. / 42",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 19,
         "option": "④",
@@ -601,7 +601,7 @@
       "id": 30053,
       "question": "만니톨(Mannitol) 50g을 정맥 투여한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 20,
         "option": "①",
@@ -613,7 +613,7 @@
       "id": 30054,
       "question": "염화칼륨(KCl) 5mEq/L를 정맥 투여한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 20,
         "option": "②",
@@ -625,7 +625,7 @@
       "id": 30055,
       "question": "스피로놀락톤(Spironolactone) 3mg을 정맥 투여한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 20,
         "option": "③",
@@ -637,7 +637,7 @@
       "id": 30056,
       "question": "생리식염수(N/S)를 시간당 30mL/kg 지속적으로 주입한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "④",
@@ -649,7 +649,7 @@
       "id": 30061,
       "question": "기흉이 의심되므로 현장에서 바늘감압술을 시행한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 23,
         "option": "①",
@@ -661,7 +661,7 @@
       "id": 30062,
       "question": "흉곽이 움직이지 않게 흉곽 전체를 의료용 테이프로 고정 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 23,
         "option": "②",
@@ -673,7 +673,7 @@
       "id": 30063,
       "question": "18G 카테터로 정맥로를 확보하여 생리식염수 3L를 급속 투여한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 23,
         "option": "③",
@@ -685,7 +685,7 @@
       "id": 30064,
       "question": "척추 손상의 가능성이 없는 경우, 손상되지 않은 폐의 확장을 돕고 분비물 흡인을 방지하기 위해 손상된 폐 쪽이 아래로 가도록 자세를 취해준다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 23,
         "option": "④",
@@ -697,7 +697,7 @@
       "id": 30065,
       "question": "2개의 정맥로를 확보하고 수액을 투여한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 24,
         "option": "①",
@@ -709,7 +709,7 @@
       "id": 30066,
       "question": "기관내삽관을 준비하고 100% 산소를 공급한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 24,
         "option": "②",
@@ -721,7 +721,7 @@
       "id": 30067,
       "question": "화상전문센터에 의뢰하여 빠른 이송 준비를 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 24,
         "option": "③",
@@ -733,7 +733,7 @@
       "id": 30068,
       "question": "전체 화상 부위에 생리식염수로 적신 멸균거즈를 덮어준다. / 42",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 24,
         "option": "④",
@@ -745,7 +745,7 @@
       "id": 30073,
       "question": "비스테로이드소염제(Nonsteroidal Antiinflammatory Drug) / 42",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 33,
         "option": "④",
@@ -757,7 +757,7 @@
       "id": 30074,
       "question": "시력검사 후 경과를 관찰한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 36,
         "option": "①",
@@ -769,7 +769,7 @@
       "id": 30075,
       "question": "경성 콘택트렌즈를 끼워 각막을 보호해 준다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 36,
         "option": "②",
@@ -781,7 +781,7 @@
       "id": 30076,
       "question": "양쪽 눈을 가리고 왼쪽 눈에 안구보호대를 착용해 준다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 36,
         "option": "③",
@@ -793,7 +793,7 @@
       "id": 30077,
       "question": "건조한 멸균거즈로 안구와 눈확 주변을 압박하여 지혈한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 36,
         "option": "④",
@@ -805,7 +805,7 @@
       "id": 30080,
       "question": "자궁파열 현장에서 응급분만을 시도한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 38,
         "option": "①",
@@ -817,7 +817,7 @@
       "id": 30081,
       "question": "절박유산 쇼크에 대비하여 다량의 수액을 투여한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 38,
         "option": "②",
@@ -829,7 +829,7 @@
       "id": 30082,
       "question": "태반조기박리 산모와 태아를 모니터링하면서 신속하게 이송한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 38,
         "option": "③",
@@ -841,7 +841,7 @@
       "id": 30083,
       "question": "전치태반 쇼크에 대비하여 왼쪽 옆으로 누운 자세로 이송한다. / 42",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 38,
         "option": "④",

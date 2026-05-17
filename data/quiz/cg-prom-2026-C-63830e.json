@@ -7,13 +7,13 @@
   "source": "해경 승진",
   "exam_year": 2026,
   "exam_round": null,
-  "count": 61,
+  "count": 60,
   "questions": [
     {
       "id": 31029,
       "question": "해저조광권자는 해저광업활동 중 취득한 탐사· 채취 또는 지질조사와 관련된 월별 자료를 산업통상부장관에게 보고하여야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 31030,
       "question": "대한민국의 영토인 한반도와 그 부속도서의 해안에 인접한 해역이나 대한민국이 행사할 수 있는 모든 권리가 미치는 해저에 부존하는 광물을 합리적으로 개발함으로써 산업 발전에 이바지함을 목적으로 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 31031,
       "question": "“해저광업권”이란 설정행위에 의하여 국가 소유인 해저광구에서 해저광물을 탐사, 채취 및 취득하는 권리를 말한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 31032,
       "question": "산업통상부장관이 면적이 4천 제곱킬로미터인 유망광구를 지정한 때에는 관보와 산업통상부 장관이 지정하는 정보처리장치를 이용하여 그 사실을 공표하여야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 31033,
       "question": "1개월 실무C 경 위 CODE 12 1/7 (경비안전,정보수사)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 2,
         "option": "④",
@@ -73,7 +73,7 @@
       "id": 31034,
       "question": "둘 이상의 특별시·광역시·특별자치시·도·특별 자치도에 걸쳐 을종사태에 해당하는 상황이 발생한 경우, 행정안전부장관은 즉시 국무총리를 거쳐 대통령에게 통합방위사태의 선포를 건의 하여야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 4,
         "option": "①",
@@ -85,7 +85,7 @@
       "id": 31035,
       "question": "갑종사태에 해당하는 상황이 발생하였을 때 국방부장관은 즉시 국무총리를 거쳐 대통령에게 통합방위사태의 선포를 건의하여야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "②",
@@ -97,7 +97,7 @@
       "id": 31036,
       "question": "대통령은 국방부장관 또는 행정안전부장관으로 부터 통합방위사태 선포의 건의를 받았을 때에는 중앙협의회와 국무회의의 심의를 거쳐 통합 방위사태를 선포할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 4,
         "option": "③",
@@ -109,7 +109,7 @@
       "id": 31037,
       "question": "시·도지사가 통합방위사태를 선포한 지역에 대하여 대통령이 통합방위사태를 선포한 때에는 그 때부터 시·도지사가 선포한 통합방위사태는 효력을 상실한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 4,
         "option": "④",
@@ -121,7 +121,7 @@
       "id": 31038,
       "question": "5개 2026년도 경찰공무원 승진시험 문제지",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 5,
         "option": "④",
@@ -133,7 +133,7 @@
       "id": 31039,
       "question": "부조종자는 무인비행장치와 관련된 부품을 교체한 때에는 반드시 무인비행장치의 시험 비행을 실시해야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "①",
@@ -145,7 +145,7 @@
       "id": 31040,
       "question": "해양에서의 항공촬영은 지상이 포함되는 경우가 아니라면 별도의 허가 없이 촬영할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -157,7 +157,7 @@
       "id": 31041,
       "question": "‘주간점검’이란 조종자가 1주일 마다 무인비행 장치의 전반적인 이상 유무를 확인하는 점검을 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -169,7 +169,7 @@
       "id": 31042,
       "question": "운용부서의 장은 무인비행장치를 이용하여 해안선 등 지상이 포함된 항공촬영을 할 경우에는 「국방부 항공촬영지침서」에 따라 촬영 4일 전 까지 국방부장관의 위임을 받은 지역별 책임부대의 장에게 허가를 받아야 한다. 2026년도 경찰공무원 승진시험 문제지",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "④",
@@ -181,7 +181,7 @@
       "id": 31043,
       "question": "동력수상레저기구의 소유자는 동력수상레저기구의 잘 보이는 곳에 등록증을 부착하여야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -193,7 +193,7 @@
       "id": 31044,
       "question": "동력수상레저기구의 존재 여부가 6개월간 분명 하지 아니한 경우 소유자는 시장·군수·구청장에게 말소등록을 신청하여야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -205,7 +205,7 @@
       "id": 31045,
       "question": "해양경찰서장은 검사대행자가 업무와 관련하여 부정한 금품을 수수하거나 그 밖의 부정한 행위를 한 경우 3개월의 범위에서 기간을 정하여 업무의 전부 또는 일부의 정지를 명할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "③",
@@ -217,7 +217,7 @@
       "id": 31046,
       "question": "동력수상레저기구의 소유자는 등록번호판이 알아보기 곤란하게 된 경우 시장·군수·구청장에게 신고하고 다시 발급받을 수 있다. 실무C 경 위 CODE 12 3/7 (경비안전,정보수사)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -229,7 +229,7 @@
       "id": 31047,
       "question": "해양경찰청장이 위탁하는 사업을 수행한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -241,7 +241,7 @@
       "id": 31048,
       "question": "행정안전부장관이 필요하다고 인정하는 사업을 수행한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "②",
@@ -253,7 +253,7 @@
       "id": 31049,
       "question": "행정안전부령으로 정하는 바에 따라 정관을 작성한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "③",
@@ -265,7 +265,7 @@
       "id": 31050,
       "question": "지방해양경찰청장의 인가를 받아 주된 사무소의 소재지에서 설립등기를 함으로써 성립한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -277,7 +277,7 @@
       "id": 31051,
       "question": "수난대비집행계획은 「민방위기본법」에 따른 민 방위계획을 포함하여 수립하여야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -289,7 +289,7 @@
       "id": 31052,
       "question": "해양경찰청장은 수난대비기본계획을 변경할 때는 관계 행정기관의 의견을 수렴하여야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -301,7 +301,7 @@
       "id": 31053,
       "question": "중앙구조본부의 장은 수난대비기본훈련 참여자 에게 사전교육을 실시하여야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "③",
@@ -313,7 +313,7 @@
       "id": 31054,
       "question": "중앙구조본부의 장은 수난대비기본훈련 실시 7일 전까지 훈련에 필요한 사항을 훈련참여기관의 장에게 통보하여야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -325,7 +325,7 @@
       "id": 31055,
       "question": "‘심각’은 호우경보가 발표되고 호우에 의한 대규모 재난이 발생할 가능성이 농후할 때 발령한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "①",
@@ -337,7 +337,7 @@
       "id": 31056,
       "question": "‘관심’ 단계 발령은 중대본 비상1단계에 해당한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -349,7 +349,7 @@
       "id": 31057,
       "question": "위기경보는 상황·순차에 따라 전국적으로 발령 하여야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -361,7 +361,7 @@
       "id": 31058,
       "question": "‘경계’ 단계 발령은 대비 계획의 점검이 주요 활동에 해당한다. 2026년도 경찰공무원 승진시험 문제지",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "④",
@@ -373,7 +373,7 @@
       "id": 31059,
       "question": "윌리암스 턴은 야간에 익수자가 발생할 경우 가장 적합하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "①",
@@ -385,7 +385,7 @@
       "id": 31060,
       "question": "부환부 구명줄 구조법의 경우 로프의 끝단에 구명 뗏목 등을 설치한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -397,7 +397,7 @@
       "id": 31061,
       "question": "Two 180° Turn의 경우 물에 빠진 사람을 계속 보면서 조함하는 방식으로 풍향이 침로와 180°일 경우 유리한 방법이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -409,7 +409,7 @@
       "id": 31062,
       "question": "싱글턴은 구조법 중 가장 빠른 구출방법이며, 선회성능이 좋지 않아도 유리하다. 실무C 경 위 CODE 12 4/7 (경비안전,정보수사)",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "④",
@@ -418,22 +418,10 @@
       }
     },
     {
-      "id": 31063,
-      "question": "관심(Green)은 지진해일로 인해 한반도에 영향을 줄 수 있는 해역의 특정 위치에서 짧은 기간동안 2회 이상 지진이 발생하여 상황관리 및 감시 활동이 필요한 상황을 의미한다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 18,
-        "option": "①",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 31064,
       "question": "주의(Yellow)는 기상청의 지진해일 정보(예상 파고 0.5m미만)가 발령된 경우를 의미한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -445,7 +433,7 @@
       "id": 31065,
       "question": "경계(Orange)는 기상청의 지진해일 주의보 (예상파고 0.5~1.0m)가 발령된 경우를 의미한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 18,
         "option": "③",
@@ -457,7 +445,7 @@
       "id": 31066,
       "question": "심각(Red)은 지진해일로 인한 인명과 재산의 피해가 발생하거나 예상되어 범정부적 대처가 필요한 상황을 의미한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "④",
@@ -469,7 +457,7 @@
       "id": 31067,
       "question": "제11조제2항을 위반하여 안전수칙을 준수하지 아니한 자",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "①",
@@ -481,7 +469,7 @@
       "id": 31068,
       "question": "제12조제1항에 따른 계획서를 신고하지 아니하거나 거짓이나 그 밖에 부정한 방법으로 신고한 자",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "②",
@@ -493,7 +481,7 @@
       "id": 31069,
       "question": "제14조제1항에 따른 연안체험활동 금지 등의 조치를 따르지 아니한 자",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "③",
@@ -505,7 +493,7 @@
       "id": 31070,
       "question": "제15조제1항에 따른 공무원의 출입을 거부·방해 또는 기피한 자 2026년도 경찰공무원 승진시험 문제지",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "④",
@@ -517,7 +505,7 @@
       "id": 31074,
       "question": "기본정보, 현용정보, 판단정보 실무C 경 위 CODE 12 5/7 (경비안전,정보수사)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 24,
         "option": "④",
@@ -529,7 +517,7 @@
       "id": 31075,
       "question": "수법원지는 피작성자가 사망하였을 때, 피작성자가 80세 이상이 되었을 때 삭제한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 27,
         "option": "①",
@@ -541,7 +529,7 @@
       "id": 31076,
       "question": "수법원지 대상범죄로는 절도, 사기, 문서 위조, 약취·유인, 공갈, 방화, 강간, 장물 등이 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 27,
         "option": "②",
@@ -553,7 +541,7 @@
       "id": 31077,
       "question": "구속피의자뿐만 아니라 불구속피의자도 재범의 우려가 있다고 인정되는 때에는 작성할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 27,
         "option": "③",
@@ -565,7 +553,7 @@
       "id": 31078,
       "question": "주무과장 검토의 시기는 사건발생보고서 검토 시 이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 27,
         "option": "④",
@@ -577,7 +565,7 @@
       "id": 31081,
       "question": "고소인, 고발인, 참고인 등 조사 : 10일",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 31,
         "option": "④",
@@ -589,7 +577,7 @@
       "id": 31082,
       "question": "상대국과 범죄인 인도 조약이 체결되어 있지 않은 경우에도 인도할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 34,
         "option": "①",
@@ -601,7 +589,7 @@
       "id": 31083,
       "question": "정치범 불인도 원칙을 채택하고 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 34,
         "option": "②",
@@ -613,7 +601,7 @@
       "id": 31084,
       "question": "자국민의 경우에는 임의적 인도거절 대상으로 규정하고 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 34,
         "option": "③",
@@ -625,7 +613,7 @@
       "id": 31085,
       "question": "사형, 무기징역, 무기금고, 장기 3년 이상의 징역 또는 금고에 해당하는 경우에 한하여 인도한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 34,
         "option": "④",
@@ -637,7 +625,7 @@
       "id": 31086,
       "question": "수사의 수단과 방법을 결정한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 35,
         "option": "①",
@@ -649,7 +637,7 @@
       "id": 31087,
       "question": "합리성 또는 합목적성이 요구된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 35,
         "option": "②",
@@ -661,7 +649,7 @@
       "id": 31088,
       "question": "주로 「형사소송법」으로 규정한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 35,
         "option": "③",
@@ -673,7 +661,7 @@
       "id": 31089,
       "question": "절차적인 측면에서의 수사를 말한다. 2026년도 경찰공무원 승진시험 문제지",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 35,
         "option": "④",
@@ -685,7 +673,7 @@
       "id": 31090,
       "question": "4개 실무C 경 위 CODE 12 7/7 (경비안전,정보수사)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 38,
         "option": "④",
@@ -697,7 +685,7 @@
       "id": 31091,
       "question": "수사서류의 작성근거는 「형사소송법」, 「해양 경찰수사규칙」, 「범죄수사규칙」 등이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 40,
         "option": "①",
@@ -709,7 +697,7 @@
       "id": 31092,
       "question": "수사서류는 구체적 사건의 단서, 수사의 진행경과 및 각종 절차 등을 기록한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 40,
         "option": "②",
@@ -721,7 +709,7 @@
       "id": 31093,
       "question": "협의의 수사서류는 수사기관이 작성한 서류를 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 40,
         "option": "③",
@@ -733,7 +721,7 @@
       "id": 31094,
       "question": "수사서류는 수사절차가 적정하게 이루어졌다는 것을 증명하여야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 40,
         "option": "④",

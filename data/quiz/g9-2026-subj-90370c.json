@@ -13,7 +13,7 @@
       "id": 28400,
       "question": "외란 변화에 의한 영향을 예상하여 외란이 공정에 영향을 주기 전에 보정 작용을 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 4,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 28401,
       "question": "주 루프(primary loop)의 속도가 종속 루프(secondary loop)의 속도보다 빨라야 효율적이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 4,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 28402,
       "question": "종속 루프의 설정점은 주 루프와 독립적으로 결정된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 4,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 28403,
       "question": "여러 개의 제어 루프를 계층적으로 구성하여 외란의 영향을 효과적으로 줄여준다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 28406,
       "question": "일반적으로 액체가 고체보다 크다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 7,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 28407,
       "question": "건물의 단열재로 열전도도가 큰 재료가 사용된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 7,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 28408,
       "question": "모든 물질의 열전도도는 온도가 변해도 변하지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 28409,
       "question": "상온, 상압에서 구리의 열전도도는 철의 열전도도보다 크다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 28410,
       "question": "비금속 표면이 금속 표면보다 높다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 28411,
       "question": "금속 표면이 매끄러울수록 복사율이 높아진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 28412,
       "question": "산화물층이 금속 표면에 형성되면 복사율이 낮아진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 28413,
       "question": "모든 금속 표면의 복사율은 온도 증가에 따라 낮아진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "④",

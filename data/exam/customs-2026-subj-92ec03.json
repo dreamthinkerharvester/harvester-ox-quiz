@@ -13,7 +13,7 @@
       "id": 30587,
       "statement": "미래에 투자부동산으로 사용하기 위하여 건 해당된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "qtype": "opt-correct",
       "topic": null,
       "tags": null,
@@ -34,7 +34,7 @@
       "id": 30588,
       "statement": "지배기업 또는 다른 종속기업에게 부동산을 투자부동산으로 분류할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "qtype": "opt-correct",
       "topic": null,
       "tags": null,
@@ -52,31 +52,10 @@
       "related_videos": []
     },
     {
-      "id": 30589,
-      "statement": "투자부동산은 시세차익 또는 임대수익을 목 만 적용해야 한다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "회계학.pdf",
-      "source": {
-        "qid": 50,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
       "id": 30590,
       "statement": "투자부동산을 개발하지 않고 처분하기로 결 재분류한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "qtype": "opt-correct",
       "topic": null,
       "tags": null,
@@ -97,7 +76,7 @@
       "id": 30591,
       "statement": "재고자산을 공정가치로 평가하는 투자부동산 대체시점의 공정가치의 차액은 기타포괄손익",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "qtype": "opt-correct",
       "topic": null,
       "tags": null,
@@ -118,7 +97,7 @@
       "id": 30592,
       "statement": "연간 발생될 것으로 기대되는 총변동원가는 하게 발생한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "qtype": "opt-correct",
       "topic": null,
       "tags": null,
@@ -139,7 +118,7 @@
       "id": 30594,
       "statement": "직접적인 대응이나 간접적인 원가배분방법 활동이나 제품 등을 조업도라 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "qtype": "opt-correct",
       "topic": null,
       "tags": null,
@@ -160,7 +139,7 @@
       "id": 30595,
       "statement": "당기총제조원가는 제품생산을 위해 당기에 조간접원가의 합을 의미하며, 기초재공품원",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "qtype": "opt-correct",
       "topic": null,
       "tags": null,
@@ -176,32 +155,11 @@
         "option": "④"
       },
       "related_videos": []
-    },
-    {
-      "id": 30596,
-      "statement": "변동원가와 고정원가는 추적가능성에 따른 2026년도 제43회 관세사 시간으로 배부하는 정상원가계산제도를 채택 는 다음과 같다. 실제 ○ 제조간접원가 ￦160,000 시간 ○ 생산량 900단위 ￦8,800(불리)일 경우 제품 단위당 실제직접노 7시간 ④ 12.5시간 ⑤ 12.8시간 하고 있다. 20×1년 직접재료 ￦1,827,000을 제 을 생산하였다. 직접재료의 표준원가 자료는 2kg ￦58,000(유리) ￦65,000(불리) (단, 재공품은 없다.) 30 ④ ￦642 ⑤ ￦676 가는 조업도에 관계없이 관련범위 내에서 일정 이라 한다. 방법에 의한 원가측정을 통해 원가가 집계되는 기에 투입한 직접재료원가와 직접노무원가, 제 품원가는 포함되지 않는다. 따른 원가 분류이다. 사 2교시 A형 (30 – 27)",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-correct",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "회계학.pdf",
-      "source": {
-        "qid": 74,
-        "option": "⑤"
-      },
-      "related_videos": []
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T06:56:05+00:00",
-    "total": 9,
+    "exported_at": "2026-05-17T11:34:45+00:00",
+    "total": 7,
     "with_full_meta": 0,
     "source": "0gichul.com"
   }

@@ -7,13 +7,13 @@
   "source": "국가직 7급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 33,
+  "count": 29,
   "questions": [
     {
       "id": 35233,
       "question": "SELECT 사번, 월급 FROM 직원 ORDER BY 월급;",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 35234,
       "question": "SELECT * FROM 직원 WHERE 이름 LIKE '김%';",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 35235,
       "question": "SELECT AVG(월급) FROM 직원 WHERE 부서 = '인사팀';",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 35236,
       "question": "SELECT SUM(부서, 월급) FROM 직원 GROUP BY 부서;",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 3,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 35239,
       "question": "테이블 이름, 인덱스(index) 이름, 뷰(view) 이름",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -73,7 +73,7 @@
       "id": 35240,
       "question": "맵리듀스(MapReduce) 기법을 사용하는 파일 시스템은 병렬 처리를 지원하지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -85,7 +85,7 @@
       "id": 35241,
       "question": "맵리듀스 기법에서 reduce() 함수의 입력 키 타입은 map() 함수의 출력 키 타입과 다르다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -97,7 +97,7 @@
       "id": 35242,
       "question": "맵리듀스 기법의 map() 함수는 각 입력 레코드에 대해 출력이 없거나, 한 개 이상의 (키, 값) 쌍들을 출력한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "③",
@@ -109,7 +109,7 @@
       "id": 35243,
       "question": "하둡 분산 파일 시스템(HDFS)에서 각 파일의 블록을 식별하기 위한 메타데이터를 저장하는 서버는 데이터노드(DataNode)이다. 2025년도 국가공무원 7급 공채 제2차 필기시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -121,7 +121,7 @@
       "id": 35244,
       "question": "T 의 read(B)와 T 의 read(B) 1 2",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "①",
@@ -133,7 +133,7 @@
       "id": 35245,
       "question": "T 의 write(B)와 T 의 write(B) 1 2",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -145,7 +145,7 @@
       "id": 35246,
       "question": "T 의 read(B)와 T 의 write(B) 2 1",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -157,7 +157,7 @@
       "id": 35247,
       "question": "T 의 write(A)와 T 의 read(A) 2 3",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 9,
         "option": "④",
@@ -169,7 +169,7 @@
       "id": 35248,
       "question": "‘회원’, ‘도서’, ‘대출’, ‘반납’이 주요 릴레이션이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -181,7 +181,7 @@
       "id": 35249,
       "question": "‘도서’와 ‘반납’ 릴레이션 간의 관계는 일대다(1:n) 관계이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -193,7 +193,7 @@
       "id": 35250,
       "question": "‘대출’과 ‘반납’ 릴레이션 간의 관계는 다대다(m:n) 관계이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "③",
@@ -205,7 +205,7 @@
       "id": 35251,
       "question": "‘대출’ 릴레이션의 회원번호는 ‘회원’ 릴레이션의 회원번호를 참조하는 외래키이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -217,7 +217,7 @@
       "id": 35252,
       "question": "데이터를 디스크에 분산 저장하고 오류 검출 및 정정이 가능한 해밍코드를 사용한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 15,
         "option": "①",
@@ -229,7 +229,7 @@
       "id": 35253,
       "question": "미러링(mirroring) 기법을 활용하여 한 디스크 장애 시 미러 디스크에서 읽을 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "②",
@@ -241,7 +241,7 @@
       "id": 35254,
       "question": "데이터를 디스크에 교차 배치하여 읽기와 쓰기 성능이 향상되나, 장애 복구 기능은 제공되지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -253,7 +253,7 @@
       "id": 35255,
       "question": "블록 단위로 데이터를 분할하여 여러 디스크에 분산 저장하고, 장애 시 패리티 비트를 통해 복구한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 15,
         "option": "④",
@@ -265,7 +265,7 @@
       "id": 35256,
       "question": "R∪R 연산은 수행될 수 없다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -274,46 +274,10 @@
       }
     },
     {
-      "id": 35257,
-      "question": "R÷R 연산 결과의 차수는 2이고 카디널리티는 2이다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 19,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 35258,
-      "question": " R× R 연산 결과의 카디널리티는 3이다. RB′b′ BD",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 19,
-        "option": "③",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 35259,
-      "question": " R×R와  R⋈ R 연산 결과의 A′a′ A′a′ RBRB 차수는 동일하다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 19,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 35260,
       "question": "SQL문에서 조인 연산에 자주 사용되는 속성은 인덱스로 적합하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 21,
         "option": "①",
@@ -325,7 +289,7 @@
       "id": 35261,
       "question": "클러스터링(clustering) 인덱스는 검색 효율을 위해 테이블당 2개 이상 활용된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 21,
         "option": "②",
@@ -337,7 +301,7 @@
       "id": 35262,
       "question": "밀집(dense) 인덱스는 데이터 파일의 레코드 그룹에 대해 생성되는 하나의 엔트리이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 21,
         "option": "③",
@@ -349,7 +313,7 @@
       "id": 35263,
       "question": "인덱스를 구성하기 위한 자료구조로는 이진 탐색 트리(binary search tree)가 가장 많이 활용된다. 데이터베이스론 책형 4쪽",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 21,
         "option": "④",
@@ -361,7 +325,7 @@
       "id": 35264,
       "question": "로그 레코드가 상당 기간 메인 메모리에 있으면 시스템 장애 시 해당 로그 레코드가 손실될 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 22,
         "option": "①",
@@ -370,22 +334,10 @@
       }
     },
     {
-      "id": 35265,
-      "question": "트랜잭션의 원자성을 보장하기 위한 회복 기법으로 로그 우선 기록 규약(write-ahead log protocol)을 지원해야 한다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 22,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 35266,
       "question": "시스템 장애 시 복구를 위해 변경 사항을 즉시 디스크에 기록하며, 이는 시스템의 성능을 최적화하는 데 중요한 역할을 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 22,
         "option": "③",
@@ -397,7 +349,7 @@
       "id": 35267,
       "question": "트랜잭션이 수행되는 동안 발생하는 변경 사항을 일시적으로 메모리 버퍼에 저장하여, 디스크 출력 횟수를 줄이고 시스템 성능을 향상시킨다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 22,
         "option": "④",

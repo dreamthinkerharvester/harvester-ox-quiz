@@ -7,97 +7,13 @@
   "source": "국회직 5급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 40,
+  "count": 22,
   "questions": [
-    {
-      "id": 39484,
-      "question": "(라) - (다) - (마) - (가) - (나)",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 7,
-        "option": "①",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 39485,
-      "question": "(라) - (다) - (마) - (나) - (가)",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 7,
-        "option": "②",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 39486,
-      "question": "(라) - (마) - (나) - (가) - (다)",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 7,
-        "option": "③",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 39487,
-      "question": "(라) - (마) - (나) - (다) - (가)",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 7,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 39488,
-      "question": "(라) - (마) - (다) - (가) - (나) - 4 논리영역 책형 가",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 7,
-        "option": "⑤",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 39489,
-      "question": "특정인의 명예에 대한 구체적인침해가 있어야 명예훼손죄가 성립 한다고 볼 수 있기",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 10,
-        "option": "①",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 39490,
-      "question": "사실의 적시만으로도 명예가 침해될 구체적이고 현실적인 위험이 발생하였다고 볼 수 있기",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 10,
-        "option": "②",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
     {
       "id": 39491,
       "question": "상대방이 명예훼손 사실을 전혀 인식하지 못한 경우에도 기수를 인정하여야 하는 부당한 경우가 발생할 수 있기",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -109,7 +25,7 @@
       "id": 39492,
       "question": "명예에 대한 추상적 위험만으로는 보호법익의 보호가 필요하다고 보기 어렵기",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 10,
         "option": "④",
@@ -121,7 +37,7 @@
       "id": 39493,
       "question": "명예의 침해는 인격적·정신적 가치에 대한 측정이므로 그 침해 여부를 입증하는 것이 곤란하기 5 - 2025년도 제41회 입법고시 1교시 언어논리",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "⑤",
@@ -133,7 +49,7 @@
       "id": 39494,
       "question": "㉠을 “큰 돈을 기부할 능력이 되지 않는다”로 수정한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -145,7 +61,7 @@
       "id": 39495,
       "question": "㉡을 “이미 많은 사람들이 기부에 참여하였습니다”로 수정한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 13,
         "option": "②",
@@ -154,22 +70,10 @@
       }
     },
     {
-      "id": 39496,
-      "question": "㉢을 “기부 참여율이 그렇지 않은 경우보다 두 배 가까이 더 높 았다”로 수정한다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 13,
-        "option": "③",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 39497,
       "question": "㉣을 “기부자 한 명당 평균 기부액이 크게 증가하였다”로 수정한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -181,7 +85,7 @@
       "id": 39498,
       "question": "㉤을 “당신이 없으면 프로젝트가 진행되지 않을 겁니다”로 수정 한다. - 7 논리영역 책형 가",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 13,
         "option": "⑤",
@@ -193,7 +97,7 @@
       "id": 39499,
       "question": "폐전기·전자제품의 해체 작업에는 로봇을 활용한 자동화 기술이 이미 상용화되었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -205,7 +109,7 @@
       "id": 39500,
       "question": "폐배터리 재활용 시 열적·화학적 처리를 원활하게 하려면 폐배터 리의 파쇄 및분급을 통해 유가성분을 표면으로노출시키는 과정이 필요하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "②",
@@ -217,7 +121,7 @@
       "id": 39501,
       "question": "전기차 배터리의 잔존수명이 낮을수록 재사용보다는 재활용의 비중이 높아진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 14,
         "option": "③",
@@ -229,7 +133,7 @@
       "id": 39502,
       "question": "전기차 배터리에서는 음극재에서 생성된 리튬 이온이 분리막 공 극을 통해 이동하여 전기에너지를 발생시킨다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -241,129 +145,9 @@
       "id": 39503,
       "question": "재사용과 달리 재활용에서는 선별 등의 처리과정이 수반되어 안전 문제를 초래할 위험성이 크다. 7 - 2025년도 제41회 입법고시 1교시 언어논리",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 14,
-        "option": "⑤",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 39504,
-      "question": "(가) – (다) – (마) – (나) – (라)",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 28,
-        "option": "①",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 39505,
-      "question": "(가) – (라) – (다) – (나) – (마)",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 28,
-        "option": "②",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 39506,
-      "question": "(라) – (다) – (가) – (마) – (나)",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 28,
-        "option": "③",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 39507,
-      "question": "(라) – (다) – (나) – (가) – (마)",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 28,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 39508,
-      "question": "(라) – (마) – (다) – (가) – (나) 15 - 2025년도 제41회 입법고시 1교시 언어논리",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 28,
-        "option": "⑤",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 39509,
-      "question": "다만, 조선 왕조를 통틀어 선왕의 행행 양상은 지속적으로 계승 되었음을 알 수 있다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 29,
-        "option": "①",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 39510,
-      "question": "조선 전기에는 후기에 비해 내치에 치중한 행행이, 후기에는 전 기에 비해 외치를 위한 행행이 많이 이루어졌음을 알 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 29,
-        "option": "②",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 39511,
-      "question": "조선 후기와 달리 조선 전기의 경우에는 행행의 목적과 장소가 시대 상황의 변화에 따라 다양해졌음을 알 수 있다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 29,
-        "option": "③",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 39512,
-      "question": "다만, 조선 전기부터 후기까지 명나라에 대한 숭명 행행만은 지속 되었음을 알 수 있다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 29,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 39513,
-      "question": "행행은 조선 후기 들어 단순한 시찰의 의미를 넘어서 국왕의 주요 행사로서 국가적 차원의 의미를 갖기 시작하였음을 알 수 있다. - 16 논리영역 책형 가",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 29,
         "option": "⑤",
         "qtype": "opt-correct",
         "difficulty": null
@@ -373,7 +157,7 @@
       "id": 39514,
       "question": "㉠을 “인류의 역사에 따라 발전해 왔다”로 수정한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 33,
         "option": "①",
@@ -385,7 +169,7 @@
       "id": 39515,
       "question": "㉡을 “이러한 절차법상의 문제로 인한 고소·고발권 제한을 포함 하더라도”로 수정한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 33,
         "option": "②",
@@ -397,7 +181,7 @@
       "id": 39516,
       "question": "㉢을 “무고죄의 주체성이 인정될 수 없었다”로 수정한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 33,
         "option": "③",
@@ -409,7 +193,7 @@
       "id": 39517,
       "question": "㉣을 “부모·자손 관계에서의 고소행위”로 수정한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 33,
         "option": "④",
@@ -421,7 +205,7 @@
       "id": 39518,
       "question": "㉤을 “무고 여부에 따라 판단하는 것은 물론”으로 수정한다. 18 - 2025년도 제41회 입법고시 1교시 언어논리",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 33,
         "option": "⑤",
@@ -433,7 +217,7 @@
       "id": 39519,
       "question": "2024년 기준 서예 장르에 대해 개별적으로 규정하고 있는 법률은 없다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 34,
         "option": "①",
@@ -445,7 +229,7 @@
       "id": 39520,
       "question": "미술품 재판매보상청구권 제도가 시행되더라도 제도의 효과를 누리지 못하는 작품이 있을 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 34,
         "option": "②",
@@ -457,7 +241,7 @@
       "id": 39521,
       "question": "｢미술진흥법｣은 2023년 7월 공포된 날로부터 3년에 걸쳐 단계적 으로 시행될 예정이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 34,
         "option": "③",
@@ -469,7 +253,7 @@
       "id": 39522,
       "question": "2027년 7월부터 미술품의 작가는 작품에 대한 소유권이 없어도 미술품 재판매에 대해 일정금액을 매도인이 아닌 화랑업자에게도 요구할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 34,
         "option": "④",
@@ -481,7 +265,7 @@
       "id": 39523,
       "question": "미술품 재판매보상청구권의 적용대상인 미술품의 범위 및 산정 요율은 법률을 통해 명확히 규정되어 있다. - 19 논리영역 책형 가",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 34,
         "option": "⑤",

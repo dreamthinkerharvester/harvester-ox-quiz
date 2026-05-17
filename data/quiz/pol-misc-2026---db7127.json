@@ -7,13 +7,13 @@
   "source": "경찰",
   "exam_year": 2026,
   "exam_round": null,
-  "count": 25,
+  "count": 23,
   "questions": [
     {
       "id": 24766,
       "question": "Modernization of Agricultural Sector in Europe",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 25,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 24767,
       "question": "Post-War Revolution in European Animal Farming",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 25,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 24768,
       "question": "Deteriorated Well-being: Animal Welfare in Europe",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 25,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 24769,
       "question": "Confinement Systems in European Animal Farming",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 25,
         "option": "④",
@@ -58,22 +58,10 @@
       }
     },
     {
-      "id": 24770,
-      "question": "Benefits of Systematic Animal Farms in Europe 21 - [26-30] 다음 글의 빈칸에 들어갈 말로 가장 적절한 것을 고르시오.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 25,
-        "option": "⑤",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 24771,
       "question": "the role of technology in shaping workplace perception",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 33,
         "option": "①",
@@ -85,7 +73,7 @@
       "id": 24772,
       "question": "how behaviour evaluations improve employee satisfaction",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 33,
         "option": "②",
@@ -97,7 +85,7 @@
       "id": 24773,
       "question": "the structure and function of formal organizational policies",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 33,
         "option": "③",
@@ -109,7 +97,7 @@
       "id": 24774,
       "question": "the benefits of diversity training in multicultural organizations",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 33,
         "option": "④",
@@ -121,7 +109,7 @@
       "id": 24775,
       "question": "the influence of individual perception on organizational effectiveness",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 33,
         "option": "⑤",
@@ -133,7 +121,7 @@
       "id": 24776,
       "question": "AI must strengthen social as well as contextual intelligence to pass the Turing test.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 34,
         "option": "①",
@@ -145,7 +133,7 @@
       "id": 24777,
       "question": "Human intelligence is a complex system connected to the body, environment, society, and culture.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 34,
         "option": "②",
@@ -157,7 +145,7 @@
       "id": 24778,
       "question": "Turing’s view on intelligence, which focuses on problem -solving, has hindered the development of AI.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 34,
         "option": "③",
@@ -169,7 +157,7 @@
       "id": 24779,
       "question": "The externalization of intelligence is a complex driver that s has allowed humanity to improve itself over a long period.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 34,
         "option": "④",
@@ -181,7 +169,7 @@
       "id": 24780,
       "question": "For AI to reach human-level intelligence, it must overcome the limitation of the brain’s congnitive system.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 34,
         "option": "⑤",
@@ -193,7 +181,7 @@
       "id": 24782,
       "question": "The Federalists and Their Sacred Text",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 38,
         "option": "①",
@@ -205,7 +193,7 @@
       "id": 24783,
       "question": "Jefferson vs. Hamilton: Constitutional Conflicts",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 38,
         "option": "②",
@@ -217,7 +205,7 @@
       "id": 24784,
       "question": "The Rise of the NewYorkJournal",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 38,
         "option": "③",
@@ -229,7 +217,7 @@
       "id": 24785,
       "question": "The Early Life of Thomas Jefferson in Paris",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 38,
         "option": "④",
@@ -238,22 +226,10 @@
       }
     },
     {
-      "id": 24786,
-      "question": "Hamilton’s Role in Manhattan Politics 21 - [39-40] 다음 글을 읽고 물음에 답하시오. Learning is a fascinating, but highly complex, aspect of human activity. In psychology, a distinction is often made between cognitive and affective development ― contrasts being drawn between thought and feeling; rationality and emotion; and even some forms of knowledge and understanding. There are interesting interconnections of course ― with a recent neuroscientific analysis entitled ‘we feel, therefore we learn’. Indeed, attention, memory, decision-making and other cognitive capabilities are strongly influenced by affective disposition and feelings. The latter respond to characteristics of learning environments ― such as homes, classrooms and even examination halls, as many of us will recognise. Of course, humans learned for many thousands of years before anyone thought that a ‘curriculum’ and ‘schooling’ were necessary. Indeed, at its simplest, learning can be seen as the product of a between development and experience through life. The professional teacher’s job is to understand the process as well as possible and to offer children the benefit of that understanding.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 38,
-        "option": "⑤",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 24792,
       "question": "Memory Alone Drives How We Learn",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 40,
         "option": "①",
@@ -265,7 +241,7 @@
       "id": 24793,
       "question": "Genes Decide Development, Not Environments",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 40,
         "option": "②",
@@ -277,7 +253,7 @@
       "id": 24794,
       "question": "Emotion vs. Reason: Why Feelings Block Learning",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 40,
         "option": "③",
@@ -289,7 +265,7 @@
       "id": 24795,
       "question": "The Rise of Schooling and the Modern Curriculum",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 40,
         "option": "④",
@@ -301,7 +277,7 @@
       "id": 24796,
       "question": "Learning Process: A Complex Integration of Thought and Feeling ※확인사항 ▷ 답안지의 해당란에 필요한 내용을 정확히 기입․표기 했는지 확인하시오. - 10",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 40,
         "option": "⑤",

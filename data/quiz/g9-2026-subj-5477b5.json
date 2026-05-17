@@ -7,13 +7,13 @@
   "source": "국가직 9급",
   "exam_year": 2026,
   "exam_round": null,
-  "count": 4,
+  "count": 3,
   "questions": [
     {
       "id": 27414,
       "question": "국가는 위험물에 의한 사고를 예방하기 위한 시책을 수립ㆍ 시행하여야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 17,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 27415,
       "question": "철도에 의한 위험물의 저장ㆍ취급 및 운반에 대해서는 위험물 안전관리법 이 적용되지 아니한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -34,22 +34,10 @@
       }
     },
     {
-      "id": 27416,
-      "question": "국가는 지방자치단체가 위험물에 의한 사고의 예방 등을 위한 시책을 추진하는 데에 필요한 행정적ㆍ재정적 지원을 할 수 있다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 17,
-        "option": "③",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 27417,
       "question": "지정수량 미만인 위험물의 저장 또는 취급에 관한 기술상의 기준은 특별시ㆍ광역시ㆍ특별자치시ㆍ도 및 특별자치도의 조례로 정한다. 안전관리론 책형 2쪽",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 17,
         "option": "④",

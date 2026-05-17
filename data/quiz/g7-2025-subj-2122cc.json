@@ -13,7 +13,7 @@
       "id": 34410,
       "question": "아동열람실은 성인열람실과 구분하여 계획하는 것이 바람직하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 2,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 34411,
       "question": "아동열람실은 1층에 두고 별도의 출입구를 설치하는 것이 바람직 하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 34412,
       "question": "아동열람실은 사서 안내코너를 설치하고 열람형식은 폐가식으로 계획하는 것이 바람직하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 34413,
       "question": "아동열람실의 열람책상은 규칙적으로 줄지어 놓기보다는 자유로운 가구 배치가 되도록 하는 것이 바람직하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 2,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 34414,
       "question": "결합통기관은 통기와 배수를 겸한 통기관이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 3,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 34415,
       "question": "도피통기관은 루프통기식 배관에서 통기 능률을 촉진하기 위해 설치하는 통기관이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 3,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 34416,
       "question": "신정통기관은 위생기구마다 각각 통기관이 설치되는 방식으로 통기방식 중 가장 이상적이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 3,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 34417,
       "question": "각개통기관은 배수 수직관의 상단을 축소하지 않고 그대로 연장하여 대기 중에 개방한 통기관이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 3,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 34418,
       "question": "보색은 노랑 계열(Y)이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 34419,
       "question": "채도와 명도 및 색상을 모두 표시하고 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 4,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 34420,
       "question": "녹색 계열의 색상이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 4,
         "option": "④",
@@ -145,7 +145,7 @@
       "id": 34421,
       "question": "국토교통부장관은 건축서비스산업의 진흥을 위하여 10년마다 건축서비스산업 진흥 기본계획을 수립ㆍ시행하여야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "①",
@@ -157,7 +157,7 @@
       "id": 34422,
       "question": "‘건축서비스 산업’이란 건축서비스 활동을 통하여 경제적 또는 사회적 부가가치를 창출하는 산업을 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 6,
         "option": "②",
@@ -169,7 +169,7 @@
       "id": 34423,
       "question": "‘건축서비스’란 건축물과 공간환경을 조성하는 데에 요구되는 연구, 조사, 자문, 지도, 기획, 계획, 분석, 개발, 설계, 감리, 안전성 검토, 건설관리, 유지관리, 감정 등의 행위를 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 6,
         "option": "③",
@@ -181,7 +181,7 @@
       "id": 34424,
       "question": "‘공공건축’이란 공공기관이 건축하거나 조성하는 건축물 또는 공간환경을 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 6,
         "option": "④",
@@ -193,7 +193,7 @@
       "id": 34425,
       "question": "주차단위구획에서 경형자동차 전용주차구획은 흰색 실선으로 표시한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "①",
@@ -205,7 +205,7 @@
       "id": 34426,
       "question": "전용주차구획은 주차장법 제6조제1항에 따른 경형자동차 등 일정한 자동차에 한정하여 주차가 허용되는 주차구획을 의미한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "②",
@@ -217,7 +217,7 @@
       "id": 34427,
       "question": "주차장의 주차단위구획에서 평행주차형식 중 경형자동차의 경우, 너비는 1.7미터 이상이며 길이는 4.5미터 이상이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -229,7 +229,7 @@
       "id": 34428,
       "question": "평행주차형식 외의 경우 주차장의 주차단위구획은 경형, 일반형, 확장형, 장애인전용, 이륜자동차전용으로 구분한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -241,7 +241,7 @@
       "id": 34429,
       "question": "입체파의 영향을 받아 순수 기하학적 형태에 의한 신조형주의 이론을 예술과 건축 전반에 걸쳐 전개하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "①",
@@ -253,7 +253,7 @@
       "id": 34430,
       "question": "독일 제품의 질적 향상을 목표로 내세우고, 건축가뿐만 아니라 각계각층의 전문가들이 참여하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -265,7 +265,7 @@
       "id": 34431,
       "question": "무테지우스(Herman Muthesius)의 주도하에 1907년에 뮌헨에서 결성되었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -277,7 +277,7 @@
       "id": 34432,
       "question": "독일공작연맹의 회원 피터 베렌스(Peter Behrens)는 베를린 AEG 터빈공장을 설계하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -289,7 +289,7 @@
       "id": 34433,
       "question": "‘접근통제’란 출입문, 담장, 울타리, 조경, 안내판, 방범시설 등을 설치하여 외부인의 진ㆍ출입을 통제하는 것을 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -301,7 +301,7 @@
       "id": 34434,
       "question": "‘영역성 확보’란 공간배치와 시설물 설치를 통해 공적공간과 사적공간의 소유권 및 관리와 책임 범위를 명확히 하는 것을 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -313,7 +313,7 @@
       "id": 34435,
       "question": "‘자연적 감시’란 도로 등 공공 공간에 대하여 시각적인 접근과 노출이 최대화되도록 건축물의 배치, 조경, 조명 등을 통하여 감시를 강화하는 것을 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -325,7 +325,7 @@
       "id": 34436,
       "question": "‘활동의 활성화’란 모든 지역에 내부 감시를 위한 영상정보처리 기기를 설치하여 대상 공간 이용을 활성화할 수 있는 시설물 및 공간 계획을 하는 것을 말한다. 2025년도 국가공무원 7급 공채 제2차 필기시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "④",
@@ -337,7 +337,7 @@
       "id": 34437,
       "question": "노외주차장에서 주차에 사용되는 부분의 높이는 주차바닥면으로 부터 2.1미터 이상으로 하여야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 10,
         "option": "①",
@@ -349,7 +349,7 @@
       "id": 34438,
       "question": "노외주차장의 출구와 입구에서 자동차의 회전을 쉽게 하기 위하여 필요한 경우에는 차로와 도로가 접하는 부분을 곡선형으로 하여야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -361,7 +361,7 @@
       "id": 34439,
       "question": "노외주차장의 출입구 너비는 3.2미터 이상으로 하여야 하며, 주차 대수 규모가 50대 이상인 경우에는 출구와 입구를 분리하거나 너비 5.2미터 이상의 출입구를 설치하여 소통이 원활하도록 하여야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "③",
@@ -373,7 +373,7 @@
       "id": 34440,
       "question": "노외주차장 내부 공간의 일산화탄소 농도는 주차장을 이용하는 차량이 가장 빈번한 시각의 앞뒤 8시간의 평균치가 50피피엠 이하 ( 실내공기질 관리법 제3조제1항제19호에 따른 실내주차장은 25피피엠 이하)로 유지되어야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 10,
         "option": "④",
@@ -385,7 +385,7 @@
       "id": 34441,
       "question": "오피스 랜드스케이핑(office landscaping)은 의사전달 및 작업의 흐름에 따라 책상을 배치하는 방식이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -397,7 +397,7 @@
       "id": 34442,
       "question": "사무소 사용(관리)상 분류 중 준전용사무소는 건물의 주요 부분을 자기 전용으로 사용하고 나머지를 임대하는 방식이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "②",
@@ -409,7 +409,7 @@
       "id": 34443,
       "question": "렌터블비(rentable ratio)란 연면적에 대한 대실면적(수익부분면적)의 비율을 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -421,7 +421,7 @@
       "id": 34444,
       "question": "코어는 내력구조체로 하고, 코어와 사무실 사이의 동선은 단순화한다. 건축계획학 책형 2쪽",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -433,7 +433,7 @@
       "id": 34445,
       "question": "제품중심의 레이아웃은 대량생산에 유리하고 생산성이 높다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -445,7 +445,7 @@
       "id": 34446,
       "question": "고정식 레이아웃은 다품종 소량생산이나 표준화가 어려운 경우에 적합하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "②",
@@ -457,7 +457,7 @@
       "id": 34447,
       "question": "제품중심의 레이아웃은 생산에 필요한 기계설비를 제품 흐름에 따라 배치한 형태이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 14,
         "option": "③",
@@ -469,7 +469,7 @@
       "id": 34448,
       "question": "공정중심의 레이아웃은 동종의 기능을 수행하는 기계설비를 한 작업장에 모아서 배치한 형태이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -481,7 +481,7 @@
       "id": 34449,
       "question": "개인 공간의 크기는 공간의 형태나 규모와 관계없이 동일한 거리를 유지한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "①",
@@ -493,7 +493,7 @@
       "id": 34450,
       "question": "개인 공간의 크기는 모든 사람이 동일하며 움직이지 않는 고정된 것이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -505,7 +505,7 @@
       "id": 34451,
       "question": "개인 공간은 인종 및 문화의 차이와는 관련이 없고 개인적 차이에 의해 영향을 받는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -517,7 +517,7 @@
       "id": 34452,
       "question": "에드워드 홀은 인간관계 거리를 친밀한 거리(intimate distance), 개인적 거리(personal distance), 사회적 거리(social distance), 공적 거리(public distance)의 4가지 유형으로 분류하였다. 2025년도 국가공무원 7급 공채 제2차 필기시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "④",
@@ -529,7 +529,7 @@
       "id": 34453,
       "question": "간선덕트 방식으로 덕트 스페이스가 작다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "①",
@@ -541,7 +541,7 @@
       "id": 34454,
       "question": "덕트수가 많아지므로 설비비가 다른 방식에 비하여 가장 비싸다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -553,7 +553,7 @@
       "id": 34455,
       "question": "멀티존 공조 방식에서 채택하는 방식으로 풍량조절이 용이하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -565,7 +565,7 @@
       "id": 34456,
       "question": "환상덕트 방식으로 V.A.V. 공조방식에 적합하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "④",
@@ -577,7 +577,7 @@
       "id": 34457,
       "question": "사빈(Sabine)의 잔향식에 의하면 잔향은 용적에 비례하고 흡음력에 반비례한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "①",
@@ -589,7 +589,7 @@
       "id": 34458,
       "question": "어떤 주파수에서 벽체로 입사음에너지의 1%가 투과하였다면 이 주파수에서 벽체의 음투과손실(sound transmission loss)은 10dB이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "②",
@@ -601,7 +601,7 @@
       "id": 34459,
       "question": "기준음 세기()가 m일 경우, 음의 세기에너지가  m이라면 음의 세기레벨(sound intensity level)은 20dB이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -613,7 +613,7 @@
       "id": 34460,
       "question": "음의 감각적 크기를 보다 직접적으로 표시하기 위하여 손(Sone) 단위를 사용하며, 그 값을 2배로 하면 음 크기는 2배로 감지된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "④",
@@ -625,7 +625,7 @@
       "id": 34461,
       "question": "직각 배치는 보편적으로 많이 사용하며, 판매장 면적을 최대한 이용할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -637,7 +637,7 @@
       "id": 34462,
       "question": "사행 배치는 고객의 동선을 매장 구석까지 유도하는데 효율적이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -649,7 +649,7 @@
       "id": 34463,
       "question": "방사형 배치는 판매장의 통로를 방사형이 되도록 배치하는 방법으로 일반적으로 적용하기 어렵다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 18,
         "option": "③",
@@ -661,7 +661,7 @@
       "id": 34464,
       "question": "자유유선 배치는 고객의 유동 방향에 따라 자유로운 곡선으로 통로를 배치하는 방법으로 매장의 변경 및 이동이 용이하다. 건축계획학 책형 3쪽",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "④",
@@ -673,7 +673,7 @@
       "id": 34465,
       "question": "연면적이 200제곱미터 미만이고 3층 미만인 건축물의 대수선",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 25,
         "option": "①",
@@ -685,7 +685,7 @@
       "id": 34466,
       "question": "주요구조부의 해체가 없는 등 대통령령으로 정하는 건축물의 대수선",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 25,
         "option": "②",
@@ -697,7 +697,7 @@
       "id": 34467,
       "question": "2층 이하 건축물로서 바닥면적의 합계가 85제곱미터 이내의 증축ㆍ개축 또는 재축",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 25,
         "option": "③",
@@ -709,7 +709,7 @@
       "id": 34468,
       "question": "국토의 계획 및 이용에 관한 법률 상 농림지역 중 방재지구에서 연면적이 200제곱미터 미만이고 3층 미만인 건축물의 건축",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 25,
         "option": "④",

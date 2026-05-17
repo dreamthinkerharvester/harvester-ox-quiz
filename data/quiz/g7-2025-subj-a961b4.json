@@ -7,13 +7,13 @@
   "source": "국가직 7급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 39,
+  "count": 35,
   "questions": [
     {
       "id": 36026,
       "question": "입력: 외부에서 제공되는 자료가 0개 이상이어야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 36027,
       "question": "출력: 적어도 1개 이상의 결과를 만들어야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 36028,
       "question": "명확성: 명령어들은 현재 실행 가능한 연산이어야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 36029,
       "question": "유한성: 한정된 수의 단계 후에는 반드시 종료되어야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 36030,
       "question": "알고리즘의 수행 시간을 대략적으로 나타내는 방법이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 36031,
       "question": "O(Big-oh) 표기는 최소한의 알고리즘 수행 시간을 나타내기 위해 사용한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 36032,
       "question": "n개 정수 배열에 대한 순차 탐색 알고리즘은 O(1) 시간 복잡도를 가진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 36033,
       "question": "증가 함수 는 O으로 표기할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 2,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 36037,
       "question": "기수 정렬(radix sort) 알고리즘 책형 1쪽",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 4,
         "option": "④",
@@ -121,7 +121,7 @@
       "id": 36038,
       "question": "알고리즘의 수행에 따른 노드의 방문 순서는 1→2→5→9→ 8→4→7→6→3이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "①",
@@ -133,7 +133,7 @@
       "id": 36039,
       "question": "너비 우선 탐색(BFS, Breadth First Search) 알고리즘이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -145,7 +145,7 @@
       "id": 36040,
       "question": "시작 정점으로부터 가까운 정점들을 먼저 방문하고 멀리 떨어져 있는 정점들을 나중에 방문하는 탐색방법이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -157,7 +157,7 @@
       "id": 36041,
       "question": "알고리즘은 그래프의 모든 정점을 방문한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -169,7 +169,7 @@
       "id": 36042,
       "question": "코드 수행 완료 후, A[0]에는 가장 큰 원소가 저장되어 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "①",
@@ -181,7 +181,7 @@
       "id": 36043,
       "question": "코드 수행 완료 후, 배열 A의 원소는 오름차순으로 정렬되어 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -193,7 +193,7 @@
       "id": 36044,
       "question": "최선의 경우와 최악의 경우의 수행 시간 복잡도가 다르다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -205,7 +205,7 @@
       "id": 36045,
       "question": "코드는 삽입 정렬(insertion sort)을 구현한 것이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 9,
         "option": "④",
@@ -217,7 +217,7 @@
       "id": 36046,
       "question": "2-way 합병 정렬의 분할은 분할 대상을 반으로 나눈다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -229,7 +229,7 @@
       "id": 36047,
       "question": "퀵정렬(quick sort)의 분할은 분할 대상에 대하여 피봇(pivot)을 기준으로 나눈다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -241,7 +241,7 @@
       "id": 36048,
       "question": "합병 정렬과 다르게 퀵정렬에서는 모든 분할이 완료되면 정렬도 완료된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -253,7 +253,7 @@
       "id": 36049,
       "question": "합병 정렬은 추가 데이터 저장공간이 필요 없는 제자리 정렬 알고리즘이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "④",
@@ -265,7 +265,7 @@
       "id": 36052,
       "question": "후위 순회(postorder traversal) 알고리즘",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 15,
         "option": "④",
@@ -277,7 +277,7 @@
       "id": 36056,
       "question": "min(D[v], D[w]＋A[w][v]) 2025년도 국가공무원 7급 공채 제2차 필기시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "④",
@@ -289,7 +289,7 @@
       "id": 36057,
       "question": "KMP 알고리즘은 패턴 문자열의 첫 문자부터 순차적으로 대상 문자열과 부분 문자열의 일치 여부를 판단한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "①",
@@ -301,7 +301,7 @@
       "id": 36058,
       "question": "KMP 알고리즘은 패턴 문자열과 대상 문자열을 한 차례 비교한 후 얻을 수 있는 추가 정보로 비교 횟수를 감소시킨다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -313,7 +313,7 @@
       "id": 36059,
       "question": "보이어－무어 알고리즘은 패턴 문자열의 마지막 문자부터 역순으로 대상 문자열과 부분 문자열의 일치 여부를 판단한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -325,7 +325,7 @@
       "id": 36060,
       "question": "보이어－무어 알고리즘은 전처리(preprocessing) 과정 없이 곧바로 일치 여부를 판단할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "④",
@@ -334,58 +334,10 @@
       }
     },
     {
-      "id": 36061,
-      "question": "   min      if ≤≤       if",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 21,
-        "option": "①",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 36062,
-      "question": "   min      if ≤≤       if",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 21,
-        "option": "②",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 36063,
-      "question": "   min      if ≤≤       if",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 21,
-        "option": "③",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 36064,
-      "question": "   min      if ≤≤     ",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 21,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 36065,
       "question": "0－1 배낭 문제와 분할 가능 배낭 문제는 다항식 시간(polynomial- time) 문제이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 23,
         "option": "①",
@@ -397,7 +349,7 @@
       "id": 36066,
       "question": "분할 가능 배낭 문제는 최적 부분 구조를 갖지만, 0－1 배낭 문제는 그렇지 않다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 23,
         "option": "②",
@@ -409,7 +361,7 @@
       "id": 36067,
       "question": "0－1 배낭 문제는 물건을 나눌 수 없어서 그리디(greedy) 알고리즘을 적용하여 해결할 수 있으며, 분할 가능 배낭 문제는 물건을 나눌 수 있어 동적 프로그래밍으로 해결해야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 23,
         "option": "③",
@@ -421,7 +373,7 @@
       "id": 36068,
       "question": "분할 가능 배낭 문제는 ‘단위 무게당 가치가 가장 높은 물건을 선택’하는 방식이 항상 최적해를 보장하지만, 0－1 배낭 문제는 그렇지 않다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 23,
         "option": "④",
@@ -433,7 +385,7 @@
       "id": 36069,
       "question": "크루스칼의 최소 신장 트리 알고리즘은 가중치가 가장 작으면서 사이클을 만들지 않는 간선을 추가하여 트리를 구성한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 24,
         "option": "①",
@@ -445,7 +397,7 @@
       "id": 36070,
       "question": "프림(Prim)의 최소 신장 트리 알고리즘은 현재까지 만들어진 트리에 최소 가중치로 연결되는 정점을 트리에 추가한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 24,
         "option": "②",
@@ -457,7 +409,7 @@
       "id": 36071,
       "question": "허프만(Huffman) 압축에서 파일에 빈번히 나타나는 문자는 긴 이진코드를 할당하고, 드물게 나타나는 문자는 짧은 이진코드를 할당한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 24,
         "option": "③",
@@ -469,7 +421,7 @@
       "id": 36072,
       "question": "벨만－포드(Bellman-Ford)의 최단 경로 알고리즘은 음의 가중치를 갖는 간선이 존재하는 상황에서도 단일 출발점 최단 경로 문제를 해결하는 알고리즘이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 24,
         "option": "④",

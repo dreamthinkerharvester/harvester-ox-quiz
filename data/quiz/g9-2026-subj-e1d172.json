@@ -7,13 +7,13 @@
   "source": "국가직 9급",
   "exam_year": 2026,
   "exam_round": null,
-  "count": 15,
+  "count": 14,
   "questions": [
     {
       "id": 27641,
       "question": "공개키 기반 암호 방식이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 27642,
       "question": "개인키는 공개하지 않고 비밀로 유지한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 27643,
       "question": "큰 수의 소인수분해가 어렵다는 특성을 이용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 27644,
       "question": "공개키로 암호화한 메시지는 전자서명 기능을 제공한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "④",
@@ -58,22 +58,10 @@
       }
     },
     {
-      "id": 27645,
-      "question": "컴퓨터와 사람을 구분하기 위한 자동화된 공개 튜링 테스트라 할 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 8,
-        "option": "①",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 27646,
       "question": "기밀성을 보장하기 위한 암호의 한 형태이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "②",
@@ -85,7 +73,7 @@
       "id": 27647,
       "question": "다양한 이미지, 왜곡된 문자, 잡음 섞인 소리를 사용할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -97,7 +85,7 @@
       "id": 27648,
       "question": "대부분의 사람들이 통과하기에는 쉽지만 컴퓨터가 통과하기에는 불가능하거나 어려워야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -109,7 +97,7 @@
       "id": 27651,
       "question": "디지털 증거의 원본성 유지 2026년도 국가공무원 9급 공채 필기시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 11,
         "option": "④",
@@ -121,7 +109,7 @@
       "id": 27652,
       "question": "법률에 따라 열람이 금지되거나 제한되는 경우",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -133,7 +121,7 @@
       "id": 27653,
       "question": "다른 사람의 재산과 그 밖의 이익을 부당하게 침해할 우려가 있는 경우",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "②",
@@ -145,7 +133,7 @@
       "id": 27654,
       "question": "공공기관이 조세의 부과ㆍ징수 또는 환급에 관한 업무를 수행할 때 중대한 지장을 초래하는 경우",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -157,7 +145,7 @@
       "id": 27655,
       "question": "개인정보처리자의 정당한 이익을 달성하기 위하여 필요한 경우로서 명백하게 정보주체의 권리보다 우선하는 경우",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "④",
@@ -169,7 +157,7 @@
       "id": 27658,
       "question": "보안관제 수행능력 평가기준에 따라 실시한 심사에서 70점 이상을 받을 것",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 20,
         "option": "③",
@@ -181,7 +169,7 @@
       "id": 27659,
       "question": "자격기준을 갖춘 기술인력을 15명 이상 보유할 것(고급기술자 3명 이상, 중급기술자 6명 이상을 포함하여야 한다)",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 20,
         "option": "④",

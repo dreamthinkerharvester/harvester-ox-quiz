@@ -7,13 +7,13 @@
   "source": "국회직 8급",
   "exam_year": 2026,
   "exam_round": null,
-  "count": 36,
+  "count": 32,
   "questions": [
     {
       "id": 28706,
       "question": "열등재의 엥겔곡선은 우하향한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 6,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 28707,
       "question": "엥겔곡선의 기울기는 수요의 소득탄력성 부호에 의해 결정된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 6,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 28708,
       "question": "필수재의 엥겔곡선은 사치재의 엥겔곡선보다 기울기가 더 가파 르다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 6,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 28709,
       "question": "X재의 엥겔곡선이 우하향하면, Y재의 엥겔곡선은 반드시 우상향 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 6,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 28710,
       "question": "효용함수가 U=XαY(1-α)의 형태를 갖는 경우(0<α<1), X재의 엥겔 곡선은 원점을 통과하지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "⑤",
@@ -73,7 +73,7 @@
       "id": 28711,
       "question": "X재의 보상수요곡선이 수직이면, X재와 Y재는 서로 완전대체재 이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "①",
@@ -85,7 +85,7 @@
       "id": 28712,
       "question": "X재가 정상재라면 X재의 보통수요곡선보다 X재 보상수요곡선의 기울기가 더욱 가파르다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "②",
@@ -97,7 +97,7 @@
       "id": 28713,
       "question": "X재에 소득효과가 존재하지 않는다면, X재의 보상수요곡선은 X재의 보통수요곡선과 같다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -109,7 +109,7 @@
       "id": 28714,
       "question": "X재 가격변화에 따른 소비자 A의 잉여변화를 정확히 측정하기 위해서는 보상수요곡선을 사용해야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -121,7 +121,7 @@
       "id": 28715,
       "question": "X재가 기펜재라면 보상수요곡선은 우하향한다. - 10 - 학 책형 가",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "⑤",
@@ -133,7 +133,7 @@
       "id": 28716,
       "question": "이윤을 얻고 있어 생산을 계속한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "①",
@@ -145,7 +145,7 @@
       "id": 28717,
       "question": "0의 이윤을 얻고 있지만 생산을 계속한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "②",
@@ -157,7 +157,7 @@
       "id": 28718,
       "question": "손실이 발생하고 있어 생산을 중단한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "③",
@@ -169,7 +169,7 @@
       "id": 28719,
       "question": "손실이 발생하고 있지만 생산을 계속한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "④",
@@ -181,7 +181,7 @@
       "id": 28720,
       "question": "생산을 계속하거나 중단하거나 이윤은 동일하다. - 11 - 학 책형 가",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "⑤",
@@ -193,7 +193,7 @@
       "id": 28721,
       "question": "Q >0일 때, 공장 A의 한계비용은 공장 A의 로봇 생산량이 증가 A 해도 일정하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -205,7 +205,7 @@
       "id": 28722,
       "question": "공장 B의 한계비용은 공장 B의 로봇 생산량(Q ) 증가에 비례하 B 여 증가한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 13,
         "option": "②",
@@ -217,7 +217,7 @@
       "id": 28723,
       "question": "F=1인 경우, 이 기업에서 로봇 3대를 생산하려면 공장 A에서 2대, 공장 B에서 1대를 생산하는 것이 비용극소화 측면에서 유리하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 13,
         "option": "③",
@@ -229,7 +229,7 @@
       "id": 28724,
       "question": "F=10인 경우, 이 기업에서 로봇 3대를 생산하려면 공장 A에서 0대, 공장 B에서 3대를 생산하는 것이 비용극소화 측면에서 유리하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -238,34 +238,10 @@
       }
     },
     {
-      "id": 28725,
-      "question": "비용극소화를 추구하는 이 기업이 로봇 3대를 생산한다고 할 때, 공장 A와 공장 B 모두에서 로봇을 생산하기 위해서는 F>4이어 야 한다. - 2026년도 8급 공개경쟁채용시험 경 제 학",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 13,
-        "option": "⑤",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 28726,
-      "question": "실질임금의 경직성이 경제 전체의 신축성을 저하시키는 원인이 될 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 15,
-        "option": "①",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 28727,
       "question": "사람들로 하여금 ‘스스로 실현하는 예측(self-fulfilling prophecy)’을 하게 하여 인플레이션을 촉발할 위험성이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -277,7 +253,7 @@
       "id": 28728,
       "question": "다양한 물가지수 중 어떤 지수에 연동해야 하는지에 대한 선택의 문제가 발생한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -289,7 +265,7 @@
       "id": 28729,
       "question": "물가상승에 대한 예방적 조치보다는 사후적 조치의 성격이 강하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 15,
         "option": "④",
@@ -301,7 +277,7 @@
       "id": 28730,
       "question": "생산성 하락으로 인한 경기침체가 발생할 경우, 실질임금의 조정을 통해 원래의 균형수준으로 회복할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "⑤",
@@ -310,22 +286,10 @@
       }
     },
     {
-      "id": 28732,
-      "question": "15:1 - 2026년도 8급 공개경쟁채용시험 경 제 학",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 18,
-        "option": "⑤",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 28733,
       "question": "통화정책 변화로 명목환율 변동이 실물경제에 즉각 반영되지 않 았기 때문이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 21,
         "option": "①",
@@ -337,7 +301,7 @@
       "id": 28734,
       "question": "외환시장에서 달러 수요 증가가 일시적으로 완화되었기 때문이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 21,
         "option": "②",
@@ -349,7 +313,7 @@
       "id": 28735,
       "question": "해외로부터의 자본유입이 감소하여 환율 변동성이 확대되었기 때문이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 21,
         "option": "③",
@@ -361,7 +325,7 @@
       "id": 28736,
       "question": "경상수지 흑자가 축소되면서 외환시장의 불확실성이 커졌기 때문 이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 21,
         "option": "④",
@@ -370,22 +334,10 @@
       }
     },
     {
-      "id": 28737,
-      "question": "국내 물가상승률이 해외 물가상승률을 상회하였기 때문이다. - 2026년도 8급 공개경쟁채용시험 경 제 학",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 21,
-        "option": "⑤",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 28738,
       "question": "A국은 모든 재화에 대해 B국보다 절대우위에 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 23,
         "option": "①",
@@ -397,7 +349,7 @@
       "id": 28739,
       "question": "교역조건이 X재1개당 Y재1.5개일때, A국은교역의 이득이있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 23,
         "option": "②",
@@ -409,7 +361,7 @@
       "id": 28740,
       "question": "A국은 Y재 생산에 비교우위가 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 23,
         "option": "③",
@@ -421,7 +373,7 @@
       "id": 28741,
       "question": "B국의 Y재 1개 생산에 대한 기회비용은 X재 2개이다. ",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 23,
         "option": "④",
@@ -433,7 +385,7 @@
       "id": 28742,
       "question": "Y재 1개의 교역조건은 X재 개에서 2개 사이이다.   - 14 - 학 책형 가",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 23,
         "option": "⑤",

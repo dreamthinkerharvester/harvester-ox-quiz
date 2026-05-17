@@ -7,13 +7,13 @@
   "source": "지방직 9급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 28,
+  "count": 27,
   "questions": [
     {
       "id": 42534,
       "question": "해칭선은 주된 중심선에 대해 30°의 굵은 실선으로 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 6,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 42535,
       "question": "해칭선은 외형선과 평행하게 그린다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 6,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 42536,
       "question": "인접한 부품을 구별할 수 있도록 해칭선의 간격을 다르게 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 42537,
       "question": "해칭선을 치수, 문자, 기호보다 우선으로 표시한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 6,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 42538,
       "question": "가공 전의 외형 표시는 점선으로 표기한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 42539,
       "question": "제품의 길이가 길 경우 중간 부분을 생략하고, 제품 외형을 나타낸다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 42540,
       "question": "국부 투상도는 물체의 구멍이나 홈 등과 같이 한 부분의 특정 모양을 도시하는 것을 의미한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 42541,
       "question": "상하 또는 좌우가 중심축에 대해 대칭일 경우 대칭부를 생략하고 중심선에 대칭임을 표기한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 42542,
       "question": "다이 판은 펀치와 상대 운동을 하는 부분이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 42543,
       "question": "블랭킹 펀치 치수는 제품 치수에서 틈새 값을 뺀 치수이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 42544,
       "question": "생크는 중대형 금형에서는 사용하고, 일반적으로 치수는 규격화되어 있지 않다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 42545,
       "question": "펀치 고정판은 각종 펀치를 다이 구멍에 수직으로 작동될 수 있도록 고정한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 42546,
       "question": "선반으로 표면을 가공하고, 가공 후 줄무늬가 여러 방향으로 교차한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 10,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 42547,
       "question": "래핑으로 표면을 가공하고, 산술 평균 거칠기의 값이 0.0125mm이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 42548,
       "question": "선반으로 표면을 가공하고, 산술 평균 거칠기의 값이 0.0125mm이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "③",
@@ -193,7 +193,7 @@
       "id": 42549,
       "question": "래핑으로 표면을 가공하고, 가공 후 줄무늬가 동심원 모양이다. 2025년도 지방공무원 9급 등 경력경쟁임용 필기시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 10,
         "option": "④",
@@ -205,7 +205,7 @@
       "id": 42550,
       "question": "열처리 방법의 선택과 기호 표시가 적절한지 확인한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "①",
@@ -217,7 +217,7 @@
       "id": 42551,
       "question": "부품의 형상에 따른 투상도의 사용이 적절한지 확인한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "②",
@@ -229,7 +229,7 @@
       "id": 42552,
       "question": "부품 투상도의 수와 배치가 적절한지 확인한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "③",
@@ -241,7 +241,7 @@
       "id": 42553,
       "question": "선의 종류와 굵기는 규격에서 정한 용도로 적절히 사용되었는지 확인한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "④",
@@ -253,7 +253,7 @@
       "id": 42554,
       "question": "안장 키는 축과 보스에 홈을 가공한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -265,7 +265,7 @@
       "id": 42555,
       "question": "평 키는 기울기가 반대인 키 2개를 120° 간격으로 조합하여 설치한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -277,7 +277,7 @@
       "id": 42556,
       "question": "접선 키는 축에는 홈을 가공하지 않고 회전체의 보스에만 홈을 가공한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -289,7 +289,7 @@
       "id": 42557,
       "question": "반달 키는 축에 홈을 깊이 파야 하므로 축이 약해지는 결점이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "④",
@@ -301,7 +301,7 @@
       "id": 42558,
       "question": "관용나사의 나사산 각도는 60°이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 16,
         "option": "①",
@@ -313,7 +313,7 @@
       "id": 42559,
       "question": "리드가 8mm인 4줄 나사의 피치는 4mm이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -325,22 +325,10 @@
       "id": 42560,
       "question": "암나사의 산봉우리에 접하는 가상의 원통 지름을 바깥지름이라 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 16,
         "option": "③",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 42561,
-      "question": "나사의 호칭에서 ‘M5×0.5’에서 ‘0.5’가 의미하는 것은 피치이다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 16,
-        "option": "④",
         "qtype": "opt-correct",
         "difficulty": null
       }

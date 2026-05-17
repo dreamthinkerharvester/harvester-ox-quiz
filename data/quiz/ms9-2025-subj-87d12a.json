@@ -7,13 +7,13 @@
   "source": "군무원 9급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 42,
+  "count": 41,
   "questions": [
     {
       "id": 41632,
       "question": "오존층의 두께를 표시하는 단위는 돕슨(Dobson) 으로, 적도상에는 약 200 돕슨, 극지방에는 약 400 돕슨 정도이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 41633,
       "question": "성층권에서 오존은 산소분자가 240nm 이하의 자외선에 의해 광분해되어 생성된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 41634,
       "question": "오존층 파괴물질 규제와 관련한 국제협약으로는 몬트리올 의정서가 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 41635,
       "question": "오존층은 지표로부터 약 50km 부근의 성층권에 분포한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 41636,
       "question": "아스코르빈산 환경화학(9급 학 ( 9 급 ) 드 : 138) 성명 :",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 3,
         "option": "④",
@@ -73,7 +73,7 @@
       "id": 41637,
       "question": "기온역전 현상이 발생하면 대기오염의 피해가 커진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 4,
         "option": "①",
@@ -85,7 +85,7 @@
       "id": 41638,
       "question": "기온역전 현상이 발생하면 상공으로 올라갈수록 차가워지는 현상이 나타난다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "②",
@@ -97,7 +97,7 @@
       "id": 41639,
       "question": "기온역전 현상이 발생하면 지표면 공기가 차가 워지며 스모그(smog)현상이 발생할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 4,
         "option": "③",
@@ -109,7 +109,7 @@
       "id": 41640,
       "question": "기온역전 현상이 발생하면 대도시에서는 교통 장애, 농업지역에서는 농작물 피해가 예상된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 4,
         "option": "④",
@@ -121,7 +121,7 @@
       "id": 41641,
       "question": "물질의 상태변화는 분자의 재배열이 일어나며 물질의 본질에 변화가 일어난다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 6,
         "option": "①",
@@ -133,7 +133,7 @@
       "id": 41642,
       "question": "물질의 변화에는 반드시 에너지의 출입이 따르며 화학변화가 가장 크다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 6,
         "option": "②",
@@ -145,7 +145,7 @@
       "id": 41643,
       "question": "물질의 화학변화는 원자의 재배열이 일어나며 물질의 본질에 변화가 일어난다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "③",
@@ -157,7 +157,7 @@
       "id": 41644,
       "question": "물질의 핵변화는 핵종(소립자)의 파괴가 일어나 소멸되며 분자 자체의 변화가 일어난다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 6,
         "option": "④",
@@ -169,7 +169,7 @@
       "id": 41645,
       "question": "중국의 발원지 부근에서 강한 상승기류가 존재 (강한 저기압)할 때",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 7,
         "option": "①",
@@ -178,22 +178,10 @@
       }
     },
     {
-      "id": 41646,
-      "question": "발원지로부터 황사가 이동해 올 수 있도록 약 5.5km 고도의 편서풍 기류가 우리나라를 통과할 때",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 7,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 41647,
       "question": "중국의 발원지에서의 먼지 배출량이 많고 편서풍이 불 때",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -205,7 +193,7 @@
       "id": 41648,
       "question": "우리나라 부근에 저기압이 형성되어 하강기류가 발생할 때 1",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "④",
@@ -217,7 +205,7 @@
       "id": 41649,
       "question": "다이옥신은 산소원자가 2개인 PCDD와 산소 원자가 1개인 PCDF를 통칭하는 용어이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -229,7 +217,7 @@
       "id": 41650,
       "question": "증기압과 수용성은 낮으나, 지용성은 높기 때문에 벤젠 등에 잘 용해되고, 토양 등에 흡수가 용이하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -241,7 +229,7 @@
       "id": 41651,
       "question": "독성이 가장 강한 것으로 알려진 2,3,7,8-TCDD를 기준으로 Toxic Equivalents(TEQ)를 표시한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -253,7 +241,7 @@
       "id": 41652,
       "question": "폐기물 소각장에서 배출기준은 소각장 규모에 따라 정해져 있고, 소형 소각장일수록 배출 기준치가 엄격히 정해져 있다. 환경화학(9급",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "④",
@@ -265,7 +253,7 @@
       "id": 41653,
       "question": "3C H + 8O → 6CO + 5H O 3 8 2 2 2 1",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -277,7 +265,7 @@
       "id": 41654,
       "question": "4FeS + 13O → 4Fe O + 8SO 2 2 2 3 2",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -289,7 +277,7 @@
       "id": 41655,
       "question": "CH COCH + 4O → 3CO + 3H O 3 3 2 2 2",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "③",
@@ -301,7 +289,7 @@
       "id": 41656,
       "question": "4KMnO + 5H SO → 2K SO + 4MnSO 4 2 4 2 4 4 + 5H O + 5O 2 2",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -313,7 +301,7 @@
       "id": 41657,
       "question": "물은 용매로서 영양소와 오염 물질의 이동을 가능하게 하여 다양한 생물학적 반응이 일어 나도록 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 17,
         "option": "①",
@@ -325,7 +313,7 @@
       "id": 41658,
       "question": "물은 열용량이 큰 물질 중 하나이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -337,7 +325,7 @@
       "id": 41659,
       "question": "물은 증발열이 가장 작다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "③",
@@ -349,7 +337,7 @@
       "id": 41660,
       "question": "물은 4 °C에서 액체이며, 이때 최대 밀도를 가진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 17,
         "option": "④",
@@ -361,7 +349,7 @@
       "id": 41661,
       "question": "트리할로메탄은 메탄 분자의 수소 4개 중 3개가 염소나 브롬 등의 할로겐 원소로 치환된 화합물이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -373,7 +361,7 @@
       "id": 41662,
       "question": "트리할로메탄은 수온이 낮을수록 생성량이 증가 하는 경향이 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "②",
@@ -385,7 +373,7 @@
       "id": 41663,
       "question": "염소 처리 농도가 높을수록 트리할로메탄 생성량이 증가할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 18,
         "option": "③",
@@ -397,7 +385,7 @@
       "id": 41664,
       "question": "원수에 포함된 humic substance는 트리할로 메탄 생성의 전구물질이다. (9급) 4 - 3",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 18,
         "option": "④",
@@ -409,7 +397,7 @@
       "id": 41665,
       "question": "밀도차를 이용한 분리–강 바닥에서의 사금 분리",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -421,7 +409,7 @@
       "id": 41666,
       "question": "용해도 차를 이용한 분리–석유 혼합물의 분리",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "②",
@@ -433,7 +421,7 @@
       "id": 41667,
       "question": "끓는점 차를 이용한 분리–물과 알코올의 분리",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -445,7 +433,7 @@
       "id": 41668,
       "question": "크로마토그래피를 이용한 분리–식물잎 색소의 분리",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 19,
         "option": "④",
@@ -457,7 +445,7 @@
       "id": 41669,
       "question": "오슬로협약에서 기후변화협약에 따른 온실가스 감축목표가 설정되었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 20,
         "option": "①",
@@ -469,7 +457,7 @@
       "id": 41670,
       "question": "CO의 전 지구적인 배출량은 자연적인 배출량 2 2 보다 화석연료 연소 등에 의한 인위적인 배출량이 훨씬 크다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 20,
         "option": "②",
@@ -481,7 +469,7 @@
       "id": 41671,
       "question": "지구온난화지수(GWP)는 CH >CO >NO 순이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 20,
         "option": "③",
@@ -493,7 +481,7 @@
       "id": 41672,
       "question": "온실효과는 온실기체가 적외선 부근의 복사열을 흡수하면서 발생하는 현상이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "④",
@@ -505,7 +493,7 @@
       "id": 41676,
       "question": "Cu: [Ar] 3d⁹ 4s² 4p¹ (9급) 4 - 4",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 25,
         "option": "④",

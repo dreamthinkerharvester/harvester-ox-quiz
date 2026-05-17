@@ -7,13 +7,13 @@
   "source": "지방직 9급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 40,
+  "count": 39,
   "questions": [
     {
       "id": 43280,
       "question": "종자에서 발생한 치수가 기원이 되어 이루어진 숲은 교림이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 43281,
       "question": "맹아가 기원이 되어 이루어진 숲은 왜림이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 43282,
       "question": "침엽수와 활엽수가 혼합되어 있는 숲은 중림이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 43283,
       "question": "단일 수종의 개체들로 구성된 숲은 순림이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 43288,
       "question": "뿌리의 모양과 생장 양식은 수종별 고유한 특징을 갖지만, 토양 환경 변화에 따라 크게 바뀔 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 6,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 43289,
       "question": "세근(fine root)은 토양 수분과 양분을 흡수한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 6,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 43290,
       "question": "세근은 표토에 대부분 존재한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 6,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 43291,
       "question": "건조하고 척박한 지역에서는 일반적으로 S/R율(shoot/root ratio)이 증가하는 경향이 있다. 조 림 책형 1쪽",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 43292,
       "question": "풀베기는 조림목이 활착하기 전에 시행한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "①",
@@ -118,22 +118,10 @@
       }
     },
     {
-      "id": 43293,
-      "question": "덩굴제거는 어린나무가꾸기를 할 때 실시할 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 8,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 43294,
       "question": "형질불량 조림목은 어린나무가꾸기의 제거 대상목이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -145,7 +133,7 @@
       "id": 43295,
       "question": "솎아베기를 하면 임목의 직경생장을 촉진할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -157,7 +145,7 @@
       "id": 43296,
       "question": "수형급을 바탕으로 간벌목을 선정한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -169,7 +157,7 @@
       "id": 43297,
       "question": "하층간벌은 가장 낮은 수관층에서부터 점차 높은 층의 순서로 나무를 벌채해 나가는 방법이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -181,7 +169,7 @@
       "id": 43298,
       "question": "수관간벌은 가장 잘 자란 우세목을 벌채하여 그 아래 자라는 나무의 생육을 촉진하는 방법이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "③",
@@ -193,7 +181,7 @@
       "id": 43299,
       "question": "도태간벌은 형질이 우량한 미래목의 생장에 방해가 되는 나무들을 벌채하는 방법이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 9,
         "option": "④",
@@ -205,7 +193,7 @@
       "id": 43300,
       "question": "살아 있는 가지를 제거할 때는 생장휴지기 중 수액 이동이 없는 기간에 실시한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "①",
@@ -217,7 +205,7 @@
       "id": 43301,
       "question": "침엽수는 절단면이 줄기와 수직이 되도록 가지를 제거한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -229,7 +217,7 @@
       "id": 43302,
       "question": "목표 생산재가 펄프인 임목의 가지치기는 11월부터 이듬해 2월 사이에 실시한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -241,7 +229,7 @@
       "id": 43303,
       "question": "활엽수의 죽은 가지를 제거할 때는 지융부도 같이 제거한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 10,
         "option": "④",
@@ -253,7 +241,7 @@
       "id": 43304,
       "question": "토양용액 중 순수한 물을 의미한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 11,
         "option": "①",
@@ -265,7 +253,7 @@
       "id": 43305,
       "question": "포장용수량과 영구위조점 사이의 수분량을 식물유효수분이라고 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "②",
@@ -277,7 +265,7 @@
       "id": 43306,
       "question": "모세관수(capillary water)와 흡습수(hygroscopic water)는 식물 생장에 유효한 토양수이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 11,
         "option": "③",
@@ -289,7 +277,7 @@
       "id": 43307,
       "question": "양토 계열 토양보다 사질 토양의 유효수분 함량이 더 높다. 2025년도 지방공무원 9급 등 공개경쟁임용 필기시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 11,
         "option": "④",
@@ -301,7 +289,7 @@
       "id": 43308,
       "question": "종자 내 함수량이 많은 밤나무, 칠엽수 등은 수분 조건을 유지하는 것이 중요하기 때문에 습한 상태에서 저장온도 0～5°C를 유지하는 냉습저장을 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -313,7 +301,7 @@
       "id": 43309,
       "question": "종자저장에는 광선이 필요하므로 대부분의 종자는 저장 시 알맞은 광조건을 유지해야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -325,7 +313,7 @@
       "id": 43310,
       "question": "백합나무, 단풍나무, 느티나무의 성숙한 종자는 즉시 파종하는 것보다 수명 연장을 위해 함수율을 4～6% 정도로 유지하도록 건조하여 밀봉 저장하는 것이 좋다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -337,7 +325,7 @@
       "id": 43311,
       "question": "소나무, 편백, 삼나무는 종자를 건조한 상태로 저온저장하는 냉건저장이 적합하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "④",
@@ -349,7 +337,7 @@
       "id": 43312,
       "question": "주로 관다발 형성층이 생산한 목부조직에 의해 이루어진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "①",
@@ -361,7 +349,7 @@
       "id": 43313,
       "question": "체내 옥신이 많고 지베렐린이 적으면 목부보다 사부를 우선적으로 생산한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -373,7 +361,7 @@
       "id": 43314,
       "question": "관다발 형성층의 병층분열은 형성층 자체의 세포 수를 증가시킨다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -385,7 +373,7 @@
       "id": 43315,
       "question": "봄철 관다발 형성층의 활동은 나무 꼭대기보다 밑동 부분에서 먼저 시작된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "④",
@@ -397,7 +385,7 @@
       "id": 43316,
       "question": "임분 상층의 모수를 제외한 후계림은 동령림이 조성된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 17,
         "option": "①",
@@ -409,7 +397,7 @@
       "id": 43317,
       "question": "작업이 용이하고 갱신경비가 적게 드는 편이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -421,7 +409,7 @@
       "id": 43318,
       "question": "개벌작업보다 갱신 임분의 종구성을 조절하기 어려우나, 모수 수종선택의 제한을 받지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "③",
@@ -433,7 +421,7 @@
       "id": 43319,
       "question": "임지에 잡초와 관목이 발생하여 갱신에 지장을 주는 일이 일어날 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 17,
         "option": "④",
@@ -445,7 +433,7 @@
       "id": 43320,
       "question": "최근 10년간 산림면적과 임목축적은 모두 꾸준히 증가하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -457,7 +445,7 @@
       "id": 43321,
       "question": "임상별 산림면적의 경우, 2003년 이후 침엽수림은 증가하고 활엽수림은 감소하는 추세이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "②",
@@ -469,7 +457,7 @@
       "id": 43322,
       "question": "소나무림은 천연림보다 인공조림지 면적이 더 넓다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -481,7 +469,7 @@
       "id": 43323,
       "question": "영급별 산림면적은 Ⅳ영급이 가장 넓다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "④",

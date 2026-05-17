@@ -12,7 +12,7 @@
               "name": "재정학",
               "subject": "재정학",
               "phase": "1교시",
-              "total": 143,
+              "total": 142,
               "total_raw": 144,
               "with_full_meta": 5
             },
@@ -21,7 +21,7 @@
               "name": "세법학개론",
               "subject": "세법학개론",
               "phase": "1교시",
-              "total": 48,
+              "total": 47,
               "total_raw": 49,
               "with_full_meta": 0
             },
@@ -30,7 +30,7 @@
               "name": "회계학개론",
               "subject": "회계학개론",
               "phase": "2교시",
-              "total": 44,
+              "total": 38,
               "total_raw": 44,
               "with_full_meta": 0
             },
@@ -39,7 +39,7 @@
               "name": "상법",
               "subject": "상법",
               "phase": "2교시 (선택)",
-              "total": 154,
+              "total": 149,
               "total_raw": 158,
               "with_full_meta": 0
             },
@@ -48,7 +48,7 @@
               "name": "민법",
               "subject": "민법",
               "phase": "2교시 (선택)",
-              "total": 101,
+              "total": 100,
               "total_raw": 101,
               "with_full_meta": 0
             },
@@ -72,7 +72,7 @@
               "name": "행정소송법",
               "subject": "행정소송법",
               "phase": "2교시",
-              "total": 127,
+              "total": 91,
               "total_raw": 134,
               "with_full_meta": 0
             }
@@ -87,7 +87,7 @@
               "name": "행정소송법",
               "subject": "행정소송법",
               "phase": "2교시",
-              "total": 65,
+              "total": 58,
               "total_raw": 80,
               "with_full_meta": 0
             }
@@ -107,7 +107,7 @@
               "name": "경영학",
               "subject": "경영학",
               "phase": "1교시",
-              "total": 94,
+              "total": 93,
               "total_raw": 97,
               "with_full_meta": 0
             },
@@ -125,7 +125,7 @@
               "name": "기업법",
               "subject": "기업법",
               "phase": "1교시",
-              "total": 177,
+              "total": 150,
               "total_raw": 177,
               "with_full_meta": 0
             },
@@ -134,7 +134,7 @@
               "name": "세법개론",
               "subject": "세법개론",
               "phase": "1교시",
-              "total": 19,
+              "total": 18,
               "total_raw": 48,
               "with_full_meta": 0
             },
@@ -158,7 +158,7 @@
               "name": "경영학",
               "subject": "경영학",
               "phase": "1교시",
-              "total": 152,
+              "total": 143,
               "total_raw": 152,
               "with_full_meta": 0
             },
@@ -167,7 +167,7 @@
               "name": "회계학",
               "subject": "회계학",
               "phase": "2교시",
-              "total": 78,
+              "total": 69,
               "total_raw": 80,
               "with_full_meta": 0
             }
@@ -187,7 +187,7 @@
               "name": "건축계획",
               "subject": "건축계획",
               "phase": null,
-              "total": 40,
+              "total": 38,
               "total_raw": 40,
               "with_full_meta": 0
             },
@@ -196,7 +196,7 @@
               "name": "건축구조",
               "subject": "건축구조",
               "phase": null,
-              "total": 49,
+              "total": 45,
               "total_raw": 52,
               "with_full_meta": 0
             },
@@ -223,7 +223,7 @@
               "name": "공직선거법",
               "subject": "공직선거법",
               "phase": null,
-              "total": 60,
+              "total": 46,
               "total_raw": 60,
               "with_full_meta": 0
             },
@@ -232,7 +232,7 @@
               "name": "관세법개론",
               "subject": "관세법개론",
               "phase": null,
-              "total": 64,
+              "total": 59,
               "total_raw": 64,
               "with_full_meta": 0
             },
@@ -241,7 +241,7 @@
               "name": "교육학개론",
               "subject": "교육학개론",
               "phase": null,
-              "total": 20,
+              "total": 19,
               "total_raw": 23,
               "with_full_meta": 0
             },
@@ -250,7 +250,7 @@
               "name": "교정학개론",
               "subject": "교정학개론",
               "phase": null,
-              "total": 79,
+              "total": 75,
               "total_raw": 80,
               "with_full_meta": 0
             },
@@ -259,7 +259,7 @@
               "name": "국어",
               "subject": "국어",
               "phase": null,
-              "total": 12,
+              "total": 11,
               "total_raw": 12,
               "with_full_meta": 0
             },
@@ -268,7 +268,7 @@
               "name": "국제법개론",
               "subject": "국제법개론",
               "phase": null,
-              "total": 80,
+              "total": 75,
               "total_raw": 80,
               "with_full_meta": 0
             },
@@ -286,7 +286,7 @@
               "name": "기계일반",
               "subject": "기계일반",
               "phase": null,
-              "total": 29,
+              "total": 28,
               "total_raw": 34,
               "with_full_meta": 0
             },
@@ -304,7 +304,7 @@
               "name": "노동법개론",
               "subject": "노동법개론",
               "phase": null,
-              "total": 64,
+              "total": 59,
               "total_raw": 64,
               "with_full_meta": 0
             },
@@ -313,7 +313,7 @@
               "name": "데이터베이스론",
               "subject": "데이터베이스론",
               "phase": null,
-              "total": 36,
+              "total": 31,
               "total_raw": 37,
               "with_full_meta": 0
             },
@@ -322,7 +322,7 @@
               "name": "무선공학개론",
               "subject": "무선공학개론",
               "phase": null,
-              "total": 40,
+              "total": 39,
               "total_raw": 40,
               "with_full_meta": 0
             },
@@ -331,7 +331,7 @@
               "name": "사회복지학개론",
               "subject": "사회복지학개론",
               "phase": null,
-              "total": 48,
+              "total": 47,
               "total_raw": 48,
               "with_full_meta": 0
             },
@@ -340,7 +340,7 @@
               "name": "세법개론",
               "subject": "세법개론",
               "phase": null,
-              "total": 68,
+              "total": 66,
               "total_raw": 68,
               "with_full_meta": 0
             },
@@ -358,7 +358,7 @@
               "name": "안전관리론",
               "subject": "안전관리론",
               "phase": null,
-              "total": 4,
+              "total": 3,
               "total_raw": 4,
               "with_full_meta": 0
             },
@@ -367,7 +367,7 @@
               "name": "응용역학개론",
               "subject": "응용역학개론",
               "phase": null,
-              "total": 4,
+              "total": 3,
               "total_raw": 5,
               "with_full_meta": 0
             },
@@ -403,7 +403,7 @@
               "name": "전기이론",
               "subject": "전기이론",
               "phase": null,
-              "total": 11,
+              "total": 8,
               "total_raw": 12,
               "with_full_meta": 0
             },
@@ -421,7 +421,7 @@
               "name": "정보보호론",
               "subject": "정보보호론",
               "phase": null,
-              "total": 15,
+              "total": 14,
               "total_raw": 19,
               "with_full_meta": 0
             },
@@ -430,7 +430,7 @@
               "name": "정보시스템보안",
               "subject": "정보시스템보안",
               "phase": null,
-              "total": 28,
+              "total": 25,
               "total_raw": 28,
               "with_full_meta": 0
             },
@@ -439,7 +439,7 @@
               "name": "조경계획및설계",
               "subject": "조경계획및설계",
               "phase": null,
-              "total": 17,
+              "total": 16,
               "total_raw": 29,
               "with_full_meta": 0
             },
@@ -448,7 +448,7 @@
               "name": "조경학",
               "subject": "조경학",
               "phase": null,
-              "total": 36,
+              "total": 35,
               "total_raw": 36,
               "with_full_meta": 0
             },
@@ -457,7 +457,7 @@
               "name": "조림",
               "subject": "조림",
               "phase": null,
-              "total": 28,
+              "total": 25,
               "total_raw": 29,
               "with_full_meta": 0
             },
@@ -493,7 +493,7 @@
               "name": "통계학개론",
               "subject": "통계학개론",
               "phase": null,
-              "total": 19,
+              "total": 15,
               "total_raw": 20,
               "with_full_meta": 0
             },
@@ -502,7 +502,7 @@
               "name": "한국사",
               "subject": "한국사",
               "phase": null,
-              "total": 49,
+              "total": 47,
               "total_raw": 53,
               "with_full_meta": 0
             },
@@ -511,7 +511,7 @@
               "name": "행정법총론",
               "subject": "행정법총론",
               "phase": null,
-              "total": 72,
+              "total": 61,
               "total_raw": 72,
               "with_full_meta": 0
             },
@@ -520,7 +520,7 @@
               "name": "행정학개론",
               "subject": "행정학개론",
               "phase": null,
-              "total": 44,
+              "total": 42,
               "total_raw": 44,
               "with_full_meta": 0
             },
@@ -529,7 +529,7 @@
               "name": "형법",
               "subject": "형법",
               "phase": null,
-              "total": 60,
+              "total": 47,
               "total_raw": 60,
               "with_full_meta": 0
             },
@@ -538,7 +538,7 @@
               "name": "형법총론",
               "subject": "형법총론",
               "phase": null,
-              "total": 64,
+              "total": 52,
               "total_raw": 64,
               "with_full_meta": 0
             },
@@ -547,7 +547,7 @@
               "name": "형사소송법",
               "subject": "형사소송법",
               "phase": null,
-              "total": 72,
+              "total": 61,
               "total_raw": 72,
               "with_full_meta": 0
             },
@@ -556,7 +556,7 @@
               "name": "형사소송법개론",
               "subject": "형사소송법개론",
               "phase": null,
-              "total": 68,
+              "total": 52,
               "total_raw": 68,
               "with_full_meta": 0
             },
@@ -565,7 +565,7 @@
               "name": "형사정책개론",
               "subject": "형사정책개론",
               "phase": null,
-              "total": 76,
+              "total": 72,
               "total_raw": 76,
               "with_full_meta": 0
             },
@@ -583,7 +583,7 @@
               "name": "환경공학개론",
               "subject": "환경공학개론",
               "phase": null,
-              "total": 28,
+              "total": 27,
               "total_raw": 28,
               "with_full_meta": 0
             },
@@ -592,7 +592,7 @@
               "name": "회계원리",
               "subject": "회계원리",
               "phase": null,
-              "total": 24,
+              "total": 19,
               "total_raw": 24,
               "with_full_meta": 0
             },
@@ -601,7 +601,7 @@
               "name": "회계학",
               "subject": "회계학",
               "phase": null,
-              "total": 32,
+              "total": 25,
               "total_raw": 32,
               "with_full_meta": 0
             },
@@ -610,7 +610,7 @@
               "name": "(근로감독,산업안전) 건축계획학",
               "subject": "(근로감독,산업안전) 건축계획학",
               "phase": null,
-              "total": 56,
+              "total": 53,
               "total_raw": 59,
               "with_full_meta": 0
             },
@@ -619,7 +619,7 @@
               "name": "(근로감독,산업안전) 건축구조학",
               "subject": "(근로감독,산업안전) 건축구조학",
               "phase": null,
-              "total": 45,
+              "total": 41,
               "total_raw": 50,
               "with_full_meta": 0
             },
@@ -628,7 +628,7 @@
               "name": "(근로감독,산업안전) 건축시공학",
               "subject": "(근로감독,산업안전) 건축시공학",
               "phase": null,
-              "total": 63,
+              "total": 58,
               "total_raw": 64,
               "with_full_meta": 0
             },
@@ -637,7 +637,7 @@
               "name": "(근로감독,산업안전) 경제학",
               "subject": "(근로감독,산업안전) 경제학",
               "phase": null,
-              "total": 47,
+              "total": 44,
               "total_raw": 48,
               "with_full_meta": 0
             },
@@ -646,7 +646,7 @@
               "name": "(근로감독,산업안전) 기계공작법",
               "subject": "(근로감독,산업안전) 기계공작법",
               "phase": null,
-              "total": 24,
+              "total": 23,
               "total_raw": 25,
               "with_full_meta": 0
             },
@@ -655,7 +655,7 @@
               "name": "(근로감독,산업안전) 기계설계",
               "subject": "(근로감독,산업안전) 기계설계",
               "phase": null,
-              "total": 19,
+              "total": 18,
               "total_raw": 20,
               "with_full_meta": 0
             },
@@ -664,7 +664,7 @@
               "name": "(근로감독,산업안전) 노동법",
               "subject": "(근로감독,산업안전) 노동법",
               "phase": null,
-              "total": 85,
+              "total": 72,
               "total_raw": 88,
               "with_full_meta": 0
             },
@@ -718,7 +718,7 @@
               "name": "(근로감독,산업안전) 전기기기",
               "subject": "(근로감독,산업안전) 전기기기",
               "phase": null,
-              "total": 26,
+              "total": 25,
               "total_raw": 30,
               "with_full_meta": 0
             },
@@ -727,7 +727,7 @@
               "name": "(근로감독,산업안전) 전기자기학",
               "subject": "(근로감독,산업안전) 전기자기학",
               "phase": null,
-              "total": 8,
+              "total": 7,
               "total_raw": 10,
               "with_full_meta": 0
             },
@@ -736,7 +736,7 @@
               "name": "(근로감독,산업안전) 전달현상",
               "subject": "(근로감독,산업안전) 전달현상",
               "phase": null,
-              "total": 22,
+              "total": 20,
               "total_raw": 29,
               "with_full_meta": 0
             },
@@ -754,7 +754,7 @@
               "name": "(근로감독,산업안전) 행정법",
               "subject": "(근로감독,산업안전) 행정법",
               "phase": null,
-              "total": 100,
+              "total": 85,
               "total_raw": 100,
               "with_full_meta": 0
             },
@@ -763,7 +763,7 @@
               "name": "(근로감독,산업안전) 행정학",
               "subject": "(근로감독,산업안전) 행정학",
               "phase": null,
-              "total": 72,
+              "total": 67,
               "total_raw": 72,
               "with_full_meta": 0
             },
@@ -772,7 +772,7 @@
               "name": "(근로감독,산업안전) 헌법",
               "subject": "(근로감독,산업안전) 헌법",
               "phase": null,
-              "total": 100,
+              "total": 82,
               "total_raw": 100,
               "with_full_meta": 0
             },
@@ -781,7 +781,7 @@
               "name": "(근로감독,산업안전) 화공열역학",
               "subject": "(근로감독,산업안전) 화공열역학",
               "phase": null,
-              "total": 18,
+              "total": 17,
               "total_raw": 19,
               "with_full_meta": 0
             },
@@ -790,7 +790,7 @@
               "name": "(근로감독,산업안전) 화학개론",
               "subject": "(근로감독,산업안전) 화학개론",
               "phase": null,
-              "total": 18,
+              "total": 17,
               "total_raw": 20,
               "with_full_meta": 0
             },
@@ -808,7 +808,7 @@
               "name": "상황판단영역",
               "subject": "상황판단영역",
               "phase": null,
-              "total": 32,
+              "total": 29,
               "total_raw": 35,
               "with_full_meta": 0
             },
@@ -817,7 +817,7 @@
               "name": "언어논리영역",
               "subject": "언어논리영역",
               "phase": null,
-              "total": 40,
+              "total": 36,
               "total_raw": 40,
               "with_full_meta": 0
             },
@@ -826,7 +826,7 @@
               "name": "자료해석영역",
               "subject": "자료해석영역",
               "phase": null,
-              "total": 37,
+              "total": 36,
               "total_raw": 40,
               "with_full_meta": 0
             },
@@ -835,7 +835,7 @@
               "name": "헌법",
               "subject": "헌법",
               "phase": null,
-              "total": 92,
+              "total": 81,
               "total_raw": 93,
               "with_full_meta": 0
             },
@@ -862,7 +862,7 @@
               "name": "재배학개론",
               "subject": "재배학개론",
               "phase": null,
-              "total": 56,
+              "total": 54,
               "total_raw": 56,
               "with_full_meta": 0
             }
@@ -913,7 +913,7 @@
               "name": "공직선거법",
               "subject": "공직선거법",
               "phase": null,
-              "total": 76,
+              "total": 62,
               "total_raw": 76,
               "with_full_meta": 0
             },
@@ -922,7 +922,7 @@
               "name": "관세법개론",
               "subject": "관세법개론",
               "phase": null,
-              "total": 44,
+              "total": 39,
               "total_raw": 44,
               "with_full_meta": 0
             },
@@ -940,7 +940,7 @@
               "name": "교정학개론",
               "subject": "교정학개론",
               "phase": null,
-              "total": 72,
+              "total": 70,
               "total_raw": 73,
               "with_full_meta": 0
             },
@@ -967,7 +967,7 @@
               "name": "기계설계",
               "subject": "기계설계",
               "phase": null,
-              "total": 25,
+              "total": 24,
               "total_raw": 28,
               "with_full_meta": 0
             },
@@ -976,7 +976,7 @@
               "name": "기계일반",
               "subject": "기계일반",
               "phase": null,
-              "total": 25,
+              "total": 24,
               "total_raw": 28,
               "with_full_meta": 0
             },
@@ -994,7 +994,7 @@
               "name": "노동법개론",
               "subject": "노동법개론",
               "phase": null,
-              "total": 60,
+              "total": 52,
               "total_raw": 60,
               "with_full_meta": 0
             },
@@ -1003,7 +1003,7 @@
               "name": "데이터베이스론",
               "subject": "데이터베이스론",
               "phase": null,
-              "total": 37,
+              "total": 36,
               "total_raw": 39,
               "with_full_meta": 0
             },
@@ -1021,7 +1021,7 @@
               "name": "사회복지학개론",
               "subject": "사회복지학개론",
               "phase": null,
-              "total": 44,
+              "total": 42,
               "total_raw": 44,
               "with_full_meta": 0
             },
@@ -1030,7 +1030,7 @@
               "name": "세법개론",
               "subject": "세법개론",
               "phase": null,
-              "total": 52,
+              "total": 47,
               "total_raw": 56,
               "with_full_meta": 0
             },
@@ -1039,7 +1039,7 @@
               "name": "식용작물",
               "subject": "식용작물",
               "phase": null,
-              "total": 52,
+              "total": 51,
               "total_raw": 52,
               "with_full_meta": 0
             },
@@ -1084,7 +1084,7 @@
               "name": "임업경영",
               "subject": "임업경영",
               "phase": null,
-              "total": 42,
+              "total": 41,
               "total_raw": 44,
               "with_full_meta": 0
             },
@@ -1102,7 +1102,7 @@
               "name": "재배학개론",
               "subject": "재배학개론",
               "phase": null,
-              "total": 64,
+              "total": 62,
               "total_raw": 66,
               "with_full_meta": 0
             },
@@ -1165,7 +1165,7 @@
               "name": "조경학",
               "subject": "조경학",
               "phase": null,
-              "total": 33,
+              "total": 29,
               "total_raw": 33,
               "with_full_meta": 0
             },
@@ -1174,7 +1174,7 @@
               "name": "조림",
               "subject": "조림",
               "phase": null,
-              "total": 64,
+              "total": 63,
               "total_raw": 64,
               "with_full_meta": 0
             },
@@ -1183,7 +1183,7 @@
               "name": "직업상담·심리학개론",
               "subject": "직업상담·심리학개론",
               "phase": null,
-              "total": 36,
+              "total": 35,
               "total_raw": 40,
               "with_full_meta": 0
             },
@@ -1192,7 +1192,7 @@
               "name": "컴퓨터일반",
               "subject": "컴퓨터일반",
               "phase": null,
-              "total": 36,
+              "total": 35,
               "total_raw": 36,
               "with_full_meta": 0
             },
@@ -1201,7 +1201,7 @@
               "name": "토목설계",
               "subject": "토목설계",
               "phase": null,
-              "total": 32,
+              "total": 29,
               "total_raw": 32,
               "with_full_meta": 0
             },
@@ -1210,7 +1210,7 @@
               "name": "통계학개론",
               "subject": "통계학개론",
               "phase": null,
-              "total": 22,
+              "total": 21,
               "total_raw": 27,
               "with_full_meta": 0
             },
@@ -1219,7 +1219,7 @@
               "name": "한국사",
               "subject": "한국사",
               "phase": null,
-              "total": 46,
+              "total": 45,
               "total_raw": 47,
               "with_full_meta": 0
             },
@@ -1228,7 +1228,7 @@
               "name": "행정법총론",
               "subject": "행정법총론",
               "phase": null,
-              "total": 72,
+              "total": 61,
               "total_raw": 72,
               "with_full_meta": 0
             },
@@ -1237,7 +1237,7 @@
               "name": "행정학개론",
               "subject": "행정학개론",
               "phase": null,
-              "total": 44,
+              "total": 43,
               "total_raw": 44,
               "with_full_meta": 0
             },
@@ -1246,7 +1246,7 @@
               "name": "형법",
               "subject": "형법",
               "phase": null,
-              "total": 68,
+              "total": 57,
               "total_raw": 68,
               "with_full_meta": 0
             },
@@ -1255,7 +1255,7 @@
               "name": "형법총론",
               "subject": "형법총론",
               "phase": null,
-              "total": 72,
+              "total": 60,
               "total_raw": 72,
               "with_full_meta": 0
             },
@@ -1264,7 +1264,7 @@
               "name": "형사소송법",
               "subject": "형사소송법",
               "phase": null,
-              "total": 60,
+              "total": 44,
               "total_raw": 60,
               "with_full_meta": 0
             },
@@ -1273,7 +1273,7 @@
               "name": "형사소송법개론",
               "subject": "형사소송법개론",
               "phase": null,
-              "total": 68,
+              "total": 54,
               "total_raw": 68,
               "with_full_meta": 0
             },
@@ -1282,7 +1282,7 @@
               "name": "형사정책개론",
               "subject": "형사정책개론",
               "phase": null,
-              "total": 76,
+              "total": 71,
               "total_raw": 76,
               "with_full_meta": 0
             },
@@ -1300,7 +1300,7 @@
               "name": "화학공학일반",
               "subject": "화학공학일반",
               "phase": null,
-              "total": 31,
+              "total": 30,
               "total_raw": 32,
               "with_full_meta": 0
             },
@@ -1318,7 +1318,7 @@
               "name": "회계원리",
               "subject": "회계원리",
               "phase": null,
-              "total": 35,
+              "total": 26,
               "total_raw": 40,
               "with_full_meta": 0
             },
@@ -1327,7 +1327,7 @@
               "name": "회계학",
               "subject": "회계학",
               "phase": null,
-              "total": 31,
+              "total": 23,
               "total_raw": 36,
               "with_full_meta": 0
             },
@@ -1345,7 +1345,7 @@
               "name": "건축구조학",
               "subject": "건축구조학",
               "phase": null,
-              "total": 25,
+              "total": 24,
               "total_raw": 30,
               "with_full_meta": 0
             },
@@ -1363,7 +1363,7 @@
               "name": "경영학",
               "subject": "경영학",
               "phase": null,
-              "total": 40,
+              "total": 39,
               "total_raw": 40,
               "with_full_meta": 0
             },
@@ -1372,7 +1372,7 @@
               "name": "경제학",
               "subject": "경제학",
               "phase": null,
-              "total": 47,
+              "total": 44,
               "total_raw": 47,
               "with_full_meta": 0
             },
@@ -1381,7 +1381,7 @@
               "name": "공직선거법",
               "subject": "공직선거법",
               "phase": null,
-              "total": 84,
+              "total": 62,
               "total_raw": 84,
               "with_full_meta": 0
             },
@@ -1390,7 +1390,7 @@
               "name": "관세법",
               "subject": "관세법",
               "phase": null,
-              "total": 67,
+              "total": 59,
               "total_raw": 68,
               "with_full_meta": 0
             },
@@ -1399,7 +1399,7 @@
               "name": "교육학",
               "subject": "교육학",
               "phase": null,
-              "total": 40,
+              "total": 38,
               "total_raw": 44,
               "with_full_meta": 0
             },
@@ -1408,7 +1408,7 @@
               "name": "교정학",
               "subject": "교정학",
               "phase": null,
-              "total": 84,
+              "total": 72,
               "total_raw": 84,
               "with_full_meta": 0
             },
@@ -1417,7 +1417,7 @@
               "name": "국제법",
               "subject": "국제법",
               "phase": null,
-              "total": 64,
+              "total": 58,
               "total_raw": 64,
               "with_full_meta": 0
             },
@@ -1453,7 +1453,7 @@
               "name": "노동법",
               "subject": "노동법",
               "phase": null,
-              "total": 75,
+              "total": 63,
               "total_raw": 76,
               "with_full_meta": 0
             },
@@ -1462,7 +1462,7 @@
               "name": "데이터베이스론",
               "subject": "데이터베이스론",
               "phase": null,
-              "total": 33,
+              "total": 29,
               "total_raw": 35,
               "with_full_meta": 0
             },
@@ -1480,7 +1480,7 @@
               "name": "무역학",
               "subject": "무역학",
               "phase": null,
-              "total": 52,
+              "total": 47,
               "total_raw": 52,
               "with_full_meta": 0
             },
@@ -1489,7 +1489,7 @@
               "name": "민법",
               "subject": "민법",
               "phase": null,
-              "total": 96,
+              "total": 85,
               "total_raw": 96,
               "with_full_meta": 0
             },
@@ -1498,7 +1498,7 @@
               "name": "민사소송법",
               "subject": "민사소송법",
               "phase": null,
-              "total": 96,
+              "total": 82,
               "total_raw": 96,
               "with_full_meta": 0
             },
@@ -1507,7 +1507,7 @@
               "name": "반응공학",
               "subject": "반응공학",
               "phase": null,
-              "total": 22,
+              "total": 21,
               "total_raw": 24,
               "with_full_meta": 0
             },
@@ -1516,7 +1516,7 @@
               "name": "방재관계법규",
               "subject": "방재관계법규",
               "phase": null,
-              "total": 76,
+              "total": 64,
               "total_raw": 76,
               "with_full_meta": 0
             },
@@ -1525,7 +1525,7 @@
               "name": "상황판단",
               "subject": "상황판단",
               "phase": null,
-              "total": 34,
+              "total": 30,
               "total_raw": 38,
               "with_full_meta": 0
             },
@@ -1534,7 +1534,7 @@
               "name": "생물학개론",
               "subject": "생물학개론",
               "phase": null,
-              "total": 44,
+              "total": 42,
               "total_raw": 44,
               "with_full_meta": 0
             },
@@ -1543,7 +1543,7 @@
               "name": "생태학",
               "subject": "생태학",
               "phase": null,
-              "total": 46,
+              "total": 43,
               "total_raw": 46,
               "with_full_meta": 0
             },
@@ -1552,7 +1552,7 @@
               "name": "세법",
               "subject": "세법",
               "phase": null,
-              "total": 90,
+              "total": 83,
               "total_raw": 92,
               "with_full_meta": 0
             },
@@ -1579,7 +1579,7 @@
               "name": "식용작물학",
               "subject": "식용작물학",
               "phase": null,
-              "total": 84,
+              "total": 82,
               "total_raw": 84,
               "with_full_meta": 0
             },
@@ -1588,7 +1588,7 @@
               "name": "심리학",
               "subject": "심리학",
               "phase": null,
-              "total": 16,
+              "total": 15,
               "total_raw": 16,
               "with_full_meta": 0
             },
@@ -1597,7 +1597,7 @@
               "name": "안전관리론",
               "subject": "안전관리론",
               "phase": null,
-              "total": 21,
+              "total": 19,
               "total_raw": 23,
               "with_full_meta": 0
             },
@@ -1606,7 +1606,7 @@
               "name": "알고리즘",
               "subject": "알고리즘",
               "phase": null,
-              "total": 39,
+              "total": 35,
               "total_raw": 47,
               "with_full_meta": 0
             },
@@ -1615,7 +1615,7 @@
               "name": "언어논리",
               "subject": "언어논리",
               "phase": null,
-              "total": 20,
+              "total": 19,
               "total_raw": 20,
               "with_full_meta": 0
             },
@@ -1642,7 +1642,7 @@
               "name": "인사조직론",
               "subject": "인사조직론",
               "phase": null,
-              "total": 92,
+              "total": 91,
               "total_raw": 92,
               "with_full_meta": 0
             },
@@ -1651,7 +1651,7 @@
               "name": "임업경영학",
               "subject": "임업경영학",
               "phase": null,
-              "total": 47,
+              "total": 44,
               "total_raw": 48,
               "with_full_meta": 0
             },
@@ -1669,7 +1669,7 @@
               "name": "자료구조론",
               "subject": "자료구조론",
               "phase": null,
-              "total": 8,
+              "total": 6,
               "total_raw": 8,
               "with_full_meta": 0
             },
@@ -1687,7 +1687,7 @@
               "name": "재난관리론",
               "subject": "재난관리론",
               "phase": null,
-              "total": 24,
+              "total": 23,
               "total_raw": 28,
               "with_full_meta": 0
             },
@@ -1696,7 +1696,7 @@
               "name": "재배학",
               "subject": "재배학",
               "phase": null,
-              "total": 73,
+              "total": 70,
               "total_raw": 76,
               "with_full_meta": 0
             },
@@ -1732,7 +1732,7 @@
               "name": "전자회로",
               "subject": "전자회로",
               "phase": null,
-              "total": 19,
+              "total": 15,
               "total_raw": 20,
               "with_full_meta": 0
             },
@@ -1741,7 +1741,7 @@
               "name": "정보보호론",
               "subject": "정보보호론",
               "phase": null,
-              "total": 46,
+              "total": 44,
               "total_raw": 51,
               "with_full_meta": 0
             },
@@ -1750,7 +1750,7 @@
               "name": "조경학",
               "subject": "조경학",
               "phase": null,
-              "total": 36,
+              "total": 35,
               "total_raw": 46,
               "with_full_meta": 0
             },
@@ -1768,7 +1768,7 @@
               "name": "토양학",
               "subject": "토양학",
               "phase": null,
-              "total": 57,
+              "total": 52,
               "total_raw": 64,
               "with_full_meta": 0
             },
@@ -1777,7 +1777,7 @@
               "name": "토질역학",
               "subject": "토질역학",
               "phase": null,
-              "total": 12,
+              "total": 8,
               "total_raw": 12,
               "with_full_meta": 0
             },
@@ -1786,7 +1786,7 @@
               "name": "통계학",
               "subject": "통계학",
               "phase": null,
-              "total": 15,
+              "total": 11,
               "total_raw": 16,
               "with_full_meta": 0
             },
@@ -1795,7 +1795,7 @@
               "name": "통신이론",
               "subject": "통신이론",
               "phase": null,
-              "total": 24,
+              "total": 22,
               "total_raw": 33,
               "with_full_meta": 0
             },
@@ -1804,7 +1804,7 @@
               "name": "행정법",
               "subject": "행정법",
               "phase": null,
-              "total": 80,
+              "total": 60,
               "total_raw": 80,
               "with_full_meta": 0
             },
@@ -1813,7 +1813,7 @@
               "name": "행정학",
               "subject": "행정학",
               "phase": null,
-              "total": 72,
+              "total": 69,
               "total_raw": 72,
               "with_full_meta": 0
             },
@@ -1822,7 +1822,7 @@
               "name": "헌법",
               "subject": "헌법",
               "phase": null,
-              "total": 92,
+              "total": 74,
               "total_raw": 92,
               "with_full_meta": 0
             },
@@ -1831,7 +1831,7 @@
               "name": "형법",
               "subject": "형법",
               "phase": null,
-              "total": 72,
+              "total": 55,
               "total_raw": 72,
               "with_full_meta": 0
             },
@@ -1840,7 +1840,7 @@
               "name": "형사소송법",
               "subject": "형사소송법",
               "phase": null,
-              "total": 96,
+              "total": 75,
               "total_raw": 96,
               "with_full_meta": 0
             },
@@ -1849,7 +1849,7 @@
               "name": "형사정책",
               "subject": "형사정책",
               "phase": null,
-              "total": 92,
+              "total": 80,
               "total_raw": 92,
               "with_full_meta": 0
             },
@@ -1876,7 +1876,7 @@
               "name": "환경계획",
               "subject": "환경계획",
               "phase": null,
-              "total": 52,
+              "total": 48,
               "total_raw": 64,
               "with_full_meta": 0
             },
@@ -1885,7 +1885,7 @@
               "name": "환경공학",
               "subject": "환경공학",
               "phase": null,
-              "total": 46,
+              "total": 45,
               "total_raw": 51,
               "with_full_meta": 0
             },
@@ -1894,7 +1894,7 @@
               "name": "회계학",
               "subject": "회계학",
               "phase": null,
-              "total": 48,
+              "total": 34,
               "total_raw": 48,
               "with_full_meta": 0
             },
@@ -1912,7 +1912,7 @@
               "name": "상황판단",
               "subject": "상황판단",
               "phase": null,
-              "total": 17,
+              "total": 16,
               "total_raw": 17,
               "with_full_meta": 0
             },
@@ -1954,7 +1954,7 @@
               "name": "도시계획",
               "subject": "도시계획",
               "phase": null,
-              "total": 40,
+              "total": 37,
               "total_raw": 45,
               "with_full_meta": 0
             },
@@ -1972,7 +1972,7 @@
               "name": "언어논리",
               "subject": "언어논리",
               "phase": null,
-              "total": 26,
+              "total": 21,
               "total_raw": 27,
               "with_full_meta": 0
             },
@@ -1990,7 +1990,7 @@
               "name": "상황판단",
               "subject": "상황판단",
               "phase": null,
-              "total": 38,
+              "total": 35,
               "total_raw": 40,
               "with_full_meta": 0
             },
@@ -2008,7 +2008,7 @@
               "name": "자료해석",
               "subject": "자료해석",
               "phase": null,
-              "total": 63,
+              "total": 62,
               "total_raw": 65,
               "with_full_meta": 0
             }
@@ -2028,7 +2028,7 @@
               "name": "경제학",
               "subject": "경제학",
               "phase": null,
-              "total": 36,
+              "total": 32,
               "total_raw": 37,
               "with_full_meta": 0
             },
@@ -2037,7 +2037,7 @@
               "name": "상황판단영역",
               "subject": "상황판단영역",
               "phase": null,
-              "total": 26,
+              "total": 21,
               "total_raw": 26,
               "with_full_meta": 0
             },
@@ -2046,7 +2046,7 @@
               "name": "언어논리영역",
               "subject": "언어논리영역",
               "phase": null,
-              "total": 16,
+              "total": 14,
               "total_raw": 20,
               "with_full_meta": 0
             },
@@ -2064,7 +2064,7 @@
               "name": "행정법",
               "subject": "행정법",
               "phase": null,
-              "total": 65,
+              "total": 45,
               "total_raw": 65,
               "with_full_meta": 0
             },
@@ -2073,7 +2073,7 @@
               "name": "행정학",
               "subject": "행정학",
               "phase": null,
-              "total": 70,
+              "total": 62,
               "total_raw": 75,
               "with_full_meta": 0
             },
@@ -2082,7 +2082,7 @@
               "name": "헌법",
               "subject": "헌법",
               "phase": null,
-              "total": 65,
+              "total": 36,
               "total_raw": 65,
               "with_full_meta": 0
             }
@@ -2097,7 +2097,7 @@
               "name": "경제학",
               "subject": "경제학",
               "phase": null,
-              "total": 39,
+              "total": 37,
               "total_raw": 45,
               "with_full_meta": 0
             },
@@ -2106,7 +2106,7 @@
               "name": "상황판단영역",
               "subject": "상황판단영역",
               "phase": null,
-              "total": 23,
+              "total": 19,
               "total_raw": 23,
               "with_full_meta": 0
             },
@@ -2115,7 +2115,7 @@
               "name": "언어논리영역",
               "subject": "언어논리영역",
               "phase": null,
-              "total": 9,
+              "total": 8,
               "total_raw": 9,
               "with_full_meta": 0
             },
@@ -2133,7 +2133,7 @@
               "name": "행정법",
               "subject": "행정법",
               "phase": null,
-              "total": 95,
+              "total": 58,
               "total_raw": 95,
               "with_full_meta": 0
             },
@@ -2142,7 +2142,7 @@
               "name": "행정학",
               "subject": "행정학",
               "phase": null,
-              "total": 65,
+              "total": 56,
               "total_raw": 76,
               "with_full_meta": 0
             },
@@ -2151,7 +2151,7 @@
               "name": "헌법",
               "subject": "헌법",
               "phase": null,
-              "total": 95,
+              "total": 57,
               "total_raw": 95,
               "with_full_meta": 0
             }
@@ -2171,7 +2171,7 @@
               "name": "경제학",
               "subject": "경제학",
               "phase": null,
-              "total": 80,
+              "total": 78,
               "total_raw": 80,
               "with_full_meta": 0
             },
@@ -2180,7 +2180,7 @@
               "name": "경찰학",
               "subject": "경찰학",
               "phase": null,
-              "total": 104,
+              "total": 94,
               "total_raw": 104,
               "with_full_meta": 0
             },
@@ -2189,7 +2189,7 @@
               "name": "데이터베이스론",
               "subject": "데이터베이스론",
               "phase": null,
-              "total": 67,
+              "total": 65,
               "total_raw": 83,
               "with_full_meta": 0
             },
@@ -2198,7 +2198,7 @@
               "name": "민법총칙",
               "subject": "민법총칙",
               "phase": null,
-              "total": 127,
+              "total": 102,
               "total_raw": 131,
               "with_full_meta": 0
             },
@@ -2207,7 +2207,7 @@
               "name": "범죄학",
               "subject": "범죄학",
               "phase": null,
-              "total": 95,
+              "total": 93,
               "total_raw": 96,
               "with_full_meta": 0
             },
@@ -2216,7 +2216,7 @@
               "name": "상법총칙",
               "subject": "상법총칙",
               "phase": null,
-              "total": 98,
+              "total": 83,
               "total_raw": 103,
               "with_full_meta": 0
             },
@@ -2225,7 +2225,7 @@
               "name": "세법개론",
               "subject": "세법개론",
               "phase": null,
-              "total": 95,
+              "total": 77,
               "total_raw": 100,
               "with_full_meta": 0
             },
@@ -2234,7 +2234,7 @@
               "name": "소프트웨어공학",
               "subject": "소프트웨어공학",
               "phase": null,
-              "total": 58,
+              "total": 57,
               "total_raw": 73,
               "with_full_meta": 0
             },
@@ -2243,7 +2243,7 @@
               "name": "시스템네트워크보안",
               "subject": "시스템네트워크보안",
               "phase": null,
-              "total": 47,
+              "total": 46,
               "total_raw": 76,
               "with_full_meta": 0
             },
@@ -2252,7 +2252,7 @@
               "name": "재정학",
               "subject": "재정학",
               "phase": null,
-              "total": 97,
+              "total": 93,
               "total_raw": 102,
               "with_full_meta": 0
             },
@@ -2261,7 +2261,7 @@
               "name": "정보보호론",
               "subject": "정보보호론",
               "phase": null,
-              "total": 92,
+              "total": 88,
               "total_raw": 100,
               "with_full_meta": 0
             },
@@ -2270,7 +2270,7 @@
               "name": "통계학",
               "subject": "통계학",
               "phase": null,
-              "total": 31,
+              "total": 30,
               "total_raw": 36,
               "with_full_meta": 0
             },
@@ -2279,7 +2279,7 @@
               "name": "통신이론",
               "subject": "통신이론",
               "phase": null,
-              "total": 101,
+              "total": 99,
               "total_raw": 115,
               "with_full_meta": 0
             },
@@ -2288,7 +2288,7 @@
               "name": "행정법",
               "subject": "행정법",
               "phase": null,
-              "total": 120,
+              "total": 100,
               "total_raw": 120,
               "with_full_meta": 0
             },
@@ -2297,7 +2297,7 @@
               "name": "행정학",
               "subject": "행정학",
               "phase": null,
-              "total": 120,
+              "total": 113,
               "total_raw": 128,
               "with_full_meta": 0
             },
@@ -2306,7 +2306,7 @@
               "name": "헌법",
               "subject": "헌법",
               "phase": null,
-              "total": 124,
+              "total": 74,
               "total_raw": 124,
               "with_full_meta": 0
             },
@@ -2315,7 +2315,7 @@
               "name": "형사법",
               "subject": "형사법",
               "phase": null,
-              "total": 124,
+              "total": 89,
               "total_raw": 124,
               "with_full_meta": 0
             },
@@ -2324,7 +2324,7 @@
               "name": "회계학",
               "subject": "회계학",
               "phase": null,
-              "total": 48,
+              "total": 42,
               "total_raw": 48,
               "with_full_meta": 0
             }
@@ -2339,7 +2339,7 @@
               "name": "경제학",
               "subject": "경제학",
               "phase": null,
-              "total": 68,
+              "total": 67,
               "total_raw": 78,
               "with_full_meta": 0
             },
@@ -2348,7 +2348,7 @@
               "name": "경찰학",
               "subject": "경찰학",
               "phase": null,
-              "total": 80,
+              "total": 76,
               "total_raw": 80,
               "with_full_meta": 0
             },
@@ -2357,7 +2357,7 @@
               "name": "데이터베이스론",
               "subject": "데이터베이스론",
               "phase": null,
-              "total": 38,
+              "total": 35,
               "total_raw": 50,
               "with_full_meta": 0
             },
@@ -2366,7 +2366,7 @@
               "name": "민법총칙",
               "subject": "민법총칙",
               "phase": null,
-              "total": 137,
+              "total": 118,
               "total_raw": 138,
               "with_full_meta": 0
             },
@@ -2375,7 +2375,7 @@
               "name": "범죄학",
               "subject": "범죄학",
               "phase": null,
-              "total": 124,
+              "total": 118,
               "total_raw": 124,
               "with_full_meta": 0
             },
@@ -2384,7 +2384,7 @@
               "name": "상법총칙",
               "subject": "상법총칙",
               "phase": null,
-              "total": 113,
+              "total": 102,
               "total_raw": 115,
               "with_full_meta": 0
             },
@@ -2393,7 +2393,7 @@
               "name": "세법개론",
               "subject": "세법개론",
               "phase": null,
-              "total": 70,
+              "total": 62,
               "total_raw": 74,
               "with_full_meta": 0
             },
@@ -2411,7 +2411,7 @@
               "name": "시스템네트워크보안",
               "subject": "시스템네트워크보안",
               "phase": null,
-              "total": 42,
+              "total": 40,
               "total_raw": 86,
               "with_full_meta": 0
             },
@@ -2420,7 +2420,7 @@
               "name": "재정학",
               "subject": "재정학",
               "phase": null,
-              "total": 102,
+              "total": 97,
               "total_raw": 110,
               "with_full_meta": 0
             },
@@ -2429,7 +2429,7 @@
               "name": "정보보호론",
               "subject": "정보보호론",
               "phase": null,
-              "total": 58,
+              "total": 56,
               "total_raw": 72,
               "with_full_meta": 0
             },
@@ -2438,7 +2438,7 @@
               "name": "통계학",
               "subject": "통계학",
               "phase": null,
-              "total": 34,
+              "total": 33,
               "total_raw": 41,
               "with_full_meta": 0
             },
@@ -2447,7 +2447,7 @@
               "name": "통신이론",
               "subject": "통신이론",
               "phase": null,
-              "total": 15,
+              "total": 13,
               "total_raw": 38,
               "with_full_meta": 0
             },
@@ -2456,7 +2456,7 @@
               "name": "해양경찰학개론",
               "subject": "해양경찰학개론",
               "phase": null,
-              "total": 92,
+              "total": 86,
               "total_raw": 98,
               "with_full_meta": 0
             },
@@ -2465,7 +2465,7 @@
               "name": "행정법",
               "subject": "행정법",
               "phase": null,
-              "total": 123,
+              "total": 99,
               "total_raw": 128,
               "with_full_meta": 0
             },
@@ -2474,7 +2474,7 @@
               "name": "행정학",
               "subject": "행정학",
               "phase": null,
-              "total": 108,
+              "total": 102,
               "total_raw": 109,
               "with_full_meta": 0
             },
@@ -2483,7 +2483,7 @@
               "name": "헌법",
               "subject": "헌법",
               "phase": null,
-              "total": 140,
+              "total": 115,
               "total_raw": 140,
               "with_full_meta": 0
             },
@@ -2492,7 +2492,7 @@
               "name": "형사법",
               "subject": "형사법",
               "phase": null,
-              "total": 128,
+              "total": 104,
               "total_raw": 128,
               "with_full_meta": 0
             },
@@ -2501,7 +2501,7 @@
               "name": "회계학",
               "subject": "회계학",
               "phase": null,
-              "total": 56,
+              "total": 43,
               "total_raw": 56,
               "with_full_meta": 0
             }
@@ -2521,7 +2521,7 @@
               "name": "1차 경찰학",
               "subject": "1차 경찰학",
               "phase": null,
-              "total": 119,
+              "total": 108,
               "total_raw": 120,
               "with_full_meta": 0
             },
@@ -2530,7 +2530,7 @@
               "name": "1차 헌법",
               "subject": "1차 헌법",
               "phase": null,
-              "total": 76,
+              "total": 59,
               "total_raw": 76,
               "with_full_meta": 0
             },
@@ -2539,7 +2539,7 @@
               "name": "1차 형사법",
               "subject": "1차 형사법",
               "phase": null,
-              "total": 132,
+              "total": 111,
               "total_raw": 132,
               "with_full_meta": 0
             },
@@ -2548,7 +2548,7 @@
               "name": "대편입 언어논리",
               "subject": "대편입 언어논리",
               "phase": null,
-              "total": 22,
+              "total": 19,
               "total_raw": 33,
               "with_full_meta": 0
             },
@@ -2557,7 +2557,7 @@
               "name": "대편입 영어",
               "subject": "대편입 영어",
               "phase": null,
-              "total": 25,
+              "total": 23,
               "total_raw": 36,
               "with_full_meta": 0
             },
@@ -2566,7 +2566,7 @@
               "name": "대편입 형사법",
               "subject": "대편입 형사법",
               "phase": null,
-              "total": 95,
+              "total": 54,
               "total_raw": 95,
               "with_full_meta": 0
             }
@@ -2581,7 +2581,7 @@
               "name": "1차 경찰학",
               "subject": "1차 경찰학",
               "phase": null,
-              "total": 128,
+              "total": 121,
               "total_raw": 132,
               "with_full_meta": 0
             },
@@ -2590,7 +2590,7 @@
               "name": "1차 헌법",
               "subject": "1차 헌법",
               "phase": null,
-              "total": 72,
+              "total": 58,
               "total_raw": 72,
               "with_full_meta": 0
             },
@@ -2599,7 +2599,7 @@
               "name": "1차 형사법",
               "subject": "1차 형사법",
               "phase": null,
-              "total": 128,
+              "total": 105,
               "total_raw": 128,
               "with_full_meta": 0
             },
@@ -2608,7 +2608,7 @@
               "name": "2차 경찰학",
               "subject": "2차 경찰학",
               "phase": null,
-              "total": 128,
+              "total": 118,
               "total_raw": 129,
               "with_full_meta": 0
             },
@@ -2617,7 +2617,7 @@
               "name": "2차 범죄학",
               "subject": "2차 범죄학",
               "phase": null,
-              "total": 45,
+              "total": 42,
               "total_raw": 48,
               "with_full_meta": 0
             },
@@ -2626,7 +2626,7 @@
               "name": "2차 헌법",
               "subject": "2차 헌법",
               "phase": null,
-              "total": 72,
+              "total": 52,
               "total_raw": 72,
               "with_full_meta": 0
             },
@@ -2635,7 +2635,7 @@
               "name": "2차 형사법",
               "subject": "2차 형사법",
               "phase": null,
-              "total": 136,
+              "total": 107,
               "total_raw": 136,
               "with_full_meta": 0
             },
@@ -2644,7 +2644,7 @@
               "name": "대편입 언어논리",
               "subject": "대편입 언어논리",
               "phase": null,
-              "total": 30,
+              "total": 27,
               "total_raw": 34,
               "with_full_meta": 0
             }
@@ -2664,7 +2664,7 @@
               "name": "경찰실무",
               "subject": "경찰실무",
               "phase": null,
-              "total": 136,
+              "total": 124,
               "total_raw": 136,
               "with_full_meta": 0
             },
@@ -2673,7 +2673,7 @@
               "name": "경찰행정학",
               "subject": "경찰행정학",
               "phase": null,
-              "total": 90,
+              "total": 86,
               "total_raw": 92,
               "with_full_meta": 0
             },
@@ -2682,7 +2682,7 @@
               "name": "헌법",
               "subject": "헌법",
               "phase": null,
-              "total": 112,
+              "total": 93,
               "total_raw": 112,
               "with_full_meta": 0
             },
@@ -2691,7 +2691,7 @@
               "name": "형법",
               "subject": "형법",
               "phase": null,
-              "total": 132,
+              "total": 109,
               "total_raw": 132,
               "with_full_meta": 0
             },
@@ -2700,7 +2700,7 @@
               "name": "형사소송법",
               "subject": "형사소송법",
               "phase": null,
-              "total": 140,
+              "total": 109,
               "total_raw": 144,
               "with_full_meta": 0
             }
@@ -2720,7 +2720,7 @@
               "name": "건축공학개론",
               "subject": "건축공학개론",
               "phase": null,
-              "total": 50,
+              "total": 49,
               "total_raw": 64,
               "with_full_meta": 0
             },
@@ -2729,7 +2729,7 @@
               "name": "경제학",
               "subject": "경제학",
               "phase": null,
-              "total": 80,
+              "total": 78,
               "total_raw": 89,
               "with_full_meta": 0
             },
@@ -2738,7 +2738,7 @@
               "name": "민법총칙",
               "subject": "민법총칙",
               "phase": null,
-              "total": 95,
+              "total": 76,
               "total_raw": 95,
               "with_full_meta": 0
             },
@@ -2747,7 +2747,7 @@
               "name": "소방학개론",
               "subject": "소방학개론",
               "phase": null,
-              "total": 70,
+              "total": 60,
               "total_raw": 87,
               "with_full_meta": 0
             },
@@ -2774,7 +2774,7 @@
               "name": "행정법",
               "subject": "행정법",
               "phase": null,
-              "total": 85,
+              "total": 60,
               "total_raw": 85,
               "with_full_meta": 0
             },
@@ -2783,7 +2783,7 @@
               "name": "행정학",
               "subject": "행정학",
               "phase": null,
-              "total": 98,
+              "total": 92,
               "total_raw": 105,
               "with_full_meta": 0
             },
@@ -2792,7 +2792,7 @@
               "name": "헌법",
               "subject": "헌법",
               "phase": null,
-              "total": 55,
+              "total": 40,
               "total_raw": 55,
               "with_full_meta": 0
             },
@@ -2801,7 +2801,7 @@
               "name": "형사소송법",
               "subject": "형사소송법",
               "phase": null,
-              "total": 65,
+              "total": 48,
               "total_raw": 65,
               "with_full_meta": 0
             },
@@ -2830,7 +2830,7 @@
               "name": "경력채용 소방관계법규",
               "subject": "경력채용 소방관계법규",
               "phase": null,
-              "total": 66,
+              "total": 62,
               "total_raw": 79,
               "with_full_meta": 0
             },
@@ -2839,7 +2839,7 @@
               "name": "경력채용 소방학개론",
               "subject": "경력채용 소방학개론",
               "phase": null,
-              "total": 53,
+              "total": 48,
               "total_raw": 59,
               "with_full_meta": 0
             },
@@ -2857,7 +2857,7 @@
               "name": "경력채용 컴퓨터일반",
               "subject": "경력채용 컴퓨터일반",
               "phase": null,
-              "total": 60,
+              "total": 57,
               "total_raw": 81,
               "with_full_meta": 0
             },
@@ -2875,7 +2875,7 @@
               "name": "소방관계법규",
               "subject": "소방관계법규",
               "phase": null,
-              "total": 30,
+              "total": 28,
               "total_raw": 40,
               "with_full_meta": 0
             },
@@ -2884,7 +2884,7 @@
               "name": "소방학개론",
               "subject": "소방학개론",
               "phase": null,
-              "total": 53,
+              "total": 48,
               "total_raw": 59,
               "with_full_meta": 0
             },
@@ -2893,7 +2893,7 @@
               "name": "행정법총론",
               "subject": "행정법총론",
               "phase": null,
-              "total": 80,
+              "total": 64,
               "total_raw": 80,
               "with_full_meta": 0
             }
@@ -2908,7 +2908,7 @@
               "name": "소방관계법규",
               "subject": "소방관계법규",
               "phase": null,
-              "total": 24,
+              "total": 23,
               "total_raw": 24,
               "with_full_meta": 0
             },
@@ -2917,7 +2917,7 @@
               "name": "소방학개론",
               "subject": "소방학개론",
               "phase": null,
-              "total": 32,
+              "total": 30,
               "total_raw": 46,
               "with_full_meta": 0
             },
@@ -2926,7 +2926,7 @@
               "name": "행정법총론",
               "subject": "행정법총론",
               "phase": null,
-              "total": 96,
+              "total": 73,
               "total_raw": 96,
               "with_full_meta": 0
             }
@@ -2946,7 +2946,7 @@
               "name": "국제법",
               "subject": "국제법",
               "phase": null,
-              "total": 19,
+              "total": 18,
               "total_raw": 20,
               "with_full_meta": 0
             },
@@ -2955,7 +2955,7 @@
               "name": "문제",
               "subject": "문제",
               "phase": null,
-              "total": 24,
+              "total": 18,
               "total_raw": 27,
               "with_full_meta": 0
             },
@@ -2964,7 +2964,7 @@
               "name": "항공법규",
               "subject": "항공법규",
               "phase": null,
-              "total": 77,
+              "total": 69,
               "total_raw": 104,
               "with_full_meta": 0
             },
@@ -2973,7 +2973,7 @@
               "name": "해경실무",
               "subject": "해경실무",
               "phase": null,
-              "total": 74,
+              "total": 70,
               "total_raw": 82,
               "with_full_meta": 0
             },
@@ -2982,7 +2982,7 @@
               "name": "해경실무A",
               "subject": "해경실무A",
               "phase": null,
-              "total": 93,
+              "total": 84,
               "total_raw": 96,
               "with_full_meta": 0
             },
@@ -2991,7 +2991,7 @@
               "name": "해경실무B",
               "subject": "해경실무B",
               "phase": null,
-              "total": 80,
+              "total": 72,
               "total_raw": 99,
               "with_full_meta": 0
             },
@@ -3000,7 +3000,7 @@
               "name": "해경실무C",
               "subject": "해경실무C",
               "phase": null,
-              "total": 61,
+              "total": 60,
               "total_raw": 66,
               "with_full_meta": 0
             },
@@ -3009,7 +3009,7 @@
               "name": "해사법규",
               "subject": "해사법규",
               "phase": null,
-              "total": 68,
+              "total": 61,
               "total_raw": 84,
               "with_full_meta": 0
             },
@@ -3018,7 +3018,7 @@
               "name": "해양법",
               "subject": "해양법",
               "phase": null,
-              "total": 97,
+              "total": 78,
               "total_raw": 109,
               "with_full_meta": 0
             },
@@ -3027,7 +3027,7 @@
               "name": "행정학",
               "subject": "행정학",
               "phase": null,
-              "total": 133,
+              "total": 111,
               "total_raw": 133,
               "with_full_meta": 0
             },
@@ -3036,7 +3036,7 @@
               "name": "형법",
               "subject": "형법",
               "phase": null,
-              "total": 108,
+              "total": 79,
               "total_raw": 108,
               "with_full_meta": 0
             },
@@ -3045,7 +3045,7 @@
               "name": "형사소송법",
               "subject": "형사소송법",
               "phase": null,
-              "total": 136,
+              "total": 89,
               "total_raw": 136,
               "with_full_meta": 0
             }
@@ -3060,7 +3060,7 @@
               "name": "해양법",
               "subject": "해양법",
               "phase": null,
-              "total": 19,
+              "total": 17,
               "total_raw": 28,
               "with_full_meta": 0
             }
@@ -3080,7 +3080,7 @@
               "name": "감정평가관계법규",
               "subject": "감정평가관계법규",
               "phase": null,
-              "total": 31,
+              "total": 27,
               "total_raw": 35,
               "with_full_meta": 0
             },
@@ -3098,7 +3098,7 @@
               "name": "민법",
               "subject": "민법",
               "phase": null,
-              "total": 16,
+              "total": 14,
               "total_raw": 25,
               "with_full_meta": 0
             },
@@ -3116,7 +3116,7 @@
               "name": "회계학",
               "subject": "회계학",
               "phase": null,
-              "total": 8,
+              "total": 6,
               "total_raw": 9,
               "with_full_meta": 0
             }
@@ -3154,7 +3154,7 @@
               "name": "회계학",
               "subject": "회계학",
               "phase": null,
-              "total": 9,
+              "total": 7,
               "total_raw": 10,
               "with_full_meta": 0
             }
@@ -3183,7 +3183,7 @@
               "name": "경제법",
               "subject": "경제법",
               "phase": null,
-              "total": 17,
+              "total": 13,
               "total_raw": 35,
               "with_full_meta": 0
             },
@@ -3192,7 +3192,7 @@
               "name": "민법",
               "subject": "민법",
               "phase": null,
-              "total": 15,
+              "total": 12,
               "total_raw": 24,
               "with_full_meta": 0
             }
@@ -3247,7 +3247,7 @@
               "name": "계리직 보험일반",
               "subject": "계리직 보험일반",
               "phase": null,
-              "total": 39,
+              "total": 35,
               "total_raw": 39,
               "with_full_meta": 0
             },
@@ -3256,7 +3256,7 @@
               "name": "계리직 예금일반",
               "subject": "계리직 예금일반",
               "phase": null,
-              "total": 45,
+              "total": 41,
               "total_raw": 45,
               "with_full_meta": 0
             },
@@ -3265,7 +3265,7 @@
               "name": "계리직 우편일반",
               "subject": "계리직 우편일반",
               "phase": null,
-              "total": 40,
+              "total": 36,
               "total_raw": 40,
               "with_full_meta": 0
             },
@@ -3294,7 +3294,7 @@
               "name": "상황판단영역",
               "subject": "상황판단영역",
               "phase": null,
-              "total": 17,
+              "total": 15,
               "total_raw": 17,
               "with_full_meta": 0
             },
@@ -3303,7 +3303,7 @@
               "name": "언어논리영역",
               "subject": "언어논리영역",
               "phase": null,
-              "total": 20,
+              "total": 13,
               "total_raw": 20,
               "with_full_meta": 0
             },
@@ -3312,7 +3312,7 @@
               "name": "자료해석영역",
               "subject": "자료해석영역",
               "phase": null,
-              "total": 70,
+              "total": 67,
               "total_raw": 71,
               "with_full_meta": 0
             },
@@ -3321,7 +3321,7 @@
               "name": "헌법",
               "subject": "헌법",
               "phase": null,
-              "total": 100,
+              "total": 90,
               "total_raw": 100,
               "with_full_meta": 0
             }
@@ -3336,7 +3336,7 @@
               "name": "상황판단영역",
               "subject": "상황판단영역",
               "phase": null,
-              "total": 36,
+              "total": 33,
               "total_raw": 37,
               "with_full_meta": 0
             },
@@ -3345,7 +3345,7 @@
               "name": "언어논리영역",
               "subject": "언어논리영역",
               "phase": null,
-              "total": 40,
+              "total": 22,
               "total_raw": 40,
               "with_full_meta": 0
             },
@@ -3354,7 +3354,7 @@
               "name": "자료해석영역",
               "subject": "자료해석영역",
               "phase": null,
-              "total": 60,
+              "total": 58,
               "total_raw": 63,
               "with_full_meta": 0
             }
@@ -3369,7 +3369,7 @@
               "name": "상황판단영역",
               "subject": "상황판단영역",
               "phase": null,
-              "total": 52,
+              "total": 43,
               "total_raw": 55,
               "with_full_meta": 0
             },
@@ -3387,7 +3387,7 @@
               "name": "자료해석영역",
               "subject": "자료해석영역",
               "phase": null,
-              "total": 36,
+              "total": 31,
               "total_raw": 37,
               "with_full_meta": 0
             }
@@ -3407,7 +3407,7 @@
               "name": "행정학개론",
               "subject": "행정학개론",
               "phase": "1교시",
-              "total": 88,
+              "total": 84,
               "total_raw": 92,
               "with_full_meta": 0
             },
@@ -3416,7 +3416,7 @@
               "name": "행정법",
               "subject": "행정법",
               "phase": "1교시",
-              "total": 98,
+              "total": 86,
               "total_raw": 110,
               "with_full_meta": 0
             },
@@ -3425,7 +3425,7 @@
               "name": "민법",
               "subject": "민법",
               "phase": "1교시",
-              "total": 100,
+              "total": 85,
               "total_raw": 104,
               "with_full_meta": 0
             }
@@ -3449,7 +3449,7 @@
               "name": "행정법",
               "subject": "행정법",
               "phase": "1교시",
-              "total": 101,
+              "total": 86,
               "total_raw": 103,
               "with_full_meta": 0
             },
@@ -3458,7 +3458,7 @@
               "name": "민법",
               "subject": "민법",
               "phase": "1교시",
-              "total": 100,
+              "total": 80,
               "total_raw": 100,
               "with_full_meta": 0
             }
@@ -3478,7 +3478,7 @@
               "name": "간호관리",
               "subject": "간호관리",
               "phase": null,
-              "total": 32,
+              "total": 31,
               "total_raw": 32,
               "with_full_meta": 0
             },
@@ -3487,7 +3487,7 @@
               "name": "건축계획",
               "subject": "건축계획",
               "phase": null,
-              "total": 37,
+              "total": 35,
               "total_raw": 40,
               "with_full_meta": 0
             },
@@ -3505,7 +3505,7 @@
               "name": "경력경쟁 건축계획",
               "subject": "경력경쟁 건축계획",
               "phase": null,
-              "total": 32,
+              "total": 30,
               "total_raw": 32,
               "with_full_meta": 0
             },
@@ -3532,7 +3532,7 @@
               "name": "경력경쟁 기계제도",
               "subject": "경력경쟁 기계제도",
               "phase": null,
-              "total": 28,
+              "total": 27,
               "total_raw": 28,
               "with_full_meta": 0
             },
@@ -3559,7 +3559,7 @@
               "name": "경력경쟁 재배",
               "subject": "경력경쟁 재배",
               "phase": null,
-              "total": 32,
+              "total": 30,
               "total_raw": 32,
               "with_full_meta": 0
             },
@@ -3595,7 +3595,7 @@
               "name": "경력경쟁 토목일반",
               "subject": "경력경쟁 토목일반",
               "phase": null,
-              "total": 19,
+              "total": 18,
               "total_raw": 20,
               "with_full_meta": 0
             },
@@ -3613,7 +3613,7 @@
               "name": "공중보건",
               "subject": "공중보건",
               "phase": null,
-              "total": 13,
+              "total": 12,
               "total_raw": 16,
               "with_full_meta": 0
             },
@@ -3622,7 +3622,7 @@
               "name": "교육학개론",
               "subject": "교육학개론",
               "phase": null,
-              "total": 40,
+              "total": 39,
               "total_raw": 40,
               "with_full_meta": 0
             },
@@ -3649,7 +3649,7 @@
               "name": "기계일반",
               "subject": "기계일반",
               "phase": null,
-              "total": 40,
+              "total": 38,
               "total_raw": 40,
               "with_full_meta": 0
             },
@@ -3694,7 +3694,7 @@
               "name": "영어",
               "subject": "영어",
               "phase": null,
-              "total": 19,
+              "total": 18,
               "total_raw": 20,
               "with_full_meta": 0
             },
@@ -3703,7 +3703,7 @@
               "name": "임업경영",
               "subject": "임업경영",
               "phase": null,
-              "total": 21,
+              "total": 17,
               "total_raw": 23,
               "with_full_meta": 0
             },
@@ -3721,7 +3721,7 @@
               "name": "재난관리론",
               "subject": "재난관리론",
               "phase": null,
-              "total": 24,
+              "total": 23,
               "total_raw": 27,
               "with_full_meta": 0
             },
@@ -3748,7 +3748,7 @@
               "name": "전자공학개론",
               "subject": "전자공학개론",
               "phase": null,
-              "total": 24,
+              "total": 23,
               "total_raw": 28,
               "with_full_meta": 0
             },
@@ -3757,7 +3757,7 @@
               "name": "정보보호론",
               "subject": "정보보호론",
               "phase": null,
-              "total": 27,
+              "total": 26,
               "total_raw": 28,
               "with_full_meta": 0
             },
@@ -3775,7 +3775,7 @@
               "name": "조림",
               "subject": "조림",
               "phase": null,
-              "total": 40,
+              "total": 39,
               "total_raw": 44,
               "with_full_meta": 0
             },
@@ -3784,7 +3784,7 @@
               "name": "지방세법",
               "subject": "지방세법",
               "phase": null,
-              "total": 64,
+              "total": 60,
               "total_raw": 64,
               "with_full_meta": 0
             },
@@ -3793,7 +3793,7 @@
               "name": "지역사회간호",
               "subject": "지역사회간호",
               "phase": null,
-              "total": 36,
+              "total": 32,
               "total_raw": 40,
               "with_full_meta": 0
             },
@@ -3802,7 +3802,7 @@
               "name": "지적전산학개론",
               "subject": "지적전산학개론",
               "phase": null,
-              "total": 24,
+              "total": 20,
               "total_raw": 24,
               "with_full_meta": 0
             },
@@ -3811,7 +3811,7 @@
               "name": "지적측량",
               "subject": "지적측량",
               "phase": null,
-              "total": 41,
+              "total": 35,
               "total_raw": 43,
               "with_full_meta": 0
             },
@@ -3820,7 +3820,7 @@
               "name": "컴퓨터일반",
               "subject": "컴퓨터일반",
               "phase": null,
-              "total": 10,
+              "total": 9,
               "total_raw": 15,
               "with_full_meta": 0
             },
@@ -3847,7 +3847,7 @@
               "name": "한국사",
               "subject": "한국사",
               "phase": null,
-              "total": 42,
+              "total": 41,
               "total_raw": 49,
               "with_full_meta": 0
             },
@@ -3856,7 +3856,7 @@
               "name": "행정법총론",
               "subject": "행정법총론",
               "phase": null,
-              "total": 76,
+              "total": 63,
               "total_raw": 76,
               "with_full_meta": 0
             },
@@ -3865,7 +3865,7 @@
               "name": "행정학개론",
               "subject": "행정학개론",
               "phase": null,
-              "total": 56,
+              "total": 55,
               "total_raw": 56,
               "with_full_meta": 0
             }
@@ -3927,7 +3927,7 @@
               "name": "생물학개론",
               "subject": "생물학개론",
               "phase": null,
-              "total": 32,
+              "total": 31,
               "total_raw": 32,
               "with_full_meta": 0
             },
@@ -3936,7 +3936,7 @@
               "name": "지방자치론",
               "subject": "지방자치론",
               "phase": null,
-              "total": 60,
+              "total": 51,
               "total_raw": 60,
               "with_full_meta": 0
             },
@@ -3954,7 +3954,7 @@
               "name": "행정법",
               "subject": "행정법",
               "phase": null,
-              "total": 80,
+              "total": 61,
               "total_raw": 80,
               "with_full_meta": 0
             },
@@ -3963,7 +3963,7 @@
               "name": "행정학",
               "subject": "행정학",
               "phase": null,
-              "total": 48,
+              "total": 46,
               "total_raw": 55,
               "with_full_meta": 0
             },
@@ -3972,7 +3972,7 @@
               "name": "헌법",
               "subject": "헌법",
               "phase": null,
-              "total": 68,
+              "total": 53,
               "total_raw": 68,
               "with_full_meta": 0
             },
@@ -3981,7 +3981,7 @@
               "name": "화학개론",
               "subject": "화학개론",
               "phase": null,
-              "total": 18,
+              "total": 16,
               "total_raw": 19,
               "with_full_meta": 0
             }
@@ -4001,7 +4001,7 @@
               "name": "건축계획학",
               "subject": "건축계획학",
               "phase": null,
-              "total": 37,
+              "total": 32,
               "total_raw": 45,
               "with_full_meta": 0
             },
@@ -4010,7 +4010,7 @@
               "name": "건축구조학",
               "subject": "건축구조학",
               "phase": null,
-              "total": 18,
+              "total": 15,
               "total_raw": 33,
               "with_full_meta": 0
             },
@@ -4019,7 +4019,7 @@
               "name": "경영학",
               "subject": "경영학",
               "phase": null,
-              "total": 32,
+              "total": 29,
               "total_raw": 38,
               "with_full_meta": 0
             },
@@ -4028,7 +4028,7 @@
               "name": "공기조화",
               "subject": "공기조화",
               "phase": null,
-              "total": 32,
+              "total": 29,
               "total_raw": 35,
               "with_full_meta": 0
             },
@@ -4037,7 +4037,7 @@
               "name": "국어",
               "subject": "국어",
               "phase": null,
-              "total": 37,
+              "total": 32,
               "total_raw": 43,
               "with_full_meta": 0
             },
@@ -4046,7 +4046,7 @@
               "name": "냉동공학",
               "subject": "냉동공학",
               "phase": null,
-              "total": 29,
+              "total": 27,
               "total_raw": 36,
               "with_full_meta": 0
             },
@@ -4055,7 +4055,7 @@
               "name": "네트워크보안",
               "subject": "네트워크보안",
               "phase": null,
-              "total": 30,
+              "total": 26,
               "total_raw": 37,
               "with_full_meta": 0
             },
@@ -4073,7 +4073,7 @@
               "name": "자료조직론",
               "subject": "자료조직론",
               "phase": null,
-              "total": 16,
+              "total": 13,
               "total_raw": 22,
               "with_full_meta": 0
             },
@@ -4082,7 +4082,7 @@
               "name": "전기공학",
               "subject": "전기공학",
               "phase": null,
-              "total": 8,
+              "total": 7,
               "total_raw": 8,
               "with_full_meta": 0
             },
@@ -4091,7 +4091,7 @@
               "name": "전기기기",
               "subject": "전기기기",
               "phase": null,
-              "total": 21,
+              "total": 20,
               "total_raw": 22,
               "with_full_meta": 0
             },
@@ -4100,7 +4100,7 @@
               "name": "전자공학",
               "subject": "전자공학",
               "phase": null,
-              "total": 16,
+              "total": 15,
               "total_raw": 34,
               "with_full_meta": 0
             },
@@ -4109,7 +4109,7 @@
               "name": "전자회로",
               "subject": "전자회로",
               "phase": null,
-              "total": 19,
+              "total": 17,
               "total_raw": 25,
               "with_full_meta": 0
             },
@@ -4118,7 +4118,7 @@
               "name": "정보보호론",
               "subject": "정보보호론",
               "phase": null,
-              "total": 40,
+              "total": 37,
               "total_raw": 53,
               "with_full_meta": 0
             },
@@ -4127,7 +4127,7 @@
               "name": "정보봉사론",
               "subject": "정보봉사론",
               "phase": null,
-              "total": 50,
+              "total": 43,
               "total_raw": 61,
               "with_full_meta": 0
             },
@@ -4136,7 +4136,7 @@
               "name": "컴퓨터일반",
               "subject": "컴퓨터일반",
               "phase": null,
-              "total": 68,
+              "total": 66,
               "total_raw": 78,
               "with_full_meta": 0
             },
@@ -4145,7 +4145,7 @@
               "name": "토목설계",
               "subject": "토목설계",
               "phase": null,
-              "total": 42,
+              "total": 39,
               "total_raw": 52,
               "with_full_meta": 0
             },
@@ -4154,7 +4154,7 @@
               "name": "통신공학",
               "subject": "통신공학",
               "phase": null,
-              "total": 29,
+              "total": 28,
               "total_raw": 35,
               "with_full_meta": 0
             },
@@ -4163,7 +4163,7 @@
               "name": "행정법",
               "subject": "행정법",
               "phase": null,
-              "total": 68,
+              "total": 59,
               "total_raw": 68,
               "with_full_meta": 0
             },
@@ -4172,7 +4172,7 @@
               "name": "행정학",
               "subject": "행정학",
               "phase": null,
-              "total": 54,
+              "total": 47,
               "total_raw": 59,
               "with_full_meta": 0
             },
@@ -4181,7 +4181,7 @@
               "name": "형법",
               "subject": "형법",
               "phase": null,
-              "total": 68,
+              "total": 52,
               "total_raw": 68,
               "with_full_meta": 0
             },
@@ -4190,7 +4190,7 @@
               "name": "형사소송법",
               "subject": "형사소송법",
               "phase": null,
-              "total": 80,
+              "total": 64,
               "total_raw": 80,
               "with_full_meta": 0
             },
@@ -4199,7 +4199,7 @@
               "name": "환경공학",
               "subject": "환경공학",
               "phase": null,
-              "total": 49,
+              "total": 46,
               "total_raw": 50,
               "with_full_meta": 0
             },
@@ -4208,7 +4208,7 @@
               "name": "환경화학",
               "subject": "환경화학",
               "phase": null,
-              "total": 42,
+              "total": 41,
               "total_raw": 45,
               "with_full_meta": 0
             }
@@ -4243,7 +4243,7 @@
               "name": "지역인재 국어",
               "subject": "지역인재 국어",
               "phase": null,
-              "total": 34,
+              "total": 22,
               "total_raw": 45,
               "with_full_meta": 0
             },
@@ -4252,7 +4252,7 @@
               "name": "지역인재 영어",
               "subject": "지역인재 영어",
               "phase": null,
-              "total": 25,
+              "total": 23,
               "total_raw": 32,
               "with_full_meta": 0
             }
@@ -4281,7 +4281,7 @@
               "name": "건축구조",
               "subject": "건축구조",
               "phase": null,
-              "total": 37,
+              "total": 36,
               "total_raw": 39,
               "with_full_meta": 0
             },
@@ -4290,7 +4290,7 @@
               "name": "국어",
               "subject": "국어",
               "phase": null,
-              "total": 50,
+              "total": 46,
               "total_raw": 60,
               "with_full_meta": 0
             },
@@ -4308,7 +4308,7 @@
               "name": "방송학",
               "subject": "방송학",
               "phase": null,
-              "total": 19,
+              "total": 18,
               "total_raw": 28,
               "with_full_meta": 0
             },
@@ -4317,7 +4317,7 @@
               "name": "사회",
               "subject": "사회",
               "phase": null,
-              "total": 43,
+              "total": 39,
               "total_raw": 43,
               "with_full_meta": 0
             },
@@ -4344,7 +4344,7 @@
               "name": "정보학개론",
               "subject": "정보학개론",
               "phase": null,
-              "total": 44,
+              "total": 43,
               "total_raw": 48,
               "with_full_meta": 0
             },
@@ -4353,7 +4353,7 @@
               "name": "취재보도론",
               "subject": "취재보도론",
               "phase": null,
-              "total": 41,
+              "total": 40,
               "total_raw": 45,
               "with_full_meta": 0
             },
@@ -4389,7 +4389,7 @@
               "name": "행정법총론",
               "subject": "행정법총론",
               "phase": null,
-              "total": 64,
+              "total": 49,
               "total_raw": 64,
               "with_full_meta": 0
             },
@@ -4398,7 +4398,7 @@
               "name": "헌법",
               "subject": "헌법",
               "phase": null,
-              "total": 85,
+              "total": 67,
               "total_raw": 85,
               "with_full_meta": 0
             }
@@ -4418,7 +4418,7 @@
               "name": "경찰학",
               "subject": "경찰학",
               "phase": null,
-              "total": 72,
+              "total": 67,
               "total_raw": 73,
               "with_full_meta": 0
             },
@@ -4427,7 +4427,7 @@
               "name": "형법",
               "subject": "형법",
               "phase": null,
-              "total": 76,
+              "total": 63,
               "total_raw": 76,
               "with_full_meta": 0
             },
@@ -4436,7 +4436,7 @@
               "name": "형사소송법",
               "subject": "형사소송법",
               "phase": null,
-              "total": 80,
+              "total": 62,
               "total_raw": 80,
               "with_full_meta": 0
             }
@@ -4446,10 +4446,10 @@
     }
   ],
   "_meta": {
-    "total_questions": 22055,
+    "total_questions": 19673,
     "categories_count": 455,
     "with_full_meta": 5,
-    "updated_at": "2026-05-17T06:56:06+00:00",
+    "updated_at": "2026-05-17T11:34:46+00:00",
     "source": "0gichul.com"
   }
 }

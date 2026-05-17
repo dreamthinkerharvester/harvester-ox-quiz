@@ -7,13 +7,13 @@
   "source": "국가직 7급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 84,
+  "count": 82,
   "questions": [
     {
       "id": 35903,
       "question": "가공용 감자는 환원당 함량이 낮아야 가공 시 제품의 색상이 밝아진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 35904,
       "question": "팝콘용 옥수수는 종자 전분의 대부분이 연질로 구성되어 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 35905,
       "question": "두부용 콩은 수용성 단백질 함량이 높을수록 제품 생산성이 양호하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 35906,
       "question": "빵 제조에 주로 사용되는 밀은 단백질과 글루텐 함량이 높다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 35907,
       "question": "서늘한 기후를 좋아하며 우리나라 남부지방에서는 추파를 하기도 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 35908,
       "question": "주요 성분은 당질이고 단백질도 풍부하나 지질은 적다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 35909,
       "question": "양토나 사양토가 가장 알맞고, 건조하고 척박한 토양에 대한 적응도는 낮다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 35910,
       "question": "알맞은 토양 산도는 pH5.0～6.0 이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 3,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 35911,
       "question": "종실이 굵어 전분 함량이 많은 것이 맥아 수율이 높다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 35912,
       "question": "발아세가 낮아야 맥주 품질이 높아진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 4,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 35913,
       "question": "곡피가 두꺼워야 맥주 맛이 증진된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 4,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 35914,
       "question": "전분 함량이 많은 것은 맥주에 침전오탁이 생기기 쉽다. 식용작물학 책형 1쪽",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 4,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 35915,
       "question": "유수분화가 시작되면 줄기의 상위 4～5개의 절간이 신장하기 시작한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 6,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 35916,
       "question": "조기재배에서는 보통 최고분얼기 이후에 유수가 분화된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 6,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 35917,
       "question": "유수분화기에 분화된 유수의 길이는 2mm 정도이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 6,
         "option": "③",
@@ -193,7 +193,7 @@
       "id": 35918,
       "question": "유수형성기는 출수 10～12일 전부터 출수 직전까지이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "④",
@@ -205,7 +205,7 @@
       "id": 35919,
       "question": "배유세포의 분열은 30°C 내외 온도에서 빠르고 20°C 이하에서 늦다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "①",
@@ -217,7 +217,7 @@
       "id": 35920,
       "question": "이삭으로의 탄수화물 전류량은 16°C 이하에서 높아진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "②",
@@ -229,7 +229,7 @@
       "id": 35921,
       "question": "배유의 전분축적은 배유 가장 바깥쪽 세포에서 시작되어 안쪽으로 옮겨간다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -241,7 +241,7 @@
       "id": 35922,
       "question": "현미의 외형적 발달은 길이－두께－폭(너비) 순으로 완료된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -253,7 +253,7 @@
       "id": 35923,
       "question": "유수형성기에 한해(旱害)는 이삭당 영화수를 크게 감소시키고 출수를 지연시킨다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -265,7 +265,7 @@
       "id": 35924,
       "question": "백수현상은 출수기 전후 이상건조풍에 의해서 발생한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -277,7 +277,7 @@
       "id": 35925,
       "question": "저온으로 인한 타페트세포(tapet cell)의 이상비대로 불임이 유발되는 것은 장해형냉해이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -289,7 +289,7 @@
       "id": 35926,
       "question": "분얼기에 관수피해를 받으면 분얼 발생이 이상촉진되어 무효분얼이 많이 발생한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "④",
@@ -301,7 +301,7 @@
       "id": 35927,
       "question": "저온발아성이 높고 초기신장이 좋은 품종이 유리하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -313,7 +313,7 @@
       "id": 35928,
       "question": "담수 시기는 본엽 3엽기 정도로 배유양분이 소진되는 이유기가 적합하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -325,7 +325,7 @@
       "id": 35929,
       "question": "이앙재배에 비해 잡초의 발생량이 많다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -337,7 +337,7 @@
       "id": 35930,
       "question": "담수표면직파에 비해 분얼절위가 낮고 무효분얼이 많다. 2025년도 국가공무원 7급 공채 제2차 필기시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "④",
@@ -349,7 +349,7 @@
       "id": 35931,
       "question": "철, 마그네슘의 1일 흡수량이 최대가 되는 시기는 출수시이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "①",
@@ -361,7 +361,7 @@
       "id": 35932,
       "question": "질소, 인, 칼리의 1일 흡수량이 최대가 되는 시기는 출수 전 20～30일경이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -373,7 +373,7 @@
       "id": 35933,
       "question": "규소, 망간의 1일 흡수량이 최대가 되는 시기는 전체 뿌리무게가 가장 많을 때와 일치한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -385,7 +385,7 @@
       "id": 35934,
       "question": "무기양분 중 가장 빨리 흡수되는 것은 질소와 칼리이며, 인은 질소와 칼리보다 약간 늦게 흡수된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 10,
         "option": "④",
@@ -397,7 +397,7 @@
       "id": 35935,
       "question": "화성이 가능한 최장일장은 만생종이 조생종보다 길다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "①",
@@ -409,7 +409,7 @@
       "id": 35936,
       "question": "원줄기 길이는 일반적으로 고온일수록 길어지며 25°C 전후에서 최고에 달한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -421,7 +421,7 @@
       "id": 35937,
       "question": "낙화율은 대립품종에서 높다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -433,7 +433,7 @@
       "id": 35938,
       "question": "발아에 알맞은 토양수분은 최대용수량의 70% 내외이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -445,7 +445,7 @@
       "id": 35939,
       "question": "개체의 광합성능력은 모낸 직후에 최젓값을 보인다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "①",
@@ -457,7 +457,7 @@
       "id": 35940,
       "question": "개체군의 광합성량은 유수분화기 때 가장 많다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 13,
         "option": "②",
@@ -469,7 +469,7 @@
       "id": 35941,
       "question": "잎새 외의 잎집과 줄기의 호흡량은 출수기 때 가장 많다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 13,
         "option": "③",
@@ -481,7 +481,7 @@
       "id": 35942,
       "question": "벼의 단위잎면적당 광합성속도는 분얼기 때 최고에 달한다. 식용작물학 책형 2쪽",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -490,22 +490,10 @@
       }
     },
     {
-      "id": 35943,
-      "question": "자식계통(inbred line) 간 교배한 F 종자는 1대교잡종품종이 1 된다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 14,
-        "option": "①",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 35944,
       "question": "종자회사는 잡종강세의 발현이 높은 합성품종을 주로 판매한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "②",
@@ -517,7 +505,7 @@
       "id": 35945,
       "question": "방임수분품종은 자연상태에서 상호교잡으로 맺히는 종자 중 일부를 선발하여 사용하는 것이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 14,
         "option": "③",
@@ -529,7 +517,7 @@
       "id": 35946,
       "question": "복교잡종은 종자의 균일도가 떨어진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -541,7 +529,7 @@
       "id": 35947,
       "question": "팥은 콩보다 고온 다습한 기후에 잘 적응하고 저온에 약하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 15,
         "option": "①",
@@ -553,7 +541,7 @@
       "id": 35948,
       "question": "팥은 콩과 달리 종실 지방 함량이 낮고 탄수화물 함량이 높은 단명종자이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "②",
@@ -565,7 +553,7 @@
       "id": 35949,
       "question": "녹두는 여러 차례 수확해야 하는 재배상의 어려움이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -577,7 +565,7 @@
       "id": 35950,
       "question": "강낭콩은 생육기간이 짧고 품종에 따른 변이가 다양하므로 작부체계상 유리하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 15,
         "option": "④",
@@ -589,7 +577,7 @@
       "id": 35951,
       "question": "평지답전작의 경우 극조숙성이 알맞고 밀식적응성이 높아야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "①",
@@ -601,7 +589,7 @@
       "id": 35952,
       "question": "추작의 경우 파종 후 씨감자의 부패성이 적고 내병성이 강해야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -613,7 +601,7 @@
       "id": 35953,
       "question": "산간지춘하작의 경우 병충해 방제를 고려하면 만숙성이 유리하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "③",
@@ -625,7 +613,7 @@
       "id": 35954,
       "question": "평지춘작의 경우 조숙성, 다수성 및 병저항성이 요구되며 휴면 기간이 긴 것이 알맞다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "④",
@@ -637,7 +625,7 @@
       "id": 35955,
       "question": "흰잎마름병은 Fusarium fujikuroi에 의해 발병하고 지력이 높은 논에서 발병하기 쉽다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -649,7 +637,7 @@
       "id": 35956,
       "question": "줄무늬잎마름병은 애멸구 성충에 의해 전염되므로 등숙기 이전에는 발생하지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -661,7 +649,7 @@
       "id": 35957,
       "question": "오갈병은 월동한 균핵(菌核)에 의해 감염이 되어 모내기 후에 주로 발생한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 18,
         "option": "③",
@@ -673,7 +661,7 @@
       "id": 35958,
       "question": "깨씨무늬병의 병원균은 자낭균에 속하는 곰팡이로 종자전염 또는 공기전염을 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "④",
@@ -685,7 +673,7 @@
       "id": 35959,
       "question": "유기물 분해가 왕성할 때에는 전층이 일시적 환원상태가 된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "①",
@@ -697,7 +685,7 @@
       "id": 35960,
       "question": "유기물이 분해되어 줄어들면 토양의 상층부는 환원층이 된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 19,
         "option": "②",
@@ -709,7 +697,7 @@
       "id": 35961,
       "question": "유기물이 분해되어 줄어들면 표층부터 2cm 지점 보다 더 깊은 작토층은 산화제2철로 적갈색을 띤 산화층이 된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -721,7 +709,7 @@
       "id": 35962,
       "question": "유기물이 적은 심토는 환원층을 형성한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 19,
         "option": "④",
@@ -733,7 +721,7 @@
       "id": 35963,
       "question": "춘파재배는 가을보리를 재배하기 힘든 곳에서 봄에 파종하는 방법으로 파종기는 월동 후 빠를수록 좋다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "①",
@@ -745,7 +733,7 @@
       "id": 35964,
       "question": "만파재배는 월동 전 생육기간이 짧아 충분한 생육량이 확보되지 못하여 겨울철 저온에 손상을 받을 위험성이 커진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "②",
@@ -757,7 +745,7 @@
       "id": 35965,
       "question": "전면전층재배는 무경운상태에서 종자와 비료를 동시에 뿌리므로 종자가 고루 분포되어 출현이 균일하고 수량확보에 유리하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "③",
@@ -766,22 +754,10 @@
       }
     },
     {
-      "id": 35966,
-      "question": "벼 입모중 파종을 이용한 답리작 재배는 벼를 수확하기 전 논 전면에 종자를 뿌려 파종하는 방법으로 노동력이 절감된다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 20,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 35967,
       "question": "종자는 식물학적으로 과실에 해당하고 얇은 과피에 싸여 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 21,
         "option": "①",
@@ -793,7 +769,7 @@
       "id": 35968,
       "question": "꽃은 수축의 각 마디에 소수가 호생하는 복수상화서이며 수축에는 약 20개의 마디가 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 21,
         "option": "②",
@@ -805,7 +781,7 @@
       "id": 35969,
       "question": "봉형은 기부에 소수가 조밀하게 착생하고 상부에는 소수가 성기게 착생하여 상부로 갈수록 가늘다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 21,
         "option": "③",
@@ -817,7 +793,7 @@
       "id": 35970,
       "question": "유망형은 이삭 전체에 까락이 있고 단망, 중망, 장망으로 구분된다. 식용작물학 책형 3쪽",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 21,
         "option": "④",
@@ -829,7 +805,7 @@
       "id": 35971,
       "question": "수수의 종실은 영과이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 22,
         "option": "①",
@@ -841,7 +817,7 @@
       "id": 35972,
       "question": "봄조는 파종기에 관계없이 그루조보다 출수와 성숙이 늦다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 22,
         "option": "②",
@@ -853,7 +829,7 @@
       "id": 35973,
       "question": "일반적으로 여름메밀 품종이 가을메밀 품종에 비해 루틴 함량이 높다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 22,
         "option": "③",
@@ -865,7 +841,7 @@
       "id": 35974,
       "question": "율무는 암꽃과 수꽃이 구분 된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 22,
         "option": "④",
@@ -877,7 +853,7 @@
       "id": 35975,
       "question": "8～10시간의 단일처리를 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 23,
         "option": "①",
@@ -889,7 +865,7 @@
       "id": 35976,
       "question": "자연개화가 가능한 근연종의 생엽을 모두 제거한 후 대목으로 사용한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 23,
         "option": "②",
@@ -901,7 +877,7 @@
       "id": 35977,
       "question": "덩굴의 기부에 절상이나 환상박피를 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 23,
         "option": "③",
@@ -913,7 +889,7 @@
       "id": 35978,
       "question": "순을 초가을에 포트에 심고 과인산석회를 시용한 뒤 관수제한하면서 월동시킨다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 23,
         "option": "④",
@@ -925,7 +901,7 @@
       "id": 35979,
       "question": "소립 씨감자는 정아부에서 기부쪽으로 1절(切)하여 기계파종한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 24,
         "option": "①",
@@ -937,7 +913,7 @@
       "id": 35980,
       "question": "진정종자를 이용하여 재배하면 바이러스 이병률이 낮아진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 24,
         "option": "②",
@@ -949,7 +925,7 @@
       "id": 35981,
       "question": "기본식물은 건전한 감자의 식물체로부터 조직배양을 통해 생산된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 24,
         "option": "③",
@@ -961,7 +937,7 @@
       "id": 35982,
       "question": "제주도에는 2기작 품종으로 월동시킨 후 봄에 수확하는 재배 방식이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 24,
         "option": "④",
@@ -973,7 +949,7 @@
       "id": 35983,
       "question": "올콩 또는 유월두는 하대두형의 일종이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 25,
         "option": "①",
@@ -985,7 +961,7 @@
       "id": 35984,
       "question": "추대두형은 감광성이 높고 개화성숙이 늦다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 25,
         "option": "②",
@@ -997,7 +973,7 @@
       "id": 35985,
       "question": "하대두형은 한계일장이 짧고 감온성이 낮다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 25,
         "option": "③",
@@ -1009,7 +985,7 @@
       "id": 35986,
       "question": "중간형 내지 추대두형이 주로 재배된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 25,
         "option": "④",

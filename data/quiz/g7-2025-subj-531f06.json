@@ -7,61 +7,13 @@
   "source": "국가직 7급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 12,
+  "count": 8,
   "questions": [
-    {
-      "id": 36693,
-      "question": "수위가 (나)에서 (가)로 상승 시: 유효응력 감소",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 11,
-        "option": "①",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 36694,
-      "question": "수위가 (나)에서 (가)로 상승 시: 전응력 증가",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 11,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 36695,
-      "question": "수위가 (다)에서 (나)로 상승 시: 유효응력 감소",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 11,
-        "option": "③",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 36696,
-      "question": "수위가 (다)에서 (라)로 하강 시: 유효응력 증가 토질역학 책형 3쪽",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 11,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
     {
       "id": 36697,
       "question": "다짐 지반의 건조단위중량을 결정하는 방법이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 21,
         "option": "①",
@@ -73,7 +25,7 @@
       "id": 36698,
       "question": "시험 구덩이에서 파낸 흙의 무게와 함수비를 구한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 21,
         "option": "②",
@@ -85,7 +37,7 @@
       "id": 36699,
       "question": "다짐 지반의 지지력을 결정하는 방법이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 21,
         "option": "③",
@@ -97,7 +49,7 @@
       "id": 36700,
       "question": "시험 구덩이를 채우는 표준 모래의 무게가 필요하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 21,
         "option": "④",
@@ -109,7 +61,7 @@
       "id": 36701,
       "question": "과압밀점토의 정지토압계수는 과압밀비가 증가함에 따라 감소한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 25,
         "option": "①",
@@ -121,7 +73,7 @@
       "id": 36702,
       "question": "박스 암거와 같이 벽체의 변위가 거의 허용되지 않는 경우 정지토압계수를 사용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 25,
         "option": "②",
@@ -133,7 +85,7 @@
       "id": 36703,
       "question": "옹벽 배면에 지하수면이 형성되면 주동토압이 증가한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 25,
         "option": "③",
@@ -145,7 +97,7 @@
       "id": 36704,
       "question": "옹벽과 배면 흙 사이의 벽면마찰은 토압의 크기와 방향에 영향을 준다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 25,
         "option": "④",

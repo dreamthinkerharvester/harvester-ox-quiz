@@ -13,7 +13,7 @@
       "id": 42879,
       "question": "진료비에 본인부담률을 높인다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 42880,
       "question": "건강증진사업을 확대 실시한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 42881,
       "question": "고가의료장비의 과도한 도입을 억제한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 14,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 42882,
       "question": "진료비 지불방식을 사전보상보다는 사후보상으로 전환한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 42890,
       "question": "보건진료소는 지역보건법 에 의하여 설치한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 42891,
       "question": "보건소, 보건지소는 정부조직법 에 의하여 설치 및 운영한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 42892,
       "question": "보건의료원은 의료법 에 의하여 병원의 요건을 갖춘 보건소이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 42893,
       "question": "보건소는 읍ㆍ면ㆍ동별로 1개소씩 설치하되 필요한 지역에 추가로 설치할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "④",

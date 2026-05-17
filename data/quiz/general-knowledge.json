@@ -7,7 +7,7 @@
   "source": "직접 큐레이션 (역사·과학·지리·문화·일상)",
   "exam_year": null,
   "exam_round": null,
-  "count": 110,
+  "count": 106,
   "questions": [
     {
       "id": 1,
@@ -16,18 +16,6 @@
       "explanation": "지구의 자전 방향(서→동) 때문에 천체는 동→서로 이동하는 것처럼 보인다.",
       "source": {
         "qid": 1,
-        "option": null,
-        "qtype": "seed",
-        "difficulty": "과학"
-      }
-    },
-    {
-      "id": 2,
-      "question": "지구는 태양 주위를 약 365일에 한 번 돈다.",
-      "answer": "O",
-      "explanation": "이를 공전 주기(1년)라 하며 정확히는 365.2422일이다.",
-      "source": {
-        "qid": 2,
         "option": null,
         "qtype": "seed",
         "difficulty": "과학"
@@ -886,18 +874,6 @@
       }
     },
     {
-      "id": 74,
-      "question": "펭귄은 날 수 있는 새이다.",
-      "answer": "X",
-      "explanation": "펭귄은 날지 못하지만 수영을 매우 잘함 — 시속 35km까지 가능.",
-      "source": {
-        "qid": 74,
-        "option": null,
-        "qtype": "seed",
-        "difficulty": "상식"
-      }
-    },
-    {
       "id": 75,
       "question": "박쥐는 새가 아니라 포유류이다.",
       "answer": "O",
@@ -1150,18 +1126,6 @@
       }
     },
     {
-      "id": 96,
-      "question": "무지개는 비가 와야만 볼 수 있다.",
-      "answer": "X",
-      "explanation": "비뿐 아니라 폭포·분수 등 물방울이 있는 곳이면 볼 수 있다 (햇빛 + 물방울).",
-      "source": {
-        "qid": 96,
-        "option": null,
-        "qtype": "seed",
-        "difficulty": "과학"
-      }
-    },
-    {
       "id": 97,
       "question": "한국의 가장 남쪽 섬은 마라도이다.",
       "answer": "O",
@@ -1267,18 +1231,6 @@
         "option": null,
         "qtype": "seed",
         "difficulty": "과학"
-      }
-    },
-    {
-      "id": 106,
-      "question": "비행기는 새보다 빨리 날 수 있다.",
-      "answer": "O",
-      "explanation": "여객기 약 시속 900km — 가장 빠른 새 매도 시속 320km 정도.",
-      "source": {
-        "qid": 106,
-        "option": null,
-        "qtype": "seed",
-        "difficulty": "상식"
       }
     },
     {

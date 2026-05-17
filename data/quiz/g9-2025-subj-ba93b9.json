@@ -7,13 +7,13 @@
   "source": "국가직 9급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 52,
+  "count": 51,
   "questions": [
     {
       "id": 38191,
       "question": "줄기 끝에 꽃송이가 달리고, 꽃자루가 2～4개로 갈라진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 3,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 38192,
       "question": "꽃은 5개의 수술과 1개의 암술로 되어 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 3,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 38193,
       "question": "열매 1개에는 1개의 종자가 들어 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 3,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 38194,
       "question": "열매는 장과에 속하고 지름은 약 3cm 정도이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 3,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 38195,
       "question": "내영과 외영이 내부의 화기를 보호하는 형태이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 4,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 38196,
       "question": "벼의 꽃은 완전화이며, 암술 1개와 수술 6개로 구성된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 4,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 38197,
       "question": "약은 6개의 방으로 되어 있으며, 그 속에 화분이 들어 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 38198,
       "question": "인피는 발생학적으로 꽃덮개 또는 꽃잎에 해당된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 4,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 38199,
       "question": "수분함량은 15.5～16.5％이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 5,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 38200,
       "question": "단백질 함량은 20％ 이상이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 5,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 38201,
       "question": "아밀로오스(amylose) 함량은 20％ 이하이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 5,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 38202,
       "question": "지방산가는 8～15mg KOH/100g이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 5,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 38203,
       "question": "보통밀은 AㆍBㆍD 3종의 게놈으로 구성된 이질6배체이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 6,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 38204,
       "question": "에머(Emmer)밀은 이질4배체이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 6,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 38205,
       "question": "보통밀의 A게놈은 1립계 밀에서 유래하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 6,
         "option": "③",
@@ -193,7 +193,7 @@
       "id": 38206,
       "question": "D게놈의 조상은 존재하지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "④",
@@ -205,7 +205,7 @@
       "id": 38207,
       "question": "자엽은 발아할 때 가장 먼저 나오는 2장의 잎이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -217,7 +217,7 @@
       "id": 38208,
       "question": "뿌리혹의 표피세포 안쪽에 후막세포층이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -229,7 +229,7 @@
       "id": 38209,
       "question": "유한신육형은 대부분의 마디에서 수일 내 동시에 꽃이 핀다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -241,7 +241,7 @@
       "id": 38210,
       "question": "무한신육형은 중심줄기 위쪽 마디에서 꽃이 피기 시작하여 점차 아래쪽 마디로 피어 간다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "④",
@@ -253,7 +253,7 @@
       "id": 38211,
       "question": "밀과 근연종으로서 교잡이 가능하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -265,7 +265,7 @@
       "id": 38212,
       "question": "호밀은 화본과에 속한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -277,7 +277,7 @@
       "id": 38213,
       "question": "재배할 때 밀보다 추위에 강하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -289,7 +289,7 @@
       "id": 38214,
       "question": "건조한 사질의 척박지에서는 밀보다 적응성이 낮다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "④",
@@ -301,7 +301,7 @@
       "id": 38215,
       "question": "동할미: 조기재배 등으로 고온등숙할 때 약세영화에 많이 발생한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -313,7 +313,7 @@
       "id": 38216,
       "question": "심백미: 쌀알의 중심부가 백색인 불투명한 쌀이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "②",
@@ -325,7 +325,7 @@
       "id": 38217,
       "question": "복백미: 표면이 우유빛처럼 백색인 불투명한 쌀이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "③",
@@ -337,7 +337,7 @@
       "id": 38218,
       "question": "유백미: 쌀알의 가운데 복부가 백색으로 불투명하고, 품종의 특성과 환경의 영향으로 형성된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -349,7 +349,7 @@
       "id": 38219,
       "question": "유수분화기는 유수가 분화되기 시작하며 이삭줄기가 분화하는 시기이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -361,7 +361,7 @@
       "id": 38220,
       "question": "유숙기는 현미 전체가 투명하게 된 시기로 수정 후 30일경이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "②",
@@ -373,7 +373,7 @@
       "id": 38221,
       "question": "수잉기는 출수 10～12일 전부터 출수 직전까지이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 14,
         "option": "③",
@@ -385,7 +385,7 @@
       "id": 38222,
       "question": "출수기는 이삭이 지엽의 엽초(잎집) 속에서 나오는 시기이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -397,7 +397,7 @@
       "id": 38223,
       "question": "건답직파재배는 담수직파재배보다 잡초 발생이 적다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 15,
         "option": "①",
@@ -409,7 +409,7 @@
       "id": 38224,
       "question": "담수직파재배는 파종 후 30일부터 2～3회 중간낙수를 하여 도복을 경감한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "②",
@@ -421,7 +421,7 @@
       "id": 38225,
       "question": "건답직파재배는 이앙재배보다 질소 시비량을 30～50％ 감비해야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -433,7 +433,7 @@
       "id": 38226,
       "question": "담수직파재배는 사양질 토양이, 건답직파재배는 식양질 토양이 알맞다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 15,
         "option": "④",
@@ -445,7 +445,7 @@
       "id": 38227,
       "question": "씨고구마는 열매로부터 얻은 종자이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 16,
         "option": "①",
@@ -457,7 +457,7 @@
       "id": 38228,
       "question": "비닐냉상육묘법은 양열재료를 넣어 발열시킨다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -469,7 +469,7 @@
       "id": 38229,
       "question": "싹이 어느 정도 자란 이후에는 일조를 부족하게 하는 게 좋다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -478,22 +478,10 @@
       }
     },
     {
-      "id": 38230,
-      "question": "순화과정을 통해 고구마 싹을 튼튼하게 자라게 할 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 16,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 38231,
       "question": "뿌리는 종근이 2개라 근계의 발달이 좋다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -505,7 +493,7 @@
       "id": 38232,
       "question": "원산지는 멕시코 주변의 아메리카로 추정되고 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -517,7 +505,7 @@
       "id": 38233,
       "question": "재배종의 원형인 물피 또는 돌피는 키나 이삭이 재배종보다 작다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "③",
@@ -529,7 +517,7 @@
       "id": 38234,
       "question": "다른 화본과 작물처럼 당질이 주성분이고, 단백질은 쌀보다 낮으나 지방 조성이 풍부하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "④",
@@ -541,7 +529,7 @@
       "id": 38235,
       "question": "1수영화수 증가를 위해 단간수중형 품종을 선택한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -553,7 +541,7 @@
       "id": 38236,
       "question": "이삭수 확보를 위해 수수형 품종을 선택하고 밀식한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "②",
@@ -565,7 +553,7 @@
       "id": 38237,
       "question": "무효분얼 발생은 억제하고, 유효분얼 발생은 지연되지 않도록 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -577,7 +565,7 @@
       "id": 38238,
       "question": "1수영화수를 증가시켜 등숙률을 높인다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "④",
@@ -589,7 +577,7 @@
       "id": 38239,
       "question": "꼬투리에 접착했던 부분을 제(배꼽)라고 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 20,
         "option": "①",
@@ -601,7 +589,7 @@
       "id": 38240,
       "question": "배와 배유로 구성되어 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "②",
@@ -613,7 +601,7 @@
       "id": 38241,
       "question": "배부는 유근, 배축, 그리고 유아로 되어 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 20,
         "option": "③",
@@ -625,7 +613,7 @@
       "id": 38242,
       "question": "종피색은 단색과 혼색으로 구별할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 20,
         "option": "④",

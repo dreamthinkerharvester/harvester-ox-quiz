@@ -7,13 +7,13 @@
   "source": "경찰 간부",
   "exam_year": 2026,
   "exam_round": null,
-  "count": 31,
+  "count": 30,
   "questions": [
     {
       "id": 23706,
       "question": "   , 단 는 의 여사건",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 5,
         "option": "③",
@@ -25,7 +25,7 @@
       "id": 23707,
       "question": "∩  이면 와 는 서로 독립이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 5,
         "option": "④",
@@ -37,7 +37,7 @@
       "id": 23709,
       "question": "와가 독립이면 는 항상 이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -49,7 +49,7 @@
       "id": 23710,
       "question": "",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -61,7 +61,7 @@
       "id": 23711,
       "question": "는 음수가 될 수도 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 14,
         "option": "③",
@@ -73,7 +73,7 @@
       "id": 23712,
       "question": "는 음수가 될 수도 있다. - 24",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "④",
@@ -85,7 +85,7 @@
       "id": 23713,
       "question": "확률변수  … 이 서로 독립이고 동일한 성공확률 를     가지는 베르누이 확률변수일 때  이다.  ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 25,
         "option": "①",
@@ -97,7 +97,7 @@
       "id": 23714,
       "question": "의 기댓값은 , 분산은  이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 25,
         "option": "②",
@@ -109,7 +109,7 @@
       "id": 23715,
       "question": "가 가질수 있는 값은 부터 까지의 자연수이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 25,
         "option": "③",
@@ -121,7 +121,7 @@
       "id": 23716,
       "question": "확률변수 가 이항분포 를 따르고 와 가 독립 일 때, 는 이항분포 를 따른다(은 자연수).",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 25,
         "option": "④",
@@ -133,7 +133,7 @@
       "id": 23717,
       "question": "표준정규분포는  분포에 비해 꼬리가 두껍다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 26,
         "option": "①",
@@ -145,7 +145,7 @@
       "id": 23718,
       "question": "두 확률변수  가 표준정규분포를 따를 때, 은     자유도가 2인 카이제곱 분포를 따른다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 26,
         "option": "②",
@@ -157,7 +157,7 @@
       "id": 23719,
       "question": " 분포를 따르는 확률변수를 제곱한 확률변수는  분포를 따른다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 26,
         "option": "③",
@@ -169,7 +169,7 @@
       "id": 23720,
       "question": " 분포는 모분산에 대한 추론 시 사용하는 분포이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 26,
         "option": "④",
@@ -181,7 +181,7 @@
       "id": 23721,
       "question": "같은 신뢰수준을 가지는 조건 하에서 신뢰구간의 길이가 길 수록 더 좋은 구간추정량이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 28,
         "option": "①",
@@ -193,7 +193,7 @@
       "id": 23722,
       "question": "대한민국 성인 평균 키 에 대한  구간추정치가  이면      이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 28,
         "option": "②",
@@ -205,7 +205,7 @@
       "id": 23723,
       "question": "모든 조건이 동일할 때, 표본의 수가 커지면 신뢰구간의 길 이가 짧아진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 28,
         "option": "③",
@@ -217,7 +217,7 @@
       "id": 23724,
       "question": "모든 조건이 동일할 때, 신뢰수준(confidence level)이 에 서 로 커지면 신뢰구간의 길이가 짧아진다. 25 -",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 28,
         "option": "④",
@@ -229,7 +229,7 @@
       "id": 23725,
       "question": "여러 집단의 분산을 비교하기 위한 분석 방법이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 30,
         "option": "①",
@@ -241,7 +241,7 @@
       "id": 23726,
       "question": "자료의 총변동을 분해하여 집단 간 차이가 있는지 파악한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 30,
         "option": "②",
@@ -253,7 +253,7 @@
       "id": 23727,
       "question": "검정통계량의 분포는 귀무가설 하에서 분포를 따른다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 30,
         "option": "③",
@@ -265,7 +265,7 @@
       "id": 23728,
       "question": "귀무가설이 기각되었을 시 사후검정으로 다중비교를 실시한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 30,
         "option": "④",
@@ -277,7 +277,7 @@
       "id": 23729,
       "question": "설명변수와 반응변수가 모두 범주형변수일 때에만 적용 가능 한 분석 방법이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 35,
         "option": "①",
@@ -289,7 +289,7 @@
       "id": 23730,
       "question": "로짓(logit) 연결함수를 사용해 예측값을 과  사이로 제한 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 35,
         "option": "②",
@@ -301,7 +301,7 @@
       "id": 23731,
       "question": "오즈비(odds ratio)를 이용해 모형 해석이 가능하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 35,
         "option": "③",
@@ -310,22 +310,10 @@
       }
     },
     {
-      "id": 23732,
-      "question": "금융회사에서 고객의 신용카드 발급 여부를 판단할 때 사용 할 수 있는 분석 방법이다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 35,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 23733,
       "question": "         ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 39,
         "option": "①",
@@ -337,7 +325,7 @@
       "id": 23735,
       "question": "          은 의 불편(비편향)(unbiased) 추정량이  다.    ",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 39,
         "option": "③",
@@ -349,7 +337,7 @@
       "id": 23737,
       "question": "은 의 불편(비편향)(unbiased) 추정량이다.   ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 40,
         "option": "①",
@@ -361,7 +349,7 @@
       "id": 23738,
       "question": "은 자유도가 인 카이제곱 분포를 따른다.      ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 40,
         "option": "②",
@@ -373,7 +361,7 @@
       "id": 23739,
       "question": "은 표준정규분포를 따른다.     ",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 40,
         "option": "③",

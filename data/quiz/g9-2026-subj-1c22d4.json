@@ -7,13 +7,13 @@
   "source": "국가직 9급",
   "exam_year": 2026,
   "exam_round": null,
-  "count": 40,
+  "count": 39,
   "questions": [
     {
       "id": 27190,
       "question": "sinc 함수의 푸리에 변환은 사각파 함수 모양을 갖는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 27191,
       "question": "임펄스 함수 의 푸리에 변환은 1이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 27192,
       "question": "코사인 함수의 푸리에 변환은 사인 함수 모양을 갖는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 27193,
       "question": "주기 임펄스 함수의 푸리에 변환은 주기 임펄스 함수 모양을 갖는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 27194,
       "question": "비, 눈, 안개 등 기상조건에 따라 감쇠될 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 27195,
       "question": "단파에 비하여 고지향성을 갖는 안테나의 소형화에 유리하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 27196,
       "question": "마이크로파 응용 분야로는 위성통신, 레이더 등이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 27197,
       "question": "자유공간 경로 손실은 주파수가 낮을수록 증가하는 경향이 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 3,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 27198,
       "question": "측파대 성형필터(VSB-shaping filter)를 사용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 6,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 27199,
       "question": "직류성분이 없을 때만 사용이 가능하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 27200,
       "question": "DSB 방식보다 더 좁은 대역폭이 사용된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 6,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 27201,
       "question": "텔레비전 신호를 전송하기에 알맞다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 6,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 27202,
       "question": "파장이 1～10[m]인 신호는 마이크로파이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 27203,
       "question": "파장이 1～10[mm]인 신호는 밀리미터파이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 27204,
       "question": "동작 주파수가 높을수록 안테나의 크기를 줄일 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "③",
@@ -190,22 +190,10 @@
       }
     },
     {
-      "id": 27205,
-      "question": "자유공간에서 주파수가 300[MHz]인 신호에 대한 파장 4 모노폴 안테나의 길이는 25[cm]이다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 11,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 27206,
       "question": "변조된 신호의 진폭이 일정하므로 비선형 왜곡에 강하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "①",
@@ -217,7 +205,7 @@
       "id": 27207,
       "question": "정보신호의 진폭에 상관없이 변조된 신호의 대역폭이 일정하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -229,7 +217,7 @@
       "id": 27208,
       "question": "Carson의 법칙으로 근사화할 경우 변조된 신호의 대역폭은 기저대역 정보신호의 대역폭과 상관없다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -241,7 +229,7 @@
       "id": 27209,
       "question": "변조지수에 상관없이 기저대역 정보신호와 변조된 신호가 선형 관계를 갖는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -253,7 +241,7 @@
       "id": 27210,
       "question": "클러스터 크기가 증가할수록 동일채널 간섭이 감소한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 16,
         "option": "①",
@@ -265,7 +253,7 @@
       "id": 27211,
       "question": "클러스터 크기가 작아질수록 각 셀에 할당되는 채널 수는 감소한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "②",
@@ -277,7 +265,7 @@
       "id": 27212,
       "question": "한정된 주파수 자원으로 가입자 수를 증가시키기 위한 방법이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -289,7 +277,7 @@
       "id": 27213,
       "question": "동일채널 간섭을 줄이기 위하여 인접한 셀들은 서로 다른 주파수 대역을 사용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 16,
         "option": "④",
@@ -301,7 +289,7 @@
       "id": 27214,
       "question": "저궤도 위성은 정지궤도 위성보다 도플러 편이가 크다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "①",
@@ -313,7 +301,7 @@
       "id": 27215,
       "question": "정지궤도 위성은 저궤도 위성보다 전송 지연이 길다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -325,7 +313,7 @@
       "id": 27216,
       "question": "태양, 지구, 위성의 정렬 상태에 따라 통신품질이 변할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -337,7 +325,7 @@
       "id": 27217,
       "question": "일정한 통신품질 제공을 위하여 정지궤도 위성은 하루에 2회 지구를 공전한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "④",
@@ -349,7 +337,7 @@
       "id": 27218,
       "question": "안테나의 이득이 클수록 최대 탐지거리가 증가한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -361,7 +349,7 @@
       "id": 27219,
       "question": "최대 탐지거리는 송신 펄스의 주기에 반비례한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "②",
@@ -373,7 +361,7 @@
       "id": 27220,
       "question": "목표물의 유효 반사면적이 클수록 최대 탐지거리가 증가한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 18,
         "option": "③",
@@ -385,7 +373,7 @@
       "id": 27221,
       "question": "표적으로부터 반사된 신호를 이용하여 표적과의 거리를 계산한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 18,
         "option": "④",
@@ -397,7 +385,7 @@
       "id": 27222,
       "question": "다중 안테나를 이용한 공간다중화기법으로 전송률을 높일 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -409,7 +397,7 @@
       "id": 27223,
       "question": "다중 안테나를 이용하여 송신 다이버시티 이득을 얻기 위해서는 송신 안테나 간 상관도가 클수록 효과적이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "②",
@@ -421,7 +409,7 @@
       "id": 27224,
       "question": "OFDMA(orthogonal frequency division multiple access) 신호는 PAPR(peak-to-average-power ratio)이 큰 특성을 갖는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -433,7 +421,7 @@
       "id": 27225,
       "question": "SC-FDMA(single carrier-frequency division multiple access)는 OFDMA에 비해 PAPR이 작기 때문에 상향링크에 적합한 방식이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 19,
         "option": "④",
@@ -445,7 +433,7 @@
       "id": 27226,
       "question": "IEEE 802.15.1은 UWB(ultra wideband) 표준이며, 스펙트럼 밀도가 낮다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "①",
@@ -457,7 +445,7 @@
       "id": 27227,
       "question": "IEEE 802.15.1은 UWB 표준이며, 스펙트럼밀도가 높다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "②",
@@ -469,7 +457,7 @@
       "id": 27228,
       "question": "IEEE 802.15.3a는 UWB 표준이며, 스펙트럼밀도가 낮다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "③",
@@ -481,7 +469,7 @@
       "id": 27229,
       "question": "IEEE 802.15.3a는 UWB 표준이며, 스펙트럼밀도가 높다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "④",

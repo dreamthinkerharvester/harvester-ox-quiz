@@ -13,7 +13,7 @@
       "id": 43032,
       "question": "자료는 1차적으로 주제에 따라 분류하고, 2차적으로 형식에 따라 세분한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 2,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 43033,
       "question": "다른 저자의 학설이나 연구 결과를 비판한 문헌은 비판의 대상이 되는 저작에 분류한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 43034,
       "question": "구체적인 주제와 추상적인 주제를 함께 다룬 자료는 구체적인 자료 아래에 분류한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 43035,
       "question": "문헌이 두 주제 간의 원인과 결과를 다룬 것일 경우는 결과로 된 주제에 분류한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 2,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 43036,
       "question": "주류 배열은 분류 이론에 근거하여 논리적인 계층 구조를 지닌다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 3,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 43037,
       "question": "비십진식으로 전개력이 뛰어나기 때문에 대규모 도서관에 적합 하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 3,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 43038,
       "question": "초기에는 일관분류표로 출발하였으나 지금은 많은 도서관에서 사용하고 있어 표준분류표의 성격을 지닌다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 3,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 43039,
       "question": "LCC 기호 구성에 활용되는 커터기호(Cutter number)는 특정 주제의 세목을 전개하여 알파벳순으로 배열하는 데 사용될 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 3,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 43040,
       "question": "245 ▾a딥러닝 :▾b반드시 알아야 할 101가지 사항들 =▾xDeep learning : 101 things you must know /▾d스티브 하터; ▾e송인석",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 7,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 43041,
       "question": "260 ▾a서울 :▾b도서출판 청람,▾c2021",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 7,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 43043,
       "question": "711 ▾a송인석 2025년도 지방공무원 9급 등 공개경쟁임용 필기시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -145,7 +145,7 @@
       "id": 43047,
       "question": "복제본의 경우 해당 복제물 원본의 자료유형을 기재한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "①",
@@ -157,7 +157,7 @@
       "id": 43048,
       "question": "인쇄자료 중 문자로 쓰여진 자료(단행본, 고서와 고문서, 인쇄 형식의 연속간행물 등)는 자료유형표시를 생략할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "②",
@@ -169,7 +169,7 @@
       "id": 43049,
       "question": "두 가지 이상의 자료의 유형을 기술할 필요가 있을 경우 그 주된 유형을 기재하고, 나머지를 원괄호(( ))로 묶어 부기할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "③",
@@ -181,7 +181,7 @@
       "id": 43050,
       "question": "자료유형은 본표제 다음에 각괄호([ ])로 묶어 기재하며, 종합표제 대신 개별저작의 표제를 기술한 경우에는 마지막 표제 다음에 기재한다. 자료조직개론 책형 2쪽",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "④",
@@ -193,7 +193,7 @@
       "id": 43051,
       "question": "도서기호는 분류기호에 이어 배가위치를 결정하는 기준인 동시에 순차적 배가를 가능하게 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -205,7 +205,7 @@
       "id": 43052,
       "question": "리재철의 한글순도서기호표(제5표)를 적용할 때, 저자가 다른 자료임에도 동일한 분류기호 내에서 도서기호가 중복되면 저작 기호를 조정하여 구별한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "②",
@@ -217,7 +217,7 @@
       "id": 43053,
       "question": "새연대순도서기호표를 적용할 때, 전기와 인물평에 관한 도서는 자모순 도서기호 또는 알파벳순 도서기호를 부여한 다음에 연대 기호를 부기한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -229,7 +229,7 @@
       "id": 43054,
       "question": "수입순 기호법은 기호 부여가 간편하고 모든 자료의 완벽한 개별화가 가능하나, 비논리적 군집성과 순차결정의 우연성으로 인해 체계적 군집이 불가능하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -241,7 +241,7 @@
       "id": 43059,
       "question": "개체, 속성, 관계를 근간으로 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 16,
         "option": "①",
@@ -253,7 +253,7 @@
       "id": 43060,
       "question": "기존 3개로 구분된 FR모형(FRBR, FRAD, FRSAD)을 대체하고자 개발되었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -265,7 +265,7 @@
       "id": 43061,
       "question": "링크드 데이터 환경에서 서지데이터 사용을 지원하고 증진하기 위해 설계되었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -277,7 +277,7 @@
       "id": 43062,
       "question": "레(Res)의 직접적인 하위 클래스는 저작, 표현형, 구현형, 개별 자료, 에이전트, 노멘 총 6개의 개체가 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "④",
@@ -289,7 +289,7 @@
       "id": 43063,
       "question": "대등표제는 표제관련정보 다음에 기재한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "①",
@@ -301,7 +301,7 @@
       "id": 43064,
       "question": "자료의 으뜸정보원 이외의 다른 부분에서 취한 책임표시는 원괄호 속에 기재한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -313,7 +313,7 @@
       "id": 43065,
       "question": "본표제나 표제관련정보 중에 포함된 저작자명은 이를 책임표시에 다시 기재하지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -325,7 +325,7 @@
       "id": 43066,
       "question": "별표제는 본표제의 일부분으로 간주하여 그 말미에 ‘일명’(一名), ‘or’ 또는 이의 상등어를 앞세워 적는다. 자료조직개론 책형 3쪽",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "④",
@@ -337,7 +337,7 @@
       "id": 43067,
       "question": "총 5자리로 구성되어 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -349,7 +349,7 @@
       "id": 43068,
       "question": "독자대상기호, 발행형태기호, 내용분류기호로 구성된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -361,7 +361,7 @@
       "id": 43069,
       "question": "내용분류기호의 제3행은 내용분류기호표에서 해당 주제의 번호를 선택한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 18,
         "option": "③",
@@ -373,7 +373,7 @@
       "id": 43070,
       "question": "발행형태기호의 예비기호인 9는 발행처 임의로 사용할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "④",
@@ -385,7 +385,7 @@
       "id": 43071,
       "question": "521(반복/재량)은 자료를 이용하는 데 제한이 있는 경우, 그 접근제한에 관한 내용을 기술한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "①",
@@ -397,7 +397,7 @@
       "id": 43072,
       "question": "752(반복/해당시 필수)는 해당자료가 번역자료(수평적 관계)인 경우 원저자료에 관한 사항을 기술한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "②",
@@ -409,7 +409,7 @@
       "id": 43073,
       "question": "856(반복/재량)은 전자 자원의 위치 식별과 접근에 필요한 정보를 기술한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "③",
@@ -421,7 +421,7 @@
       "id": 43074,
       "question": "930(반복/재량)은 자료를 소장하고 있는 기관명에 대한 부호를 기술한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "④",

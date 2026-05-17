@@ -13,7 +13,7 @@
       "id": 38435,
       "question": "철손이 감소하고 효율이 높아진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 1,
         "option": "③",
@@ -25,7 +25,7 @@
       "id": 38436,
       "question": "부하변화에 따른 단자전압 변동이 감소한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "④",
@@ -37,7 +37,7 @@
       "id": 38437,
       "question": "동기발전기는 주로 회전계자형이 사용된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 3,
         "option": "①",
@@ -49,7 +49,7 @@
       "id": 38438,
       "question": "동기발전기의 단락비를 크게 하면 안정도가 높아진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 3,
         "option": "②",
@@ -61,7 +61,7 @@
       "id": 38439,
       "question": "동기전동기가 무부하로 운전되면 역률을 조정할 수 없다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 3,
         "option": "③",
@@ -73,7 +73,7 @@
       "id": 38440,
       "question": "동기전동기의 역률은 계자전류가 일정한 상태에서 부하에 따라 변한다.  ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 3,
         "option": "④",
@@ -85,7 +85,7 @@
       "id": 38441,
       "question": "회전계자형 구조를 갖는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -97,7 +97,7 @@
       "id": 38442,
       "question": "회전자 위치 정보가 필요하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -109,7 +109,7 @@
       "id": 38443,
       "question": "공극 자속이 정현파 분포를 갖는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "③",
@@ -121,7 +121,7 @@
       "id": 38444,
       "question": "한 상은 개방되고 나머지 두 상은 직렬로 전원에 연결된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -133,7 +133,7 @@
       "id": 38445,
       "question": "자속의 분포가 왜곡된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -145,7 +145,7 @@
       "id": 38446,
       "question": "발전기에서 유기기전력을 증가시킨다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "②",
@@ -157,7 +157,7 @@
       "id": 38447,
       "question": "정류자편 사이의 절연이 파괴되어 불꽃이 발생할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -169,7 +169,7 @@
       "id": 38448,
       "question": "전동기에서 회전방향의 반대방향으로 자기적 중성축이 이동한다. 2025년도 국가공무원 9급 공채 필기시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -181,7 +181,7 @@
       "id": 38449,
       "question": "피드백 장치 없이 회전시킬 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -193,7 +193,7 @@
       "id": 38450,
       "question": "분당 회전수와 분당 펄스수는 반비례한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "②",
@@ -205,7 +205,7 @@
       "id": 38451,
       "question": "가변릴럭턴스형, 영구자석형, 복합형으로 분류된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "③",
@@ -217,7 +217,7 @@
       "id": 38452,
       "question": "공급되는 전기적 펄스열에 따라 정해진 각도만큼 회전한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -229,7 +229,7 @@
       "id": 38453,
       "question": "철심이 포화되면 여자전류가 급격히 증가한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "①",
@@ -241,7 +241,7 @@
       "id": 38454,
       "question": "전압변동률은 부하의 역률에 따라 변하지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -253,7 +253,7 @@
       "id": 38455,
       "question": "철심의 저항률을 낮추어 와전류 손실을 저감시킬 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 14,
         "option": "③",
@@ -265,7 +265,7 @@
       "id": 38456,
       "question": "변압기의 온도가 최대 155°C까지 상승한다면 E종 절연재를 사용하여야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -277,7 +277,7 @@
       "id": 38457,
       "question": "cos＝이면 무효전력은 0이 된다.  ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -289,7 +289,7 @@
       "id": 38458,
       "question": "최대출력전력은 부하각 ＝90°에서 발생한다.  ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "②",
@@ -301,7 +301,7 @@
       "id": 38459,
       "question": "가 보다 위상이 뒤지면 양의 무효전력 값을 갖는다.  ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -313,7 +313,7 @@
       "id": 38460,
       "question": "sin와 cos는 각각 유효전력과 무효전력에 비례한다.    ",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "④",

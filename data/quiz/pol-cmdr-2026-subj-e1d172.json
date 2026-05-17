@@ -7,13 +7,13 @@
   "source": "경찰 간부",
   "exam_year": 2026,
   "exam_round": null,
-  "count": 92,
+  "count": 88,
   "questions": [
     {
       "id": 23605,
       "question": "보안공격은 수동적 공격과 능동적 공격으로 구분된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 23606,
       "question": "수동적 공격의 종류는 스니핑, 트래픽 분석, 가로채기 등이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 23607,
       "question": "능동적 공격의 종류는 재사용 공격, 서비스 거부 공격 등이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 23608,
       "question": "수동적 공격은 시스템 자원을 변경하거나 시스템 작동에 영향을 끼치는 공격이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 23610,
       "question": "개방형 운영체제로서 보안정책의 운영은 스마트폰 제조사에서 운영하도록 하고 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 5,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 23611,
       "question": "안드로이드 앱의 권한 상승은 프로세스 간 통신 기법을 적용하면서 발생할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 5,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 23612,
       "question": "루팅(rooting)은 운영체제 취약점을 해킹하여 스마트폰의 루트 권한을 얻는 방법이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 5,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 23613,
       "question": "안드로이드는 앱 설치 시 사용할 퍼미션을 명시하고, 사용자가 이를 승인하도록 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 5,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 23614,
       "question": "IPSec은 개방형 IP(Internet Protocol)에 보안 기능을 추가한 것이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 7,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 23615,
       "question": "IPSec은 사용 중인 응용 프로그램과는 무관하게 동작이 가능 하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 7,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 23616,
       "question": "IPSec은 인증, 비밀성, 키 관리의 3가지 기능 영역을 포함한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 23617,
       "question": "ESP(Encapsulating Security Payload)의 authentication data를 통해서 재전송 공격(replay attack)을 방지할 수 있다. 1 -",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 23618,
       "question": "스테가노그래피는 디지털 콘텐츠 생성과 이용까지 유통 전 과정에 걸쳐 안전하게 관리 및 보호하는 기술이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 23619,
       "question": "크립토그래피는 데이터 은폐 기술 중 하나로 데이터를 다른 데이터에 삽입하는 기술이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 23620,
       "question": "워터마킹은 메시지의 내용을 읽지 못하게 하는 기술이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -193,7 +193,7 @@
       "id": 23621,
       "question": "핑거프린팅은 디지털 콘텐츠 구매 시 구매자의 정보를 삽입 하여 불법 배포 발견 시 최초의 배포자를 추적할 수 있게 하는 기술이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "④",
@@ -205,7 +205,7 @@
       "id": 23622,
       "question": "전자서명을 위해 DSS를 사용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -217,7 +217,7 @@
       "id": 23623,
       "question": "해시 알고리즘은 SHA-1을 사용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "②",
@@ -229,7 +229,7 @@
       "id": 23624,
       "question": "세션 키 암호화에는 AES를 사용한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "③",
@@ -241,7 +241,7 @@
       "id": 23625,
       "question": "X.509로 정의되는 인증기관에 의해 서명된 공개 키 인증서를 사용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -253,7 +253,7 @@
       "id": 23628,
       "question": "WEP(Wired Equivalent Privacy)는 TKIP(Temporal Key Integrity Protocol)를 사용한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "①",
@@ -265,7 +265,7 @@
       "id": 23629,
       "question": "WPA(Wi-Fi Protected Access)는 WPA-개인과 WPA-엔터 프라이즈가 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -277,7 +277,7 @@
       "id": 23630,
       "question": "WPA-엔터프라이즈는 RADIUS 인증 서버를 사용하는 경우를 의미한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -289,7 +289,7 @@
       "id": 23631,
       "question": "WPA-2에서 사용하는 CCMP(CCM mode Protocol)는 AES 블록 암호 방식을 사용한다. 2 -",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "④",
@@ -301,7 +301,7 @@
       "id": 23633,
       "question": "IAM(Identity and Access Management)",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "②",
@@ -313,7 +313,7 @@
       "id": 23634,
       "question": "EAM(Extranet Access Management)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -325,7 +325,7 @@
       "id": 23635,
       "question": "KMS(Key Management Service)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 16,
         "option": "④",
@@ -334,22 +334,10 @@
       }
     },
     {
-      "id": 23636,
-      "question": "PBFT 알고리즘을 사용하기 때문에 블록체인의 분기가 발생 할 수 있다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 17,
-        "option": "①",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 23637,
       "question": "사용되는 체인코드는 Init, Invoke, Query의 3가지 처리를 구현한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -361,7 +349,7 @@
       "id": 23638,
       "question": "리눅스 기반의 Hyperledger Project는 분산 원장 기술의 정립을 목표로 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -373,7 +361,7 @@
       "id": 23639,
       "question": "합의 알고리즘의 특성 상 여러 컴퓨터가 있는 상태에서 일부 컴퓨터가 고장나거나 네트워크에 장애가 발생하더라도 정상적 으로 작동하도록 설계되어 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 17,
         "option": "④",
@@ -385,7 +373,7 @@
       "id": 23640,
       "question": "SET는 전자봉투와 이중서명(dual signature) 방식을 사용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -394,22 +382,10 @@
       }
     },
     {
-      "id": 23641,
-      "question": "상점이 신용카드 사용자의 계좌번호와 같은 지불정보를 볼 수 없도록 암호화하였다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 19,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 23642,
       "question": "SET의 구성은 신용카드 사용자, 상점, 지불게이트웨이, 신용카드 회사, 은행, 인증기관으로 구성된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -421,7 +397,7 @@
       "id": 23643,
       "question": "은행은 신용카드 사용자가 구매한 물건을 확인할 수 있으며 상점이 요구한 결제 대금이 정확한지 확인할 수 있다. - 3",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "④",
@@ -433,7 +409,7 @@
       "id": 23644,
       "question": "셸(shell)은 명령어를 해석하고 실행하는 도구이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 21,
         "option": "①",
@@ -445,7 +421,7 @@
       "id": 23645,
       "question": "슈퍼유저로 권한을 변경하기 위해서 su 명령어를 사용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 21,
         "option": "②",
@@ -457,7 +433,7 @@
       "id": 23646,
       "question": "응용 프로그램은 커널의 장치 드라이버를 사용하여 하드웨어를 직접적으로 제어한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 21,
         "option": "③",
@@ -469,7 +445,7 @@
       "id": 23647,
       "question": "커널은 운영체제의 핵심으로 컴퓨터 자원을 효율적으로 관리하기 위한 방식을 지원한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 21,
         "option": "④",
@@ -481,7 +457,7 @@
       "id": 23648,
       "question": "식별은 주체의 신원을 검증하기 위한 사용 증명 활동이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 22,
         "option": "①",
@@ -493,7 +469,7 @@
       "id": 23649,
       "question": "인증은 주체가 자신의 행동에 권한이 있다는 것을 보증하는 것이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 22,
         "option": "②",
@@ -505,7 +481,7 @@
       "id": 23650,
       "question": "책임 추적성은 본인이 누구라는 것을 시스템에 밝히는 것이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 22,
         "option": "③",
@@ -517,7 +493,7 @@
       "id": 23651,
       "question": "인가는 인증된 주체에게 접근을 허용하고 특정 업무를 수행할 권리를 부여하는 것이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 22,
         "option": "④",
@@ -529,7 +505,7 @@
       "id": 23652,
       "question": "ITSEC는 시스템의 안전성을 향상시키기 위하여 취할 수 있는 사항을 등급으로 구분하고 단일 기준으로 정보보호 제품을 평가하는 표준안이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 24,
         "option": "①",
@@ -538,22 +514,10 @@
       }
     },
     {
-      "id": 23653,
-      "question": "TCSEC의 B1 레벨은 모듈별 분석과 테스트를 할 수 있는 단계로 운영체제 내부 보안에 불필요한 부분이 모두 제거 되어야 한다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 24,
-        "option": "②",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 23654,
       "question": "TCSEC의 C2 레벨은 통제된 접근 보호로 각 사용자의 작업 내용을 기록하고 감사할 수 있는 기능을 제공하는 UNIX, VMS, AOS, NOS 시스템 등이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 24,
         "option": "③",
@@ -565,7 +529,7 @@
       "id": 23655,
       "question": "ITSEC의 E1 레벨은 시스템에 정형화된 보안 정책이 존재하며 E2 등급의 기능을 모두 포함한 소스코드를 제공해야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 24,
         "option": "④",
@@ -577,7 +541,7 @@
       "id": 23656,
       "question": "Part 2는 TOE를 위한 보증 요구사항을 표현하는 표준화된 방법으로 보증컴포넌트 세트를 포함하고 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 25,
         "option": "①",
@@ -589,7 +553,7 @@
       "id": 23657,
       "question": "구성요소 중 패키지는 정보제품이 갖춰야 할 공통적인 보안 요구사항들을 모아 놓은 것으로 EAL과 기능 및 보증 요구 컴포넌트 등의 집합으로 구성된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 25,
         "option": "②",
@@ -601,7 +565,7 @@
       "id": 23658,
       "question": "정보보호 제품의 평가 기준을 규정한 국제표준으로 국제사회 내에 널리 사용되는 IT 보안의 평가 기준이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 25,
         "option": "③",
@@ -613,7 +577,7 @@
       "id": 23659,
       "question": "보안 등급과 보안 기능에 대한 등급을 가지고 있어 국제표준 ISO 27001로 지정된 최초의 정보기술 보안에 관한 것이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 25,
         "option": "④",
@@ -625,7 +589,7 @@
       "id": 23660,
       "question": "과학기술정보통신부장관은 클라우드컴퓨팅에 관한 전문인력을 양성하기 위하여 필요한 정책을 수립하고 추진할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 26,
         "option": "①",
@@ -637,7 +601,7 @@
       "id": 23661,
       "question": "클라우드컴퓨팅 관련 교육훈련 지정기관이 정당한 사유없이 지정일로부터 1년 이상 교육실적이 없는 경우 그 지정을 2년 이내 취소할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 26,
         "option": "②",
@@ -649,7 +613,7 @@
       "id": 23662,
       "question": "클라우드컴퓨팅 전문인력 양성을 위해 필요한 정책의 수립 이나 교육기관의 지정요건 및 지정취소 절차와 지원 내용 등 필요한 사항은 대통령령으로 정한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 26,
         "option": "③",
@@ -661,7 +625,7 @@
       "id": 23663,
       "question": "클라우드컴퓨팅 관련 교육훈련을 실시하는 교육기관 중 지정요건을 갖춘 기관에 필요한 경비의 전부를 지원할 수 있다. - 4",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 26,
         "option": "④",
@@ -673,7 +637,7 @@
       "id": 23664,
       "question": "PBE는 암호화와 복호화에서 같은 패스워드를 사용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 28,
         "option": "①",
@@ -685,7 +649,7 @@
       "id": 23665,
       "question": "사용자가 입력한 패스워드를 이중 암호화하여 KEK를 생성 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 28,
         "option": "②",
@@ -697,7 +661,7 @@
       "id": 23666,
       "question": "의사난수 발생기를 사용해서 세션 키를 생성하고, KEK로 세션 키를 암호화한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 28,
         "option": "③",
@@ -709,7 +673,7 @@
       "id": 23667,
       "question": "PBE의 복호화는 KEK 복원, 세션 키 복호화, 메시지 복호화로 이루어진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 28,
         "option": "④",
@@ -721,7 +685,7 @@
       "id": 23668,
       "question": "베이스라인 접근법은 모든 시스템에 대해 표준화된 정보보호 대책 세트를 제공하기 때문에 분석 비용과 시간이 절약된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 29,
         "option": "①",
@@ -733,7 +697,7 @@
       "id": 23669,
       "question": "상세분석 접근법은 전문가의 지식과 경험을 사용해 위험분석을 수행하는 방법으로 소규모 조직에 적합하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 29,
         "option": "②",
@@ -745,7 +709,7 @@
       "id": 23670,
       "question": "비정형 접근법은 자산의 가치, 위협, 취약점을 구체적으로 분석하는 방법으로 분석 비용과 시간이 많이 소요된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 29,
         "option": "③",
@@ -757,7 +721,7 @@
       "id": 23671,
       "question": "복합 접근법은 베이스라인 접근법과 상세분석 접근법을 조합해 분석하는 방법으로 고위험 영역의 경우 베이스라인 접근법을 수행하고, 그 외의 다른 영역은 상세분석 접근법을 사용한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 29,
         "option": "④",
@@ -769,7 +733,7 @@
       "id": 23673,
       "question": "CBC(Cipher Block Chaining)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 31,
         "option": "①",
@@ -781,7 +745,7 @@
       "id": 23677,
       "question": "자산에 대한 위협을 분석하고 해석하여 자산의 취약점을 식별하는 과정이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 34,
         "option": "①",
@@ -793,7 +757,7 @@
       "id": 23678,
       "question": "조직 내 주요한 자산의 가치 및 민감도를 측정하고 이에 대한 위협을 분석하는 것이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 34,
         "option": "②",
@@ -805,7 +769,7 @@
       "id": 23679,
       "question": "위협과 취약성을 분석해 비용 대비 적절한 보호 대책을 마련함 으로 위험을 감수할 수 있는 수준을 유지하는 과정이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 34,
         "option": "③",
@@ -817,7 +781,7 @@
       "id": 23680,
       "question": "보호대상, 위협요소, 취약점 등의 위험관리를 위해 순위결정법, 시나리오 기법 등 정량적 분석 기법을 이용한다. - 5",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 34,
         "option": "④",
@@ -829,7 +793,7 @@
       "id": 23681,
       "question": "정보보호 시스템 평가를 위해 기술검토, 예비검토, 등급 유지 계획 및 문서화 등 평가 절차를 통해 정보보호 보안 기능 요구사항과 보안 보증 요구사항을 체계적으로 평가하고 인증한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 35,
         "option": "①",
@@ -841,7 +805,7 @@
       "id": 23682,
       "question": "전년도 매출액 또는 세입 등이 1,500억원 이상인 정보통신망 서비스를 제공하는 사업자는 정보보호 관리체계 인증 의무 대상자이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 35,
         "option": "②",
@@ -853,7 +817,7 @@
       "id": 23683,
       "question": "인증심사원은 자격 기간 내 1회 이상 인증심사를 참여하였다면 보수교육으로 모두 인정해 주기 때문에 별도의 보수교육을 받을 필요가 없다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 35,
         "option": "③",
@@ -865,7 +829,7 @@
       "id": 23684,
       "question": "인증심사원 중 인증 신청인으로부터 금전, 금품, 향응 등을 부당하게 수수하거나 요구하면 인증위원회 위원 2인 이상을 포함한 자격심의위원회를 거쳐 자격을 취소할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 35,
         "option": "④",
@@ -877,7 +841,7 @@
       "id": 23685,
       "question": "전자적 방법으로 학습･추론･판단 등을 구현하는 기술이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 36,
         "option": "①",
@@ -889,7 +853,7 @@
       "id": 23686,
       "question": "정보를 생산･유통･활용해 사회 각 분야를 활동할 수 있게 하거나 활동의 효율화를 이끌어 내는 것이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 36,
         "option": "②",
@@ -901,7 +865,7 @@
       "id": 23687,
       "question": "문자, 음성 및 영상 데이터 등을 전자적 방법으로 수집･분석･ 가공 처리하는 기술이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 36,
         "option": "③",
@@ -913,7 +877,7 @@
       "id": 23688,
       "question": "무선 또는 유･무선이 결합된 초연결지능정보통신 기반 기술 이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 36,
         "option": "④",
@@ -925,7 +889,7 @@
       "id": 23689,
       "question": "개인정보처리자는 개인정보의 처리 목적을 달성하기 위해서 모든 개인정보를 익명처리하여 수집해야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 37,
         "option": "①",
@@ -937,7 +901,7 @@
       "id": 23690,
       "question": "개인정보처리자는 개인정보의 처리 목적에 필요한 범위에서 최소한의 개인정보를 수집, 생성 및 신뢰성을 보장해야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 37,
         "option": "②",
@@ -949,7 +913,7 @@
       "id": 23691,
       "question": "개인정보처리자는 제30조에 따른 개인정보 처리방침 등 개인 정보의 처리에 관한 사항을 공개하고 정보주체의 권리를 보장해야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 37,
         "option": "③",
@@ -961,7 +925,7 @@
       "id": 23692,
       "question": "개인정보처리자는 개인정보의 처리 목적을 명확하게 하고 개인정보 수집은 적법하고 정당하게 수집해야 한다. 5 -",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 37,
         "option": "④",
@@ -973,7 +937,7 @@
       "id": 23693,
       "question": "수집된 개인정보 이용 시 정보주체의 이익이 부당하게 침해 되지 않을 때는 개인정보의 안전성을 확보한 상태에서 추가로 이용될 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 38,
         "option": "①",
@@ -982,22 +946,10 @@
       }
     },
     {
-      "id": 23694,
-      "question": "개인정보 수집 시 가명처리나 암호화 등 안전성이 확보된 개인정보는 개인정보 처리방침에 따라 기간 내 제공이 될 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 38,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 23695,
       "question": "수집된 개인정보가 당초 수집 목적과 합리적으로 관련된 범위에서는 개인정보 처리방침에 따라 추가로 이용할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 38,
         "option": "③",
@@ -1009,7 +961,7 @@
       "id": 23696,
       "question": "개인정보를 수집한 정황 또는 처리 관행에 비추어볼 때 개인 정보의 추가적인 이용 또는 제공에 대한 예측이 가능했다면 별도 조치없이 제3자에게 정보를 제공할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 38,
         "option": "④",
@@ -1021,7 +973,7 @@
       "id": 23697,
       "question": "개인정보처리자는 정보 수집단계에서 향후 사업확장을 고려해 정보주체로부터 국외 이전에 관한 별도의 동의를 받고 정보를 수집하던 중 사업확장이 결정되었다면 개인정보를 별도 조치 없이 국외로 제공･처리위탁 및 보관할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 39,
         "option": "①",
@@ -1033,7 +985,7 @@
       "id": 23698,
       "question": "개인정보처리자는 정보주체와의 계약 체결 및 이행을 위해 개인정보의 처리위탁･보관이 필요한 경우에는 별도의 동의 없이도 개인정보를 국외로 제공･처리위탁 및 보관할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 39,
         "option": "②",
@@ -1045,7 +997,7 @@
       "id": 23699,
       "question": "개인정보처리자는 법률이나 대한민국을 당사자로 하는 조약 내용에 개인정보의 국외 이전에 관한 규정이 있는 경우에는 개인정보를 국외로 제공･처리위탁 및 보관할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 39,
         "option": "③",
@@ -1057,7 +1009,7 @@
       "id": 23700,
       "question": "개인정보처리자는 정보 수집단계에서 정보주체로부터 국외 이전에 대한 별도 동의를 받고 주민번호와 전화번호 등 개인 정보를 회사 내 서버에 수집하던 중 회사가 국외로 이전하게 되면 서버를 이전하여 보관할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 39,
         "option": "④",
@@ -1069,7 +1021,7 @@
       "id": 23701,
       "question": "정보통신망을 통하여 거짓 사실을 드러내어 다른 사람의 명예를 훼손한 자는 7년 이하의 징역, 10년 이하의 자격정지 또는 5천만원 이하의 벌금에 처한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 40,
         "option": "①",
@@ -1081,7 +1033,7 @@
       "id": 23702,
       "question": "정보통신망을 이용해 정당한 사유 없이 악성프로그램을 전달･ 유포하는 경우 5년 이하의 징역 또는 5천만원 이하의 벌금에 처한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 40,
         "option": "②",
@@ -1093,7 +1045,7 @@
       "id": 23703,
       "question": "정보통신망을 이용해 청소년유해매체물임을 매체 표기 없이 광고하는 내용의 정보를 청소년에게 전송한 자는 5년 이하의 징역 또는 5천만원 이하의 벌금에 처한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 40,
         "option": "③",
@@ -1105,7 +1057,7 @@
       "id": 23704,
       "question": "정보통신망을 이용해 음란한 영상을 배포한 자는 3년 이하의 징역 또는 3천만원 이하의 벌금에 처한다. - 6 -",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 40,
         "option": "④",

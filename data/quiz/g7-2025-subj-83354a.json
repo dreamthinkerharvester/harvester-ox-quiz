@@ -13,7 +13,7 @@
       "id": 36440,
       "question": "유동 방향으로 속도가 변하지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 3,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 36441,
       "question": "속도 분포는 플러그 유동의 형태이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 3,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 36442,
       "question": "마찰계수는 Reynolds 수에 반비례한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 3,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 36443,
       "question": "입구길이(entrance length)는 Reynolds 수에 비례한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 3,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 36444,
       "question": "항력계수는 항력과 관성력의 비이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 5,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 36445,
       "question": "Lewis 수는 관성력과 표면장력의 비이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 5,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 36446,
       "question": "Reynolds 수는 관성력과 점성력의 비이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 5,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 36447,
       "question": "Prandtl 수는 운동량 확산도와 열 확산도의 비이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 5,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 36448,
       "question": "빛의 속도로 전달된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 36449,
       "question": "흑체의 흡수율은 1이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 36450,
       "question": "회색체의 단색 흡수율은 일정하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 36451,
       "question": "장파장 복사보다 단파장 복사의 에너지가 작다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 36452,
       "question": "유맥선(streakline)과 항상 일치한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 16,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 36453,
       "question": "속도 포텐셜의 등선(isoline)이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 36454,
       "question": "개별 유체 입자의 운동 궤적이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -193,7 +193,7 @@
       "id": 36455,
       "question": "유동장의 모든 곳에서 속도 벡터와 접한다. 2025년도 국가공무원 7급 공채 제2차 필기시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "④",
@@ -205,7 +205,7 @@
       "id": 36458,
       "question": "와 만 각각 2배가 되면,  는 증가한다. ",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 22,
         "option": "③",
@@ -217,7 +217,7 @@
       "id": 36459,
       "question": "와 만 각각 0.25배, 2배가 되면,  는 변하지 않는다. ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 22,
         "option": "④",

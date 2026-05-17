@@ -13,7 +13,7 @@
       "id": 27414,
       "statement": "국가는 위험물에 의한 사고를 예방하기 위한 시책을 수립ㆍ 시행하여야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "qtype": "opt-wrong",
       "topic": null,
       "tags": null,
@@ -34,7 +34,7 @@
       "id": 27415,
       "statement": "철도에 의한 위험물의 저장ㆍ취급 및 운반에 대해서는 위험물 안전관리법 이 적용되지 아니한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "qtype": "opt-wrong",
       "topic": null,
       "tags": null,
@@ -52,31 +52,10 @@
       "related_videos": []
     },
     {
-      "id": 27416,
-      "statement": "국가는 지방자치단체가 위험물에 의한 사고의 예방 등을 위한 시책을 추진하는 데에 필요한 행정적ㆍ재정적 지원을 할 수 있다.",
-      "answer": "X",
-      "explanation": "",
-      "qtype": "opt-wrong",
-      "topic": null,
-      "tags": null,
-      "theory": null,
-      "explanation_o": null,
-      "explanation_x": null,
-      "meta_quality": 10,
-      "star_rating": 1,
-      "frequency": 1,
-      "source_pdf": "안전관리론_가.pdf",
-      "source": {
-        "qid": 17,
-        "option": "③"
-      },
-      "related_videos": []
-    },
-    {
       "id": 27417,
       "statement": "지정수량 미만인 위험물의 저장 또는 취급에 관한 기술상의 기준은 특별시ㆍ광역시ㆍ특별자치시ㆍ도 및 특별자치도의 조례로 정한다. 안전관리론 책형 2쪽",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "qtype": "opt-wrong",
       "topic": null,
       "tags": null,
@@ -95,8 +74,8 @@
     }
   ],
   "_meta": {
-    "exported_at": "2026-05-17T06:56:05+00:00",
-    "total": 4,
+    "exported_at": "2026-05-17T11:34:45+00:00",
+    "total": 3,
     "with_full_meta": 0,
     "source": "0gichul.com"
   }

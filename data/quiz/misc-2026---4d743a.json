@@ -7,13 +7,13 @@
   "source": "기타",
   "exam_year": 2026,
   "exam_round": null,
-  "count": 45,
+  "count": 41,
   "questions": [
     {
       "id": 29043,
       "question": "비은행예금취급기관에는 농업협동조합, 수협은행, 새마을금고, 종합금융회사 등이 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 2,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 29044,
       "question": "새마을금고, 한국은행, 예금보험공사, 부보금융회사 등의 예금은 예금보험공사의 보호대상에서 제외된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 29045,
       "question": "은행법상 규정된 은행의 고유업무에는 예적금 수입, 유가증권 발행, 신탁업, 자금의 대출, 어음의 할인, 외국환 등이 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 29046,
       "question": "한국은행의 중요한 역할은 물가안정을 위해 통화신용정책을 수립하고 집행하는 것이며, 한국은행이 채택하고 있는 통화정책 운영체제는 통화량안정목표제이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 2,
         "option": "④",
@@ -58,34 +58,10 @@
       }
     },
     {
-      "id": 29047,
-      "question": "20,000원 예 금 일 반 ◯가 책형 5쪽",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 3,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 29048,
-      "question": "콜옵션(call option)은 기초자산을 약정된 행사가격에 살 수 있는 권리를 말한다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 4,
-        "option": "①",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 29049,
       "question": "옵션프리미엄(option premium)은 옵션매입자에게 지급하는 금액으로 옵션의 가격을 의미한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "②",
@@ -97,7 +73,7 @@
       "id": 29050,
       "question": "선도계약(forward contracts)은 거래 당사자들이 자유롭게 계약 내용을 정하고 장소에 구애받지 않고 거래할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 4,
         "option": "③",
@@ -109,7 +85,7 @@
       "id": 29051,
       "question": "밀 농사를 짓는 농부가 미래 본인 수입의 불확실성을 확실한 것으로 대체하고자 하는 욕구가 선물계약(futures contracts)을 맺게 하는 원동력이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 4,
         "option": "④",
@@ -121,7 +97,7 @@
       "id": 29052,
       "question": "법인격을 취득하지 않은 사단과의 거래는 개인예금으로만 처리 되므로, 금융회사는 사전에 고객에게 이를 고지·설명해야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -133,7 +109,7 @@
       "id": 29053,
       "question": "거래의 편의상 공동대표이사제도를 채택하고 있는 회사는 각자 대표권을 행사할 수 있으므로, 예금거래도 각자 하는 것이 원칙이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -145,7 +121,7 @@
       "id": 29054,
       "question": "외국회사가 국내에서 영업을 하려는 경우, 한국에서 대표자· 회사명 등을 등기하여야 하며, 금융회사는 법인등기사항전부 증명서를 징구하여 한국 내의 예금자와 예금거래를 하면 된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "③",
@@ -154,22 +130,10 @@
       }
     },
     {
-      "id": 29055,
-      "question": "대리인과의 예금 중도해지 거래는 정당한 예금주의 위임장과 통장을 제출받고, 인감과 비밀번호가 일치하여 예금을 지급 한다면 금융회사는 면책되므로 예금주의 의사까지 확인할 필요는 없다. 예 금 일 반 ◯가 책형 6쪽",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 8,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 29056,
       "question": "투자성 상품은 계약서류 제공일 또는 계약체결일로부터 7일 이내 철회할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "①",
@@ -181,7 +145,7 @@
       "id": 29057,
       "question": "분쟁조정이 신청된 사건에 대해 소송이 진행 중일 경우, 법원은 그 소송을 중지할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -193,7 +157,7 @@
       "id": 29058,
       "question": "소액 분쟁 사건의 소액 요건은 조정을 통해 주장하는 권리·이익 의 가액이 2천만 원을 초과할 수 없다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -205,7 +169,7 @@
       "id": 29059,
       "question": "금융회사는 소비자의 분쟁조정·소송 대응의 목적이라 할지라도 금융회사가 관리하는 자료열람 요구까지 수용할 법적 의무는 없다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "④",
@@ -217,7 +181,7 @@
       "id": 29060,
       "question": "예금주의 질권설정 통지에 대한 우체국 승낙 사항은 ｢우체국 예금거래기본약관｣에서 명시하고 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "①",
@@ -229,7 +193,7 @@
       "id": 29061,
       "question": "예금주가 피담보채권 변제 사실의 소명으로 우체국에 질권해지 를 통지하면, 우체국은 예금주에게 예금을 지급할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "②",
@@ -238,22 +202,10 @@
       }
     },
     {
-      "id": 29062,
-      "question": "우체국은 질권자가 피담보채권 변제기의 도래로 인해 발생한 중도해지 권리로 예금지급을 청구하면, 질권자에게 예금을 지급 할 수 있다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 11,
-        "option": "③",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 29063,
       "question": "질권이 설정된 정기예금의 변제기에 원금과 이자를 동일한 새로운 정기예금으로 재예치하더라도, 원칙상 그 예금에는 질권 효력이 미치지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "④",
@@ -265,7 +217,7 @@
       "id": 29064,
       "question": "체신관서는 예금자가 10년간 예금을 하지 아니하거나 예금의 지급, 통장 재발급 신청 등을 하지 아니한 경우, 그 예금의 지급 청구나 예금의 처분에 필요한 신청을 할 것을 최고(催告)하여야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -277,7 +229,7 @@
       "id": 29065,
       "question": "지급증서를 발행한 예금에 관한 지급청구권은 체신관서의 최고 (催告) 후 1년간 지급을 청구하지 아니한 경우, 소멸한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "②",
@@ -289,7 +241,7 @@
       "id": 29066,
       "question": "지급청구권이 소멸된 예금은 국고로 귀속되나, 과학기술정보 통신부령으로 정하는 사유가 있는 예금은 예금자 청구에 의해 지급할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "③",
@@ -301,7 +253,7 @@
       "id": 29067,
       "question": "국고로 귀속된 예금이 예금자의 사망으로 인해 상속인이 예금 의 존재 여부를 인지(認知)하지 못한 경우에도 상속인에게 지급할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -313,7 +265,7 @@
       "id": 29068,
       "question": "거래 금액에 상관없이 고객확인(CDD) 의무를 수행해야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -325,7 +277,7 @@
       "id": 29069,
       "question": "법인 및 단체의 신원확인 사항 중 설립 목적을 확인해야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "②",
@@ -337,7 +289,7 @@
       "id": 29070,
       "question": "실제소유자를 확인하고, 성명과 생년월일을 확인 후 기재해야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 14,
         "option": "③",
@@ -349,7 +301,7 @@
       "id": 29071,
       "question": "㈜우정기업의 실제소유자는 ｢특정금융정보법시행령｣에 따른 실제 소유자 파악 3단계 절차 중 1단계에서 확인이 가능해야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -361,7 +313,7 @@
       "id": 29072,
       "question": "‘보통예금’은 가입 대상을 실명의 개인으로 제한하는 입출금이 자유로운 예금이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "①",
@@ -373,7 +325,7 @@
       "id": 29073,
       "question": "‘우체국 행복지킴이통장’은 독립·국가 유공자의 보훈급여금을 보호하기 위한 압류방지 전용 통장이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -385,7 +337,7 @@
       "id": 29074,
       "question": "‘우체국 다드림통장’ 실버 패키지는 가입 대상이 65세 이상 실명의 개인으로 다양한 우대서비스를 제공하는 예금이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -397,7 +349,7 @@
       "id": 29075,
       "question": "‘우체국 페이든든+통장’은 실명의 개인이 가입하는 개인 통장과, 개인사업자와 법인이 가입하는 사업자 통장으로 구분하는 통장 이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "④",
@@ -409,7 +361,7 @@
       "id": 29076,
       "question": "‘2040+α자유적금’은 월 50만 원 이상 우체국 수시입출식 예금에서 이 적금으로 만기까지 자동 이체할 경우, 우대이율을 적용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "①",
@@ -421,7 +373,7 @@
       "id": 29077,
       "question": "‘우체국 가치모아적금’은 예금주에게 매월 자동이체 저축 현황을 알려주는 자동이체 알림서비스를 제공한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -433,7 +385,7 @@
       "id": 29078,
       "question": "‘우체국 다드림적금’은 만기 후 재예치 또는 재가입할 경우, 고객별 1회 우대이율을 적용한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "③",
@@ -445,7 +397,7 @@
       "id": 29079,
       "question": "‘우체국 매일모아e적금’은 매일 저축(자동이체) 및 매주 알림 저축 서비스를 제공한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "④",
@@ -457,7 +409,7 @@
       "id": 29080,
       "question": "‘우체국 파트너든든 정기예금’은 가입자가 소상공인 또는 소기업 대표자로 확인될 경우, 우대이율을 제공한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "①",
@@ -469,7 +421,7 @@
       "id": 29081,
       "question": "‘e­Postbank정기예금’은 인터넷·스마트뱅킹으로 거치·적립식 예금 상품을 신규로 가입한 경우, 우대이율을 제공한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "②",
@@ -481,7 +433,7 @@
       "id": 29082,
       "question": "‘챔피언정기예금’은 회전주기(1개월, 3개월, 6개월)마다 변동금리 적용을 통해 고객 맞춤형 목돈 운용이 가능하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -493,7 +445,7 @@
       "id": 29083,
       "question": "‘이웃사랑정기예금’은 장기 기증(희망등록)자, 골수 기증(희망 등록)자에게 ‘보너스금리’를 적용하는 공익형 정기예금이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "④",
@@ -505,7 +457,7 @@
       "id": 29084,
       "question": "전자금융 이용 고객 중 보안등급이 ‘안전 등급’인 개인의 경우, 인터넷뱅킹, 모바일뱅킹을 통한 자금 이체 한도는 1회 1억 원, 1일 5억 원이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "①",
@@ -517,7 +469,7 @@
       "id": 29085,
       "question": "우체국 인터넷뱅킹을 해지하면 ‘우체국뱅킹’은 자동 해지되나, ‘우체국뱅킹’을 해지하더라도 인터넷뱅킹 이용 자격은 계속 유지된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "②",
@@ -529,7 +481,7 @@
       "id": 29086,
       "question": "‘우체국뱅킹’에서 이체 등의 금융거래는 공동인증서, 금융인증서, 간편인증, PASS인증을 통해서 가능하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "③",
@@ -541,7 +493,7 @@
       "id": 29087,
       "question": "현재 우체국예금의 모바일뱅킹 서비스로 ‘우체국뱅킹’과 ‘우체국 페이’가 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "④",

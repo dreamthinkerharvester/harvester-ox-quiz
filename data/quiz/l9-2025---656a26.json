@@ -13,7 +13,7 @@
       "id": 42699,
       "question": "선전류는 [A]이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 42700,
       "question": "선간전압은   [V]이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 42701,
       "question": "역률은 [%]이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 42702,
       "question": "무효전력은 [kVAR]이다. 2025년도 지방공무원 9급 등 경력경쟁임용 필기시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "④",

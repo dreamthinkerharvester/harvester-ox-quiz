@@ -7,25 +7,13 @@
   "source": "지방직 9급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 32,
+  "count": 30,
   "questions": [
-    {
-      "id": 42466,
-      "question": "단위 주거의 평면계획에 변화를 줄 수 없다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 2,
-        "option": "①",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
     {
       "id": 42467,
       "question": "거주성, 사생활, 일조, 통풍 및 전망 등이 불리하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -37,7 +25,7 @@
       "id": 42468,
       "question": "1개의 단위 주거가 2개 층 이상에 걸쳐 있는 형식이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "③",
@@ -49,7 +37,7 @@
       "id": 42469,
       "question": "각층 평면이 동일하며 구조, 배관, 피난 계획 등이 용이하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 2,
         "option": "④",
@@ -61,7 +49,7 @@
       "id": 42470,
       "question": "중앙복도 양측으로 단위주거가 배치되는 형식이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 7,
         "option": "①",
@@ -73,7 +61,7 @@
       "id": 42471,
       "question": "건물 한쪽 긴 복도에서 단위주거로 진입하는 형식이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "②",
@@ -85,7 +73,7 @@
       "id": 42472,
       "question": "계단실 및 엘리베이터 홀에서 직접 단위주거로 들어가는 형식이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -97,7 +85,7 @@
       "id": 42473,
       "question": "중앙에 엘리베이터와 계단을 배치하고 주위에 많은 단위주거를 집중배치하는 형식이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -109,7 +97,7 @@
       "id": 42474,
       "question": "자연지세와 지형에 따라 건물을 배치하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -121,7 +109,7 @@
       "id": 42475,
       "question": "신라 시대에는 주심포식, 익공식 등을 사용하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "②",
@@ -133,7 +121,7 @@
       "id": 42476,
       "question": "문, 누마루, 처마, 마루 등 매개 공간이 발달하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -145,7 +133,7 @@
       "id": 42477,
       "question": "내외부 공간은 기능과 용도에 따라 위계성을 지녔다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -157,7 +145,7 @@
       "id": 42478,
       "question": "열에 의한 주위의 손상 등이 없어야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -169,7 +157,7 @@
       "id": 42479,
       "question": "건물의 주요 구조부를 관통하지 않아야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 13,
         "option": "②",
@@ -181,7 +169,7 @@
       "id": 42480,
       "question": "연소에 의한 급ㆍ배기가 가능해야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 13,
         "option": "③",
@@ -193,7 +181,7 @@
       "id": 42481,
       "question": "인입 전기 설비와는 60cm 미만의 거리를 유지해야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "④",
@@ -205,7 +193,7 @@
       "id": 42482,
       "question": "생활 소음은 데시벨(dB)로 표현할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -217,7 +205,7 @@
       "id": 42483,
       "question": "음은 15°C의 기온에서 약 340m/s의 속력을 가진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -229,7 +217,7 @@
       "id": 42484,
       "question": "잔향시간은 실의 용적에 반비례하고 흡음력에 비례한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "③",
@@ -241,7 +229,7 @@
       "id": 42485,
       "question": "잔향시간이 길면 음이 명료하지 않고, 짧으면 음량이 작아진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -253,7 +241,7 @@
       "id": 42486,
       "question": "조명도의 단위는 럭스(lux) 등이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 15,
         "option": "①",
@@ -265,7 +253,7 @@
       "id": 42487,
       "question": "휘도는 광원의 밝은 정도를 나타내는 값이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -277,7 +265,7 @@
       "id": 42488,
       "question": "조명도는 어떤 점의 단위면적에 입사하는 휘도로 표시한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "③",
@@ -286,22 +274,10 @@
       }
     },
     {
-      "id": 42489,
-      "question": "광속은 어떤 면을 단위 시간 내에 통과하는 빛의 양이다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 15,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 42490,
       "question": "열관류율 값이 큰 벽일수록 단열성이 높다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -313,7 +289,7 @@
       "id": 42491,
       "question": "일사에 의한 복사열은 실내온도에 영향을 주지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -325,7 +301,7 @@
       "id": 42492,
       "question": "공기가 노점온도 이하인 벽면에 닿으면 결로가 발생한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "③",
@@ -337,7 +313,7 @@
       "id": 42493,
       "question": "열전도는 고체인 벽을 통하여 유체에서 유체로 열이 전해지는 현상이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "④",
@@ -349,7 +325,7 @@
       "id": 42494,
       "question": "급탕 온도는 60°C를 기준으로 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -361,7 +337,7 @@
       "id": 42495,
       "question": "배관의 형상은 ㄷ자형 배관이 되지 않도록 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "②",
@@ -373,7 +349,7 @@
       "id": 42496,
       "question": "굴곡 배관을 할 경우에는 공기 빼기 밸브를 설치한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -385,7 +361,7 @@
       "id": 42497,
       "question": "배관의 기울기는 물의 흐름이 원활하도록 완만하게 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "④",

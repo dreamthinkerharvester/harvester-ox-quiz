@@ -7,13 +7,13 @@
   "source": "국가직 7급",
   "exam_year": 2026,
   "exam_round": null,
-  "count": 47,
+  "count": 44,
   "questions": [
     {
       "id": 25889,
       "question": "노동과 자본은 완전대체재이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 4,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 25890,
       "question": "직선 모양의 등량곡선을 갖는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 4,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 25891,
       "question": "노동과 자본의 최적 투입비율은 1:2이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 25892,
       "question": "한계기술대체율의 변화율 대비 자본－노동 투입비율의 변화율은 1이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 4,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 25893,
       "question": "무차별곡선이 원점에 대해 볼록한 모양을 갖는 것은 한계대체율이 체감한다는 의미이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 5,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 25894,
       "question": "두 재화가 완전한 대체관계에 있다면 기울기는 항상 －1의 값을 갖는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 5,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 25895,
       "question": "Y축이 음의 효용을 주는 비재화이고 X축이 양의 효용을 주는 재화라면 무차별곡선은 우상향하는 모양을 갖는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 5,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 25896,
       "question": "완전한 보완관계에 있는 두 재화의 무차별곡선은 자 모양을 갖는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 5,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 25898,
       "question": "의 우월전략이 없으므로 이 게임의 우월전략균형은 존재하지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 7,
         "option": "②",
@@ -121,7 +121,7 @@
       "id": 25899,
       "question": "내쉬균형은 복수로 존재할 수 있으며, 이 게임에서 내쉬균형은 2개이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "③",
@@ -133,7 +133,7 @@
       "id": 25900,
       "question": "우월전략균형은 항상 내쉬균형이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -145,7 +145,7 @@
       "id": 25901,
       "question": "경기변동은 반복적이나 불규칙적이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -157,7 +157,7 @@
       "id": 25902,
       "question": "GDP 지출항목 중에서 투자의 변동성은 소비에 비해 크다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -169,7 +169,7 @@
       "id": 25903,
       "question": "소비, 투자, GDP, 고용 등의 거시변수는 일반적으로 같은 방향으로 움직이는 공행성을 보인다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -181,7 +181,7 @@
       "id": 25904,
       "question": "국내총생산의 단기적 동향을 경제성장이라 하고 장기적 추세를 경기변동이라고 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "④",
@@ -193,7 +193,7 @@
       "id": 25905,
       "question": "국은 카메라에, 국은 스마트폰에 비교우위를 갖는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "①",
@@ -205,7 +205,7 @@
       "id": 25906,
       "question": "국은 스마트폰에, 국은 카메라에 비교우위를 갖는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -217,7 +217,7 @@
       "id": 25907,
       "question": "국은 카메라와 스마트폰 두 재화에 모두 비교우위를 갖는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -226,22 +226,10 @@
       }
     },
     {
-      "id": 25908,
-      "question": "국은 카메라와 스마트폰 두 재화에 모두 절대우위를 갖는다. 경 제 학 책형 2쪽",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 9,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 25909,
       "question": "甲과 乙 간에 자발적 협의를 통한 문제해결의 자세가 선제적으로 필요하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "①",
@@ -253,7 +241,7 @@
       "id": 25910,
       "question": "甲이 乙에게 늦은 밤 음악을 듣지 않는 대가로 50만 원의 비용을 제안하면 둘 사이의 갈등이 해결될 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -265,7 +253,7 @@
       "id": 25911,
       "question": "甲과 乙 사이의 자발적 협상에 관련한 거래비용이 매우 클 경우, 당사자 간 자발적 협상을 통한 해결은 어려울 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -277,7 +265,7 @@
       "id": 25912,
       "question": "갈등의 시작은 乙의 행위로부터 발생하는 외부성의 문제이므로 이를 해결하기 위해서는 정부의 개입이 필수적이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "④",
@@ -289,7 +277,7 @@
       "id": 25913,
       "question": "필립스곡선이 수직에 가까울수록 희생률이 작아진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -301,7 +289,7 @@
       "id": 25914,
       "question": "단기 총공급곡선이 가파를수록 필립스곡선도 가파르다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -313,7 +301,7 @@
       "id": 25915,
       "question": "희생률은 합리적 기대하에서보다 적응적 기대하에서 크게 나타난다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -325,7 +313,7 @@
       "id": 25916,
       "question": "적응적 기대하에서 실업률 상승이 없는 반인플레이션이란 단기 필립스곡선상의 움직임을 의미한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "④",
@@ -337,7 +325,7 @@
       "id": 25917,
       "question": "채무불이행 위험, 유동성, 세금 부과 여부가 다르지만 동일한 만기를 가진 채권들의 이자율 간의 관계를 이자율의 위험구조라고 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -349,7 +337,7 @@
       "id": 25918,
       "question": "만기가 서로 다른 채권들의 이자율 간의 관계를 이자율의 기간구조라고 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "②",
@@ -361,7 +349,7 @@
       "id": 25919,
       "question": "시장분리이론은 장ㆍ단기채권들의 이자율이 왜 동일한 방향으로 움직이는지를 잘 설명한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "③",
@@ -373,7 +361,7 @@
       "id": 25920,
       "question": "기대이론은 장ㆍ단기채권들 간의 완전대체성을 가정한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -385,7 +373,7 @@
       "id": 25921,
       "question": "공급곡선이 우상향하고 수요곡선이 완전비탄력적일 때 생산자에게 모두 귀착된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "①",
@@ -397,7 +385,7 @@
       "id": 25922,
       "question": "공급곡선이 우상향하고 수요곡선이 완전탄력적일 때 생산자에게 모두 귀착된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -409,7 +397,7 @@
       "id": 25923,
       "question": "수요곡선이 우하향하고 공급곡선이 완전탄력적일 때 소비자에게 모두 귀착된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -421,7 +409,7 @@
       "id": 25924,
       "question": "수요곡선이 우하향하고 공급곡선이 완전비탄력적일 때 생산자에게 모두 귀착된다. 근로감독 및 산업안전 분야 국가공무원 7급 공채 제2차시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "④",
@@ -433,7 +421,7 @@
       "id": 25925,
       "question": "수요가 증가하고 공급이 감소하면, 균형가격과 균형거래량은 최초 균형상태보다 모두 감소한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 17,
         "option": "①",
@@ -442,22 +430,10 @@
       }
     },
     {
-      "id": 25926,
-      "question": "수요가 감소하고 공급이 증가하면, 균형가격은 최초 균형상태보다 감소하지만 균형거래량의 변화는 알 수 없다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 17,
-        "option": "②",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 25927,
       "question": "수요와 공급이 모두 증가하면, 균형가격과 균형거래량은 최초 균형상태보다 모두 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -466,22 +442,10 @@
       }
     },
     {
-      "id": 25928,
-      "question": "수요와 공급이 모두 감소하면, 균형거래량은 최초 균형상태보다 증가하지만 균형가격의 변화는 알 수 없다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 17,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 25929,
       "question": "정상상태에서 자본량은 일정하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 20,
         "option": "①",
@@ -493,7 +457,7 @@
       "id": 25930,
       "question": "이고 일 때, 1인당 자본량 증가율은 저축률과 자본의 평균생산의 곱과 같다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "②",
@@ -505,7 +469,7 @@
       "id": 25931,
       "question": "현재의 가 정상상태의 보다 크다면, 정상상태수준으로 수렴하기 위해서는 와 이 낮아져야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 20,
         "option": "③",
@@ -517,7 +481,7 @@
       "id": 25932,
       "question": "정상상태에서 일반적으로 ∆이지만 저소득국가의 고도 성장기에서는 정상상태라도 ∆일 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 20,
         "option": "④",
@@ -529,7 +493,7 @@
       "id": 25933,
       "question": "소비자 보호를 목적으로 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 21,
         "option": "①",
@@ -541,7 +505,7 @@
       "id": 25934,
       "question": "시장 거래 가격은 하락한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 21,
         "option": "②",
@@ -553,7 +517,7 @@
       "id": 25935,
       "question": "시장거래량이 규제 가격에서의 수요량보다 적다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 21,
         "option": "③",
@@ -565,7 +529,7 @@
       "id": 25936,
       "question": "생산자잉여는 증가한다. 근로감독 및 산업안전 분야 국가공무원 7급 공채 제2차시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 21,
         "option": "④",

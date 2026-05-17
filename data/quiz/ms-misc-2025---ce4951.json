@@ -7,13 +7,13 @@
   "source": "군무원",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 34,
+  "count": 22,
   "questions": [
     {
       "id": 41677,
       "question": "네가 뜻한 바를 알겠다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 3,
         "option": "③",
@@ -22,22 +22,10 @@
       }
     },
     {
-      "id": 41678,
-      "question": "그가 떠난지가 오래다. 국어(지역인 역 인 재 ) 드 : 014) 성명 :",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 3,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 41684,
       "question": "부자는 노름으로 거지반 재산을 탕진하였다. → 부자는 노름으로 거의 모든 재산을 탕진 하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 7,
         "option": "①",
@@ -49,7 +37,7 @@
       "id": 41685,
       "question": "그가 오늘 결근한 것은 필시 사연이 있을 것이다. →그가 오늘 결근한 것은 틀림없이 사연이 있을 것이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 7,
         "option": "②",
@@ -61,7 +49,7 @@
       "id": 41686,
       "question": "환경부 장관은 국회 연설에서 자연보호를 누차 강조했다. →환경부 장관은 국회 연설 에서 자연보호를 누누이 강조했다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -70,22 +58,10 @@
       }
     },
     {
-      "id": 41687,
-      "question": "대다수의 기업은 아무렇지도 않게 직원을 1 해고하였다. → 거개의 기업은 아무렇지도 않게 직원을 해고하였다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 7,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 41688,
       "question": "프란치스코 교황은 공동체를 위해 지도자가 무엇을 해야 하는지, 어떤 자세(姿勢)로 임해야 하는지를 몸소 보여줬다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "①",
@@ -94,22 +70,10 @@
       }
     },
     {
-      "id": 41689,
-      "question": "교황은 ‘가난한 자의 성자’를 교황명으로 택한 한 그 뜻 그대로 평생 청빈(淸貧)한 삶을 실천 했다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 10,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 41690,
       "question": "공동체의 발전과 구성원들의 삶에 복무(服務) 하는 지도자를 갖고 있는가.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -121,7 +85,7 @@
       "id": 41691,
       "question": "이제 추모의 마음은 우리 스스로를 향한 자성(自性)의 거울이 돼야 할 것이다. 인재) 6 - 2",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "④",
@@ -133,7 +97,7 @@
       "id": 41692,
       "question": "어느새 방학이 다가왔다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -145,7 +109,7 @@
       "id": 41693,
       "question": "소중한 시간을 내어주어서 고맙습니다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "②",
@@ -157,7 +121,7 @@
       "id": 41694,
       "question": "생각지 못한 사고 때문에 오늘 내에 가기는 어려울 듯하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -169,57 +133,9 @@
       "id": 41695,
       "question": "정해진 순간이 점점 다가오자 우리는 모두 긴장을 숨길 수 없었다. 국어(지역인",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 41696,
-      "question": "청소년층에서 ‘잘 지내’라고 하고, 노년층에서 ‘건강하시게’라고 하는 것은 세대차에 의한 언어변이라고 할 수 있다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 13,
-        "option": "①",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 41697,
-      "question": "청소년층에서 ‘아빠, 엄마’라고 하고 노년층 에서 ‘어머니, 아버지’라고 하는 것은 연령 단계에 의한 언어변이라고 할 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 13,
-        "option": "②",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 41698,
-      "question": "청소년층에서 ‘덤벼, 남겨’라고 하고 노년층에서 ‘뎀벼, 냄겨’라고 하는 것은 연령 단계에 의한 언어변이라고 할 수 있다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 13,
-        "option": "③",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 41699,
-      "question": "청소년층에서 ‘거지, 어른’이라고 하고 노년층 에서 ‘그:지, 으:른’이라고 하는 것은 연령 단계에 의한 언어변이라고 할 수 있다. 인재) 6 - 3",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 13,
         "option": "④",
         "qtype": "opt-correct",
         "difficulty": null
@@ -229,7 +145,7 @@
       "id": 41700,
       "question": "‘끄나풀’과 ‘끄나불’은 ‘끄나풀’을 표준어로 삼는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "①",
@@ -241,7 +157,7 @@
       "id": 41701,
       "question": "‘분침’과 ‘푼침’은 ‘분침’을 표준어로 삼는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -253,7 +169,7 @@
       "id": 41702,
       "question": "‘강남콩’과 ‘강낭콩’은 ‘강남콩’을 표준어로 삼는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "③",
@@ -262,22 +178,10 @@
       }
     },
     {
-      "id": 41703,
-      "question": "‘둘째’와 ‘두째’는 ‘둘째’를 표준어로 삼는다. 국어(지역인 한 17. 다음 글의 내용에 가장 부합하는 것은? 자본주의 세상에서의 경제 활동도 유전자의 번식 경쟁이라는 측면에서 설명할 수 있다. 경제학에서 신고전학파 학자들이 제시한 ‘한계효용’이라는 개념이 있다. 우리가 어떤 행동을 할 때 처음에는 효용감이 크지만, 그 행동을 반복할수록 효용감이 점점 감소 한다. 이를 ‘한계효용 체감(감소)의 법칙’이라고 말한다. 한계효용 이론에서는 소비자가 자신의 한계효용이 0에 이르면 소비를 멈추는 합리적이고 독립적인 개인이라고 가정하지만, 생물학적 소비자(유전자)는 결코 이렇게 행동하지 않는다. 유전자는 무한한 번식 욕구와 경쟁 심리를 지닌 비합리적인 사회적 개체들 이다. 유전자는 자원이 허락한다면 짝짓기 횟수와 자식의 수를 더 늘리고자 하고, 자신이 가진 풍부한 자원을 상대방에게 과시하는 형태로 ‘번식 경쟁’이 일어난다. 원시 사회에서는 수컷들이 자신과 부양가족이 필요한 것 이상으로 더 많은 사냥을 해서 주변에 나누는 식 으로 번식 능력을 과시했다. 농경 사회로 접어든 이후로는 잉여가치의 획득을 통해 본격적인 과시적 소비와 신분 향상의 추구가 시작됐다. 현대 사회에 와서는 잘 노는 것이 부와 능력을 드러내는 상징이 됐다. 이는 현대인들이 실제로 번식은 하지 않으면서 번식을 목표로 발동되는 가열한 경쟁 심리에 쫓겨 발버둥치는 괴상한 삶을 살고 있다는 의미이다. ① 유전자는 한계효용체감의 법칙을 따르지 않는다. ② 현대인들은 경쟁에 쫓기고 싶지 않아 번식을 포기하고 있다. ③ 한계효용 이론에서는 소비자를 비합리적인 사회적 주체로 간주한다. ④ 현대 사회의 과시적 여가와 소비 행위는 생물학적 소비자의 합리적 경쟁 심리에서 비롯된다. 지 인재) 6 - 4",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 16,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 41704,
       "question": "네가 어떤 것을 선택하든지 결과는 달라지지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -289,7 +193,7 @@
       "id": 41706,
       "question": "나의 바램은 우리가 행복한 삶을 누리는 것이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "③",
@@ -301,7 +205,7 @@
       "id": 41707,
       "question": "오래 입은 셔츠가 흐릿하게 색이 바랬다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "④",
@@ -313,7 +217,7 @@
       "id": 41708,
       "question": "공감각적 심상이 나타난다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -325,7 +229,7 @@
       "id": 41709,
       "question": "영탄법과 비유법이 활용되었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 19,
         "option": "②",
@@ -337,7 +241,7 @@
       "id": 41710,
       "question": "현대 문명에 대한 비판이 나타난다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "③",
@@ -349,7 +253,7 @@
       "id": 41711,
       "question": "화자의 애상적인 정조가 나타난다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 19,
         "option": "④",
@@ -358,58 +262,10 @@
       }
     },
     {
-      "id": 41712,
-      "question": "유기체의 살아 있는 세포 안에서만 살 수 있는 모든 것은 바이러스이다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 20,
-        "option": "①",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 41713,
-      "question": "어떤 바이러스는 유기체의 살아 있는 세포 안에서만 살 수 있다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 20,
-        "option": "②",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 41714,
-      "question": "유기체의 살아 있는 세포 안에서 살 수 없는 바이러스도 있다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 20,
-        "option": "③",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 41715,
-      "question": "어떤 박테리아는 유기체의 살아 있는 세포 안에서만 살 수 있다. 국어(지역인",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 20,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 41719,
       "question": "㉠ K-culture, ㉡ 소프트 국어(지역인",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 23,
         "option": "④",

@@ -7,25 +7,13 @@
   "source": "가맹거래사 1차",
   "exam_year": 2026,
   "exam_round": null,
-  "count": 15,
+  "count": 12,
   "questions": [
-    {
-      "id": 30408,
-      "question": "甲의 이해관계인은 위난이 종료한 때로부터 할 수 없다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 43,
-        "option": "①",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
     {
       "id": 30409,
       "question": "甲의 실종선고로 인한 재산상속에 있어서 속인은 특별한 사정이 없는 한 법원에 甲의",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 43,
         "option": "②",
@@ -37,7 +25,7 @@
       "id": 30411,
       "question": "법원으로부터 실종선고를 받은 甲은 2020.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 43,
         "option": "④",
@@ -49,7 +37,7 @@
       "id": 30412,
       "question": "법원으로부터 실종선고를 받은 甲이 2026 그때부터 별도의 절차없이 효력을 상실한다",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 43,
         "option": "⑤",
@@ -58,22 +46,10 @@
       }
     },
     {
-      "id": 30414,
-      "question": "이행기가 각각 도래한 후 매매목적물의 인도 특별한 사정이 없는 한 그 이후의 과실수취",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 68,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 30415,
       "question": "부동산 매도인이 매수인에게 소유권이전등 으로는 특별한 사정이 없는 한 그의 권리이",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 68,
         "option": "③",
@@ -85,7 +61,7 @@
       "id": 30416,
       "question": "매도인이 말소할 의무를 부담하고 있는 매 있다면 매수인은 그 위험의 한도에서 매매",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 68,
         "option": "④",
@@ -97,7 +73,7 @@
       "id": 30417,
       "question": "수량지정 매매에 있어서 매도인의 담보책임에 악의인 경우에는 인정되지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 68,
         "option": "⑤",
@@ -109,7 +85,7 @@
       "id": 30422,
       "question": "계약에 위반한 사용ㆍ수익으로 인한 손해의 부터 6개월이 지났지만, 3년이 지나기 전에",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 72,
         "option": "⑤",
@@ -121,7 +97,7 @@
       "id": 30425,
       "question": "건물의 임대차기간은 3년으로 정할 수 있다",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 73,
         "option": "③",
@@ -133,7 +109,7 @@
       "id": 30427,
       "question": "동산의 임대차기간은 6개월로 정할 수 있다",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 73,
         "option": "⑤",
@@ -142,22 +118,10 @@
       }
     },
     {
-      "id": 30428,
-      "question": "수임인은 부득이한 사유가 있는 경 위임사무를 처리하게 할 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 79,
-        "option": "ㄱ",
-        "qtype": "sub-all-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 30429,
       "question": "수임인이 위임인을 위하여 자기의 하여야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 정답 조합(ㄴ, ㄷ, ㄹ)에 포함되는 항목이다.",
       "source": {
         "qid": 79,
         "option": "ㄴ",
@@ -169,7 +133,7 @@
       "id": 30430,
       "question": "위임사무의 처리에 비용을 요하는 때 이를 선급하여야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 정답 조합(ㄴ, ㄷ, ㄹ)에 포함되는 항목이다.",
       "source": {
         "qid": 79,
         "option": "ㄷ",
@@ -181,7 +145,7 @@
       "id": 30431,
       "question": "수임인이 위임사무의 처리를 위하여 대하여 그 배상을 청구할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 정답 조합(ㄴ, ㄷ, ㄹ)에 포함되는 항목이다.",
       "source": {
         "qid": 79,
         "option": "ㄹ",

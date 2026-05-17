@@ -7,13 +7,13 @@
   "source": "국회직 9급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 43,
+  "count": 39,
   "questions": [
     {
       "id": 40156,
       "question": "사적 소유의 발생이 인간 사이의 불평등을 초래한다고 본다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 40157,
       "question": "인간을 자연 상태에서 자신의 생존과 이익을 최우선으로 추구하 는 존재로 본다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 40158,
       "question": "질서와 안전은 절대적 권위를 지닌 통치자의 강력한 권력에 의해 유지된다고 본다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 40159,
       "question": "갑의 회사는 부당 해고를, 을의 회사는 부당노동행위를 하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 6,
         "option": "①",
@@ -58,22 +58,10 @@
       }
     },
     {
-      "id": 40160,
-      "question": "갑이 속한 노동조합도 부당노동행위 구제신청을 할 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 6,
-        "option": "②",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 40161,
       "question": "을이부당해고구제신청을하기위해서는노동조합을거쳐야한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 6,
         "option": "③",
@@ -85,7 +73,7 @@
       "id": 40162,
       "question": "을이 법원에 해고무효확인소송을 하기 위해서는 노동위원회의 결정이 필요하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 6,
         "option": "④",
@@ -97,7 +85,7 @@
       "id": 40163,
       "question": "갑과 을은 행정소송을 거친 후 노동위원회에 재심을 신청할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 6,
         "option": "⑤",
@@ -109,7 +97,7 @@
       "id": 40164,
       "question": "구상과 실행의 분리를 통해 노동의 세분화를 가속화하는 체계이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "①",
@@ -121,7 +109,7 @@
       "id": 40165,
       "question": "다양한 제품을 신속하게 공급할 수 있도록 다품종 소량생산을 추 구하는 체계이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -133,7 +121,7 @@
       "id": 40166,
       "question": "표준화된 제품 시장이 포화상태에 놓임에 따라 다양한 수요에 적 응하기 위한 전략이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -145,7 +133,7 @@
       "id": 40167,
       "question": "필요한 제품을 필요할 때 필요한 만큼 만드는 일본의 적시 (just-in-time) 생산 체계가 이에 해당한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -157,7 +145,7 @@
       "id": 40168,
       "question": "경직된 생산조직에서 단순한 노동을 수행하는 기업보다는 노동 자가 다양한 기능을 수행하는 기업에 더 적합한 체계이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 8,
         "option": "⑤",
@@ -169,7 +157,7 @@
       "id": 40169,
       "question": "우리나라 국회는 ㉡의 체결·비준 권한을 갖는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 11,
         "option": "①",
@@ -181,7 +169,7 @@
       "id": 40170,
       "question": "㉢은 원칙적으로 일부 국가에 한해서만 법적 구속력을 갖는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 11,
         "option": "②",
@@ -193,7 +181,7 @@
       "id": 40171,
       "question": "㉠은 일반적으로 ㉢에 비해 재판 규범으로서 갖는 한계가 크다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 11,
         "option": "③",
@@ -205,7 +193,7 @@
       "id": 40172,
       "question": "㉡의예로는내정불간섭이, ㉢의예로는파리협정(Paris Agreement) 이 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 11,
         "option": "④",
@@ -217,7 +205,7 @@
       "id": 40173,
       "question": "우리나라 헌법에 의하여 체결·공포된 ㉡은 ㉠과 동일한 효력을 가진다. - 21 - 사 회",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "⑤",
@@ -229,7 +217,7 @@
       "id": 40174,
       "question": "갑의 연구는 방법론적 이원론에 기초하고 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -241,7 +229,7 @@
       "id": 40175,
       "question": "을의 연구는 연구 결과를 일반화하기에 용이하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 13,
         "option": "②",
@@ -253,7 +241,7 @@
       "id": 40176,
       "question": "갑의 연구는 을의 연구에 비해 연구자의 주관적 가치 개입 가능 성이 높다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 13,
         "option": "③",
@@ -265,7 +253,7 @@
       "id": 40177,
       "question": "을의 연구는 갑의 연구에 비해 인간 행위의 동기를 이해하는 데 유리하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "④",
@@ -277,7 +265,7 @@
       "id": 40178,
       "question": "갑과 을의 연구는 모두 독립 변수와 종속 변수 간의 법칙 발견에 목적이 있다. - 2025년도 국회사무처 시행 9급 공개경쟁채용시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 13,
         "option": "⑤",
@@ -289,7 +277,7 @@
       "id": 40179,
       "question": "A의 경우 생산 측면에서 사회적 비용보다 개인적 비용이 적다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 15,
         "option": "①",
@@ -301,7 +289,7 @@
       "id": 40180,
       "question": "A에서는 사회적 최적 수준보다 과소 생산·소비되는 문제가 발생 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "②",
@@ -313,7 +301,7 @@
       "id": 40181,
       "question": "B의 경우 소비 측면에서 사회적 편익보다 개인적 편익이 작다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -325,7 +313,7 @@
       "id": 40182,
       "question": "B로 인한 문제점 해결 방안으로는 생산자에 대한 보조금 지급이 18 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 15,
         "option": "④",
@@ -334,22 +322,10 @@
       }
     },
     {
-      "id": 40183,
-      "question": "A의 예로는 오염 물질 배출을, B의 예로는 독감 예방 접종을 들 수 있다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 15,
-        "option": "⑤",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 40184,
       "question": "A는 단순 업무의 반복으로 자율성과 창의성을 억제해 인간 소외를 낳는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "①",
@@ -361,7 +337,7 @@
       "id": 40185,
       "question": "B에서는 규정을 따르는 것이 목표보다 앞서 목적 전치가 일어날 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -373,7 +349,7 @@
       "id": 40186,
       "question": "A와 달리 B에서는 안정성을 중시해 환경 변화에 유연하게 대응 하기 어렵다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -385,7 +361,7 @@
       "id": 40187,
       "question": "B와 달리 A에서는 신분 보장이 약화되어 무사안일주의가 줄어 든다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "④",
@@ -397,7 +373,7 @@
       "id": 40188,
       "question": "A와 B 모두 연공서열보다 구성원의 능력과 성과에 따른 보상을 중시한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "⑤",
@@ -409,7 +385,7 @@
       "id": 40189,
       "question": "다른 기본권 보장의 전제 조건이 되는 기본권이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "①",
@@ -421,7 +397,7 @@
       "id": 40190,
       "question": "법률에 의해서도 제한될 수 없는 절대적 기본권이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -433,7 +409,7 @@
       "id": 40191,
       "question": "기본권 가운데 가장 최근에 등장한 현대적 기본권에 해당한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 18,
         "option": "③",
@@ -445,7 +421,7 @@
       "id": 40192,
       "question": "국가에게 일정한 작위를 요구할 수 있는 청구권적 기본권이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 18,
         "option": "④",
@@ -457,7 +433,7 @@
       "id": 40193,
       "question": "국민이 정치과정에 참여하여 국가의 정치적 의사 형성에 기여할 수 있는 능동적 기본권이다. - 2025년도 국회사무처 시행 9급 공개경쟁채용시험 사 회",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 18,
         "option": "⑤",
@@ -469,7 +445,7 @@
       "id": 40194,
       "question": "(가)는 선별적 복지 이념을 바탕으로 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -481,7 +457,7 @@
       "id": 40195,
       "question": "(나)는 사회적 위험에 대한 사전 예방적 성격이 강하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 19,
         "option": "②",
@@ -493,34 +469,10 @@
       "id": 40196,
       "question": "(다)는 상호 부조의 원리를 기반으로 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 19,
         "option": "③",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 40197,
-      "question": "(가)와 (나)는 임의 가입을 원칙으로 한다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 19,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 40198,
-      "question": "(다)는 (가)에 비해 소득 재분배 효과가 크다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 19,
-        "option": "⑤",
         "qtype": "opt-correct",
         "difficulty": null
       }

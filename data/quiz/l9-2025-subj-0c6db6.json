@@ -13,7 +13,7 @@
       "id": 43102,
       "question": "약산성～중성의 토양반응에서 작물생육이 불량하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 43103,
       "question": "식토는 작물의 생육에 필요한 토양공기의 통기가 좋다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 43104,
       "question": "토양은 단립구조가 발달할수록 작물의 생육이 좋아진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 43105,
       "question": "토양 중의 산소가 적으면 작물 뿌리의 생장이 불량하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 43106,
       "question": "분해되면서 생장촉진물질을 생성한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 3,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 43107,
       "question": "유용미생물의 영양원이 되어 번식을 촉진한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 3,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 43108,
       "question": "토양의 색깔을 검게 하여 지온을 낮춘다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 3,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 43109,
       "question": "산(酸)을 생성하여 암석 분해를 촉진한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 3,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 43110,
       "question": "코팅 물질에 양분을 첨가할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 5,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 43111,
       "question": "필름코팅은 중합체(polymer)를 사용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 5,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 43112,
       "question": "콩과 같은 큰 종자는 주로 종자 펠릿으로 만든다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 5,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 43113,
       "question": "농약이나 색소를 혼합하여 종자 표면에 덧씌운다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 5,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 43114,
       "question": "내습성인 작물과 품종을 선택하여 재배한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 43115,
       "question": "뿌림골을 좁히거나 재식밀도를 성기게 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 6,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 43116,
       "question": "질소의 다용을 피하고 인산과 칼리를 증시한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 6,
         "option": "③",
@@ -193,7 +193,7 @@
       "id": 43117,
       "question": "봄철 보리밭이나 밀밭이 건조할 때에는 답압을 한다. 재배학개론 책형 1쪽",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 6,
         "option": "④",
@@ -205,7 +205,7 @@
       "id": 43118,
       "question": "현미는 벼보다 장기간 저장에 유리하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "①",
@@ -217,7 +217,7 @@
       "id": 43119,
       "question": "유리지방산도는 곡물의 변질을 판단하는 지표 물질이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "②",
@@ -229,7 +229,7 @@
       "id": 43120,
       "question": "저장 중 호흡소모와 수분증발 등으로 중량의 감소가 일어난다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -241,7 +241,7 @@
       "id": 43121,
       "question": "저장 중에 산소 농도를 낮추면 곡물의 변질이 감소할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -253,7 +253,7 @@
       "id": 43122,
       "question": "종자는 크고 무거운 것이 충실하며, 발아 및 생육이 좋다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -265,7 +265,7 @@
       "id": 43123,
       "question": "저장 종자의 품질에 가장 큰 영향을 끼치는 요인은 광량이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "②",
@@ -277,7 +277,7 @@
       "id": 43124,
       "question": "종자를 치상한 후 일정 기간까지의 발아율을 발아세라고 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -289,7 +289,7 @@
       "id": 43125,
       "question": "종자의 순도분석은 순수 종자 외에 이종 종자 및 이물을 확인할 때 실시한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -301,7 +301,7 @@
       "id": 43126,
       "question": "수확하기 위해 재배하는 식물을 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -313,7 +313,7 @@
       "id": 43127,
       "question": "수량은 유전성, 재배환경, 재배기술에 의해 좌우된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -325,7 +325,7 @@
       "id": 43128,
       "question": "인류가 필요로 하는 부분이 이상 발달한 일종의 기형 식물이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -337,7 +337,7 @@
       "id": 43129,
       "question": "분화는 고립→유전적 변이→도태와 적응의 순서로 이루어진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "④",
@@ -349,7 +349,7 @@
       "id": 43130,
       "question": "전분보다 당의 함량이 많으면 내동성이 크다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "①",
@@ -361,7 +361,7 @@
       "id": 43131,
       "question": "원형질의 수분 투과성이 크면 세포 내 결빙을 크게 하여 내동성이 증대된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -373,7 +373,7 @@
       "id": 43132,
       "question": "세포의 수분함량이 높아서 자유수가 많으면 세포의 결빙이 줄어 내동성이 커진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -385,7 +385,7 @@
       "id": 43133,
       "question": "원형질의 점도가 높고 연도(軟度)가 낮은 것이 내동성이 크다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 10,
         "option": "④",
@@ -397,7 +397,7 @@
       "id": 43134,
       "question": "A는 반복친으로 목표 형질을 제외한 대부분의 형질이 우수한 품종이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "①",
@@ -409,7 +409,7 @@
       "id": 43135,
       "question": "B는 1회친이라고 하고 목표 형질을 가진 품종을 사용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "②",
@@ -421,7 +421,7 @@
       "id": 43136,
       "question": "여교배육종법의 기본과정을 나타낸 것이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "③",
@@ -433,7 +433,7 @@
       "id": 43137,
       "question": "반복친의 우수한 특성을 1회친에다 옮기는 방법이다. 2025년도 지방공무원 9급 등 공개경쟁임용 필기시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "④",
@@ -445,7 +445,7 @@
       "id": 43138,
       "question": "녹식물춘화형 식물은 녹체기에 저온처리를 하는데, 이때 감응 부위는 어린잎이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "①",
@@ -457,7 +457,7 @@
       "id": 43139,
       "question": "화학적 춘화는 지베렐린과 같은 화학물질을 처리해서 춘화처리의 효과를 내는 경우를 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -469,7 +469,7 @@
       "id": 43140,
       "question": "이춘화는 춘화처리 과정에서 고온이나 건조 등으로 인해 춘화처리 효과가 감퇴되는 것을 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -481,7 +481,7 @@
       "id": 43141,
       "question": "종자춘화형 식물인 추파맥류는 최아종자를 저온처리하여 봄에 파종하여도 정상적 출수를 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -493,7 +493,7 @@
       "id": 43142,
       "question": "수확적기는 황숙기이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -505,7 +505,7 @@
       "id": 43143,
       "question": "못자리 기간은 유묘기에 속한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -517,7 +517,7 @@
       "id": 43144,
       "question": "물을 가장 많이 필요로 하는 시기는 수잉기이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 14,
         "option": "③",
@@ -529,7 +529,7 @@
       "id": 43145,
       "question": "무효분얼기와 유수형성기는 모두 생식생장기에 속한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "④",
@@ -541,7 +541,7 @@
       "id": 43146,
       "question": "기계화 및 대량생산에 적응성이 있어야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "①",
@@ -553,7 +553,7 @@
       "id": 43147,
       "question": "재배와 이용에 지장이 없도록 특성이 균일해야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -565,7 +565,7 @@
       "id": 43148,
       "question": "세대를 반복해서 재배하여도 특성이 변하지 않아야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -577,7 +577,7 @@
       "id": 43149,
       "question": "한 가지 이상의 특성이 기존 품종과 뚜렷이 구별되어야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "④",
@@ -589,7 +589,7 @@
       "id": 43150,
       "question": "같은 유전자형이 나타내는 표현형의 범위를 그 유전자형의 반응규격이라고 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -601,7 +601,7 @@
       "id": 43151,
       "question": "공우성은 이형접합체에 두 대립유전자의 특성이 모두 나타나며, F 분리비는 9:6:1이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "②",
@@ -613,7 +613,7 @@
       "id": 43152,
       "question": "보족유전자는 2종의 우성유전자들이 함께 작용하여 한 가지 표현형을 나타내는 현상이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 18,
         "option": "③",
@@ -625,7 +625,7 @@
       "id": 43153,
       "question": "변경유전자는 주동유전자의 작용을 질적ㆍ양적으로 조절하는 유전자이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 18,
         "option": "④",

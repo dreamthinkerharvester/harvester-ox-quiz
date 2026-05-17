@@ -7,13 +7,13 @@
   "source": "국가직 7급",
   "exam_year": 2026,
   "exam_round": null,
-  "count": 26,
+  "count": 25,
   "questions": [
     {
       "id": 26172,
       "question": "속도가 증가하면 계자자속이 감소한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 26173,
       "question": "부하변동에 따른 속도변화가 작다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 26174,
       "question": "무부하상태에서 정상운전이 가능하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 26175,
       "question": "직류 분권전동기에 비해 기동토크가 작다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 2,
         "option": "④",
@@ -58,22 +58,10 @@
       }
     },
     {
-      "id": 26179,
-      "question": "조속기의 동작을 신속하게 할 것 전기기기 책형 1쪽",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 3,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 26180,
       "question": "회전속도는 입력 펄스 주파수에 반비례한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 6,
         "option": "①",
@@ -85,7 +73,7 @@
       "id": 26181,
       "question": "위치센서나 피드백 시스템이 필요하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 6,
         "option": "②",
@@ -97,7 +85,7 @@
       "id": 26182,
       "question": "기동, 정지 및 회전 방향 변경이 쉽다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "③",
@@ -109,7 +97,7 @@
       "id": 26183,
       "question": "정밀한 위치제어가 어렵다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 6,
         "option": "④",
@@ -121,7 +109,7 @@
       "id": 26184,
       "question": "각 변압기의 극성이 같아야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -133,7 +121,7 @@
       "id": 26185,
       "question": "각 변압기의 저항과 리액턴스의 비가 같아야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -145,7 +133,7 @@
       "id": 26186,
       "question": "각 변압기의 백분율 임피던스 강하가 같아야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -157,7 +145,7 @@
       "id": 26187,
       "question": "각 변압기의 1차와 2차 정격전류가 같아야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "④",
@@ -169,7 +157,7 @@
       "id": 26189,
       "question": "기계적으로 더 튼튼하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -181,7 +169,7 @@
       "id": 26190,
       "question": "기전력의 파형이 더 우수하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "②",
@@ -193,7 +181,7 @@
       "id": 26191,
       "question": "전기자권선의 결선구조가 더 간단하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -205,7 +193,7 @@
       "id": 26192,
       "question": "전기자권선의 절연이 더 용이하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -217,7 +205,7 @@
       "id": 26193,
       "question": "자기 기동능력이 없다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -229,7 +217,7 @@
       "id": 26194,
       "question": "난조가 일어나기 쉽다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 13,
         "option": "②",
@@ -241,7 +229,7 @@
       "id": 26195,
       "question": "역률을 조정할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 13,
         "option": "③",
@@ -253,7 +241,7 @@
       "id": 26196,
       "question": "계자 손실은 주로 철손이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "④",
@@ -265,7 +253,7 @@
       "id": 26197,
       "question": "IGBT 근로감독 및 산업안전 분야 국가공무원 7급 공채 제2차시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "④",
@@ -277,7 +265,7 @@
       "id": 26198,
       "question": "일정 출력에서 전기자전류와 계자전류의 관계를 나타낸다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 25,
         "option": "①",
@@ -289,7 +277,7 @@
       "id": 26199,
       "question": "일정 출력이고 역률이 1일 때, 전기자전류는 최소가 된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 25,
         "option": "②",
@@ -301,7 +289,7 @@
       "id": 26200,
       "question": "일정 출력이고 역률이 진상일 때, 계자전류가 증가하면 역률은 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 25,
         "option": "③",
@@ -313,7 +301,7 @@
       "id": 26201,
       "question": "일정 출력이고 역률이 지상일 때, 계자전류가 감소하면 역률은 감소한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 25,
         "option": "④",

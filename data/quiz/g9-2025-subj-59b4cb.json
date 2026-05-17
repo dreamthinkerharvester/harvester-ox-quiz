@@ -13,7 +13,7 @@
       "id": 38514,
       "question": "계정명은 ‘root’이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 38515,
       "question": "패스워드는 ‘x’이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 38516,
       "question": "홈 디렉터리는 ‘/root’이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 38517,
       "question": "기본 shell 설정은 ‘bash’이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 9,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 38521,
       "question": "405: Request Entity Too Large 2025년도 국가공무원 9급 공채 필기시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "④",
@@ -73,7 +73,7 @@
       "id": 38522,
       "question": "IETF에 의해 개발되었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "①",
@@ -85,7 +85,7 @@
       "id": 38523,
       "question": "전자 서명을 통해 인증을 제공한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -97,7 +97,7 @@
       "id": 38524,
       "question": "ZIP 알고리즘으로 압축을 제공한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -109,7 +109,7 @@
       "id": 38525,
       "question": "대칭 키 암호를 통해 기밀성을 제공한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "④",
@@ -121,7 +121,7 @@
       "id": 38527,
       "question": "-R 옵션은 RPC 스캔을 실시한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 38528,
       "question": "-n 옵션은 DNS Lookup을 하지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 38529,
       "question": "-v 옵션은 스캔 결과를 상세하게 출력한다. 정보시스템 보안 책형 2쪽",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "④",

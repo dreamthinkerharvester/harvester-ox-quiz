@@ -7,13 +7,13 @@
   "source": "지방직 9급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 24,
+  "count": 23,
   "questions": [
     {
       "id": 43185,
       "question": "＝1, ＝0일 때 는 1이 된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 43186,
       "question": "＝0, ＝1일 때 는 0이 된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 43187,
       "question": "＝0, ＝0일 때 는 현재 값을 유지한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 43188,
       "question": "＝1, ＝1일 때 는 현재 값을 유지한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 43189,
       "question": "비선형 왜곡이 감소한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 4,
         "option": "③",
@@ -73,7 +73,7 @@
       "id": 43190,
       "question": "안정적으로 조절 가능한 전압 이득을 제공한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 4,
         "option": "④",
@@ -85,7 +85,7 @@
       "id": 43191,
       "question": "연산증폭기의 입력단으로 사용된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 7,
         "option": "①",
@@ -97,7 +97,7 @@
       "id": 43192,
       "question": "공통모드 이득이 클수록 증폭기의 성능이 우수하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "②",
@@ -109,7 +109,7 @@
       "id": 43193,
       "question": "두 개의 입력단에 유입되는 잡음을 제거하는 효과가 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -121,7 +121,7 @@
       "id": 43194,
       "question": "공통모드 제거비(CMRR)는 차동모드 이득과 공통모드 이득의 비이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -133,7 +133,7 @@
       "id": 43196,
       "question": "순방향 전압에서는 전류가 흐르지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "①",
@@ -145,7 +145,7 @@
       "id": 43197,
       "question": "항복 영역에서 제너 전압은 거의 일정하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -157,7 +157,7 @@
       "id": 43198,
       "question": "전압 조정기(regulator) 회로를 구현하는 데 사용된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -169,7 +169,7 @@
       "id": 43199,
       "question": "항복 전압을 줄이기 위해 불순물 도핑 농도를 크게 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -181,7 +181,7 @@
       "id": 43202,
       "question": "이미터 팔로워(emitter follower) 회로이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 13,
         "option": "③",
@@ -193,7 +193,7 @@
       "id": 43203,
       "question": "출력전압  의 위상이 입력전압 의 위상과 같다.  ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -205,7 +205,7 @@
       "id": 43204,
       "question": "변조를 하면 수신 안테나의 길이를 줄일 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -214,22 +214,10 @@
       }
     },
     {
-      "id": 43205,
-      "question": "변조를 하면 주파수 분할 다중 통신을 할 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 14,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 43206,
       "question": "변조지수는 정보신호 진폭과 반송파 진폭의 합이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "③",
@@ -241,7 +229,7 @@
       "id": 43207,
       "question": "변조는 반송파의 진폭, 주파수, 또는 위상 등에 정보 신호를 실어 보내는 것이다. 전자공학개론 책형 3쪽",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -253,7 +241,7 @@
       "id": 43208,
       "question": "단안정 멀티바이브레이터 회로이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "①",
@@ -265,7 +253,7 @@
       "id": 43209,
       "question": "정귀환(positive feedback) 루프를 가진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -277,7 +265,7 @@
       "id": 43210,
       "question": "히스테리시스(hysteresis) 특성을 가진다.  ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -289,7 +277,7 @@
       "id": 43211,
       "question": "귀환율(feedback factor)은 이다.     2025년도 지방공무원 9급 등 공개경쟁임용 필기시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "④",

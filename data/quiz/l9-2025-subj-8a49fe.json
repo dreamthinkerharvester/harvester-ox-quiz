@@ -13,7 +13,7 @@
       "id": 43241,
       "question": "도서관의 물리적 경계와 기관적 한계를 넘어선 내용을 교육한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 4,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 43242,
       "question": "다양한 교육 내용이 필요해지면서 특정 주제에 관심있는 전문적 이용자를 대상으로 하는 이용자교육을 지칭하게 되었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 4,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 43243,
       "question": "학술활동에 필요한 연구 방법 및 주제 분야의 깊이 있는 정보탐색에 필요한 수단과 방법을 가르친다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 4,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 43244,
       "question": "학습자의 문제해결 능력보다는 도서관 소장자료의 이용 방법에 중점을 두는 기술적 교육을 강조한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 43245,
       "question": "실제 정보서비스의 상황과 큰 차이가 발생할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 5,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 43246,
       "question": "대리 이용자에 대한 적절한 교육 훈련이 이루어져야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 5,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 43247,
       "question": "평가 자체에 대해 사서의 부정적 인식이 가중될 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 5,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 43248,
       "question": "사서가 모르게 진행되기 때문에 윤리적 문제가 발생할 수 있다. 정보봉사개론 책형 1쪽",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 5,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 43249,
       "question": "눈덩이굴리기 전략은 최소 자료 우선탐색 전략이라고도 하며 정보검색을 위한 준비가 필요하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 43250,
       "question": "특정 패싯 우선탐색 전략은 원하는 결과를 얻었다고 판단되면 그 시점에서 탐색을 종료할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 43251,
       "question": "점진 분할 전략은 넓은 개념으로 탐색을 시작한 후에 다양한 제한기법을 사용하여 탐색을 좁혀 간다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 43252,
       "question": "블록만들기 전략은 개념분석 단계에서 식별된 단일개념별로 탐색이 완성된 후에 적절한 불리언 연산자를 사용하여 모든 세트를 결합한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 43253,
       "question": "CiteSeer는 NEC Research Institute가 개발한 서비스이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 43254,
       "question": "Scopus는 Clarivate사가 서비스하는 웹 데이터베이스로서 인용 색인의 기능을 제공한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 43255,
       "question": "KCI는 국내 학술지에 수록된 논문에 대한 각종 서지 및 인용 정보를 제공한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -193,7 +193,7 @@
       "id": 43256,
       "question": "SSCI는 사회과학분야 주요 학술지의 서지 및 인용정보를 수록하고 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 9,
         "option": "④",
@@ -205,7 +205,7 @@
       "id": 43257,
       "question": "브레이빅(Breivik)의 정보 리터러시 우산 모형은 데이터 리터러시 용어를 제시하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 10,
         "option": "①",
@@ -217,7 +217,7 @@
       "id": 43258,
       "question": "AASL-AECT는 도서관 활용능력과 IT 활용능력을 종합해 5개 정보 리터러시 기준을 제시하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -229,7 +229,7 @@
       "id": 43259,
       "question": "Big6 Skills 모형은 정보문제를 해결하는 과정을 이용자의 수준에 따라 3단계, 6단계, 12단계로 나누어 제시하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "③",
@@ -241,7 +241,7 @@
       "id": 43260,
       "question": "쿨타우(Kuhlthau)의 ISP 모형은 도구 리터러시, 정보 리터러시, 소통 리터러시를 핵심 리터러시로 제시하였다. 2025년도 지방공무원 9급 등 공개경쟁임용 필기시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 10,
         "option": "④",
@@ -253,7 +253,7 @@
       "id": 43261,
       "question": "범위(scope): 기존지식 평가, 정보 격차 확인 및 식별",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "①",
@@ -265,7 +265,7 @@
       "id": 43262,
       "question": "수집(gather): 필요 정보 소재 파악 및 접근",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "②",
@@ -277,7 +277,7 @@
       "id": 43263,
       "question": "평가(evaluate): 연구과정 검토, 정보자료 비교 평가",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "③",
@@ -289,7 +289,7 @@
       "id": 43264,
       "question": "관리(manage): 조사 정보 종합 및 생성 배포",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "④",
@@ -301,7 +301,7 @@
       "id": 43265,
       "question": "검색 모형 중에 확률 이론을 사용하는 모형으로 추론망과 신념망 모형이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -313,7 +313,7 @@
       "id": 43266,
       "question": "확률 검색은 확률 이론을 사용하여 질의에 대한 문헌의 적합성을 산출하는 검색 모형이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -325,7 +325,7 @@
       "id": 43267,
       "question": "확장 불리언 모형은 불리언 모형의 완전일치 장점과 벡터공간 모형의 용어가중치 장점을 결합하여 적용한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "③",
@@ -337,7 +337,7 @@
       "id": 43268,
       "question": "벡터공간 모형은 문헌과 질의를 각 용어의 벡터로 표현한 다음 두 벡터 간의 유사도로 검색문헌들을 순위화한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -349,7 +349,7 @@
       "id": 43269,
       "question": "역문헌빈도가 큰 용어는 보편적으로 사용되는 용어일 가능성이 크다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -361,7 +361,7 @@
       "id": 43270,
       "question": "역문헌빈도는 상대적으로 적은 문헌에 출현한 용어의 가중치를 높게 만든다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "②",
@@ -373,7 +373,7 @@
       "id": 43271,
       "question": "긴 문헌에 출현한 용어의 가중치를 높이기 위해 문헌길이 정규화를 적용할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "③",
@@ -385,7 +385,7 @@
       "id": 43272,
       "question": "용어출현빈도를 가중치로 적용하면 용어의 출현횟수가 적을수록 용어가중치가 높게 부여된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -397,7 +397,7 @@
       "id": 43273,
       "question": "메타데이터 스키마의 세 가지 구성 요소는 의미구조, 내용규칙, 구문이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -409,7 +409,7 @@
       "id": 43274,
       "question": "XML은 태그가 미리 정의되어 있지 않고 이용자가 직접 태그를 정의할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -421,7 +421,7 @@
       "id": 43275,
       "question": "XML 구문에서는 네임스페이스를 이용하여 더블린 코어 요소를 고유하게 식별할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 14,
         "option": "③",
@@ -433,7 +433,7 @@
       "id": 43276,
       "question": "XML 스키마는 메타데이터의 기술과 교환을 위한 구조로 데이터를 주어, 술어, 목적어의 트리플 형식으로 기술한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "④",

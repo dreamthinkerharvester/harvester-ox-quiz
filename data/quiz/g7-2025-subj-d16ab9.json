@@ -13,7 +13,7 @@
       "id": 35133,
       "question": "운전이 정숙하고 충격을 흡수할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 2,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 35134,
       "question": "벨트를 걸어 감는 방법으로 바로걸기와 엇걸기가 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 35135,
       "question": "평벨트에 비해 접촉면적이 넓어 작은 장력으로 큰 동력을 얻을 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 35136,
       "question": "벨트가 풀리에 감길 때 벨트의 바깥쪽은 늘어나고 안쪽은 줄어드는 굽힘 현상이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 2,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 35137,
       "question": "피치가 클수록 자립조건 만족에 불리하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 35138,
       "question": "리드각이 마찰각보다 크면 자립상태가 된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 35139,
       "question": "축방향 하중은 자립조건에 크게 영향을 미친다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 35140,
       "question": "사각나사는 삼각나사보다 자립상태 유지에 유리하다. 2025년도 국가공무원 7급 공채 제2차 필기시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 35141,
       "question": "반복하중일 때는 피로한도를 기준강도로 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 16,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 35142,
       "question": "긴 기둥이나 편심하중에서는 좌굴응력을 기준강도로 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 35143,
       "question": "고온에서 정하중이 작용할 때는 크리프 한도를 기준강도로 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 35144,
       "question": "정하중이 주철과 같은 취성 재료에 작용할 때는 항복강도를 기준강도로 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 35145,
       "question": "마찰계수는 베어링계수와 반비례한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 35146,
       "question": "윤활유의 점도가 클수록 마찰계수는 커진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 35147,
       "question": "저속 및 고하중의 경우에는 마찰계수가 작아진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -193,7 +193,7 @@
       "id": 35148,
       "question": "베어링에 작용하는 압력이 낮을수록 마찰계수는 커진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "④",
@@ -205,7 +205,7 @@
       "id": 35149,
       "question": "회전축의 각속도 변동을 줄여 주는 역할을 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -217,7 +217,7 @@
       "id": 35150,
       "question": "관성차의 출력은 극관성모멘트의 크기와 관계가 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "②",
@@ -229,7 +229,7 @@
       "id": 35151,
       "question": "관성차 내에 축적된 운동에너지는 작업을 위한 에너지로 전환할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -241,7 +241,7 @@
       "id": 35152,
       "question": "동일 조건에서 큰 출력을 내려면 관성차 회전 중심쪽을 두껍게, 바깥쪽을 얇게 제작한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "④",
@@ -253,7 +253,7 @@
       "id": 35153,
       "question": "벨트나 로프 전동보다 전동효율이 높다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 23,
         "option": "①",
@@ -265,7 +265,7 @@
       "id": 35154,
       "question": "링크 수를 조절하면 축간거리를 조절할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 23,
         "option": "②",
@@ -277,7 +277,7 @@
       "id": 35155,
       "question": "사일런트 체인은 롤러체인보다 소음이 적고 고속용으로도 쓰인다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 23,
         "option": "③",
@@ -289,7 +289,7 @@
       "id": 35156,
       "question": "스프로킷 휠이 일정한 각속도로 회전하면 체인의 속도 변동은 없다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 23,
         "option": "④",

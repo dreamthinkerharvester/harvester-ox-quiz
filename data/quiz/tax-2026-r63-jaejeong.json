@@ -7,13 +7,13 @@
   "source": "세무사 1차",
   "exam_year": 2026,
   "exam_round": 63,
-  "count": 143,
+  "count": 142,
   "questions": [
     {
       "id": 111,
       "question": "직접세는 법적 납세의무자와 담세자가 일치한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 정답 조합(ㄱ, ㄴ)에 포함되는 항목이다.",
       "source": {
         "qid": 1,
         "option": "ㄱ",
@@ -25,7 +25,7 @@
       "id": 112,
       "question": "간접세는 직접세에 비해 조세저항이 작고 징세비용이 적게 소요된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 정답 조합(ㄱ, ㄴ)에 포함되는 항목이다.",
       "source": {
         "qid": 1,
         "option": "ㄴ",
@@ -37,7 +37,7 @@
       "id": 113,
       "question": "수직적 공평 측면에서 간접세가 직접세보다 우월하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 정답 조합(ㄱ, ㄴ)에 포함되지 않는 항목이다.",
       "source": {
         "qid": 1,
         "option": "ㄷ",
@@ -49,7 +49,7 @@
       "id": 114,
       "question": "직접세이면서 물세(in rem tax)의 예는 재산세와 증여세이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 정답 조합(ㄱ, ㄴ)에 포함되지 않는 항목이다.",
       "source": {
         "qid": 1,
         "option": "ㄹ",
@@ -61,7 +61,7 @@
       "id": 115,
       "question": "소득세가 선형누진세이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "①",
@@ -133,7 +133,7 @@
       "id": 121,
       "question": "감사받을 확률의 증가와 벌금률의 증가가 탈루소득을 줄인다는 결과가 도출 되었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 정답 조합(ㄱ, ㄴ, ㄹ)에 포함되는 항목이다.",
       "source": {
         "qid": 3,
         "option": "ㄴ",
@@ -145,7 +145,7 @@
       "id": 122,
       "question": "세율 상승의 소득효과와 대체효과가 같은 방향으로 작용하므로 탈루소득을 더크게 만든다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 정답 조합(ㄱ, ㄴ, ㄹ)에 포함되지 않는 항목이다.",
       "source": {
         "qid": 3,
         "option": "ㄷ",
@@ -157,7 +157,7 @@
       "id": 123,
       "question": "샌드모는 세율을 합리적인 수준으로 유지하고 감사받을 확률과 벌금률 조정을 탈세 방지의 수단으로 활용하는 것이 바람직하다고 주장한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 정답 조합(ㄱ, ㄴ, ㄹ)에 포함되는 항목이다.",
       "source": {
         "qid": 3,
         "option": "ㄹ",
@@ -169,7 +169,7 @@
       "id": 124,
       "question": "조세 부과시 초과부담은 후생(소비자잉여+생산자잉여) 감소분에서 조세 수입을 차감한 것이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 4,
         "option": "①",
@@ -181,7 +181,7 @@
       "id": 125,
       "question": "조세 부과시 상대가격 체계의 변화에 의해 민간부문의 의사결정이 왜곡되어 발생한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 4,
         "option": "②",
@@ -193,7 +193,7 @@
       "id": 126,
       "question": "초과부담을 정확히 측정하려면 보상수요곡선을 사용해야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 4,
         "option": "③",
@@ -205,7 +205,7 @@
       "id": 127,
       "question": "세율이 높을수록, 수요의 가격탄력성이 클수록 초과부담은 커진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 4,
         "option": "④",
@@ -217,7 +217,7 @@
       "id": 128,
       "question": "대체재의 수가 적은 재화일수록 조세 부과의 초과부담은 커진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "⑤",
@@ -229,7 +229,7 @@
       "id": 129,
       "question": "법인세 부담이 소비자에게 전가되었다면 후방전가(backward shifting)가 발생한 것이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 5,
         "option": "①",
@@ -241,7 +241,7 @@
       "id": 130,
       "question": "어떤 조세를 동일한 세수의 다른 조세로 대체할 때어떤 분배효과가 나오는가를 분석 하는 것을 균형예산귀착이라 부른다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 5,
         "option": "②",
@@ -253,7 +253,7 @@
       "id": 131,
       "question": "독점의 경우라도 조세부담이 소비자에게 모두 전가되지는 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 5,
         "option": "③",
@@ -265,7 +265,7 @@
       "id": 132,
       "question": "독점시장에서 조세 귀착은 공급곡선의 탄력성에 따라 달라진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 5,
         "option": "④",
@@ -277,7 +277,7 @@
       "id": 133,
       "question": "독점시장의 경우 수요의 가격탄력성이 작을수록 소비자 부담이 작아진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 5,
         "option": "⑤",
@@ -289,7 +289,7 @@
       "id": 134,
       "question": "경제적 이윤은 기업의 수입에서 모든 기회비용을 차감한 나머지를 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 7,
         "option": "①",
@@ -301,7 +301,7 @@
       "id": 135,
       "question": "법인세 과세대상은 경제적 이윤과 항상 일치한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "②",
@@ -313,7 +313,7 @@
       "id": 136,
       "question": "법인세에서 허용하는 감가상각은 통상 진정한 경제적 감가상각과 다르다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -325,7 +325,7 @@
       "id": 137,
       "question": "법인의 자기자본에 대한 귀속이자는 대부분의 국가에서 비용처리를 허용하지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -337,7 +337,7 @@
       "id": 138,
       "question": "법인세의 감가상각률이 경제적 감가상각률과 일치하고, 법인의 한계투자가 차입된 자금에 의해 조달되면, 법인세는 순수한 경제적 이윤에 대한 과세로 볼여지가 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 7,
         "option": "⑤",
@@ -349,7 +349,7 @@
       "id": 139,
       "question": "공평한 과세라는 개념은 오직 개인에 대해서만 적용된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "①",
@@ -361,7 +361,7 @@
       "id": 140,
       "question": "법인은 강한 독자성을 갖고 있으며, 사회적 영향력도 점차 커지고 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -373,7 +373,7 @@
       "id": 141,
       "question": "법인이 사회적으로 받는 혜택에 대해 과세가 필요하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -385,7 +385,7 @@
       "id": 142,
       "question": "정부가 법인의 행동에 영향을 주는 유용한 수단이 될수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -397,7 +397,7 @@
       "id": 143,
       "question": "법인의 사내유보 이윤에 대한 적정과세 장치 역할을 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 8,
         "option": "⑤",
@@ -409,7 +409,7 @@
       "id": 144,
       "question": "부가가치세는 특정 물품에만 과세하는 소비과세이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -421,7 +421,7 @@
       "id": 145,
       "question": "부가가치세는 1954년 독일에서 공업 부문만을 대상으로 하는 부분적인 과세제도로 처음 등장했다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -433,7 +433,7 @@
       "id": 146,
       "question": "미국은 1960년대 중반부터 부가가치세를 도입하여 과세하고 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -445,7 +445,7 @@
       "id": 147,
       "question": "순소득형 부가가치세는 일정 기간의 총수입에서 모든 중간투입물의 구입비용을 빼고, 그것에서 자본재의 감가상각비를 추가적으로 제외한 것을 과세 대상으로 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "④",
@@ -457,7 +457,7 @@
       "id": 148,
       "question": "우리나라 부가가치세는 도입 이래 국세 세목 가운데 세수가 가장 크다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "⑤",
@@ -469,7 +469,7 @@
       "id": 149,
       "question": "우리나라는 부가가치세의 과세 범위를 확장해 왔다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 10,
         "option": "①",
@@ -481,7 +481,7 @@
       "id": 150,
       "question": "각국의 법인세 세율은 경제 상황, 역사, 전통 등에 따라 서로 다르다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -493,7 +493,7 @@
       "id": 151,
       "question": "배당금의 이중과세 방지 대책으로 배당세액공제제도 등이 시행되고 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -505,7 +505,7 @@
       "id": 152,
       "question": "우리나라는 지방소비세와 지방소득세를 도입했는데, 전자는 부가가치세, 후자는 소득세 및법인세와 연계되어 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 10,
         "option": "④",
@@ -517,7 +517,7 @@
       "id": 153,
       "question": "대부분의 국가들은 법인세와 소득세 간완전 통합을 이루었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "⑤",
@@ -529,7 +529,7 @@
       "id": 154,
       "question": "조세지출을 통한 민간부문의 특정 행위 촉진이 바람직해야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 정답 조합(ㄱ, ㄷ, ㄹ)에 포함되는 항목이다.",
       "source": {
         "qid": 11,
         "option": "ㄱ",
@@ -541,7 +541,7 @@
       "id": 155,
       "question": "조세지출은 항상 효율성을 우선적으로 충족해야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 정답 조합(ㄱ, ㄷ, ㄹ)에 포함되지 않는 항목이다.",
       "source": {
         "qid": 11,
         "option": "ㄴ",
@@ -553,7 +553,7 @@
       "id": 156,
       "question": "민간부문을 대신하여 정부가 조세지출로 관여하는 이유가 명확해야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 정답 조합(ㄱ, ㄷ, ㄹ)에 포함되는 항목이다.",
       "source": {
         "qid": 11,
         "option": "ㄷ",
@@ -565,7 +565,7 @@
       "id": 157,
       "question": "민간부문의 특정 행위 촉진 방법으로 조세지출 사용이 최선인가를 검토해야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 정답 조합(ㄱ, ㄷ, ㄹ)에 포함되는 항목이다.",
       "source": {
         "qid": 11,
         "option": "ㄹ",
@@ -577,7 +577,7 @@
       "id": 158,
       "question": "조세지출 규모는 매년 일정 비율로 늘어나야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 정답 조합(ㄱ, ㄷ, ㄹ)에 포함되지 않는 항목이다.",
       "source": {
         "qid": 11,
         "option": "ㅁ",
@@ -589,7 +589,7 @@
       "id": 159,
       "question": "여가가 정상재일 경우, 비례소득세 부과로 인한 소득효과와 대체효과의 상대적 크기가 총노동공급의 증감 여부를 결정한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -601,7 +601,7 @@
       "id": 160,
       "question": "여가가 정상재일 경우, 비례소득세 부과로 인한 소득효과가 대체효과보다 크면 노동공급곡선이 후방굴절한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -613,7 +613,7 @@
       "id": 161,
       "question": "여가가 정상재일 경우, 비례소득세 부과로 인한 대체효과가 소득효과보다 크다면 총노동 공급은 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "③",
@@ -625,7 +625,7 @@
       "id": 162,
       "question": "여가가 열등재일 경우, 비례소득세 부과로 인한 대체효과와 소득효과 모두 노동공급을 감소시킨다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -637,7 +637,7 @@
       "id": 163,
       "question": "여가가 열등재일 경우, 정액세(lump-sum tax)를 부과하면 소득효과만 존재하여 노동공급은 감소한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "⑤",
@@ -649,7 +649,7 @@
       "id": 164,
       "question": "세후 이자율이 하락하므로 현재소비의 상대가격이 상승하게 된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "①",
@@ -661,7 +661,7 @@
       "id": 165,
       "question": "대체효과에 의해 현재소비가 증가하고 미래소비는 감소한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 13,
         "option": "②",
@@ -673,7 +673,7 @@
       "id": 166,
       "question": "소득효과에 의해 현재소비와 미래소비 모두 감소한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 13,
         "option": "③",
@@ -685,7 +685,7 @@
       "id": 167,
       "question": "저축의 증감 여부는 대체효과와 소득효과의 상대적인 크기에 의존한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -697,7 +697,7 @@
       "id": 168,
       "question": "현재소비의 변화는 대체효과와 소득효과의 상대적인 크기에 의해 결정된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 13,
         "option": "⑤",
@@ -709,7 +709,7 @@
       "id": 169,
       "question": "보유 자본재의 사용과 관된 기업의 기회비용은 보유 자본재의 사용으로 희생된 임대료 수입을 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -721,7 +721,7 @@
       "id": 170,
       "question": "신고전파 투자이론에서는 기회비용을 사용자비용이라고 부른다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -733,7 +733,7 @@
       "id": 171,
       "question": "완전경쟁 자본재 임대시장에서는 자본재 임대를 전문으로 하는 기업의 이윤은 영(0)이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 14,
         "option": "③",
@@ -745,7 +745,7 @@
       "id": 172,
       "question": "완전경쟁 자본재 임대시장에서 기업의 이윤이 영(0)이라는 것은 임대료 수입 흐름의 현재가치와 그자본재의 구입비용이 일치한다는 것을 의미한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -757,7 +757,7 @@
       "id": 173,
       "question": "실 증연구의 공통적인 결과에 따르면, 자본의 사용자비용이 낮아지면 실제 투자가 현저하게 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "⑤",
@@ -769,7 +769,7 @@
       "id": 174,
       "question": "불완전한 자본시장 가정하에서 배당정책은 기업의 가치에 영향을 미치지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 16,
         "option": "①",
@@ -781,7 +781,7 @@
       "id": 175,
       "question": "배당무의미성이론은 거래비용이 없다는 등비현실적인 가정을 기초로 한결론이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "②",
@@ -793,7 +793,7 @@
       "id": 176,
       "question": "주주는 기업의 배당정책에 영향을 받는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -805,7 +805,7 @@
       "id": 177,
       "question": "대부분의 국가는 소득세 상배당금과 자본이득을 똑같이 취급한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 16,
         "option": "④",
@@ -817,7 +817,7 @@
       "id": 178,
       "question": "모든 실증연구에 따르면, 조세는 기업의 배당정책에 영향을 미치지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 16,
         "option": "⑤",
@@ -829,7 +829,7 @@
       "id": 179,
       "question": "국 를 전액 시중에서 소화할 경우, 이자율이 상하여 민간투자가승 줄어드는 구축효과가 발생할 수있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 17,
         "option": "①",
@@ -841,7 +841,7 @@
       "id": 180,
       "question": "국채 발행에 따른 구축효과의 크기는 케인즈학파보다 통화주의자가 더크다고 주장한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -853,7 +853,7 @@
       "id": 181,
       "question": "민간 보유 국채 잔액이 증가함에 따라 소비지출이 감소하는 현상을 러너(Lerner)효과라 부른다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "③",
@@ -865,7 +865,7 @@
       "id": 182,
       "question": "국 를 전액 중은행이 인수할 경우, 시중에서 소화하는 경우보다 총수요 증대효과가 더크게 나타난다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 17,
         "option": "④",
@@ -877,7 +877,7 @@
       "id": 183,
       "question": "국채를 전액 중앙은행이 인수할 경우, 통화량이 증가하므로 인플레이션이 유발된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 17,
         "option": "⑤",
@@ -889,7 +889,7 @@
       "id": 184,
       "question": "규모의 경제가 존재하는 경우, 한계비용 가격 정은 효율적인 자배분을 원실현한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -901,7 +901,7 @@
       "id": 185,
       "question": "시설의 사용 용량이 제한된 단기의 경우, 가격은 한계비용에서 경제적 지대를 더한 수준에서 결정하는 것이 바람직하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -913,7 +913,7 @@
       "id": 186,
       "question": "이부가격(two-part tariff)을 적용하면 공급자의 결손을 줄일 수있으나, 효율적인 자원 배분은 실현하지 못한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "③",
@@ -925,7 +925,7 @@
       "id": 187,
       "question": "평균비용 가격설정은 공급자에게 비용절감의 유인을 제공하지 못한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "④",
@@ -937,7 +937,7 @@
       "id": 188,
       "question": "수요의 가격탄력성이 매우 작은 필수품에 대한 램지가격설정은 분배 측면에서 불공평을 야기할 수있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "⑤",
@@ -949,7 +949,7 @@
       "id": 189,
       "question": "사회를 하나의 자연적 유기체로 본다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 20,
         "option": "①",
@@ -961,7 +961,7 @@
       "id": 190,
       "question": "정부의 존재 이유는 오직 개인을 위해 기여하는 데있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "②",
@@ -973,7 +973,7 @@
       "id": 191,
       "question": "개인은 유기체의 한부분씩을 구성하며, 정부는 그유기체의 심장부이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 20,
         "option": "③",
@@ -985,7 +985,7 @@
       "id": 192,
       "question": "개인은 사회의 한부분으로서만 의미를 가지며, 전체의 이익에 봉사하는 것이 개인의 미덕이 된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 20,
         "option": "④",
@@ -997,7 +997,7 @@
       "id": 193,
       "question": "전체주의적 사고를 기반으로 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 20,
         "option": "⑤",
@@ -1009,7 +1009,7 @@
       "id": 194,
       "question": "경 균형은 파레토 효율적이며, 모든 효율적 배분은 민간에 의해 자발적으로 달성된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 21,
         "option": "①",
@@ -1021,7 +1021,7 @@
       "id": 195,
       "question": "경쟁균형은 파레토 효율적이며, 역으로 파레토 효율적 배분은 적절한 재분배를 통해 경쟁균형으로 달성될 수있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 21,
         "option": "②",
@@ -1033,7 +1033,7 @@
       "id": 196,
       "question": "파레토 효율적 배분은 경쟁균형이며, 이를 달성하기 위해서 정부 개입이 필요하지 않다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 21,
         "option": "③",
@@ -1045,7 +1045,7 @@
       "id": 197,
       "question": "모든 경쟁균형이 파레토 효율적이지는 않으며, 재분배를 통해 효율성이 달성될 수있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 21,
         "option": "④",
@@ -1057,7 +1057,7 @@
       "id": 198,
       "question": "효율적 배분은 항상 경쟁균형보다 파레토 열등하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 21,
         "option": "⑤",
@@ -1066,22 +1066,10 @@
       }
     },
     {
-      "id": 199,
-      "question": "이 독 점기 업의 영업 을폐 지하면, 영 업 을 계 속 하는 경우보다 사회 후생이 증가한다. 격제를 실시하면, 사회후생손실은 감소한다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 23,
-        "option": "ㄱ",
-        "qtype": "sub-all-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 201,
       "question": "정부가    수준에서 최고가격 제를 실시하면, 사 회후생 손실 은  으로 감소한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 정답 조합(ㄷ, ㄹ)에 포함되는 항목이다.",
       "source": {
         "qid": 23,
         "option": "ㄷ",
@@ -1093,7 +1081,7 @@
       "id": 202,
       "question": "정부가    수준에서 최고가 격제를 실시하면, 사회후생손실은  만큼 감소한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 정답 조합(ㄷ, ㄹ)에 포함되는 항목이다.",
       "source": {
         "qid": 23,
         "option": "ㄹ",
@@ -1105,7 +1093,7 @@
       "id": 203,
       "question": "혼잡한 무료 국도는 순수공공재이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 정답 조합(ㄴ)에 포함되지 않는 항목이다.",
       "source": {
         "qid": 25,
         "option": "ㄱ",
@@ -1117,7 +1105,7 @@
       "id": 204,
       "question": "대가를 지불 하지 않아도 소비할 수있 는재화이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 정답 조합(ㄴ)에 포함되는 항목이다.",
       "source": {
         "qid": 25,
         "option": "ㄴ",
@@ -1129,7 +1117,7 @@
       "id": 205,
       "question": "중 앙 정부에서 무료 로제공하는 볼펜 은순수공공재이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 정답 조합(ㄴ)에 포함되지 않는 항목이다.",
       "source": {
         "qid": 25,
         "option": "ㄷ",
@@ -1141,7 +1129,7 @@
       "id": 206,
       "question": "지방정부에서 여름 에무 료로 제공하는 얼음 생수는 순수공공재이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 정답 조합(ㄴ)에 포함되지 않는 항목이다.",
       "source": {
         "qid": 25,
         "option": "ㄹ",
@@ -1153,7 +1141,7 @@
       "id": 207,
       "question": "꽁 도세( C ondorcet) 승자는 항상 존재한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 정답 조합(ㄴ, ㄹ)에 포함되지 않는 항목이다.",
       "source": {
         "qid": 27,
         "option": "ㄱ",
@@ -1165,7 +1153,7 @@
       "id": 208,
       "question": "과 반 수투 표제 승자가 존재하면, 꽁 도세 승자와 반드시 일치한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 정답 조합(ㄴ, ㄹ)에 포함되는 항목이다.",
       "source": {
         "qid": 27,
         "option": "ㄴ",
@@ -1177,7 +1165,7 @@
       "id": 209,
       "question": "최다득 표제 승자가 존재하면, 꽁 도세 승자와 반드시 일치한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 정답 조합(ㄴ, ㄹ)에 포함되지 않는 항목이다.",
       "source": {
         "qid": 27,
         "option": "ㄷ",
@@ -1189,7 +1177,7 @@
       "id": 210,
       "question": "꽁 도세 승자가 존재한다면, 항상 유일하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 정답 조합(ㄴ, ㄹ)에 포함되는 항목이다.",
       "source": {
         "qid": 27,
         "option": "ㄹ",
@@ -1201,7 +1189,7 @@
       "id": 211,
       "question": "꽁도세 승자와 보다 승자는 모두  이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 28,
         "option": "①",
@@ -1213,7 +1201,7 @@
       "id": 212,
       "question": "꽁도세 승자와 보다 승자는 모두  이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 28,
         "option": "②",
@@ -1225,7 +1213,7 @@
       "id": 213,
       "question": "꽁도세 승자는  , 보다 승자는  이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 28,
         "option": "③",
@@ -1237,7 +1225,7 @@
       "id": 214,
       "question": "꽁도세 승자는  , 보다 승자는  이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 28,
         "option": "④",
@@ -1249,7 +1237,7 @@
       "id": 215,
       "question": "꽁도세 승자는 존재하지 않지만, 보다 승자는  이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 28,
         "option": "⑤",
@@ -1261,7 +1249,7 @@
       "id": 216,
       "question": "재산 권을 피해자가 가지든 가해자가 가지든 자발적 협상으로 효율적인 자원 배분에 도달할 수있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 29,
         "option": "①",
@@ -1273,7 +1261,7 @@
       "id": 217,
       "question": "정부의 개입 없이 외부성을 해결하는 사적 해결 방의 하나이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 29,
         "option": "②",
@@ -1285,7 +1273,7 @@
       "id": 218,
       "question": "거래비용이 존재하면 외부효과를 교정하기 위한 정부의 개입이 정당화될 수있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 29,
         "option": "③",
@@ -1297,7 +1285,7 @@
       "id": 219,
       "question": "피해 규모에 대한 정보비대칭은 거래비용의 한요소로 볼수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 29,
         "option": "④",
@@ -1309,7 +1297,7 @@
       "id": 220,
       "question": "코즈정리는 현실에서 항상 적용할 수있다는 장점을 가진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 29,
         "option": "⑤",
@@ -1321,7 +1309,7 @@
       "id": 221,
       "question": "공리주의 사회후생함수를 적용하면, A와 B의 앳킨슨지수는 같다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 31,
         "option": "①",
@@ -1333,7 +1321,7 @@
       "id": 222,
       "question": "롤스의 사회후생함수를 적용하면, 앳킨슨지수는 A가 더 크다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 31,
         "option": "②",
@@ -1345,7 +1333,7 @@
       "id": 223,
       "question": "롤스의 사회후생함수를 적용하면, A와 B의 균등분배대등소득은 같다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 31,
         "option": "③",
@@ -1357,7 +1345,7 @@
       "id": 224,
       "question": "A와 B의 로렌츠곡선은 서로 교차하여, 불평등도의 비교가 어렵다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 31,
         "option": "④",
@@ -1369,7 +1357,7 @@
       "id": 225,
       "question": "로렌츠곡선에서 계산한 지니계수는 B가 더 작다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 31,
         "option": "⑤",
@@ -1381,7 +1369,7 @@
       "id": 226,
       "question": "공리주의에 의하면, 사회후생을 극대화할 수있다면 매우 불균등한 분배 상태 가정당화될 수도 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 32,
         "option": "②",
@@ -1393,7 +1381,7 @@
       "id": 227,
       "question": "롤즈(J. Rawls)의 최소극대화 원칙에 의하면, 사회에서 가장 가난한 사람의 후생을 극대화 해야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 32,
         "option": "③",
@@ -1405,7 +1393,7 @@
       "id": 228,
       "question": "러너(A. Lerner)는 동등확률 가정을 통해 사람들의 효용함수가 모두 같고, 소득에 대한 한계효용이 체감할 경우에만 균등분배가 정당화된다고 보았다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 32,
         "option": "④",
@@ -1417,7 +1405,7 @@
       "id": 229,
       "question": "에지워스(F. Edgeworth)의 최적분배이론은 공리주의 사회후생을 가정했다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 32,
         "option": "⑤",
@@ -1429,7 +1417,7 @@
       "id": 230,
       "question": "근로소득이 증가할수록 근로장려금이 커지는 점증구간에서의 대체효과와 소득효과는 모두 노동공급을 증가시키는 방향으로 작용한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 34,
         "option": "①",
@@ -1441,7 +1429,7 @@
       "id": 231,
       "question": "우리나라는 가구 구성원에 따라 지원 혜택을 달리 운영하고 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 34,
         "option": "②",
@@ -1453,7 +1441,7 @@
       "id": 232,
       "question": "근로소득이 증가할수록 근로장려금이 감소하는 점감구간에서는 소득 1원 증가에 의한 가처분소득 증가분이 줄어든다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 34,
         "option": "③",
@@ -1465,7 +1453,7 @@
       "id": 233,
       "question": "부(-)의 소득세보다 저소득층의 근로의욕을 촉진하는 효과가 크다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 34,
         "option": "④",
@@ -1477,7 +1465,7 @@
       "id": 234,
       "question": "암묵적 한계세율이 영(0)인 구간에서는 대체효과가 발생하지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 34,
         "option": "⑤",
@@ -1489,7 +1477,7 @@
       "id": 235,
       "question": "재원이 고정된 상황에서 기초수당을 올리면 한계세율도 올려야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 35,
         "option": "①",
@@ -1501,7 +1489,7 @@
       "id": 236,
       "question": "다른 조건이 일정할 때기초수당이 클수록 재분배효과가 커진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 35,
         "option": "②",
@@ -1513,7 +1501,7 @@
       "id": 237,
       "question": "대체효과는 노동공급의 증가, 소득효과는 노동공급을 감소시키는 방향으로 작용한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 35,
         "option": "③",
@@ -1525,7 +1513,7 @@
       "id": 238,
       "question": "면세점(과세최저소득 수준) 이하 소득 계층의 근로의욕에 부정적 영향을 미친다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 35,
         "option": "④",
@@ -1537,7 +1525,7 @@
       "id": 239,
       "question": "행정적으로 단순하며, 별도의 수혜 자격 심사가 필요 없다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 35,
         "option": "⑤",
@@ -1549,7 +1537,7 @@
       "id": 240,
       "question": "노동 능력이 없는 사람을 대상으로 기초생활을 보장하는 제도를 국민기초생활보장제도라 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 36,
         "option": "①",
@@ -1561,7 +1549,7 @@
       "id": 241,
       "question": "근로장려세제는 일을 하고 있으나 빈곤에서 벗어나지 못하는 사람들을 돕는 제도이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 36,
         "option": "②",
@@ -1573,7 +1561,7 @@
       "id": 242,
       "question": "사회보험제도는 가입자들이 납부한 보험료를 기본 재원으로 운영되므로 재분배효과는 제한적이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 36,
         "option": "③",
@@ -1585,7 +1573,7 @@
       "id": 243,
       "question": "공공부조는 일반 국민이 납부한 세금을 재원으로 저소득계층을 지원하는 프로그램이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 36,
         "option": "④",
@@ -1597,7 +1585,7 @@
       "id": 244,
       "question": "공공부조는 기여 여부와 관계없이 대상자이면 혜택을 받을 수있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 36,
         "option": "⑤",
@@ -1609,7 +1597,7 @@
       "id": 245,
       "question": "품목별예산제도는 비슷한 일을 하는 부서 사이의 중복을 차단할 수있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 38,
         "option": "①",
@@ -1621,7 +1609,7 @@
       "id": 246,
       "question": "성과주의예산제도는 사업의 투입요소(inputs)를 중심으로 예산을 편성한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 38,
         "option": "②",
@@ -1633,7 +1621,7 @@
       "id": 247,
       "question": "영기준예산제도는 시간과 비용을 절약할 수있다는 장점이 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 38,
         "option": "③",
@@ -1645,7 +1633,7 @@
       "id": 248,
       "question": "프로그램예산제도는 관리기능을 강조한 제도이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 38,
         "option": "④",
@@ -1657,7 +1645,7 @@
       "id": 249,
       "question": "조세지출예산제도는 조세지출의 남발을 억제하기 위해 도입된 제도이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 38,
         "option": "⑤",
@@ -1669,7 +1657,7 @@
       "id": 250,
       "question": "공공지 출프로그램에 대한 조세부담의 과소평가로 인한 재정착각은 정부지출의 팽창을 초래한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 39,
         "option": "①",
@@ -1681,7 +1669,7 @@
       "id": 251,
       "question": "배로( . arr )에 의하면, 정부지 출이 일정하다면 재정적자를 조세로 조달하든 국채로 조달하든 총수요에 영향을 미치지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 39,
         "option": "②",
@@ -1693,7 +1681,7 @@
       "id": 252,
       "question": "피콕-와이즈만(A. Peacock and J. Wiseman)에 의하면, 사회적 혼란기에 전위효과가 발생하면 정부지출이 더높은 수준으로 증가한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 39,
         "option": "③",
@@ -1705,7 +1693,7 @@
       "id": 253,
       "question": "브라운-잭슨(C. Brown and P. Jackson)에 의하면, 중위투표자의 공공서비스에 대한 소득 탄력성이 충분히 크면 정부지출의 상대적 비중이 점차 커진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 39,
         "option": "④",
@@ -1717,7 +1705,7 @@
       "id": 254,
       "question": "뷰캐넌(J. Buchanan)의 리바이어던가설(Leviathan hypothesis)에 의하면, 정부가 생산ㆍ 공급하는 서비스의 생산비용이 상대적으로 빠르게 증가하여 정부지출이 늘어나게 된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 39,
         "option": "⑤",

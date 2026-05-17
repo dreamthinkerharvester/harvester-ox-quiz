@@ -13,7 +13,7 @@
       "id": 35066,
       "question": "다이아몬드로 된 피라미드 형태의 압입체를 사용하여 경도를 측정한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 35067,
       "question": "해머를 일정한 높이에서 시편의 표면에 낙하시켜 튀어 오른 높이로 경도를 측정한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 35068,
       "question": "지름 10mm의 경화강으로 만든 구로 시편의 표면을 시험 하중으로 눌러 경도를 측정한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 35069,
       "question": "원추형 압입체가 시편에 자리를 잡을 수 있도록 부하중으로 누른 후, 주하중을 가해 경도를 측정한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 35070,
       "question": "용접 공정에서 국부적인 가열과 냉각으로 인해 발생할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 35071,
       "question": "공작물이 위치별로 불균일한 소성 변형을 받을 때 발생할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 35072,
       "question": "공정 후 외력이 모두 제거된 상태에서 부품에 남아 있는 응력이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 35073,
       "question": "부품 표면의 압축 잔류 응력은 부품의 피로 수명과 파단강도를 저하시킨다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 35074,
       "question": "플랭크 마모(flank wear)는 공작물 표면과 절삭날 부근 여유면의 마찰에 의한 마모 형태이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 3,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 35075,
       "question": "크레이터 마모(crater wear)는 공구날 끝의 일부가 외부 충격에 의하여 떨어져 나가는 마모 형태이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 3,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 35076,
       "question": "응착(adhesion)은 칩이 절삭 공구의 경사면 위를 미끄러지면서 나갈 때 마찰력에 의하여 경사면 일부가 오목하게 패이는 마모 형태이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 3,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 35077,
       "question": "결손(chipping)은 고온 고압 상태에서 금속 사이의 친화력이 증대하여 칩의 일부가 공구에 부착되었다가 떨어져 나갈 때 발생하는 마모 형태이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 3,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 35078,
       "question": "경도가 높은 재료의 가공이 가능하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 4,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 35079,
       "question": "높은 정밀도의 가공면이 확보된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 4,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 35080,
       "question": "절삭 가공 대비 단위 체적당 에너지 소모가 적다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "③",
@@ -193,7 +193,7 @@
       "id": 35081,
       "question": "숫돌 표면의 마모된 입자는 자생작용(self dressing)에 의해 날카로운 모서리로 새롭게 생성된다. 기계공작법 책형 1쪽",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 4,
         "option": "④",
@@ -205,7 +205,7 @@
       "id": 35082,
       "question": "최종 형상을 얻기 위해 여러 번의 형단조 공정이 수행될 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -217,7 +217,7 @@
       "id": 35083,
       "question": "형단조 공정에서 최대 성형력은 단조 공정의 마지막 시점에서 발생한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -229,7 +229,7 @@
       "id": 35084,
       "question": "열간 형단조에서 플래시(flash)는 금형 공동 내 소재보다 느리게 냉각된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "③",
@@ -241,7 +241,7 @@
       "id": 35085,
       "question": "금형이 최종 위치에 도달하였을 때, 플래시는 금형 공동을 채우고 남은 재료가 빠져나온 것이다. 2025년도 국가공무원 7급 공채 제2차 필기시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -253,7 +253,7 @@
       "id": 35086,
       "question": "소재의 탄성복원에 의해 발생한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -265,7 +265,7 @@
       "id": 35087,
       "question": "스프링백의 크기는 소재의 탄성 계수에 영향을 받는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -277,7 +277,7 @@
       "id": 35088,
       "question": "펀치 끝과 다이면 사이에 국부적으로 높은 압축 응력을 인가하여 보정할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -289,7 +289,7 @@
       "id": 35089,
       "question": "펀치각과 반경을 최종 제품의 각과 반경보다 조금 크게 제작하여 과도굽힘함으로써 보정할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "④",
@@ -301,7 +301,7 @@
       "id": 35090,
       "question": "드릴링(drilling)은 구멍을 가공하는 작업이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "①",
@@ -313,7 +313,7 @@
       "id": 35091,
       "question": "단면 가공(facing)은 축에 직각인 부품 끝단의 평평한 표면을 가공하는 작업이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "②",
@@ -325,7 +325,7 @@
       "id": 35092,
       "question": "보링(boring)은 이전 공정에서 생성된 구멍 내부를 확대하거나 원형 내부 홈을 가공하는 작업이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "③",
@@ -337,7 +337,7 @@
       "id": 35093,
       "question": "총형 가공(form turning)은 공구가 공작물의 회전축을 따라 직선으로 움직이지 않고 어떤 곡선으로 이송하며 공작물에 윤곽을 만드는 작업이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "④",
@@ -349,7 +349,7 @@
       "id": 35094,
       "question": "연납접(soldering)에서는 모재 금속의 용융이 발생하지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -361,7 +361,7 @@
       "id": 35095,
       "question": "마찰 용접, 초음파 용접, 확산 용접은 압력 또는 열을 이용하는 공정이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -373,7 +373,7 @@
       "id": 35096,
       "question": "경납접(brazing)에서 사용하는 용가재의 용융점은 접합할 모재의 용융점보다 높아야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "③",
@@ -385,7 +385,7 @@
       "id": 35097,
       "question": "용접에서 열영향부(HAZ)의 화학적 조성은 모재 금속과 동일하지만 용접 온도에 의한 열처리 효과로 물성치와 결정 구조가 변한다. 기계공작법 책형 2쪽",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -397,7 +397,7 @@
       "id": 35098,
       "question": "용접 시 아크를 안정시킨다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -409,7 +409,7 @@
       "id": 35099,
       "question": "냉각 속도를 빠르게 하여 용접부의 기계적 성질을 향상시킨다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "②",
@@ -421,7 +421,7 @@
       "id": 35100,
       "question": "용접하는 동안 녹아서 용융점이 낮고 점성이 있는 슬래그(slag)를 형성한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "③",
@@ -433,7 +433,7 @@
       "id": 35101,
       "question": "중성 또는 환원성 분위기를 만들어 대기 중의 질소와 산소의 침입을 방지한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -445,7 +445,7 @@
       "id": 35102,
       "question": "기어, 밸브 등과 같은 복잡한 기계부품의 주조에 주로 사용된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -457,7 +457,7 @@
       "id": 35103,
       "question": "높은 치수 정밀도를 가져 일반적으로 후가공이 요구되지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -469,7 +469,7 @@
       "id": 35104,
       "question": "왁스로 모형(pattern)을 제작하는 경우 후속 모형 제작에 왁스를 다시 사용할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 14,
         "option": "③",
@@ -481,7 +481,7 @@
       "id": 35105,
       "question": "초기 내열재 코팅에는 빠르게 코팅 두께를 증가시키기 위해 큰 입자가 사용되고, 이후 주조품의 양호한 표면 처리를 위해 작은 입자를 사용한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "④",
@@ -493,7 +493,7 @@
       "id": 35106,
       "question": "칩의 두께가 감소한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -505,7 +505,7 @@
       "id": 35107,
       "question": "가공부의 열이 제거되어 온도가 감소한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -517,7 +517,7 @@
       "id": 35108,
       "question": "공구와 칩의 경계면에서 마찰력이 감소한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 15,
         "option": "④",
@@ -529,7 +529,7 @@
       "id": 35109,
       "question": "파이프 결함(pipe defect)은 주로 간접압출 공정에서 발생한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "①",
@@ -541,7 +541,7 @@
       "id": 35110,
       "question": "표면 균열(surface cracking)은 압출 속도가 너무 높을 때 발생한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -553,7 +553,7 @@
       "id": 35111,
       "question": "압출 결함 중 일부는 육안 검사로는 확인이 불가능한 경우가 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -565,7 +565,7 @@
       "id": 35112,
       "question": "세브론 균열(chevron cracking)은 공작물의 중심선을 따라 생기는 인장 응력에 의해 발생한다. 2025년도 국가공무원 7급 공채 제2차 필기시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "④",
@@ -577,7 +577,7 @@
       "id": 35113,
       "question": "칠드 주철, 초내열 합금의 가공에 사용될 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "①",
@@ -589,7 +589,7 @@
       "id": 35114,
       "question": "철이나 니켈을 절삭할 경우에는 확산에 의한 마모가 발생한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "②",
@@ -601,7 +601,7 @@
       "id": 35115,
       "question": "높은 압력과 온도에서 소결하여 초경합금 모재에 결합하여 만든다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -613,7 +613,7 @@
       "id": 35116,
       "question": "높은 온도에서 공구와 칩의 경계면에서 우수한 화학적 안정성을 지닌다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "④",
@@ -625,7 +625,7 @@
       "id": 35117,
       "question": "플래시(flash)가 생성될 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -637,7 +637,7 @@
       "id": 35118,
       "question": "금형 제작비가 높아 대량 생산에 적합하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -649,7 +649,7 @@
       "id": 35119,
       "question": "금형 공동의 공기와 가스를 배출하기 위한 통기구가 필요하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 18,
         "option": "③",
@@ -661,7 +661,7 @@
       "id": 35120,
       "question": "용융점이 낮은 알루미늄은 주로 열가압실(hot chamber) 장비로 제작된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "④",
@@ -673,7 +673,7 @@
       "id": 35121,
       "question": "F: 이송속도를 제어한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -685,7 +685,7 @@
       "id": 35122,
       "question": "G: 준비 기능으로 동작 모드를 지령한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 19,
         "option": "②",
@@ -697,7 +697,7 @@
       "id": 35123,
       "question": "O: 순차 번호로서 블록에 번호를 부여한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "③",
@@ -709,7 +709,7 @@
       "id": 35124,
       "question": "M: 주축 회전, 공구 교환, 절삭유 등에 관계된 보조 기능이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 19,
         "option": "④",
@@ -721,7 +721,7 @@
       "id": 35125,
       "question": "슈퍼피니싱은 호닝에 비해 행정이 짧다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 22,
         "option": "①",
@@ -733,7 +733,7 @@
       "id": 35126,
       "question": "슈퍼피니싱은 호닝에 비해 높은 압력을 가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 22,
         "option": "②",
@@ -745,7 +745,7 @@
       "id": 35127,
       "question": "슈퍼피니싱은 호닝에 비해 높은 진동수를 사용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 22,
         "option": "③",
@@ -757,7 +757,7 @@
       "id": 35128,
       "question": "호닝과 슈퍼피니싱은 막대형 숫돌로서 모두 왕복 운동을 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 22,
         "option": "④",
@@ -769,7 +769,7 @@
       "id": 35129,
       "question": "절삭력을 증가시켜 채터를 억제한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 23,
         "option": "①",
@@ -781,7 +781,7 @@
       "id": 35130,
       "question": "공작 기계의 감쇠능을 크게 하여 자려 진동을 억제한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 23,
         "option": "②",
@@ -793,7 +793,7 @@
       "id": 35131,
       "question": "공작 기계의 동강성(dynamic stiffness)을 크게 하여 채터를 억제한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 23,
         "option": "③",
@@ -805,7 +805,7 @@
       "id": 35132,
       "question": "절삭칩의 형태가 불연속형 칩보다는 연속형 칩이 되도록 절삭 조건을 조정하여 채터를 억제한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 23,
         "option": "④",

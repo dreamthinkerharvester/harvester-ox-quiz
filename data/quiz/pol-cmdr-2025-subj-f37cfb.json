@@ -7,13 +7,13 @@
   "source": "경찰 간부",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 124,
+  "count": 118,
   "questions": [
     {
       "id": 32011,
       "question": "벤담(Bentham)은 처벌의 비례성과 형벌의 특별예방을 강조 하였고 최대다수의 최대행복을 주장하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 32012,
       "question": "고전주의 범죄학의 영향을 받은 현대 범죄이론에는 합리적 선택이론, 일상활동이론, 인지이론, 행동주의이론 등이 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 32013,
       "question": "인간은 합리적 의사결정에 따른 자유의지를 갖는 존재이므로 경미한 범죄에도 강력한 처벌이 필요하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 32014,
       "question": "규문주의 형사사법을 비판하고, 적법절차에 바탕을 둔 합리적 형사사법제도를 정립하는데 공헌하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 32015,
       "question": "국가가 인간을 처벌할 수 있는 근거는 오직 사회계약에 있으며, 사회계약시 인간은 생명에 대한 권리까지 국가에 양도하지 않았기 때문에 사형은 폐지되어야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 2,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 32016,
       "question": "개인의 정치적･사회적 신분 등에 따른 차별적 형벌의 적용은 폐지되어야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 32017,
       "question": "입법부의 역할은 각각의 범죄에 대한 형벌을 규정하는 것이고, 판사의 역할은 재량권을 가지고 유죄의 여부 및 양형을 결정 하는 것이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 32018,
       "question": "범죄의 심각성은 그것이 사회에 끼친 해악의 정도로 결정되는 것이지, 범죄자의 개인적인 동기와는 무관하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 2,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 32019,
       "question": "범죄자의 개인적(인류학적), 물리적 요인이 일정한 사회적 요 인과 결합할 때 반드시 그에 상응한 일정량의 범죄가 발생한 다고 하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 32020,
       "question": "과도한 개인주의에 국가가 개입함으로써 사회문제에 효과적 대처가 이루어질 수 있다고 믿었기 때문에, 독재적 전체주의 국가이념을 표방하는 파시즘(Fascism)에 동조하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 32021,
       "question": "범죄예방을 위해서는 형벌보다는 범죄의 충동을 간접적으로 방지할 수 있는 사회정책이 필요하다고 하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 32022,
       "question": "범죄행위는 생물학적･심리학적으로 비정상적인 사람이 저지 르는 것이 아니라, 정상적으로 태어난 사람이 이후에 다른 사람의 범죄를 모방한 결과라고 하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 3,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 32023,
       "question": "덕데일(Dugdale)은 쥬크 가(The Jukes) 연구를 통해 범죄의 유전적 요인에 주목하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 4,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 32024,
       "question": "랑게(Lange)는 가계 연구에서 밝히기 어려운 범죄성에 대한 유전과 환경의 관계를 밝히기 위해 쌍생아 연구를 하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 4,
         "option": "②",
@@ -178,34 +178,10 @@
       }
     },
     {
-      "id": 32025,
-      "question": "허칭스와 매드닉(Hutchings & Madnick)의 연구에 따르면, 친부와 양부 모두 범죄경력이 있는 경우가 한 쪽만 범죄경력이 있는 경 우에 비해 입양아의 범죄 가능성에 더 큰 영향력을 미치는 것으로 나타났다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 4,
-        "option": "③",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 32026,
-      "question": "크리스티안센(Christiansen)은 일란성 쌍생아의 경우 성별을 불문하고 이란성 쌍생아보다 한 쪽이 범죄자인 경우에 다른 쪽도 범죄자인 비율이 높은 것을 확인하였고, 범죄성의 환경적 요인에 따른 영향력은 없다고 하였다. - 8 죄 학 일 반",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 4,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 32027,
       "question": "프로이드(Freud)는 특정한 사람들은 슈퍼에고(Superego)가 과잉발달되어 죄책감과 불안을 느끼게 되어 죄의식 해소와 심리적 균형감을 얻고자 범죄를 저지르게 된다고 하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 5,
         "option": "①",
@@ -217,7 +193,7 @@
       "id": 32028,
       "question": "아들러(Adler)는 인간의 무의식에는 열등감 콤플렉스가 내재해 있는데, 일부는 이러한 열등감을 과도하게 보상받기 위해 비행 이나 범죄를 저지르게 된다고 하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 5,
         "option": "②",
@@ -229,7 +205,7 @@
       "id": 32029,
       "question": "에릭슨(Erikson)은 모성의 영향을 중시했는데, 어렸을 때 엄마가 없는 경우에는 기초적인 애정관계를 형성하지 못해 불균형적 인성구조를 형성하게 되어 범죄와 같은 반사회적 행동에 빠져 든다고 하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 5,
         "option": "③",
@@ -241,7 +217,7 @@
       "id": 32030,
       "question": "레들과 와인맨(Redl & Wineman)은 비행소년들이 적절한 슈퍼 에고(Superego)를 형성하지 못하고 에고(Ego) 또한 이드(Id)의 충동을 무조건 수용하는 방향으로 형성되어, 에고(Ego)가 슈퍼에고(Superego)의 억제 없이 이드(Id)의 욕구대로 형성 된 경우를 ‘비행적 자아’라고 지칭하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 5,
         "option": "④",
@@ -253,7 +229,7 @@
       "id": 32031,
       "question": "고전적 조건화(Classical Conditioning)",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "①",
@@ -265,7 +241,7 @@
       "id": 32032,
       "question": "조작적 조건화(Operant Conditioning)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 6,
         "option": "②",
@@ -277,7 +253,7 @@
       "id": 32033,
       "question": "사회 및 인지학습(Social and Cognitive Learning)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 6,
         "option": "③",
@@ -289,7 +265,7 @@
       "id": 32034,
       "question": "관찰학습(Observational Learning)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 6,
         "option": "④",
@@ -301,7 +277,7 @@
       "id": 32035,
       "question": "미국사회의 구조는 문화적 목표와 이에 도달하기 위한 제도적･ 규범적 수단의 두 요소로 이루어진다고 가정하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -313,7 +289,7 @@
       "id": 32036,
       "question": "머튼은 재산범죄 등 경제적 동기의 범죄에만 적용할 수 있다고 하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "②",
@@ -325,7 +301,7 @@
       "id": 32037,
       "question": "목표와 수단에 대한 5가지 적응유형으로 동조형(Conformity), 혁신형(Innovation), 의례형(Ritualism), 회피형(Retreatism), 반역형(Rebellion)을 제시하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -337,7 +313,7 @@
       "id": 32038,
       "question": "사회의 모든 구성원이 물질적 성공을 문화적 목표로 하고 있 다고 보기 어렵다는 비판이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -349,7 +325,7 @@
       "id": 32039,
       "question": "차별적 접촉이란 개인이 법 준수나 법 위반에 대한 우호적 또는 비우호적 정의에 노출되어있는 과정을 의미하는데, 직접 접촉은 물론 영상 등을 통한 간접 접촉도 포함된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "①",
@@ -361,7 +337,7 @@
       "id": 32040,
       "question": "정의란 개인이 특정 행위에 부여하는 의미 또는 태도를 말하며, 여기에는 범죄에 대한 긍정적 정의와 부정적 정의는 포함되나 중화적 정의는 포함되지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "②",
@@ -370,22 +346,10 @@
       }
     },
     {
-      "id": 32041,
-      "question": "차별적 강화는 행위로부터 얻게 되거나 예상되는 보상과 처벌의 균형을 의미하고, 주변으로부터의 인정이나 금전적 보상 등 이 빈번하고 강할수록 차별적 강화는 약하게 나타난다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 11,
-        "option": "③",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 32042,
       "question": "모방은 다른 사람의 행동을 관찰함으로써 행위를 따라 하는 것으로, 새로운 행위의 시도나 범죄 수법에 영향을 미치지만 행위의 지속에는 영향을 미치지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "④",
@@ -397,7 +361,7 @@
       "id": 32043,
       "question": "낙인이론에 관한 경험적 연구들은 개인이 독립적인 주체로서 낙인을 내면화하는 과정을 명확하게 실증하고 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "①",
@@ -409,7 +373,7 @@
       "id": 32044,
       "question": "탄넨바움(Tannenbaum)은 악의 극화(Dramatization of Evil)라는 개념을 사용하여 범죄행위의 원인은 사회적으로 부여된 낙인의 결과라고 하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -421,7 +385,7 @@
       "id": 32045,
       "question": "공식적 형사처벌의 긍정적 효과보다는 부정적 효과에 주목하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -433,7 +397,7 @@
       "id": 32046,
       "question": "슈어(Schur)는 이차적 일탈로의 발전이 정형적인 것은 아니며, 사회적 반응에 대한 개인의 적응노력에 따라 달라질 수 있다고 주장하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -445,7 +409,7 @@
       "id": 32047,
       "question": "법의 제정과 집행은 사회 일반의 이익을 보호하기 위해서가 아니라, 국가운영을 통제하는 지배계층의 이익을 보호하기 위해 존재한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -457,7 +421,7 @@
       "id": 32048,
       "question": "범죄원인을 밝히기보다는 ‘대부분의 사람은 왜 범죄를 저지르지 않고, 사회규범에 동조하는가’라는 의문에서 출발하고 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "②",
@@ -469,7 +433,7 @@
       "id": 32049,
       "question": "살인, 강도, 절도, 도박 등 일반범죄의 원인을 설명하는 것은 한계가 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "③",
@@ -481,7 +445,7 @@
       "id": 32050,
       "question": "볼드(Vold)의 집단갈등이론은 인종분쟁, 노사분쟁과 같은 이 익집단 간의 갈등에서 비롯된 범죄현상을 설명하는데 유용하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -493,7 +457,7 @@
       "id": 32051,
       "question": "누구나 범죄를 저지를 가능성이 있지만, 그것을 통제하는 요인은 개인이 사회와 맺고 있는 일상적인 유대이며, 그 유대가 약화 되거나 단절되었을 때 범죄를 저지르게 된다고 하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -505,7 +469,7 @@
       "id": 32052,
       "question": "사회유대의 요소에는 애착(Attachment), 전념(Commitment), 참여(Involvement), 신념(Belief)이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -517,7 +481,7 @@
       "id": 32053,
       "question": "사회유대이론은 형사사법기관에 의한 공식적 통제를 강조하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "③",
@@ -529,7 +493,7 @@
       "id": 32054,
       "question": "사회유대이론과 억제이론은 통제력을 강조한다는 공통점이 있다. 9 -",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -541,7 +505,7 @@
       "id": 32055,
       "question": "가해(손상)의 부인: 타인의 재물을 횡령하면서 사후에 대가를 지불하면 아무런 문제가 없다고 주장하는 경우",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "①",
@@ -553,7 +517,7 @@
       "id": 32056,
       "question": "충성심(상위가치)에 대한 호소: 특수절도를 하는 과정에서 공범인 A, B와의 친분관계 때문에 의리상 어쩔 수 없었다고 주장하는 경우",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -565,7 +529,7 @@
       "id": 32057,
       "question": "피해자의 부인: 성범죄를 저지르면서 피해자가 야간에 혼자 외출하였기 때문에 발생한 것이라고 주장하는 경우",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -577,7 +541,7 @@
       "id": 32058,
       "question": "비난자에 대한 비난: 폭력을 행사하면서 어린 시절 부모로부터 학대를 당해 그럴 수 밖에 없었다고 주장하는 경우",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "④",
@@ -589,7 +553,7 @@
       "id": 32059,
       "question": "차별적 페미니즘(Differential Feminism)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 16,
         "option": "①",
@@ -601,7 +565,7 @@
       "id": 32060,
       "question": "자유주의적 페미니즘(Liberal Feminism)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -613,7 +577,7 @@
       "id": 32061,
       "question": "포스트모던 페미니즘(Postmodern Feminism)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -625,7 +589,7 @@
       "id": 32062,
       "question": "마르크스주의 페미니즘(Marxist Feminism)",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "④",
@@ -634,22 +598,10 @@
       }
     },
     {
-      "id": 32063,
-      "question": "폴락(Pollak)은 여성이 남성에 비해 범죄행위를 덜 할 뿐만 아니라, 은폐되는 경향이 있기 때문에 통계상 적게 나타난다 고 하였다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 17,
-        "option": "①",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 32064,
       "question": "여성이 남성에 비해 가벼운 처벌을 받는 이유로는 사법당국의 남성들이 발휘하는 기사도 정신이나 여성에 대한 온정주의가 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -661,7 +613,7 @@
       "id": 32065,
       "question": "데일리(Daly)와 체스니-린드(Chesney-Lind)는 여성이 남성 보다 일관되게 가벼운 처벌을 받는 것은 아니며, 전통적인 여성성을 위반했다고 인정되는 경우에는 오히려 더 엄중한 처벌을 받는다고 하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -673,7 +625,7 @@
       "id": 32066,
       "question": "헤이건(Hagen)은 권력-통제이론에서 계급, 성별 불평등과 청 소년의 성별 범죄율 차이를 분석하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 17,
         "option": "④",
@@ -685,7 +637,7 @@
       "id": 32067,
       "question": "범죄자 삶의 궤적을 통해 범행의 지속 및 중단 요인을 밝히 는데 관심을 둔다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -697,7 +649,7 @@
       "id": 32068,
       "question": "모피트(Moffitt)에 따르면 청소년기 한정형(Adolescence-limited)은 신경심리학적 결함으로 각종 문제행동을 일으키는 경우가 많 다고 하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "②",
@@ -709,7 +661,7 @@
       "id": 32069,
       "question": "샘슨과 라웁(Sampson & Laub)은 글룩(Glueck)부부의 연구를 재분석하여 생애과정이론을 제시하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 18,
         "option": "③",
@@ -721,7 +673,7 @@
       "id": 32070,
       "question": "범죄경력을 중단하는 계기가 되는 중요한 사건으로는 결혼과 취업이 있다. - 10",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 18,
         "option": "④",
@@ -733,7 +685,7 @@
       "id": 32071,
       "question": "실험연구는 일정한 기간을 정하고, 이 기간 동안 연구대상 집단에 대한 시계열 분석을 하는 방법이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -745,7 +697,7 @@
       "id": 32072,
       "question": "참여관찰은 연구자가 스스로 범죄집단에 들어가 범죄자의 일상을 관찰할 수 있다는 장점이 있지만, 연구의 객관화가 어렵고, 윤리문제가 제기될 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "②",
@@ -757,7 +709,7 @@
       "id": 32073,
       "question": "사례연구는 과거중심적 연구방법으로 특정 범죄자의 성격, 성장과정, 범죄경력 등을 종합적으로 분석함으로써, 연구결과의 일반화가 가능하다는 장점이 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -769,7 +721,7 @@
       "id": 32074,
       "question": "문헌연구는 연구자가 설문 및 사례 등을 계량적으로 분석하는 방법으로, 연구 결과의 신뢰성을 높일 수 있다는 장점이 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 19,
         "option": "④",
@@ -778,22 +730,10 @@
       }
     },
     {
-      "id": 32075,
-      "question": "공식범죄통계에서 범죄율은 일정 기간(보통 1년) 동안 인구 10만 명당 몇 건의 범죄가 발생했는지를 나타내며, 검거율은 경찰이 한 해 동안 범인을 검거한 사건에서 한 해 동안 인지 한 사건 수를 나누어 백분율로 계산한다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 21,
-        "option": "①",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 32076,
       "question": "범죄피해조사는 공식 형사사법기관에 보고되지 않은 암수범죄를 밝히는데 유용하지만 살인, 강도, 강간, 절도 등 전통적인 범 죄가 조사대상이 된다는 한계가 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 21,
         "option": "②",
@@ -805,7 +745,7 @@
       "id": 32077,
       "question": "경찰의 ｢범죄통계｣는 각 경찰관서에서 입력한 범죄발생 사항을 집계한 것으로 범죄발생 및 검거, 범죄발생 상황, 범죄자 및 피해자 특성에 대한 내용을 포함한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 21,
         "option": "③",
@@ -817,7 +757,7 @@
       "id": 32078,
       "question": "자기보고식조사는 보통 설문조사를 통하여 지난 1년 동안 각 유형별로 몇 건의 범죄를 했는지를 질문하는 방식인데, 익명 조사로 이루어지는 경우가 많다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 21,
         "option": "④",
@@ -829,7 +769,7 @@
       "id": 32079,
       "question": "약물범죄는 대표적인 피해자 없는 범죄로 불법약물의 사용, 제조, 판매, 유통하는 행위를 통칭한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 23,
         "option": "①",
@@ -841,7 +781,7 @@
       "id": 32080,
       "question": "작용에 따른 약물의 종류 중 각성제는 중앙신경계통 자극제로 아편, 몰핀, 헤로인, 합성제재 등이 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 23,
         "option": "②",
@@ -853,7 +793,7 @@
       "id": 32081,
       "question": "작용에 따른 약물의 종류 중 환각제는 환각을 일으키는 물질 로 LSD, 마리화나 등이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 23,
         "option": "③",
@@ -865,7 +805,7 @@
       "id": 32082,
       "question": "세계적인 헤로인 생산지에는 미얀마, 태국, 라오스 3국의 접경 지역에 있는 황금의 삼각지대와 아프가니스탄, 파키스탄, 이란 3국의 접경지역에 있는 황금의 초승달 지역이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 23,
         "option": "④",
@@ -877,7 +817,7 @@
       "id": 32083,
       "question": "망상형 연쇄살인범(Visionary Serial Killers)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 24,
         "option": "①",
@@ -889,7 +829,7 @@
       "id": 32084,
       "question": "사명형연쇄살인범(Mission-Oriented Serial Killers)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 24,
         "option": "②",
@@ -901,7 +841,7 @@
       "id": 32085,
       "question": "쾌락형 연쇄살인범(Hedonistic Serial Killers)",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 24,
         "option": "③",
@@ -913,7 +853,7 @@
       "id": 32086,
       "question": "권력형 연쇄살인범(Power-Control Serial Killers)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 24,
         "option": "④",
@@ -925,7 +865,7 @@
       "id": 32087,
       "question": "화이트칼라 범죄는 사회적 지위가 높은 사람이 주로 직업 및 업무수행 과정에서 범하는 범죄를 의미하고, 피해가 직접적 이고 암수범죄의 비율이 낮으며 선별적 형사소추가 문제 된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 25,
         "option": "①",
@@ -937,7 +877,7 @@
       "id": 32088,
       "question": "화이트칼라 범죄는 범행동기에 따라 조직적 범죄와 직업적 범죄로 나눌 수 있는데, 직업적 범죄는 사기기만형, 시장통제형, 뇌물매수형, 기본권 침해형으로 구분된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 25,
         "option": "②",
@@ -949,7 +889,7 @@
       "id": 32089,
       "question": "피해자 수에 따라 살인은 일반살인과 다중살인으로 구분되며 다중살인은 다시 한 사건과 다음 사건 사이에 심리적 냉각기의 존재 여부에 따라 연속살인과 대량살인으로 구분된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 25,
         "option": "③",
@@ -961,7 +901,7 @@
       "id": 32090,
       "question": "｢아동복지법｣에서는 가정폭력에 아동을 노출시키는 행위를 정서적 학대에 포함한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 25,
         "option": "④",
@@ -973,7 +913,7 @@
       "id": 32091,
       "question": "범죄의 개념과 원인 등은 합의론적 관점, 갈등론적 관점, 상호 주의적 관점에서 접근할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 26,
         "option": "①",
@@ -985,7 +925,7 @@
       "id": 32092,
       "question": "상호주의적 관점은 형사사법을 포함한 사회의 다양한 부분 들이 하나의 통합된 구조로 조직되고, 어느 한 부분의 제도 변화가 다른 부분에 상당한 영향을 미친다고 본다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 26,
         "option": "②",
@@ -997,7 +937,7 @@
       "id": 32093,
       "question": "‘법률이 없으면, 범죄도 없고, 형벌도 없다’라는 주장은 형식적 의미의 범죄개념을 의미한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 26,
         "option": "③",
@@ -1009,7 +949,7 @@
       "id": 32094,
       "question": "범죄학은 범죄와 범죄자, 범죄원인 및 이에 대한 통제방법 등을 연구하는 경험과학적인 성격이 강하다. - 11",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 26,
         "option": "④",
@@ -1021,7 +961,7 @@
       "id": 32095,
       "question": "피해자 없는 범죄와 주로 사회적 법익을 침해하는 범죄에 적용 가능하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 27,
         "option": "①",
@@ -1033,7 +973,7 @@
       "id": 32096,
       "question": "양심적 병역거부는 대법원의 판결에 따라 비범죄화되었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 27,
         "option": "②",
@@ -1045,7 +985,7 @@
       "id": 32097,
       "question": "｢성매매방지 및 피해자보호 등에 관한 법률｣상 성매매 목적의 인신매매를 당한 사람은 처벌하지 아니한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 27,
         "option": "③",
@@ -1057,7 +997,7 @@
       "id": 32098,
       "question": "입법부에 의한 법률상의 비범죄화뿐만 아니라 경찰･검찰과 같은 수사기관에 의한 실무상의 비범죄화도 이루어지고 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 27,
         "option": "④",
@@ -1069,7 +1009,7 @@
       "id": 32099,
       "question": "낙인효과에 의한 2차 범죄를 방지하고 법원의 업무경감을 통해 형사사법 제도의 능률성을 높인다는 장점이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 28,
         "option": "①",
@@ -1081,7 +1021,7 @@
       "id": 32100,
       "question": "검찰 단계의 (조건부) 기소유예, 법원의 집행유예와 구속적부 심사제도 등이 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 28,
         "option": "②",
@@ -1093,7 +1033,7 @@
       "id": 32101,
       "question": "경찰 단계의 훈방과 ｢경범죄 처벌법｣, ｢도로교통법｣상 통고처 분이 이에 해당한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 28,
         "option": "③",
@@ -1105,7 +1045,7 @@
       "id": 32102,
       "question": "교도소의 수용인원을 줄여 과밀 수용 문제를 해결하는 장점이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 28,
         "option": "④",
@@ -1117,7 +1057,7 @@
       "id": 32103,
       "question": "방어공간이론은 많은 도시시설 가운데 특히, 주거시설에 초점을 두고 정립되었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 29,
         "option": "①",
@@ -1129,7 +1069,7 @@
       "id": 32104,
       "question": "방어공간에는 영역성, 자연적 감시, 이미지, 환경의 네 가지 구성요소가 있는데, 이 가운데 영역성을 강조하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 29,
         "option": "②",
@@ -1141,7 +1081,7 @@
       "id": 32105,
       "question": "방어공간 구성요소 가운데 이미지는 특정 지역･장소에 있는 특정한 사람이 범행하기 쉬운 대상으로 인식되지 않도록 하는 것을 의미한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 29,
         "option": "③",
@@ -1153,7 +1093,7 @@
       "id": 32106,
       "question": "방어공간의 영역은 사적 영역, 준사적 영역, 준공적 영역, 공적 영역으로 나뉘는데, 이 가운데 준공적 영역과 공적 영역의 범죄발생 위험성이 높다고 하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 29,
         "option": "④",
@@ -1165,7 +1105,7 @@
       "id": 32107,
       "question": "구조금은 유족구조금, 장해구조금 및 중상해구조금으로 구분 하며, 일시금으로 지급한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 31,
         "option": "①",
@@ -1177,7 +1117,7 @@
       "id": 32108,
       "question": "외국인이 구조피해자이거나 유족인 경우에는 해당 국가의 상호 보증이 있는 경우에만 적용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 31,
         "option": "②",
@@ -1189,7 +1129,7 @@
       "id": 32109,
       "question": "구조피해자가 사망할 당시에 아직 출생하지 않은 태아는 구 조금을 받을 수 있는 유족의 범위에 포함되지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 31,
         "option": "③",
@@ -1201,7 +1141,7 @@
       "id": 32110,
       "question": "구조금을 받을 권리는 양도하거나 담보로 제공하거나 압류할 수 없다. 11 -",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 31,
         "option": "④",
@@ -1213,7 +1153,7 @@
       "id": 32111,
       "question": "멘델손(Mendelsohn)은 비난 정도를 고려한 법적 유책성에 따라 피해자를 분류하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 32,
         "option": "①",
@@ -1225,7 +1165,7 @@
       "id": 32112,
       "question": "헨티히(Hentig)는 개인의 의지와 무관하게 피해 가능성을 높 이는 취약한 피해자가 있음을 지적하면서, 일반적인 피해자 유형과 심리학적 피해자 유형으로 구분하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 32,
         "option": "②",
@@ -1237,7 +1177,7 @@
       "id": 32113,
       "question": "울프강(Wolfgang)은 살인사건 기록을 분석하여, 피해자가 범죄 유발 동기를 제공하는 경우도 있다는 것을 설명하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 32,
         "option": "③",
@@ -1249,7 +1189,7 @@
       "id": 32114,
       "question": "미쓰와 메이어(Miethe & Meier)는 생활양식-노출이론에서 피해자와 가해자의 상호작용을 통해 범죄피해의 과정을 설명 하고자 하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 32,
         "option": "④",
@@ -1261,7 +1201,7 @@
       "id": 32115,
       "question": "시설 내 처우가 초래하는 비인도성･낙인효과 등의 문제를 감소 시킬 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 33,
         "option": "①",
@@ -1273,7 +1213,7 @@
       "id": 32116,
       "question": "구금 비용의 절감으로 국가의 재정부담을 줄일 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 33,
         "option": "②",
@@ -1285,7 +1225,7 @@
       "id": 32117,
       "question": "사회를 보호하는 동시에 범죄자의 자유를 보장할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 33,
         "option": "③",
@@ -1297,7 +1237,7 @@
       "id": 32118,
       "question": "재범 방지에 대한 실증적 효과가 탁월하고, 형사사법망을 축소 시킬 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 33,
         "option": "④",
@@ -1309,7 +1249,7 @@
       "id": 32119,
       "question": "브랜팅햄과 파우스트(Brantingham & Faust)는 질병예방에 관한 보건의료모형을 응용하여 3단계로 분류한 범죄예방모델을 제시하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 34,
         "option": "①",
@@ -1321,7 +1261,7 @@
       "id": 32120,
       "question": "이웃감시와 주민순찰은 브랜팅햄과 파우스트(Brantingham & Faust)가 제시한 1차적 범죄예방과 관련이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 34,
         "option": "②",
@@ -1333,7 +1273,7 @@
       "id": 32121,
       "question": "코니쉬와 클락(Cornish & Clarke, 2003)이 제시한 상황적 범죄 예방에서, 관련 규정과 규칙을 명확하게 하고 표시판 등을 통해 양심에 호소하는 것은 ‘변명의 제거’를 목표로 하는 기 법이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 34,
         "option": "③",
@@ -1345,7 +1285,7 @@
       "id": 32122,
       "question": "코니쉬와 클락(Cornish & Clarke, 2003)은 상황적 범죄예방의 목표를 ‘노력의 증가’, ‘위험의 감소’, ‘보상의 감소’, ‘변명의 제거’ 네 가지로 제시하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 34,
         "option": "④",
@@ -1357,7 +1297,7 @@
       "id": 32123,
       "question": "아직 발생하지 않은 미래에 대한 예측을 근거로 불이익한 처우를 하는 것은 죄형법정주의나 책임원칙에 반할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 35,
         "option": "①",
@@ -1369,7 +1309,7 @@
       "id": 32124,
       "question": "기술적인 측면에서 100%의 정확도를 가진 예측은 현실적으로 불가능하므로, 오류 긍정(False Positive)과 오류 부정(False Negative)의 잘못된 결과가 나타날 가능성이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 35,
         "option": "②",
@@ -1381,7 +1321,7 @@
       "id": 32125,
       "question": "예측 항목에 성별, 직업, 소득수준 같은 개인의 사회･경제적 지위와 관련된 내용이 포함되는 경우에, 이로 인해 차별대우 등 공평한 사법처리에 반하는 윤리적 문제가 발생할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 35,
         "option": "③",
@@ -1393,7 +1333,7 @@
       "id": 32126,
       "question": "범죄예측은 형사사법 절차 중 예방 및 재판 단계에서는 유용 하나, 수사 및 교정 단계에서는 유용하지 않다. - 12",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 35,
         "option": "④",
@@ -1405,7 +1345,7 @@
       "id": 32127,
       "question": "오번제(Auburn System)는 엄정독거제의 결점을 보완하고 혼거제의 폐해를 제거하기 위한 목적으로 고안된 것으로, 주 간에는 침묵상태에서 혼거작업하고 야간에는 독거수용하는 제도이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 37,
         "option": "①",
@@ -1417,7 +1357,7 @@
       "id": 32128,
       "question": "우리나라는 독거수용을 원칙으로 하고 있으나, 현실적으로는 독거실 부족 등의 사유로 혼거수용이 일반적으로 이루어지고 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 37,
         "option": "②",
@@ -1429,7 +1369,7 @@
       "id": 32129,
       "question": "귀휴제는 행형성적이 우수한 수형자를 일정 기간 동안 가정 이나 사회에 내보내어 장기간 수형생활로 인하여 단절된 사회 사정을 접할 수 있는 기회를 줌으로써 사회적응을 보다 용이 하게 하는 제도이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 37,
         "option": "③",
@@ -1441,7 +1381,7 @@
       "id": 32130,
       "question": "일반귀휴는 형집행기간에 포함하나, 특별귀휴는 형집행기간에 포함하지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 37,
         "option": "④",
@@ -1453,7 +1393,7 @@
       "id": 32131,
       "question": "롬브로조(Lombroso)는 생물학적 퇴행성 때문에 범죄를 저지를 수밖에 없는 유형의 범죄자는 교정의 효과를 거의 기대할 수 없기 때문에 영구격리 또는 도태처분을 해야한다고 하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 39,
         "option": "①",
@@ -1465,7 +1405,7 @@
       "id": 32132,
       "question": "롬브로조(Lombroso)는 범죄자를 생래적 범죄자, 정신병적 범 죄자, 상습성 범죄자, 우발성 범죄자, 격정성 범죄자, 폭력성 범죄자 여섯 가지 유형으로 분류하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 39,
         "option": "②",
@@ -1474,22 +1414,10 @@
       }
     },
     {
-      "id": 32133,
-      "question": "가로팔로(Garofalo)는 ｢범죄학｣(Criminologia)이라는 저서를 통 해 사실학적 의미의 ‘범죄학’이라는 용어를 최초로 사용하였 다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 39,
-        "option": "③",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 32134,
       "question": "가로팔로(Garofalo)는 정상적인 사람은 정직성, 동정심, 성실 등과 같은 이타적 정서를 기본적으로 지니고 있는데 반해 범 죄자는 이러한 정서가 결핍되었다고 하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 39,
         "option": "④",

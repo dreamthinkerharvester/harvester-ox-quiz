@@ -7,13 +7,13 @@
   "source": "지방직 7급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 18,
+  "count": 16,
   "questions": [
     {
       "id": 42356,
       "question": "연소된 Mg의 양은 0.5몰이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -25,7 +25,7 @@
       "id": 42357,
       "question": "소모된 O 의 양은 16g이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "③",
@@ -34,22 +34,10 @@
       }
     },
     {
-      "id": 42358,
-      "question": "생성된 MgO에서 O 원자의 개수는 3.0×1023이다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 2,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 42359,
       "question": "모든 원자는 팔전자 규칙을 만족한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -61,7 +49,7 @@
       "id": 42360,
       "question": "N의 형식 전하는 ＋1이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -73,7 +61,7 @@
       "id": 42361,
       "question": "N는 비공유 전자쌍을 갖는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "③",
@@ -85,7 +73,7 @@
       "id": 42362,
       "question": "1차 이온화 에너지는 기체 상태의 중성 원자로부터 전자 하나를 제거할 때 필요한 에너지이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "①",
@@ -97,7 +85,7 @@
       "id": 42363,
       "question": "한 원소의 2차 이온화 에너지는 1차 이온화 에너지보다 크다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -109,7 +97,7 @@
       "id": 42364,
       "question": "같은 주기에서 1차 이온화 에너지는 18족 원소가 가장 크다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -121,7 +109,7 @@
       "id": 42365,
       "question": "같은 족에서 1차 이온화 에너지는 주기 번호가 클수록 크다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "④",
@@ -133,7 +121,7 @@
       "id": 42366,
       "question": "원자가 전자 개수는 2이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "③",
@@ -145,7 +133,7 @@
       "id": 42367,
       "question": "바닥 상태에서 홀전자 개수는 4이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "④",
@@ -157,7 +145,7 @@
       "id": 42368,
       "question": "Cr O 2－에서 Cr의 산화수는 ＋7이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "①",
@@ -169,7 +157,7 @@
       "id": 42369,
       "question": "(＋ )는 5이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -181,7 +169,7 @@
       "id": 42370,
       "question": "1몰의 Cr O 2－이 반응할 때, 6몰의 전자가 이동한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "④",
@@ -190,22 +178,10 @@
       }
     },
     {
-      "id": 42372,
-      "question": "완충 용액의 pH는 plog 이다. a  HF [F－]",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 20,
-        "option": "②",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 42373,
       "question": "두 완충 용액의 가 같으면 완충 용량이 같다. [HF] [F－]",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 20,
         "option": "③",
@@ -217,7 +193,7 @@
       "id": 42374,
       "question": "완충 용액에 NaOH()을 첨가하면 가 커진다. [HF]",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "④",

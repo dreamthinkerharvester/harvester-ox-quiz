@@ -13,7 +13,7 @@
       "id": 32324,
       "question": "확인은 사용자 관점에서 설계명세서들을 점검하는 작업이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 34,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 32325,
       "question": "검증과 확인은 모두 계획단계에서 명세서를 점검하는 작업이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 34,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 32326,
       "question": "확인은 사용자 관점에서 발주자와 합의한 요구사항들을 점검 하는 작업이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 34,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 32327,
       "question": "검증은 개발자 관점에서 계획서를 점검하는작업이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 34,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 32328,
       "question": "MSA(Microservice Architecture)",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 40,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 32329,
       "question": "ROA(Resource Oriented Architecture)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 40,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 32330,
       "question": "MDA(Model Driven Architecture)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 40,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 32331,
       "question": "Data-flow architecture 29 -",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 40,
         "option": "④",

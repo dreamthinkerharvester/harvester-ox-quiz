@@ -7,13 +7,13 @@
   "source": "국가직 9급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 31,
+  "count": 30,
   "questions": [
     {
       "id": 39319,
       "question": "일정한 분압에서 온도가 높을수록 용해도는 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 39320,
       "question": "일정한 온도에서 기체의 분압이 클수록 용해도는 증가한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 39321,
       "question": "묽은 용액 조건에서 용해도와 분압의 정량적 관계는 헨리 법칙 (Henry’s law)으로 주어진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 39322,
       "question": "동일한 액체에 대해 헨리 법칙 상수는 기체의 종류에 의존한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 39323,
       "question": "다성분 혼합물에서 평균 속도에 대한 각 화학종의 속도를 확산 속도라고 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 6,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 39324,
       "question": "Fick의 법칙에서 확산속도는 농도구배에 반비례한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "②",
@@ -82,22 +82,10 @@
       }
     },
     {
-      "id": 39325,
-      "question": "질량 플럭스(flux)는 흐름에 수직인 단위면적을 단위시간당 통과하는 질량을 나타내는 벡터양이다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 6,
-        "option": "③",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 39326,
       "question": "계(system) 안의 어떤 대류와도 무관한 물질전달을 분자확산이라고 한다. 2025년도 국가공무원 9급 공채 필기시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 6,
         "option": "④",
@@ -109,7 +97,7 @@
       "id": 39327,
       "question": "축 방향(axial direction)으로 농도가 변한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -121,7 +109,7 @@
       "id": 39328,
       "question": "정상상태에서 운전된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -133,7 +121,7 @@
       "id": 39329,
       "question": "반지름 방향(radial direction)으로 온도구배가 없다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -145,7 +133,7 @@
       "id": 39330,
       "question": "몰 수지식은 대수방정식이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "④",
@@ -157,7 +145,7 @@
       "id": 39331,
       "question": "펌프 임펠러의 마모를 지연시킨다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 11,
         "option": "①",
@@ -169,7 +157,7 @@
       "id": 39332,
       "question": "흡입부의 압력이 유체의 증기압보다 낮을 때 발생한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "②",
@@ -181,7 +169,7 @@
       "id": 39333,
       "question": "펌프의 효율을 증가시킨다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 11,
         "option": "③",
@@ -193,7 +181,7 @@
       "id": 39334,
       "question": "배출부의 압력이 유체의 증기압보다 높을 때 발생한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 11,
         "option": "④",
@@ -205,7 +193,7 @@
       "id": 39335,
       "question": "온도나 압력을 변화시키면 용질로부터 쉽게 분리할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -217,7 +205,7 @@
       "id": 39336,
       "question": "상압에서 커피로부터 카페인을 추출할 때 사용될 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "②",
@@ -229,7 +217,7 @@
       "id": 39337,
       "question": "유기용매 대비 추출 속도가 빠르다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -241,7 +229,7 @@
       "id": 39338,
       "question": "일정한 온도에서 압력을 높여 액체로 변환시킬 수 없다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -253,7 +241,7 @@
       "id": 39339,
       "question": "비다공질 고분자 막의 경우 기체는 저압 쪽에서 고분자 막에 용해된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "①",
@@ -265,7 +253,7 @@
       "id": 39340,
       "question": "비다공질 고분자 막에서 기체 수송은 용액확산 메커니즘을 따른다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 13,
         "option": "②",
@@ -277,7 +265,7 @@
       "id": 39341,
       "question": "다공질 막에서 세공 내의 확산계수는 세공 크기와 평균 분자 속도에 비례한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 13,
         "option": "③",
@@ -289,7 +277,7 @@
       "id": 39342,
       "question": "다공질 막의 세공이 기체의 평균 자유경로보다 매우 작으면 Knudsen 확산이 지배적이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -301,7 +289,7 @@
       "id": 39344,
       "question": "            ",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -313,7 +301,7 @@
       "id": 39345,
       "question": "          ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "③",
@@ -325,7 +313,7 @@
       "id": 39346,
       "question": "        2025년도 국가공무원 9급 공채 필기시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -337,7 +325,7 @@
       "id": 39347,
       "question": "회색체의 단색광 흡수율은 모든 파장에서 동일하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 20,
         "option": "①",
@@ -349,7 +337,7 @@
       "id": 39348,
       "question": "일정 온도에서 열 에너지 플럭스(flux)는 물질의 종류와 무관하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "②",
@@ -361,7 +349,7 @@
       "id": 39349,
       "question": "흑체 복사는 Stefan-Boltzmann 법칙으로 설명된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 20,
         "option": "③",
@@ -373,7 +361,7 @@
       "id": 39350,
       "question": "총 복사력은 물체의 표면으로부터 방출되는 모든 단색광 복사의 합이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 20,
         "option": "④",

@@ -7,13 +7,13 @@
   "source": "경찰 간부",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 102,
+  "count": 97,
   "questions": [
     {
       "id": 32418,
       "question": "투자계획의 타당성을 현재가치로 환산한 순편익에 기초하여 평가하는 방법이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 2,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 32419,
       "question": "투자계획의 순편익이 0이 되는 할인율을 구해서 투자계획의 타당성을 평가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 32420,
       "question": "투자계획의 채택 여부는 순편익의 현재가치 0을 기준으로 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -46,22 +46,10 @@
       }
     },
     {
-      "id": 32421,
-      "question": "순편익의 현재가치가 0보다 크더라도 반드시 국민의 복지 수준을 높인다고 볼 수 없다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 2,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 32422,
       "question": "인플레이션은 실질 조세부담을 감소시킨다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "①",
@@ -73,7 +61,7 @@
       "id": 32423,
       "question": "조세부담이 누진적이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 4,
         "option": "②",
@@ -85,7 +73,7 @@
       "id": 32424,
       "question": "소득재분배 효과가 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 4,
         "option": "③",
@@ -94,22 +82,10 @@
       }
     },
     {
-      "id": 32425,
-      "question": "한계세율이 평균세율보다 항상 크거나 같다. - 30 정 학 세 무 회 계",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 4,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 32430,
       "question": "소득효과가 대체효과보다 크다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -121,7 +97,7 @@
       "id": 32431,
       "question": "근로소득세를 증가시키면 노동공급은 증가한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -133,7 +109,7 @@
       "id": 32432,
       "question": "임금과 노동공급은 정(+)의 관계이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "③",
@@ -145,7 +121,7 @@
       "id": 32433,
       "question": "여가가 정상재일 때 후방굴절 노동공급곡선이 나타난다. 30 -",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -157,7 +133,7 @@
       "id": 32434,
       "question": "조세를 통한 재원조달보다 국채를 통한 재원조달이 더 효과 적이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -169,7 +145,7 @@
       "id": 32435,
       "question": "국채발행을 통해 조세부담을 경감시키면 총수요가 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -181,7 +157,7 @@
       "id": 32436,
       "question": "국채발행은 이자율을 상승시켜 소비를 감소시킨다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -193,7 +169,7 @@
       "id": 32437,
       "question": "국채발행을 통한 감세정책은 소비에 영향을 미치지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "④",
@@ -205,7 +181,7 @@
       "id": 32438,
       "question": "조세수입이 극대화되어야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "①",
@@ -217,7 +193,7 @@
       "id": 32439,
       "question": "조세부담이 공평하게 분배되어야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "②",
@@ -229,7 +205,7 @@
       "id": 32440,
       "question": "자원배분의 교란을 최소화시켜야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "③",
@@ -241,7 +217,7 @@
       "id": 32441,
       "question": "경제적 여건의 변화에 쉽게 반응할 수 있어야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "④",
@@ -253,7 +229,7 @@
       "id": 32442,
       "question": "소비 대상이 되는 물건에 부과되는 물세이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -265,7 +241,7 @@
       "id": 32443,
       "question": "저축이 과세 대상에서 제외되기 때문에 현재소비와 미래소비 간 상대가격을 변화시킨다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "②",
@@ -277,7 +253,7 @@
       "id": 32444,
       "question": "개인의 지출규모에 따라 누진세율을 적용할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "③",
@@ -289,7 +265,7 @@
       "id": 32445,
       "question": "소득세와 달리 노동시장에서 교란을 발생시키지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -301,7 +277,7 @@
       "id": 32446,
       "question": "민간부문의 특정 행위를 유도하기 위해 정부가 직접적으로 지출하는 재정을 의미한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "①",
@@ -313,7 +289,7 @@
       "id": 32447,
       "question": "기업의 투자 촉진을 위한 투자세액공제 등이 그 예이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -325,7 +301,7 @@
       "id": 32448,
       "question": "조세지출예산제도는 조세지출의 남발을 억제하기 위해 마련 된 제도이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -337,7 +313,7 @@
       "id": 32449,
       "question": "조세지출의 혜택이 고소득층에 집중되어 역전된 보조(upside-down subsidy)라는 비판을 받기도 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "④",
@@ -349,7 +325,7 @@
       "id": 32450,
       "question": "조합방식은 법인이윤 전체를 주주에게 귀속시켜 개인소득세 를 부과하는 방식이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "①",
@@ -361,7 +337,7 @@
       "id": 32451,
       "question": "조합방식은 일부 주주들의 현금흐름에 문제를 발생시킬 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -373,7 +349,7 @@
       "id": 32452,
       "question": "자본이득방식은 법인세와 소득세를 부분적으로 통합하는 방식이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "③",
@@ -385,7 +361,7 @@
       "id": 32453,
       "question": "배당세액공제제도는 개인 주주의 소득세 납부시 법인세 과세분을 세액공제 해주는 방식이다. 31 -",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "④",
@@ -397,7 +373,7 @@
       "id": 32454,
       "question": "여가에 대해 세금을 부과하지 않기 때문에 노동시장에서는 초과부담이 발생하지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "①",
@@ -409,7 +385,7 @@
       "id": 32455,
       "question": "조세가 민간의 의사결정을 왜곡시켜 초과부담을 발생시킨다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -421,7 +397,7 @@
       "id": 32456,
       "question": "인두세는 장기적으로 자녀 수 결정에 영향을 미칠 수 있으므로 초과부담을 발생시킨다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -433,7 +409,7 @@
       "id": 32457,
       "question": "조세로 인해 상대가격이 변화되기 때문에 초과부담이 발생한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "④",
@@ -445,7 +421,7 @@
       "id": 32458,
       "question": "모든 재화에 동일한 세율로 과세되기 때문에 비례세적 특성을 가진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -457,7 +433,7 @@
       "id": 32459,
       "question": "소비지국 과세원칙에 따라 수출품에 이중과세의 문제가 발생 된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -469,7 +445,7 @@
       "id": 32460,
       "question": "소비형 부가가치세제하에서는 자본재가 과세대상에서 제외되 므로 기업투자를 촉진하는 효과가 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "③",
@@ -481,7 +457,7 @@
       "id": 32461,
       "question": "부가가치세는 생산단계별 부가가치에 과세하기 때문에 수직 통합(vertical integration)의 유인이 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "④",
@@ -493,7 +469,7 @@
       "id": 32462,
       "question": "인적공제를 충분히 허용하여 면세점을 높이면 누진성도 높일 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -505,7 +481,7 @@
       "id": 32463,
       "question": "조세 행정비용을 절감할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "②",
@@ -517,7 +493,7 @@
       "id": 32464,
       "question": "합법적 조세회피를 줄일 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -529,7 +505,7 @@
       "id": 32465,
       "question": "각종 공제제도를 확대함으로써 수직적 공평성을 증가시킨다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "④",
@@ -541,7 +517,7 @@
       "id": 32466,
       "question": "국민이 선출한 사람이나 이들에 의해 임명된 사람들이 운영의 책임을 맡고 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 20,
         "option": "①",
@@ -553,7 +529,7 @@
       "id": 32467,
       "question": "국민에 대해 일정한 강제력을 행사할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 20,
         "option": "②",
@@ -565,7 +541,7 @@
       "id": 32468,
       "question": "정부부문의 재화나 서비스는 주로 비시장배분(non-market rationing)에 의해 배분된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 20,
         "option": "③",
@@ -577,7 +553,7 @@
       "id": 32469,
       "question": "정부부문의 경제활동은 자발적 교환의 원칙에 의해서 이루어 진다. - 32",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "④",
@@ -589,7 +565,7 @@
       "id": 32470,
       "question": "최적다수결제도하에서 의안에 찬성을 많이 할수록 외부비용 (external cost)은 감소한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 21,
         "option": "①",
@@ -601,7 +577,7 @@
       "id": 32471,
       "question": "만장일치제도하에서는 항상 파레토 개선이 달성된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 21,
         "option": "②",
@@ -613,7 +589,7 @@
       "id": 32472,
       "question": "다수결투표제도하에서는 선호의 강도가 반영되지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 21,
         "option": "③",
@@ -625,7 +601,7 @@
       "id": 32473,
       "question": "점수투표제도하에서는 투표자들의 전략적 행위로 인해 투표의 역설이 발생된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 21,
         "option": "④",
@@ -637,7 +613,7 @@
       "id": 32474,
       "question": "정부가 온정주의적인 측면에서 가치재 소비를 늘리도록 하는 것은 소비자 주권주의와 상충된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 23,
         "option": "①",
@@ -649,7 +625,7 @@
       "id": 32475,
       "question": "술이나 담배에 죄악세를 부과한다면 정부가 술, 담배를 비가치재로 판단한다는 것을 의미한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 23,
         "option": "②",
@@ -661,7 +637,7 @@
       "id": 32476,
       "question": "비가치재에 대한 소비규제는 소비자를 위한 결정이므로 소비자 주권을 침해하는 것으로 보기 어렵다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 23,
         "option": "③",
@@ -670,34 +646,10 @@
       }
     },
     {
-      "id": 32477,
-      "question": "공공교육, 의료서비스 등은 가치재의 예로 볼 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 23,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 32478,
-      "question": "의료서비스의 수요자들은 의료서비스에 대한 평가를 제대로 할 수 있는 지식이 부족하므로 정부가 개입해서 적정한 평가가 이루어지도록 할 필요가 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 24,
-        "option": "①",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 32479,
       "question": "의료서비스 수요자들의 과잉진료라는 도덕적 해이를 방지하기 위해 공적 의료보험제도가 필요하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 24,
         "option": "②",
@@ -709,7 +661,7 @@
       "id": 32480,
       "question": "상품평등주의 관점에서 볼 때, 모든 국민이 최소한의 의료 혜택을 누릴 수 있는 공적 의료보험제도가 필요하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 24,
         "option": "③",
@@ -721,7 +673,7 @@
       "id": 32481,
       "question": "민간 의료보험 시장에서는 역선택의 문제가 발생할 수 있으므로 국민 모두를 가입시키는 공적 의료보험제도가 필요하다. 32 -",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 24,
         "option": "④",
@@ -733,7 +685,7 @@
       "id": 32482,
       "question": "평등주의자들은 모든 사람은 동등한 사회적 가치를 가지고 태어났으므로 재산 및 소득 등 물질적 가치도 골고루 분배되 어야 한다고 주장한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 25,
         "option": "①",
@@ -745,7 +697,7 @@
       "id": 32483,
       "question": "공리주의자들은 사회의 후생을 극대화하기 위해서는 개인 간 소득에 대한 효용함수가 다른 경우에도 소득이 평등하게 분배되어야 한다고 주장한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 25,
         "option": "②",
@@ -757,7 +709,7 @@
       "id": 32484,
       "question": "자유주의자들은 모든 사람이 정당하게 가질 권리에 따라 물질적 가치가 소유되는 것이 정의로운 분배상태라고 주장한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 25,
         "option": "③",
@@ -769,7 +721,7 @@
       "id": 32485,
       "question": "롤스(J. Rawls)는 가장 가난한 사람들의 후생이 극대화되도록 분배되어야 한다고 주장한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 25,
         "option": "④",
@@ -781,7 +733,7 @@
       "id": 32486,
       "question": "민간기업이 생산하고 가격규제를 하지 않으면 사회적 최적 생산량을 달성할 수 없다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 26,
         "option": "①",
@@ -793,7 +745,7 @@
       "id": 32487,
       "question": "이부가격제도(two-part tariff)를 도입하면 해당 공기업의 손실을 줄일 수 있고, 생산량도 최적 생산량에 도달할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 26,
         "option": "②",
@@ -805,7 +757,7 @@
       "id": 32488,
       "question": "한계비용에 일치하도록 가격을 설정하면, 경제적 이윤은 음 (-)이 된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 26,
         "option": "③",
@@ -817,7 +769,7 @@
       "id": 32489,
       "question": "평균비용을 감소시키기 위해 여러 공기업에서 생산하도록 하는 것이 바람직하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 26,
         "option": "④",
@@ -829,7 +781,7 @@
       "id": 32490,
       "question": "무조건부교부금은 지방정부 주민들의 사적재 소비를 증가시킬 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 27,
         "option": "①",
@@ -841,7 +793,7 @@
       "id": 32491,
       "question": "대응교부금(matching grants)은 지방정부가 수행하는 사업의 비용 중 일정부분을 중앙정부가 부담하는 방식의 교부금이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 27,
         "option": "②",
@@ -853,7 +805,7 @@
       "id": 32492,
       "question": "지방정부 관료들의 예산극대화 동기가 클 경우 교부금의 끈 끈이 효과(flypaper effect)가 발생할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 27,
         "option": "③",
@@ -865,7 +817,7 @@
       "id": 32493,
       "question": "비대응교부금(non-matching grants)은 대응교부금과 달리 아무런 조건없이 교부하는 교부금이다. - 33",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 27,
         "option": "④",
@@ -877,7 +829,7 @@
       "id": 32495,
       "question": "노동에 불리한 소득분배가 발생한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 30,
         "option": "①",
@@ -889,7 +841,7 @@
       "id": 32496,
       "question": "생산의 파레토 최적 조건이 충족되지 못한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 30,
         "option": "②",
@@ -901,7 +853,7 @@
       "id": 32497,
       "question": "의 생산은 감소하고 의 생산은 증가한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 30,
         "option": "③",
@@ -913,7 +865,7 @@
       "id": 32498,
       "question": "와  모두 노동집약도가 증가한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 30,
         "option": "④",
@@ -925,7 +877,7 @@
       "id": 32499,
       "question": "생산자 수취가격은 하락한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 31,
         "option": "①",
@@ -937,7 +889,7 @@
       "id": 32502,
       "question": "가 증가할수록 정부의 조세수입은 증가한다. 33 -",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 31,
         "option": "④",
@@ -949,7 +901,7 @@
       "id": 32503,
       "question": "애킨슨(Atkinson) 지수는 소득분배에 대한 주관적 가치판단이 반영되어 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 32,
         "option": "①",
@@ -961,7 +913,7 @@
       "id": 32504,
       "question": "로렌츠(Lorenz) 곡선이 대각선에 가까울수록 소득분배는 균등하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 32,
         "option": "②",
@@ -973,7 +925,7 @@
       "id": 32505,
       "question": "지니(Gini) 계수가 1이면 완전히 균등한 소득분배를 의미한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 32,
         "option": "③",
@@ -982,22 +934,10 @@
       }
     },
     {
-      "id": 32506,
-      "question": "애킨슨(Atkinson) 지수는 0과 1 사이의 값을 갖는다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 32,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 32507,
       "question": "사회무차별곡선은 자의 형태를 갖는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 34,
         "option": "①",
@@ -1009,7 +949,7 @@
       "id": 32508,
       "question": "사회후생()은   이다.  ",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 34,
         "option": "②",
@@ -1021,7 +961,7 @@
       "id": 32509,
       "question": "A의 효용이 증가하지 않는 한 사회후생은 증가하지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 34,
         "option": "③",
@@ -1033,7 +973,7 @@
       "id": 32510,
       "question": "A와 B의 소득이 동일할 때, 사회후생이 극대화된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 34,
         "option": "④",
@@ -1045,7 +985,7 @@
       "id": 32511,
       "question": "사용자가 증가하여도 1인당 사용량은 감소하지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 36,
         "option": "①",
@@ -1057,7 +997,7 @@
       "id": 32512,
       "question": "무임승차자의 문제가 발생한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 36,
         "option": "②",
@@ -1069,7 +1009,7 @@
       "id": 32513,
       "question": "민간부문에서의 공급은 불가능하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 36,
         "option": "③",
@@ -1081,7 +1021,7 @@
       "id": 32514,
       "question": "추가소비의 한계비용이 0이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 36,
         "option": "④",
@@ -1093,7 +1033,7 @@
       "id": 32515,
       "question": "개인 선호의 이행성이 있더라도 사회적으로는 이행성이 충족 되지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 37,
         "option": "①",
@@ -1105,7 +1045,7 @@
       "id": 32516,
       "question": "중위투표자정리 현상이 나타난다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 37,
         "option": "②",
@@ -1117,7 +1057,7 @@
       "id": 32517,
       "question": "안건의 비교 순서에 따라 다른 결과가 나타날 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 37,
         "option": "③",
@@ -1129,7 +1069,7 @@
       "id": 32518,
       "question": "1차원 안건에 대하여 단봉선호인 경우 발생하지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 37,
         "option": "④",
@@ -1141,7 +1081,7 @@
       "id": 32519,
       "question": "시장의 거래량은 증가한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 38,
         "option": "①",
@@ -1153,7 +1093,7 @@
       "id": 32520,
       "question": "생산자의 실질적 혜택은 없다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 38,
         "option": "②",
@@ -1165,7 +1105,7 @@
       "id": 32521,
       "question": "소비자 잉여는 증가한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 38,
         "option": "③",
@@ -1177,7 +1117,7 @@
       "id": 32522,
       "question": "조세수입의 소득탄력성은 1보다 크다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 39,
         "option": "①",
@@ -1189,7 +1129,7 @@
       "id": 32523,
       "question": "선형누진세에 해당한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 39,
         "option": "②",
@@ -1201,7 +1141,7 @@
       "id": 32524,
       "question": "시장의 테두리 밖에서 발생한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 40,
         "option": "①",
@@ -1213,7 +1153,7 @@
       "id": 32525,
       "question": "자발적 해결은 불가능하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 40,
         "option": "②",
@@ -1225,7 +1165,7 @@
       "id": 32526,
       "question": "의도하지 않은 결과이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 40,
         "option": "③",

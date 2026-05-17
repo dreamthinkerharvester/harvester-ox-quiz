@@ -13,7 +13,7 @@
       "id": 30363,
       "question": "진열장에 진열된 제품 200,000원을 도난당하",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 82,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 30364,
       "question": "화재로 인해 제품 100,000원이 소실되었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 82,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 30365,
       "question": "거래처의 파산으로 매출채권 100,000원이 회",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 82,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 30367,
       "question": "영업부에서 월 급여 3,000,000원을 주기로",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 82,
         "option": "⑤",
@@ -61,7 +61,7 @@
       "id": 30368,
       "question": "유보가격(reservation price)은 소비자가 제 가격이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 94,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 30369,
       "question": "준거가격(reference price)은 구매자가 의심",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 94,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 30370,
       "question": "묶음가격(bundling pricing)은 특정 제품과 가격설정방식이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 94,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 30371,
       "question": "유인가격(loss-leader pricing)은 소비자들에 하게 낮은 가격을 제시하는 가격설정방식이",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 94,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 30372,
       "question": "초기고가전략(skimming pricing)은 도입기 하는 가격전략이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 94,
         "option": "⑤",

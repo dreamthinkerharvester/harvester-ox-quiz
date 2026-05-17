@@ -13,7 +13,7 @@
       "id": 42925,
       "question": "간척지 토양은 유효토심이 깊고 염분농도가 높다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 42926,
       "question": "암거배수 시설로 염분을 제거한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 42927,
       "question": "볏짚을 시용하면 제염 효과가 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 42928,
       "question": "직파재배 시 파종은 담수표면산파를 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 42929,
       "question": "남작은 조숙ㆍ다수성이고 식용으로 적합하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 42930,
       "question": "대지는 초세가 왕성하고 2기작 재배에 적합하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 42931,
       "question": "대서는 환원당 함량이 낮아 감자칩 가공용으로 적합하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 42932,
       "question": "수미는 만숙으로 눈이 깊고 식용으로 적합하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 3,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 42933,
       "question": "알맞은 토양은 배수가 잘되고 산도는 pH 6.2～6.3이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 4,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 42934,
       "question": "따뜻한 기후를 좋아하며 서리에는 아주 약하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 4,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 42935,
       "question": "조생종의 경우 여름 고온기에 고랭지 재배가 가능하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 4,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 42936,
       "question": "질소고정능력이 강하므로 척박지에서도 생육이 좋다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 42937,
       "question": "전분은 세포섬유에 싸여 있어 삶아도 잘 풀리지 않는 특징이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 5,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 42938,
       "question": "발아할 때 자엽이 땅 위로 올라온다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 5,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 42939,
       "question": "토양 적응성이 크고 연작 장해가 발생하지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 5,
         "option": "③",
@@ -193,7 +193,7 @@
       "id": 42940,
       "question": "냉해에 강하여 고위도 지역에서의 재배가 안정적이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 5,
         "option": "④",
@@ -205,7 +205,7 @@
       "id": 42941,
       "question": "이형주는 이삭이 나올 때까지 제거하지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 7,
         "option": "①",
@@ -217,7 +217,7 @@
       "id": 42942,
       "question": "종자소독을 하고, 심는 거리는 일반재배보다 넓히는 것이 유리하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "②",
@@ -229,7 +229,7 @@
       "id": 42943,
       "question": "종자친의 수꽃 제거 작업은 꽃가루가 가장 왕성하게 날아다닐 때 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -241,7 +241,7 @@
       "id": 42944,
       "question": "자식계통을 생산하는 원종 포장은 다른 종류의 옥수수 포장에서 100m 이상 떨어져야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -253,7 +253,7 @@
       "id": 42945,
       "question": "종실은 수과이고 식물학적으로 과실이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -265,7 +265,7 @@
       "id": 42946,
       "question": "꽃은 꽃잎이 없는 대신 꽃받침에 해당하는 꽃덮개가 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -277,7 +277,7 @@
       "id": 42947,
       "question": "이형예현상이 있고 암술대보다 수술이 긴 꽃은 장주화이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "③",
@@ -289,7 +289,7 @@
       "id": 42948,
       "question": "개화는 아랫부분에서부터 시작하고 점차 선단으로 이어진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 9,
         "option": "④",
@@ -301,7 +301,7 @@
       "id": 42949,
       "question": "동부는 고온에 잘 견디고 햇빛이 많은 곳이 유리하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 10,
         "option": "①",
@@ -313,7 +313,7 @@
       "id": 42950,
       "question": "녹두는 건조에 강하고 다습을 꺼린다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -325,7 +325,7 @@
       "id": 42951,
       "question": "땅콩은 결실 기간의 온도가 높을수록 종실의 지방함량이 감소한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "③",
@@ -337,7 +337,7 @@
       "id": 42952,
       "question": "완두는 서늘한 기후를 좋아하고 추위에도 비교적 강하다. 2025년도 지방공무원 9급 등 공개경쟁임용 필기시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 10,
         "option": "④",
@@ -349,7 +349,7 @@
       "id": 42953,
       "question": "모내기 철에 가뭄상습지에서는 적파만식 적응성이 강한 품종을 선택한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 11,
         "option": "①",
@@ -361,7 +361,7 @@
       "id": 42954,
       "question": "답리작을 하는 논에서는 만식적응성이 강한 품종을 선택한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 11,
         "option": "②",
@@ -373,7 +373,7 @@
       "id": 42955,
       "question": "야간 점등 지역에서는 만생종을 선택한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "③",
@@ -385,7 +385,7 @@
       "id": 42956,
       "question": "직파재배에는 도복에 강한 품종을 선택한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 11,
         "option": "④",
@@ -397,7 +397,7 @@
       "id": 42957,
       "question": "분얼기에 적온에서 주야간 온도 교차가 작을수록 분얼수가 많다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "①",
@@ -409,7 +409,7 @@
       "id": 42958,
       "question": "수잉기는 냉해에 민감한 시기이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -421,7 +421,7 @@
       "id": 42959,
       "question": "하루 중 개화 시기는 고온과 저온에 따라 다를 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -433,7 +433,7 @@
       "id": 42960,
       "question": "등숙기의 지나친 고온은 유백미를 발생시킬 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -445,7 +445,7 @@
       "id": 42961,
       "question": "모는 본엽이 1매 나올 때부터 주로 뿌리에서 흡수된 양분에 의존하여 생장한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "①",
@@ -457,7 +457,7 @@
       "id": 42962,
       "question": "엽면적은 재식거리와 질소 시용량에 따라 달라진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -469,7 +469,7 @@
       "id": 42963,
       "question": "출엽주기는 영양생장기가 생식생장기보다 빠르다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -481,7 +481,7 @@
       "id": 42964,
       "question": "동일 지경 내에서는 선단의 영화가 먼저 개화한 후 아래로부터 위로 개화한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "④",
@@ -493,7 +493,7 @@
       "id": 42965,
       "question": "쌀보리는 발아 시 유근과 유아가 모두 배의 같은 쪽에서 출현한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "①",
@@ -505,7 +505,7 @@
       "id": 42966,
       "question": "겉보리는 유착 물질이 분비되어 내영과 외영이 과피에 단단하게 붙어 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -517,7 +517,7 @@
       "id": 42967,
       "question": "여섯줄 보리의 각 소수에는 1쌍의 받침껍질이 싸여있고 3개의 꽃이 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "③",
@@ -529,7 +529,7 @@
       "id": 42968,
       "question": "두줄 보리는 각 마디에 발생한 3개의 소수 중 1개가 결실한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "④",
@@ -541,7 +541,7 @@
       "id": 42969,
       "question": "이삭수를 많이 확보하기 위해서는 수중형 품종을 선택하고 재식밀도를 낮춘다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "①",
@@ -553,7 +553,7 @@
       "id": 42970,
       "question": "등숙비율을 향상하기 위해서는 안전등숙한계출수기 이전에 출수하도록 적기에 모내기를 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -565,7 +565,7 @@
       "id": 42971,
       "question": "입중을 증가시키기 위해서는 무효분얼 발생을 억제하고 알거름을 준다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -577,7 +577,7 @@
       "id": 42972,
       "question": "1수영화수를 증가시키기 위해서는 단간수중형 품종을 선택하고 이삭거름을 준다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "④",
@@ -589,7 +589,7 @@
       "id": 42973,
       "question": "보리알 수분함량이 높을수록 높은 온도에서 건조하다가 점차 온도를 낮춘다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "①",
@@ -601,7 +601,7 @@
       "id": 42974,
       "question": "종실용 옥수수는 이삭 껍질이 누렇게 변하면서 알갱이가 단단해질 때 수확한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -613,7 +613,7 @@
       "id": 42975,
       "question": "땅콩은 꼬투리에 그물 무늬가 뚜렷이 형성되면 수확한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 18,
         "option": "③",
@@ -625,7 +625,7 @@
       "id": 42976,
       "question": "콩은 95%의 꼬투리가 품종 고유 색깔을 나타내는 성숙기가 R 이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 18,
         "option": "④",
@@ -637,7 +637,7 @@
       "id": 42977,
       "question": "미숙한 감자는 성숙한 감자보다 휴면기간이 길다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -649,7 +649,7 @@
       "id": 42978,
       "question": "2기작으로 가을 재배하는 경우 에스렐 처리로 휴면을 타파할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "②",
@@ -661,7 +661,7 @@
       "id": 42979,
       "question": "방사선(선) 처리는 휴면을 유도하여 저장기간을 연장할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -673,7 +673,7 @@
       "id": 42980,
       "question": "휴면 깊이는 전기 단계가 가장 깊고 중기, 후기 순으로 깊다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "④",
@@ -685,7 +685,7 @@
       "id": 42981,
       "question": "주요 재배종은 이질 4배체이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 20,
         "option": "①",
@@ -697,7 +697,7 @@
       "id": 42982,
       "question": "장일처리는 인위적인 개화를 유도할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 20,
         "option": "②",
@@ -709,7 +709,7 @@
       "id": 42983,
       "question": "질소질 비료를 많이 시용하면 전분 함량이 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 20,
         "option": "③",
@@ -721,7 +721,7 @@
       "id": 42984,
       "question": "짧은 싹을 건조하기 쉬운 사질토에 심을 경우에는 사식(빗심기)의 삽식법이 유리하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "④",

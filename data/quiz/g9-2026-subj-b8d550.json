@@ -7,13 +7,13 @@
   "source": "국가직 9급",
   "exam_year": 2026,
   "exam_round": null,
-  "count": 11,
+  "count": 8,
   "questions": [
     {
       "id": 27601,
       "question": "이상적인 전압원과 전류원의 내부저항은 모두 0이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 1,
         "option": "①",
@@ -22,46 +22,10 @@
       }
     },
     {
-      "id": 27602,
-      "question": "이상적인 전압원과 전류원의 내부저항은 모두 ∞이다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 1,
-        "option": "②",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 27603,
-      "question": "이상적인 전압원의 내부저항은 0이고, 이상적인 전류원의 내부 저항은 ∞이다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 1,
-        "option": "③",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 27604,
-      "question": "이상적인 전압원의 내부저항은 ∞이고, 이상적인 전류원의 내부 저항은 0이다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 1,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 27605,
       "question": "유효전력은 저항에서 소비되는 전력이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 7,
         "option": "①",
@@ -73,7 +37,7 @@
       "id": 27606,
       "question": "선간전압이 증가하면 유효전력은 증가한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 7,
         "option": "②",
@@ -85,7 +49,7 @@
       "id": 27607,
       "question": "3상회로 유효전력은 등가 단상회로 유효전력의 3배이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -97,7 +61,7 @@
       "id": 27608,
       "question": "부하의 저항은 일정하고 리액턴스의 크기가 증가하면 유효전력은 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "④",
@@ -109,7 +73,7 @@
       "id": 27609,
       "question": "대역폭은 ＝ [rad/s]이다.   ",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "①",
@@ -121,7 +85,7 @@
       "id": 27611,
       "question": "공진주파수는  ＝ [Hz]이다.     ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -133,7 +97,7 @@
       "id": 27612,
       "question": "병렬공진 시에 저항 에 흐르는 전류 은 전류 와 같다. ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "④",

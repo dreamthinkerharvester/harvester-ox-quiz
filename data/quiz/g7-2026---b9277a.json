@@ -13,7 +13,7 @@
       "id": 26097,
       "question": "CSTR의 내부는 완전혼합된다고 가정한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 26098,
       "question": "CSTR의 내부 농도는 유입되는 반응물의 농도와 같다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 26099,
       "question": "PFR의 내부 농도는 흐름의 수직 방향으로는 변화하지 않고 흐름 방향으로만 변화한다고 가정한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 26100,
       "question": "전환율이 동일할 때, 직렬연결된 CSTR이 많아질수록 그 전체 부피는 단일 PFR의 부피와 유사해진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 26101,
       "question": "반응이 진행되는 동안 온도를 높인다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 26102,
       "question": "반응이 진행되는 동안 온도를 낮춘다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 26103,
       "question": "반응이 진행되는 동안 온도를 일정하게 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 26104,
       "question": "압력은 A가 B보다 낮다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -109,7 +109,7 @@
       "id": 26105,
       "question": "전환율은 A가 B보다 낮다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -121,7 +121,7 @@
       "id": 26106,
       "question": "반응물의 몰농도는 A가 B보다 낮다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -133,7 +133,7 @@
       "id": 26107,
       "question": "부피유량은 A가 B보다 작다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "④",
@@ -145,7 +145,7 @@
       "id": 26108,
       "question": "온도가 에서 a로 낮아지면, 생성열이 제거열보다 많아지므로  온도가 으로 되돌아온다. ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "①",
@@ -157,7 +157,7 @@
       "id": 26109,
       "question": "온도가 에서 b로 높아지면, 생성열보다 더 많은 열이 제거되므로  온도가 으로 되돌아온다. ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -169,7 +169,7 @@
       "id": 26110,
       "question": "온도가 에서 c로 낮아지면, 생성열이 제거열보다 적어지므로  온도가 로 되돌아온다. ",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "③",
@@ -181,7 +181,7 @@
       "id": 26111,
       "question": "온도가 에서 d로 높아지면, 생성열보다 더 적은 열이 제거되므로  온도가 로 높아진다.  근로감독 및 산업안전 분야 국가공무원 7급 공채 제2차시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "④",
@@ -193,7 +193,7 @@
       "id": 26112,
       "question": "공급 원료의 온도()가 500K일 경우 반응속도가 커서 가장 많은 f 생성물을 얻을 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "①",
@@ -205,7 +205,7 @@
       "id": 26113,
       "question": "공급 원료의 온도()가 300 K일 경우 반응기의 출구에서 f 평형전환율에 도달하지 못한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 20,
         "option": "②",
@@ -217,7 +217,7 @@
       "id": 26114,
       "question": "공급 원료의 온도()가 높아짐에 따라 평형전환율을 얻을 수 f 있는 위치는 반응기 입구에 가까워진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 20,
         "option": "③",
@@ -229,7 +229,7 @@
       "id": 26115,
       "question": "단열 가역 발열반응의 경우 반응기 내에서 전환율을 최대화하는 최적의 반응물 공급 온도()가 존재한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 20,
         "option": "④",

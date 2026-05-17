@@ -7,37 +7,13 @@
   "source": "경찰 간부",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 15,
+  "count": 13,
   "questions": [
-    {
-      "id": 32646,
-      "question": "110101010111111 - 18 신 이 론 사 이 버",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 4,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 32647,
-      "question": "에너지 신호의 전력은 ∞이다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 7,
-        "option": "①",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
     {
       "id": 32648,
       "question": "전력 신호의 에너지는 0이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 7,
         "option": "②",
@@ -49,7 +25,7 @@
       "id": 32649,
       "question": "에너지 신호도 아니고 전력 신호도 아닌 신호가 존재한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "③",
@@ -61,7 +37,7 @@
       "id": 32650,
       "question": "주기 신호는 에너지 신호이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -73,7 +49,7 @@
       "id": 32658,
       "question": "B : 440[MHz] K : 10 - 19",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -85,7 +61,7 @@
       "id": 32659,
       "question": "펄스부호변조(Pulse Code Modulation)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 31,
         "option": "①",
@@ -97,7 +73,7 @@
       "id": 32662,
       "question": "펄스폭변조(Pulse Width Modulation) - 22",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 31,
         "option": "④",
@@ -109,7 +85,7 @@
       "id": 32668,
       "question": "ARP(Address Resolution Protocol)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 37,
         "option": "②",
@@ -121,7 +97,7 @@
       "id": 32669,
       "question": "DHCP(Dynamic Host Configuration Protocol)",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 37,
         "option": "③",
@@ -133,7 +109,7 @@
       "id": 32670,
       "question": "RARP(Reverse Address Resolution Protocol) - 23",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 37,
         "option": "④",
@@ -145,7 +121,7 @@
       "id": 32671,
       "question": "SMTP(Simple Mail Transfer Protocol)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 39,
         "option": "①",
@@ -157,7 +133,7 @@
       "id": 32672,
       "question": "MIME(Multipurpose Internet Mail Extention)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 39,
         "option": "②",
@@ -169,7 +145,7 @@
       "id": 32673,
       "question": "POP(Post Office Protocol)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 39,
         "option": "③",
@@ -181,7 +157,7 @@
       "id": 32674,
       "question": "IMAP(Internet Mail Access Protocol)",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 39,
         "option": "④",

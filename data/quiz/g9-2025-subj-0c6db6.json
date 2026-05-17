@@ -7,13 +7,13 @@
   "source": "국가직 9급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 64,
+  "count": 62,
   "questions": [
     {
       "id": 38371,
       "question": "파종량이 적어지면 잡초도 적게 발생한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 38372,
       "question": "파종 시기가 늦어질수록 파종량을 줄인다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 38373,
       "question": "경실종자가 많이 포함된 경우에는 파종량을 줄인다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 38374,
       "question": "채종용은 청예용보다 파종량을 줄인다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 3,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 38375,
       "question": "적파는 산파보다 파종노력이 많이 든다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 38376,
       "question": "산파는 도복이 잘 안된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 4,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 38377,
       "question": "조파는 통풍과 투광이 나쁘다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 4,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 38378,
       "question": "점파는 종자량이 많이 들고 투광이 나쁘다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 4,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 38379,
       "question": "종자는 저온습윤처리에 의하여 발아억제물질인 티오우레아(thiourea)가 감소된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 5,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 38380,
       "question": "종자의 수분포텐셜을 높이기 위하여 PEG용액을 처리한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 5,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 38381,
       "question": "종자의 발아촉진을 위해서 시안화수소(HCN)를 사용한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 5,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 38382,
       "question": "종자가 작거나 불균일할 경우 기계파종을 위해 종자 표면에 고체물질을 피복한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 5,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 38383,
       "question": "최아종자의 저온처리는 암조건이 필수적이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 38384,
       "question": "호흡을 저해하는 조건에서는 버널리제이션이 저해된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 6,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 38385,
       "question": "추파맥류는 종자춘화형 식물이고 양배추는 녹체춘화형 식물이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 6,
         "option": "③",
@@ -193,7 +193,7 @@
       "id": 38386,
       "question": "밀은 저온처리 실시 후 고온처리(35°C)를 하면 이춘화가 일어나고, 저온처리 기간이 길어질수록 이춘화가 잘 되지 않는다. 재배학개론 책형 1쪽",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 6,
         "option": "④",
@@ -205,7 +205,7 @@
       "id": 38387,
       "question": "체세포분열의 세포주기는 G 기→S기→G 기→M기의 순서로 1 2 진행된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 7,
         "option": "①",
@@ -217,7 +217,7 @@
       "id": 38388,
       "question": "체세포분열은 마모된 세포를 새것으로 교체하여 정상적인 기능을 수행하도록 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 7,
         "option": "②",
@@ -229,7 +229,7 @@
       "id": 38389,
       "question": "제2감수분열에서는 생식모세포(2n)의 상동염색체가 분리되어 반수체 딸세포(n)가 형성된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "③",
@@ -241,7 +241,7 @@
       "id": 38390,
       "question": "제1감수분열과 제2감수분열 사이의 짧은 간기에는 DNA 합성이 일어나지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -253,7 +253,7 @@
       "id": 38391,
       "question": "가을보리와 시금치는 유도일장의 주체가 단일 쪽에 있고, 한계 일장은 장일 쪽에 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "①",
@@ -265,7 +265,7 @@
       "id": 38392,
       "question": "장단일식물 또는 단장일식물은 일정한 일장에만 계속 두면 개화하지 못한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -277,7 +277,7 @@
       "id": 38393,
       "question": "장일식물은 24시간 주기가 아니더라도 명기가 암기보다 상대적으로 길면 장일효과가 나타난다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -289,7 +289,7 @@
       "id": 38394,
       "question": "도꼬마리는 연속암기가 10시간 이하이면 상대적으로 단일상태가 되어도 개화되지 못한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 9,
         "option": "④",
@@ -301,7 +301,7 @@
       "id": 38395,
       "question": "계통육종은 F 부터 선발을 시작하고, 파생계통육종은 F 에서 질적 2 2 형질에 대해 개체선발을 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "①",
@@ -310,22 +310,10 @@
       }
     },
     {
-      "id": 38396,
-      "question": "1개체 1계통법은 F 부터 매 세대 모든 개체에서 1립씩 채종하여 2 집단재배하므로 F 에 나타나는 모든 유전자형을 유지할 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 10,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 38397,
       "question": "파생계통육종은 집단육종에 비해 포장면적을 줄일 수 있고, 육종 연한도 단축할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -337,7 +325,7 @@
       "id": 38398,
       "question": "F 1 을 여교배하면(BC 1 F 1 ) 자식한 F 2 에 비하여 분리하는 유전자형의 종류가 적으면서 동형접합체 비율은 높다. 2025년도 국가공무원 9급 공채 필기시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "④",
@@ -349,7 +337,7 @@
       "id": 38399,
       "question": "동질3배체는 불임이 아주 높고, 씨없는 과실을 생산하는 재배 식물에서 이용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 11,
         "option": "①",
@@ -361,7 +349,7 @@
       "id": 38400,
       "question": "사탕무의 동질3배체는 2배체(♀)에 4배체(♂)의 화분을 인공 수분한 1대잡종이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 11,
         "option": "②",
@@ -373,7 +361,7 @@
       "id": 38401,
       "question": "콜히친의 작용은 분열 중인 세포에서 방추체 형성과 동원체 분할을 촉진하는 것이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "③",
@@ -385,7 +373,7 @@
       "id": 38402,
       "question": "한 쌍의 대립유전자 A, a에 대한 유전자형은 2배체에서 AA, Aa, aa 등 3가지이지만, 동질4배체에서는 AAAA, AAAa, AAaa, Aaaa, aaaa 등 5가지가 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 11,
         "option": "④",
@@ -397,7 +385,7 @@
       "id": 38403,
       "question": "포장동화능력은 총엽면적, 수광능률, 평균동화능력의 합으로 표시된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -409,7 +397,7 @@
       "id": 38404,
       "question": "굴광현상에는 440～480nm의 청색광이 가장 유효하며, 덩굴손의 감는 운동은 굴광성으로 설명할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -421,7 +409,7 @@
       "id": 38405,
       "question": "호흡을 무시한 절대적인 광합성을 외견상광합성, 호흡으로 소모된 유기물을 뺀 광합성을 진정광합성이라고 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -433,7 +421,7 @@
       "id": 38406,
       "question": "광호흡은 높은 광도 외에도 높은 산소 수준과 낮은 이산화탄소 수준, 그리고 고온에서 촉진된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "④",
@@ -445,7 +433,7 @@
       "id": 38407,
       "question": "강산성은 점토와 부식을 분산시켜 토양입단의 생성을 저해한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -457,7 +445,7 @@
       "id": 38408,
       "question": "사탕무, 수수, 양배추는 알칼리성 토양에 적응성이 높은 편이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -469,7 +457,7 @@
       "id": 38409,
       "question": "알팔파, 자운영, 시금치는 산성 토양에 강한 편이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "③",
@@ -478,22 +466,10 @@
       }
     },
     {
-      "id": 38410,
-      "question": "산성 토양의 경우 식토는 사토와 pH가 같더라도 중화하는 데 더 많은 석회가 필요하다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 14,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 38411,
       "question": "유전변이가 생기는 것은 체세포분열 과정에서 일어나는 유전자 재조합이 주된 원인이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 15,
         "option": "①",
@@ -505,7 +481,7 @@
       "id": 38412,
       "question": "우량한 변이체를 고를 때 형질 간의 상관관계를 이용하면 목표 형질을 선발하기 쉽다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "②",
@@ -517,7 +493,7 @@
       "id": 38413,
       "question": "인위돌연변이는 여러 대립유전자들이 재조합되는 것으로 여러 유용한 형질을 동시에 개량하는 특징이 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -529,7 +505,7 @@
       "id": 38414,
       "question": "불연속변이를 하는 형질을 양적형질, 연속변이를 하는 형질을 질적형질이라고 한다. 재배학개론 책형 2쪽",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 15,
         "option": "④",
@@ -541,7 +517,7 @@
       "id": 38415,
       "question": "중과인산석회는 화학적 중성 비료이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "①",
@@ -553,7 +529,7 @@
       "id": 38416,
       "question": "요소는 생리적 중성 비료이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -565,7 +541,7 @@
       "id": 38417,
       "question": "종자를 수확하는 작물에서 인산과 칼리는 개화ㆍ결실에 효과가 크다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -577,7 +553,7 @@
       "id": 38418,
       "question": "홉(hop)은 꽃망울이 생길 무렵에 질소의 효과가 잘 나타나도록 하면 개화와 발육이 좋다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "④",
@@ -589,7 +565,7 @@
       "id": 38419,
       "question": "화곡류의 경우 유수형성기에 중경을 하면 생육 초기보다 피해가 적다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "①",
@@ -601,7 +577,7 @@
       "id": 38420,
       "question": "밭벼는 유효분얼종지기에 배토를 하면 무효분얼의 발생이 억제 된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -613,7 +589,7 @@
       "id": 38421,
       "question": "보리재배에서는 수잉기에 토입을 하면 도복이 경감되는데, 건조할 때는 뿌리가 마르게 되어 주의해야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -625,7 +601,7 @@
       "id": 38422,
       "question": "보리의 경우 월동 전에 답압을 하면 생장점의 C/N율이 저하되어 생식생장이 억제되고 월동이 좋아진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "④",
@@ -637,7 +613,7 @@
       "id": 38423,
       "question": "엽록소가 일단 형성된 후에는 온도가 높으면 낮을 때보다 엽록소가 더 안정된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "①",
@@ -649,7 +625,7 @@
       "id": 38424,
       "question": "볍씨를 발아시킨 후 약광에서 녹화시키지 않고, 바로 직사광선에 노출시키면 엽록소가 파괴되어 백화묘가 된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -661,7 +637,7 @@
       "id": 38425,
       "question": "벼를 육묘할 때 약광에서 서서히 녹화시키면 카로티노이드가 엽록소를 보호하여 피해를 받지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 18,
         "option": "③",
@@ -673,7 +649,7 @@
       "id": 38426,
       "question": "강광에 적응한 식물은 카로티노이드가 산화하면서 산화된 엽록소를 본래의 안정된 엽록소로 환원시킨다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 18,
         "option": "④",
@@ -685,7 +661,7 @@
       "id": 38427,
       "question": "입단이 발달한 토양은 수분과 양분의 보유력이 좋다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -697,7 +673,7 @@
       "id": 38428,
       "question": "광포화점에서는 이산화탄소 농도와 온도가 광합성의 제한요인이 된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "②",
@@ -709,7 +685,7 @@
       "id": 38429,
       "question": "광이 약할 때에는 이산화탄소보상점이 높아지고, 이산화탄소 포화점은 낮아진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -721,7 +697,7 @@
       "id": 38430,
       "question": "수분으로 포화된 토양에서 중력수를 배제하고 남은 수분상태를 최대용수량이라고 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "④",
@@ -733,7 +709,7 @@
       "id": 38431,
       "question": "인위돌연변이는 대부분 우성이므로 우성돌연변이를 얻기 쉽다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "①",
@@ -745,7 +721,7 @@
       "id": 38432,
       "question": "타식성 작물은 이형접합체가 많으므로 돌연변이체를 선발하기 어렵다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 20,
         "option": "②",
@@ -757,7 +733,7 @@
       "id": 38433,
       "question": "인위돌연변이체는 변이유전자가 원품종의 유전 배경에 적합하지 않기 때문에 수량이 적어지기 쉽다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 20,
         "option": "③",
@@ -769,7 +745,7 @@
       "id": 38434,
       "question": "이형접합성이 높은 영양번식작물에 돌연변이 유발원을 처리하면 체세포 돌연변이를 쉽게 얻을 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 20,
         "option": "④",

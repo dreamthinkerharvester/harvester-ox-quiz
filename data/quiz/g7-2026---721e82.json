@@ -13,7 +13,7 @@
       "id": 26132,
       "question": "축에 대한 단면1차모멘트는 0이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 26133,
       "question": "축에 대한 단면2차모멘트는 ′축에 대한 단면2차모멘트보다 작다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 26134,
       "question": "축에 대한 단면2차모멘트는 축에 대한 단면2차모멘트의 4배이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 26135,
       "question": "′축에 대한 단면2차모멘트는 축에 대한 단면2차모멘트의 8배이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 26136,
       "question": "주평면에서는 전단응력이 최대가 된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 3,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 26137,
       "question": "최대전단응력은 주응력 차이의 절반이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 3,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 26138,
       "question": "모어(Mohr) 원의 반지름은 주응력 평균값을 나타낸다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 3,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 26139,
       "question": "최대주응력은 반드시 인장응력이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 3,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 26140,
       "question": "B－C 구간은 압축력을 받는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 26141,
       "question": "A－B, C－D 구간은 인장력을 받는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 4,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 26142,
       "question": "전체 부재의 길이 변화량은 이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 4,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 26143,
       "question": "지점 A에 발생하는 수평반력의 크기는 P이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 4,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 26144,
       "question": "B와 C점에 집중하중이 작용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 7,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 26145,
       "question": "D－E 구간에는 등분포하중이 작용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 7,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 26146,
       "question": "최대 휨모멘트는 B점에서 발생한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "③",
@@ -193,7 +193,7 @@
       "id": 26147,
       "question": "C－E 구간에서 휨모멘트는 감소한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -205,7 +205,7 @@
       "id": 26148,
       "question": "A, B점에서 모두 동일한 휨응력을 가진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "①",
@@ -217,7 +217,7 @@
       "id": 26149,
       "question": "A, B점에서 모두 동일한 전단응력을 가진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -229,7 +229,7 @@
       "id": 26150,
       "question": "C, D점에서 모두 동일한 휨응력을 가진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -241,7 +241,7 @@
       "id": 26151,
       "question": "C, D점에서 모두 동일한 전단응력을 가진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 8,
         "option": "④",

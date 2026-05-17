@@ -7,13 +7,13 @@
   "source": "지방직 7급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 32,
+  "count": 31,
   "questions": [
     {
       "id": 42009,
       "question": "부착 의존성을 나타내지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 42010,
       "question": "밀도 의존성 억제를 나타낸다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 42011,
       "question": "스스로 생장인자(growth factor)를 만들어 계속 분열한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 42012,
       "question": "세포주기의 정상적인 조절 능력을 상실한 세포이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 42013,
       "question": "땀을 많이 흘리면 ADH의 분비가 감소한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 42014,
       "question": "물을 많이 마시면 신장에서 물의 재흡수가 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 42015,
       "question": "혈압이 정상치보다 낮아지면 오줌 생성량이 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 42016,
       "question": "혈장 삼투압이 정상치보다 높아지면 오줌 생성량이 감소한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "④",
@@ -106,22 +106,10 @@
       }
     },
     {
-      "id": 42017,
-      "question": "(가)와 (나)의 신경절 이전 뉴런의 말단에서 분비되는 신경전달 물질은 서로 다르다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 10,
-        "option": "①",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 42018,
       "question": "(나)의 신경절 이전 뉴런의 세포체는 척수의 회백질(gray matter)에 존재한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -133,7 +121,7 @@
       "id": 42019,
       "question": "호르몬 X와 Y는 길항적으로 작용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -145,7 +133,7 @@
       "id": 42020,
       "question": "호르몬 Y는 이자의 알파() 세포에서 분비된다. 2025년도 지방공무원 7급 등 공개경쟁임용 필기시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 10,
         "option": "④",
@@ -157,7 +145,7 @@
       "id": 42021,
       "question": "P은 햇빛에 노출되면 신속하게 축적된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -169,7 +157,7 @@
       "id": 42022,
       "question": "P은 어두운 상태에서 P 로 전환된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -181,7 +169,7 @@
       "id": 42023,
       "question": "P 이 적색광을 흡수하여 P로 전환된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -193,7 +181,7 @@
       "id": 42024,
       "question": "적색광은 상추 종자의 발아를 촉진한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "④",
@@ -205,7 +193,7 @@
       "id": 42025,
       "question": "환경수용력()는 특정 환경이 수용할 수 있는 개체군의 최대 크기이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "①",
@@ -217,7 +205,7 @@
       "id": 42026,
       "question": "지수형 개체군 생장(exponential population growth)은 제약이 없는 이상적인 환경에서 나타난다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -229,7 +217,7 @@
       "id": 42027,
       "question": "로지스트형 개체군 생장(logistic population growth)에서는 개체군 크기가 환경수용력()에 가까워짐에 따라 개체군 생장률이 0에 접근한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -241,7 +229,7 @@
       "id": 42028,
       "question": "사람은 모든 연령대에 걸쳐 일정한 사망률을 가지는 유형 Ⅱ의 생존곡선을 나타낸다. 생물학개론 책형 2쪽",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "④",
@@ -253,7 +241,7 @@
       "id": 42029,
       "question": "휴지전위에서 세포 안이 세포 밖에 비해 상대적으로 음(－)전하를 띤다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "①",
@@ -265,7 +253,7 @@
       "id": 42030,
       "question": "Na+－K+ 펌프는 세포 밖으로 양이온 두 개를 더 많이 내보냄으로써 막전위 형성에 기여한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "②",
@@ -277,7 +265,7 @@
       "id": 42031,
       "question": "활동전위를 생성하기 위해 필요한 수준의 탈분극을 역치(threshold) 라고 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -289,7 +277,7 @@
       "id": 42032,
       "question": "휴지전위에서 Cl-의 농도는 세포 안보다 세포 밖에서 더 높다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "④",
@@ -301,7 +289,7 @@
       "id": 42033,
       "question": "자연살생세포(natural killer cell)와 톨유사 수용체(Toll-like receptor)는 선천성 면역에 관여한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -313,7 +301,7 @@
       "id": 42034,
       "question": "항원제시세포(antigen presenting cell)는 수지상세포, 대식세포, B세포가 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -325,7 +313,7 @@
       "id": 42035,
       "question": "도움 T세포(helper T cell)의 CD8 단백질은 MHC Ⅱ형 분자에 결합한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "③",
@@ -337,7 +325,7 @@
       "id": 42036,
       "question": "병원체를 인식한 도움 T세포가 B세포를 자극하면 B세포는 증식하여 형질세포와 기억세포로 분화한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "④",
@@ -349,7 +337,7 @@
       "id": 42037,
       "question": "전이인자에는 트랜스포존(transposon)과 레트로트랜스포존 (retrotransposon)이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -361,7 +349,7 @@
       "id": 42038,
       "question": "트랜스포존의 전이 기작에는 잘라 붙이기(cut-and-paste)와 복사하여 붙이기(copy-and-paste)가 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "②",
@@ -373,7 +361,7 @@
       "id": 42039,
       "question": "레트로트랜스포존의 전이에서는 RNA 가닥으로부터 상보적인 DNA를 복제하는 과정이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -385,7 +373,7 @@
       "id": 42040,
       "question": "사람 유전체의 Alu 인자는 트랜스포존에 해당하며, 단백질을 암호화한 정보를 갖고 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "④",

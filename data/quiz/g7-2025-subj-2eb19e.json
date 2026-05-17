@@ -7,13 +7,13 @@
   "source": "국가직 7급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 40,
+  "count": 38,
   "questions": [
     {
       "id": 34814,
       "question": "숙달목표(mastery goal)를 가진 학습자는 과제의 숙달 및 향상, 이해증진 등 학습과정 자체를 중시한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 34815,
       "question": "수행목표(performance goal)를 가진 학습자는 자신의 능력이 타인에 의해서 어떻게 평가받는가에 관심을 두지 않고 학습과제를 수행한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 34816,
       "question": "수행회피목표(performance-avoidance goal)를 가진 학습자는 자신이 어리석어 보이는 것을 피하려고 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 34817,
       "question": "과제회피목표(work-avoidance goal)를 가진 학습자는 최소한의 노력으로 과제를 마치려고 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 34818,
       "question": "효과성(effectiveness)은 정책목표를 달성하기 위해 투입한 노력 정도이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 34819,
       "question": "능률성(efficiency)은 정책을 통한 목표 달성 정도이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 34820,
       "question": "충족성(adequacy)은 사회 여러 집단 간에 정책의 비용과 편익이 고르게 배분된 정도이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 34821,
       "question": "대응성(responsiveness)은 정책의 결과가 특정 집단의 필요, 선호, 가치에 부합하는 정도이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 34822,
       "question": "세미나(seminar): 일정 주제에 대한 전문가들의 발표를 토대로 참가자 모두가 함께 토론하는 방식",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 34823,
       "question": "브레인스토밍(brainstorming): 구성원들의 창의적이고 자유분방한 발상을 통해 아이디어를 도출하고, 문제를 해결하는 방식",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 34824,
       "question": "버즈 토론(buzz discussion): 소집단 편성 후 참가자 모두가 참여하여 주제나 문제점에 대하여 토론하는 방식",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 34825,
       "question": "직소 모델(jigsaw model): 사전에 교사가 자료를 배포하여 학습자가 미리 공부하게 한 다음, 교실에서 질의, 토론, 문제 풀이를 하는 방식",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 3,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 34826,
       "question": "현실치료 상담은 내담자 스스로 자신의 현재 행동을 평가하고, 효과적인 방법을 찾도록 돕는 것이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 7,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 34827,
       "question": "교류분석 상담은 내담자가 비합리적이고 비현실적인 사고양식을 합리적이고 성숙한 것으로 변화하도록 돕는 것이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 34828,
       "question": "인간중심 상담은 상담자와 내담자의 관계를 강조하며, 수용적 태도, 무조건적인 긍정적 관계를 중요시한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -193,7 +193,7 @@
       "id": 34829,
       "question": "행동주의 상담은 내담자의 바람직하지 않은 행동을 소거하여 바람직한 행동을 학습하도록 돕는 것이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -205,7 +205,7 @@
       "id": 34830,
       "question": "린드블롬(C. E. Lindblom)이 제시한 모형이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -217,7 +217,7 @@
       "id": 34831,
       "question": "대안은 일반적으로 기존 정책의 문제점을 개선하는 것이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -229,7 +229,7 @@
       "id": 34832,
       "question": "비합리적이고 우연적인 의사결정을 강조하고 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "③",
@@ -241,7 +241,7 @@
       "id": 34833,
       "question": "급격한 변화나 장기적 전망에 따른 계획적 변화를 거부한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -253,7 +253,7 @@
       "id": 34834,
       "question": "왕권을 강화하기 위하여 마련된 제도이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "①",
@@ -265,7 +265,7 @@
       "id": 34835,
       "question": "무관을 선발하기 위하여 제술업과 명경업을 실시하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -277,7 +277,7 @@
       "id": 34836,
       "question": "명경업은 시(詩)ㆍ부(賦)ㆍ송(頌) 등을 시험하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -286,22 +286,10 @@
       }
     },
     {
-      "id": 34837,
-      "question": "당해 과거 시험에 합격한 자에게 지공거(知貢擧)라는 칭호가 부여되었다. 교 육 학 책형 2쪽",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 15,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 34838,
       "question": "어린이의 발달에 인위적으로 개입하는 것을 반대하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "①",
@@ -313,7 +301,7 @@
       "id": 34839,
       "question": "자연성의 의미를 인간 내부에서 찾았다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -325,7 +313,7 @@
       "id": 34840,
       "question": "교육방법 측면에서 은물(Gabe)을 강조하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "③",
@@ -337,7 +325,7 @@
       "id": 34841,
       "question": "자연적 벌(natural punishment)의 원리를 주장하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 16,
         "option": "④",
@@ -349,7 +337,7 @@
       "id": 34842,
       "question": "취학률: 특정 학교급이나 학년에 해당하는 인구 중 취학 중인 학생 수의 비율",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 20,
         "option": "①",
@@ -361,7 +349,7 @@
       "id": 34843,
       "question": "진급률: 입학 당시 학생 수를 기준으로 각 학년에서 다음 학년으로 진급한 학생 수의 비율",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 20,
         "option": "②",
@@ -373,7 +361,7 @@
       "id": 34844,
       "question": "탈락률: 특정 학년에 대한 낙제자 및 퇴학자 수를 기준 연도 학생 수로 나눈 비율",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 20,
         "option": "③",
@@ -382,22 +370,10 @@
       }
     },
     {
-      "id": 34845,
-      "question": "교육선발지수: 전체 인구에 대한 특정 집단의 구성비를 전체 학생에 대한 특정 집단 학생 구성비로 나눈 비율 2025년도 국가공무원 7급 공채 제2차 필기시험 교 육 학 책형 3쪽",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 20,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 34850,
       "question": "“교과용도서”라 함은 교과서 및 지도서를 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 23,
         "option": "①",
@@ -409,7 +385,7 @@
       "id": 34851,
       "question": "“인정도서”라 함은 국정도서ㆍ검정도서가 없는 경우 또는 이를 사용하기 곤란하거나 보충할 필요가 있는 경우에 사용하기 위하여 교육부장관의 인정을 받은 교과용도서를 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 23,
         "option": "②",
@@ -421,7 +397,7 @@
       "id": 34852,
       "question": "“수정”이라 함은 교과용도서의 총 쪽수의 2분의 1을 넘는 내용을 변경하는 것을 말한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 23,
         "option": "③",
@@ -433,7 +409,7 @@
       "id": 34853,
       "question": "“검정도서”라 함은 교육부장관의 검정을 받은 교과용도서를 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 23,
         "option": "④",
@@ -445,7 +421,7 @@
       "id": 34854,
       "question": "타당도는 재검사, 동형 검사 등으로 구분된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 25,
         "option": "①",
@@ -457,7 +433,7 @@
       "id": 34855,
       "question": "객관도는 측정 결과에 대해 여러 검사자가 얼마나 일치된 평가를 하느냐의 정도를 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 25,
         "option": "②",
@@ -469,7 +445,7 @@
       "id": 34856,
       "question": "신뢰도와 타당도의 관계에서 신뢰도는 타당도를 위한 충분조건이지 필요조건은 아니다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 25,
         "option": "③",
@@ -481,7 +457,7 @@
       "id": 34857,
       "question": "실용도는 측정하고자 하는 요소를 충실하게 측정하는 정도를 말한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 25,
         "option": "④",

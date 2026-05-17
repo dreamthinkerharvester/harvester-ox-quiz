@@ -7,13 +7,13 @@
   "source": "국회직 9급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 50,
+  "count": 46,
   "questions": [
     {
       "id": 40043,
       "question": "구체적 장소를 제시하여 현실감을 드러내고 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 40044,
       "question": "도치와 반복을 사용하여 핵심 내용을 전달하고 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 40045,
       "question": "일상적인 체험을 초월한 시인의 예술적 능력을 강조하고 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 40046,
       "question": "진실하고 착한 삶을 사는 사람들을 예찬하고 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 40047,
       "question": "물음과 그 물음에 대해 생각하는 과정을 통해 시상이 전개되고 있다. - 2 - 국 어",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "⑤",
@@ -73,7 +73,7 @@
       "id": 40048,
       "question": "‘맑지[막찌]’에는 ㉠과 ㉡의 음운 현상이 일어난다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -85,7 +85,7 @@
       "id": 40049,
       "question": "‘꽃잎[꼰닙]’에는 ㉠과 ㉢의 음운 현상이 일어난다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -97,7 +97,7 @@
       "id": 40050,
       "question": "‘잡혀[자펴]’에는 ㉠과 ㉣의 음운 현상이 일어난다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "③",
@@ -109,7 +109,7 @@
       "id": 40051,
       "question": "‘색연필[생년필]’에는 ㉠과 ㉢의 음운 현상이 일어난다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 9,
         "option": "④",
@@ -121,7 +121,7 @@
       "id": 40052,
       "question": "‘굳히다[구치다]’에는 ㉠과 ㉣의 음운 현상이 일어난다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 9,
         "option": "⑤",
@@ -133,7 +133,7 @@
       "id": 40053,
       "question": "과학은 보편적으로 재현 가능한 증거를 기반으로 하는 학문이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "①",
@@ -142,22 +142,10 @@
       }
     },
     {
-      "id": 40054,
-      "question": "모름을 인정하고 판단을 유보하는 것도 과학적인 자세로 볼 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 10,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 40055,
       "question": "뉴턴의 이론도 예측 가능성을 충족하지 못한다면 폐기될 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -169,7 +157,7 @@
       "id": 40056,
       "question": "혼자 있을 때만 성공하는 실험을 통해 얻은 결과는 비과학적이므 로 거짓이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "④",
@@ -181,7 +169,7 @@
       "id": 40057,
       "question": "많은 학문 분야는 자신의 합리성을 강조하기 위한 목적으로 과학 이라는 이름을 사용하는 경향이 있다. - 2025년도 국회사무처 시행 9급 공개경쟁채용시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "⑤",
@@ -193,7 +181,7 @@
       "id": 40058,
       "question": "태양열 자가 발전식 주택을 늘릴수록 더 넓은 면적의 자연을 보 존할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "①",
@@ -205,7 +193,7 @@
       "id": 40059,
       "question": "도시의 밀집도와 오염도가 높아지면 자연에는 더욱 나쁜 결과를 초래하게 된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "②",
@@ -217,7 +205,7 @@
       "id": 40060,
       "question": "오늘날의 생태학은 인간의 이기주의와 무관하게 고차원적인 공 동선을 실현하고 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "③",
@@ -229,7 +217,7 @@
       "id": 40061,
       "question": "자연을 위한 생태학은 모순적이게도 인간 중심적 태도와 비밀스 러운 관계를 형성하고 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "④",
@@ -241,7 +229,7 @@
       "id": 40062,
       "question": "숲 가까이에서 살아가는 것이야말로 진정한 생태적 삶의 방식이 라는 점을 강조하고 있다. - 3 - 국 어",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "⑤",
@@ -253,7 +241,7 @@
       "id": 40063,
       "question": "설의적 표현을 통해 화자의 뜻을 강조하고 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -265,7 +253,7 @@
       "id": 40064,
       "question": "㉠은 어버이의 마음을 나타낸 것이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "②",
@@ -277,7 +265,7 @@
       "id": 40065,
       "question": "지은이가 유배되어 있을 때 지은 작품이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -289,7 +277,7 @@
       "id": 40066,
       "question": "자연물과 화자를 동일시한 표현이 나타나 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -298,22 +286,10 @@
       }
     },
     {
-      "id": 40067,
-      "question": "㉡을 통해 충과 효가 통한다는 것을 알 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 12,
-        "option": "⑤",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 40068,
       "question": "최근 독감 의심 환자의 1/2 가량은 신종 플루에 감염된 것으로 추정된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -325,7 +301,7 @@
       "id": 40069,
       "question": "자금 및 정보력을 가진 이들은 규제의 허점을 파고 들어 가는 시 도를 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "②",
@@ -337,7 +313,7 @@
       "id": 40070,
       "question": "급격한기상변화로중부지방에수십 년 만에 최대치의눈이쌓여 피해 신고가 잇따르고 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "③",
@@ -349,7 +325,7 @@
       "id": 40071,
       "question": "태풍의 크기가 커짐에따라, 정부는8월3일자로 위기경보를‘심각’ 단계로 조정하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -361,7 +337,7 @@
       "id": 40072,
       "question": "본사는 정보시스템 고도화 교육을 추진할 계획인 바, 이 교육의 위탁 운영을 위한 계약 체결을 빨리 진행할 예정이다. - 2025년도 국회사무처 시행 9급 공개경쟁채용시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "⑤",
@@ -373,7 +349,7 @@
       "id": 40073,
       "question": "참을성 있는 관찰은 과학적 성과의 충분조건이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "①",
@@ -382,22 +358,10 @@
       }
     },
     {
-      "id": 40074,
-      "question": "단순히 보는 것만으로는 과학적 해석까지 도출해 낼 수 없다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 14,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 40075,
       "question": "목적을 가진 관찰이 과학적인 통찰로 이어질 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 14,
         "option": "③",
@@ -409,7 +373,7 @@
       "id": 40076,
       "question": "과학자에게는 예리한 시각적 식별력과 인내심이 필요하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -421,7 +385,7 @@
       "id": 40077,
       "question": "재러드 다이아몬드는 현장 탐사 작업 시 자신의 감각적 경험을 활용한다. - 4 - 국 어",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 14,
         "option": "⑤",
@@ -433,7 +397,7 @@
       "id": 40078,
       "question": "신생아는 갓 태어났으므로 아직 다른 사람과 공감하지 못한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 15,
         "option": "①",
@@ -445,7 +409,7 @@
       "id": 40079,
       "question": "아기들은 의식적 인지를 통해 주변 어른들의 행동에 반응한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -457,7 +421,7 @@
       "id": 40080,
       "question": "아기와 달리 쥐는 동족의 괴로움에 공감하지 못한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -469,7 +433,7 @@
       "id": 40081,
       "question": "동족의 고통에 공감하는 정도는 히말라야원숭이가 쥐보다 더 크다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 15,
         "option": "④",
@@ -481,7 +445,7 @@
       "id": 40082,
       "question": "아기는 사람의 소리보다 다른 생명체의 소리에 덜 반응한다. - 2025년도 국회사무처 시행 9급 공개경쟁채용시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "⑤",
@@ -490,22 +454,10 @@
       }
     },
     {
-      "id": 40083,
-      "question": "중앙아시아에 거주하는 고려인들을 ‘코리안 디아스포라’라고 할 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 17,
-        "option": "①",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 40084,
       "question": "공동체의 정체성 형성에는 언어 사용의 문제가 중요하게 작용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -517,7 +469,7 @@
       "id": 40085,
       "question": "코리안 디아스포라의 한국어 구사 능력이 점차 낮아지고 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -529,7 +481,7 @@
       "id": 40086,
       "question": "해외에 거주하는 우리 민족의 언어 교육을 한국 정부가 책임져야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "④",
@@ -541,7 +493,7 @@
       "id": 40087,
       "question": "이주 노동자가 한국에서 겪는 언어 사용의 문제를 파악해야 한다. - 2025년도 국회사무처 시행 9급 공개경쟁채용시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "⑤",
@@ -553,7 +505,7 @@
       "id": 40093,
       "question": "윤리적 소비자는 자신의 소비가 사회에 미치는 영향을 고려하여 소비를 결정한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 20,
         "option": "①",
@@ -565,7 +517,7 @@
       "id": 40094,
       "question": "윤리적소비는 일상생활전반에걸친소비행위에서 절제와 나눔을 실천하는 삶의 방식이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 20,
         "option": "②",
@@ -577,7 +529,7 @@
       "id": 40095,
       "question": "윤리적 소비는 개인의 도덕적 신념을 바탕으로 사회와 환경에 책 임을 다하려는 소비 행동이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 20,
         "option": "③",
@@ -589,7 +541,7 @@
       "id": 40096,
       "question": "윤리적소비는환경오염이나빈부격차등현대소비사회의문제를 개선하는 데 기여할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 20,
         "option": "④",
@@ -601,7 +553,7 @@
       "id": 40097,
       "question": "윤리적 경영 여부는 기업의 존폐를 가르는 결정적 요인이다. -",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "⑤",

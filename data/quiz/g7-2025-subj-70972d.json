@@ -13,7 +13,7 @@
       "id": 36428,
       "question": "기동 시 회전자저항이 감소한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 6,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 36429,
       "question": "기동 시 누설리액턴스가 감소한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 6,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 36430,
       "question": "기동토크와 기동전류가 크게 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 6,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 36431,
       "question": "기동토크는 큰 차이가 없지만, 기동전류가 감소한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 36432,
       "question": "영구자석은 잔류자속이 0이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 36433,
       "question": "알니코 자석의 보자력이 네오디뮴 자석보다 항상 크다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 36434,
       "question": "세라믹(페라이트) 자석의 자속밀도가 네오디뮴 자석보다 항상 높다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 36435,
       "question": "네오디뮴 자석은 동작온도가 상승함에 따라 보자력이 줄어든다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "④",

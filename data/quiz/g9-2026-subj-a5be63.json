@@ -13,7 +13,7 @@
       "id": 27782,
       "question": "표준화된 객관적인 검사이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 27783,
       "question": "내담자가 수동적으로 참여하도록 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 27784,
       "question": "상담자가 자신의 목적에 맞게 변형할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 27785,
       "question": "직업카드를 ‘아주좋다’, ‘좋다’, ‘싫다’, ‘아주싫다’로 분류한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 27789,
       "question": "내향성(introversion)/외향성(extraversion)",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 2,
         "option": "④",
@@ -73,7 +73,7 @@
       "id": 27790,
       "question": "사례지도를 위한 상담 녹음이나 녹화는 사전동의가 필요하지 않다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "①",
@@ -85,7 +85,7 @@
       "id": 27791,
       "question": "내담자가 상담기록 열람을 요구하면 기록 전체를 내담자에게 예외 없이 제공해야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "②",
@@ -97,7 +97,7 @@
       "id": 27792,
       "question": "내담자 복지를 위해서는 비밀보장의 원칙이 예외 없이 지켜져야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 3,
         "option": "③",
@@ -109,7 +109,7 @@
       "id": 27793,
       "question": "내담자와의 상담기록은 별도의 안전한 장소에 보관해야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 3,
         "option": "④",
@@ -121,7 +121,7 @@
       "id": 27794,
       "question": "목표를 가능한 한 구체적으로 표현한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 7,
         "option": "①",
@@ -133,7 +133,7 @@
       "id": 27795,
       "question": "목표를 관찰 가능한 방식으로 표현한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 7,
         "option": "②",
@@ -145,7 +145,7 @@
       "id": 27796,
       "question": "목표 달성 시점을 지정하지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "③",
@@ -157,7 +157,7 @@
       "id": 27797,
       "question": "달성 가능한 목표를 설정한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -169,7 +169,7 @@
       "id": 27798,
       "question": "홀(Hall)이 제시한 개념이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 10,
         "option": "①",
@@ -181,7 +181,7 @@
       "id": 27799,
       "question": "경력관리의 책임은 개인에게 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -193,7 +193,7 @@
       "id": 27800,
       "question": "일하는 방법(know-how)을 아는 것을 중시한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "③",
@@ -205,7 +205,7 @@
       "id": 27801,
       "question": "개인이 만족하는 심리적 성공을 경력의 목표로 삼는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 10,
         "option": "④",
@@ -217,7 +217,7 @@
       "id": 27802,
       "question": "진로상담의 한 기법으로 질적 평가방법에 속한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "①",
@@ -229,7 +229,7 @@
       "id": 27803,
       "question": "남성은 원, 여성은 사각형으로 표시한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "②",
@@ -241,7 +241,7 @@
       "id": 27804,
       "question": "가족의 현재 직업만 기록하게 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "③",
@@ -253,7 +253,7 @@
       "id": 27805,
       "question": "작성절차는 5단계로 이루어진다. 2026년도 국가공무원 9급 공채 필기시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 11,
         "option": "④",
@@ -265,7 +265,7 @@
       "id": 27806,
       "question": "다위스(Dawis)와 롭퀴스트(Lofquist)가 주장한 이론이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -277,7 +277,7 @@
       "id": 27807,
       "question": "직업적응과 관련된 중요한 개념에는 만족(satisfaction)과 충족 (satisfactoriness)이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -289,7 +289,7 @@
       "id": 27808,
       "question": "직업가치는 성취, 편안함(comfort), 지위, 이타주의(altruism), 안전, 자율성의 영역으로 분류한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -301,7 +301,7 @@
       "id": 27809,
       "question": "계획된 우연(planned happenstance)을 통해 직업적응과정을 설명한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "④",
@@ -313,7 +313,7 @@
       "id": 27810,
       "question": "제한이란 개인이 수용하기 어려운 직업적 대안들을 제거하는 과정을 의미한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -325,7 +325,7 @@
       "id": 27811,
       "question": "타협이란 진로 대안을 선택하는 과정에서 현실적 여건으로 진로 선택을 포기하는 과정을 의미한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "②",
@@ -337,7 +337,7 @@
       "id": 27812,
       "question": "직업발달 단계를 살펴볼 때, 3단계(9～13세)에서는 성역할을 지향한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "③",
@@ -349,7 +349,7 @@
       "id": 27813,
       "question": "주로 아동기와 청소년기에 진로포부가 어떻게 축소되고 조정 되는지에 초점을 둔다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -361,7 +361,7 @@
       "id": 27814,
       "question": "진로의사결정의 구성요소에는 인지와 정서가 포함된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "①",
@@ -373,7 +373,7 @@
       "id": 27815,
       "question": "지식 영역은 자기독백, 자기자각, 통제 기술을 활용한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -385,7 +385,7 @@
       "id": 27816,
       "question": "의사결정기술 영역은 자기지식, 직업적 지식으로 구성된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 14,
         "option": "③",
@@ -397,7 +397,7 @@
       "id": 27817,
       "question": "실행과정 영역에서는 의사소통, 분석, 종합(synthesis), 가치화, 실행 단계가 순환한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -409,7 +409,7 @@
       "id": 27818,
       "question": "성격유형 간 변별성(differentiation)이 낮은 편이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "①",
@@ -421,7 +421,7 @@
       "id": 27819,
       "question": "성격유형 간 일관성(consistency)이 높은 편이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "②",
@@ -433,7 +433,7 @@
       "id": 27820,
       "question": "성격유형과 환경의 일치성(congruence)이 높은 편이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -445,7 +445,7 @@
       "id": 27821,
       "question": "예술적, 문화적, 음악적 활동을 선호하는 편이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 17,
         "option": "④",
@@ -457,7 +457,7 @@
       "id": 27822,
       "question": "위험을 무릅쓰고서라도 새로운 상황에 도전하는 것을 선호하는 편이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "①",
@@ -469,7 +469,7 @@
       "id": 27823,
       "question": "사람들과 함께 일하거나 혼자 일하는 것에 특별한 선호를 보이지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "②",
@@ -481,7 +481,7 @@
       "id": 27824,
       "question": "직접 실습을 통한 학습을 선호하는 편이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "③",
@@ -493,7 +493,7 @@
       "id": 27825,
       "question": "책임자 역할을 맡지 않는 것을 선호하는 편이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "④",

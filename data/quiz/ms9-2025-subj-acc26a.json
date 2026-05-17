@@ -7,13 +7,13 @@
   "source": "군무원 9급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 54,
+  "count": 47,
   "questions": [
     {
       "id": 41375,
       "question": "수명자가 충분한 지식을 가지고 숙련돼 있는 경우",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 1,
         "option": "②",
@@ -25,7 +25,7 @@
       "id": 41378,
       "question": "명령체계는 조직 내 구성원을 수직적으로 연결 하는 연속된 권한의 흐름으로 보고체계를 결정한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 3,
         "option": "①",
@@ -37,7 +37,7 @@
       "id": 41379,
       "question": "집권화의 수준이 높은 조직의 의사결정권한은 조직의 저층부에 집중된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 3,
         "option": "②",
@@ -49,7 +49,7 @@
       "id": 41380,
       "question": "공식화의 수준이 높을수록 조직 구성원들의 재량이 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 3,
         "option": "③",
@@ -61,7 +61,7 @@
       "id": 41381,
       "question": "통솔범위가 넓은 조직은 일반적으로 고층 구조의 형태를 보인다. 행정학(9급 학 ( 9 급 ) 드 : 130) 성명 :",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 3,
         "option": "④",
@@ -73,7 +73,7 @@
       "id": 41382,
       "question": "부하에게 존중심을 바탕으로 창조적 사고의 여건을 마련함으로써 개인적 욕구를 뛰어 넘어 조직을 위해 일할 수 있게끔 영감을 제공하는 것을 강조한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 6,
         "option": "①",
@@ -85,7 +85,7 @@
       "id": 41383,
       "question": "리더가 구성원을 위해 봉사하는 데 초점을 맞춘 리더십이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 6,
         "option": "②",
@@ -97,7 +97,7 @@
       "id": 41384,
       "question": "업무수행 과정이 반복적이고 성과수준의 측정이 가능할 때 효과적이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "③",
@@ -109,7 +109,7 @@
       "id": 41385,
       "question": "리더의 특출한 성격과 능력에 의해 추종자들의 강한 헌신과 리더와의 일체화를 이끌어내는 리더십을 의미한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 6,
         "option": "④",
@@ -121,7 +121,7 @@
       "id": 41386,
       "question": "조직의 비공식적 측면의 존재를 무시하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -133,7 +133,7 @@
       "id": 41387,
       "question": "발전론의 관점에서 분업이나 협업의 체계보다는 지배‧복종관계로 보아야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "②",
@@ -145,7 +145,7 @@
       "id": 41388,
       "question": "환경과의 관계를 무시한 폐쇄이론이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -157,7 +157,7 @@
       "id": 41389,
       "question": "합법성보다 효과성 또는 합목적성이 더 중요한 경우가 있다. 행정학(9급",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -169,7 +169,7 @@
       "id": 41390,
       "question": "규범적으로 행정은 공공문제 해결을 통해 공익을 지향한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -181,7 +181,7 @@
       "id": 41391,
       "question": "행정은 공공서비스의 생산, 공급, 분배와 관련된 모든 활동을 의미한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -193,7 +193,7 @@
       "id": 41392,
       "question": "행정은 정치권력을 배경으로 공공서비스의 생산과 공급을 독점한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "③",
@@ -205,7 +205,7 @@
       "id": 41393,
       "question": "행정은 공공문제의 해결 과정에서 정치과정과 밀접하게 연계되어 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 9,
         "option": "④",
@@ -214,34 +214,10 @@
       }
     },
     {
-      "id": 41394,
-      "question": "예산의 지속적인 증가를 조장하여 만성적인 예산적자의 원인이 될 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 10,
-        "option": "①",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 41395,
-      "question": "경직된 예산구조로 인해 경기변동에 대응하는 재정정책적 기능을 수행하는 데 장애가 될 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 10,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 41396,
       "question": "예산과정 참여자들의 역할과 기대를 안정시켜 갈등의 소지를 줄이고, 예산과정의 예측가능성을 높인다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -253,7 +229,7 @@
       "id": 41397,
       "question": "합리주의적 의사결정의 대표적인 형태로서, 예산 결정에 대한 수용성을 높일 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "④",
@@ -265,7 +241,7 @@
       "id": 41398,
       "question": "사회현상을 관찰 가능한 객관적 대상으로 보며 인간의 주관이나 의식을 배제한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "①",
@@ -274,22 +250,10 @@
       }
     },
     {
-      "id": 41399,
-      "question": "명백한 자극과 반응으로 볼 수 있는 행위 또는 행동 외에 의견, 개성 등도 행태에 포함 시키고 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 11,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 41400,
       "question": "사회과학은 모두 행태에 관심을 갖고 있어 통합된다고 본다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "③",
@@ -301,7 +265,7 @@
       "id": 41401,
       "question": "집단의 고유한 특성을 인정하는 방법론적 개체 주의의 입장을 취한다. 9급) 5 - 2",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "④",
@@ -313,7 +277,7 @@
       "id": 41402,
       "question": "상황(Situation), 언론(Media), 수단(Instrument)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -325,7 +289,7 @@
       "id": 41403,
       "question": "문제(Problem), 언론(Media), 정책(Policy)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -337,7 +301,7 @@
       "id": 41404,
       "question": "문제(Problem), 정치(Political), 정책(Policy)",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "③",
@@ -349,7 +313,7 @@
       "id": 41405,
       "question": "상황(Situation), 정치(Political), 언론(Media) 1",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -358,34 +322,10 @@
       }
     },
     {
-      "id": 41406,
-      "question": "파면: 공무원 신분을 완전히 잃는 것으로 향후 5년간 공무원 임용이 될 수 없다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 13,
-        "option": "①",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 41407,
-      "question": "해임: 공무원 신분을 완전히 잃는 것으로 향후 3년간 공무원 임용이 될 수 없다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 13,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 41408,
       "question": "견책: 공무원 신분은 보유하나 직무에 종사할 수 없다. 신분보유 면에서는 직위해제와 유사하나, 견책은 미리 정한 기간이 지나면 자동으로 복직이 된다는 점이 다르다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "③",
@@ -397,7 +337,7 @@
       "id": 41409,
       "question": "감봉: 보수에 불이익을 받는 것으로, 감봉기간 동안 보수액의 1/3이 감해진다. 행정학(9급",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -409,7 +349,7 @@
       "id": 41410,
       "question": "굿노(Goodnow)와 윌슨(Wilson)에 의해 발전 되고 체계화되었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -421,7 +361,7 @@
       "id": 41411,
       "question": "행정의 효율성을 제고하고 나아가 행정이 전문성을 갖출 수 있도록 목표를 설정하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -433,7 +373,7 @@
       "id": 41412,
       "question": "엽관주의를 극복하는 데 기여하였지만, 행정과 정치의 역할을 지나치게 엄격하게 분리함 으로써 실적주의에 대한 논의와 확립을 더디게 하는 결과를 낳았다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "③",
@@ -445,7 +385,7 @@
       "id": 41413,
       "question": "정치가 선거활동이자 의회에 의한 입법활동 으로서 정부활동에 대한 폭 넓은 계획을 수립하는 것이라면, 행정이란 정치부문에서 결정한 내용을 구체적으로 집행하는 것이 라고 보았다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -457,7 +397,7 @@
       "id": 41414,
       "question": "잠정예산은 본예산이 성립되지 않을 때 잠정적 으로 예산을 편성해서 입법부에 제출하고 입법부의 사전 의결을 얻어 사용하는 제도 이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "①",
@@ -469,7 +409,7 @@
       "id": 41415,
       "question": "가예산은 잠정예산과 유사하지만 사용기간이 1개월에 국한된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -481,7 +421,7 @@
       "id": 41416,
       "question": "준예산 제도는 본예산이 회계연도 개시일까지 입법부를 통과하지 못하는 경우 예산안이 입법부에서 의결될 때까지 전년도 예산에 준해 집행할 권한을 정부에 부여하는 제도이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -493,7 +433,7 @@
       "id": 41417,
       "question": "가예산과 준예산은 잠정예산과 달리 입법부의 의결을 필요로 하지 않는다. 9급) 5 - 3",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "④",
@@ -505,7 +445,7 @@
       "id": 41418,
       "question": "여러 가지 정책대안들을 비교할 때, 내부수익률이 낮은 대안일수록 좋은 대안이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "①",
@@ -517,7 +457,7 @@
       "id": 41419,
       "question": "정책대안의 순현재가치를 0으로 만드는 할인율을 의미한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -529,7 +469,7 @@
       "id": 41420,
       "question": "내부수익률에 의한 사업의 우선순위는 사회적 할인율을 적용한 순현재가치에 의한 사업의 우선순위와 다를 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -538,22 +478,10 @@
       }
     },
     {
-      "id": 41421,
-      "question": "사업이 종료된 후 또 다시 투자비가 소요되는 변이된 사업유형에서는 복수의 내부수익률이 존재할 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 17,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 41422,
       "question": "관료의 재량에 따라 해당 품목에 대한 예산 남용이 심해질 수 있으며 의회의 예산 심의가 용이하지 않다는 단점이 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "①",
@@ -562,22 +490,10 @@
       }
     },
     {
-      "id": 41423,
-      "question": "각 부처의 입장에서 볼 때 예산 확보를 위해 예산 항목에만 관심을 기울이기 때문에 정책 및 사업의 우선순위를 소홀히 할 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 19,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 41424,
       "question": "지출 대상별로 세부적으로 분류되어 있기 때문에 급여와 재화 및 서비스의 구매에 효과적이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -589,7 +505,7 @@
       "id": 41425,
       "question": "지출 대상별로 분류되기 때문에 정부가 무엇을 구매하는지는 밝혀지지만 왜 구매하는지는 밝혀지지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 19,
         "option": "④",
@@ -601,7 +517,7 @@
       "id": 41426,
       "question": "공공부문과 민간부문의 조직 등 다양한 집행 조직의 상대적 문제해결능력을 파악하는 것이 가능하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 20,
         "option": "①",
@@ -613,7 +529,7 @@
       "id": 41427,
       "question": "정책결정자가 설계한 정책을 중심으로 정책 집행의 전체적인 틀을 체계적으로 파악할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "②",
@@ -625,7 +541,7 @@
       "id": 41428,
       "question": "정책수혜자의 의견수렴이 적극적으로 가능하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 20,
         "option": "③",
@@ -637,7 +553,7 @@
       "id": 41429,
       "question": "정책집행과정을 상세히 기술하여 집행과정의 인과관계 파악이 가능하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 20,
         "option": "④",
@@ -649,7 +565,7 @@
       "id": 41433,
       "question": "안정적 상황에서만 적용 가능 9급) 5 - 4",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 21,
         "option": "④",

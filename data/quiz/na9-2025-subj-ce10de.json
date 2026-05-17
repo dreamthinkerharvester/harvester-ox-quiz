@@ -7,13 +7,13 @@
   "source": "국회직 9급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 19,
+  "count": 18,
   "questions": [
     {
       "id": 40128,
       "question": "방송에 의한 보도는 공정하고 객관적이어야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 2,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 40129,
       "question": "방송은 성별, 연령, 직업, 신념, 계층, 지역, 인종 등을 이유로 방 송편성에 차별을 두어서는 아니 된다. 종교의 선교에 관한 전문 편성을 행하는 방송사업자가 그 방송 분야의 범위 안에서 방송을 하는 경우에도 그러하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 40130,
       "question": "방송은 상대적으로 소수이거나 이익추구의 실현에 불리한 집단",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 40131,
       "question": "방송광고 시간은 해당 방송프로그램 편성시간의 최대 100분의 30 이하가 되도록 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 5,
         "option": "①",
@@ -61,7 +61,7 @@
       "id": 40132,
       "question": "자막광고의 자막 크기는 화면의 4분의 1을 초과할 수 없다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 5,
         "option": "②",
@@ -73,7 +73,7 @@
       "id": 40133,
       "question": "중간광고의 시간은 매시간 1분 이하로 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 5,
         "option": "③",
@@ -82,22 +82,10 @@
       }
     },
     {
-      "id": 40134,
-      "question": "중간광고는 최대 7회까지 할 수 있다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 5,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 40135,
       "question": "채널별로 1일 동안 방송되는 각 방송프로그램의 편성시간당 방 송광고 시간의 비율의 평균이 100분의 20 이하가 되도록 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 5,
         "option": "⑤",
@@ -109,7 +97,7 @@
       "id": 40138,
       "question": "수신료를 부과·징수한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -121,7 +109,7 @@
       "id": 40139,
       "question": "재난 주관 방송사이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -133,7 +121,7 @@
       "id": 40140,
       "question": "프로그램 광고가 금지된 채널이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -145,7 +133,7 @@
       "id": 40141,
       "question": "사장은 이사회의 제청으로 대통령이 임명한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 9,
         "option": "④",
@@ -157,7 +145,7 @@
       "id": 40142,
       "question": "올림픽과 월드컵을 우선적으로 방송할 수 있는 권리가 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "⑤",
@@ -169,7 +157,7 @@
       "id": 40149,
       "question": "피하주사 이론(hypodermic-needle theory)",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 11,
         "option": "②",
@@ -181,7 +169,7 @@
       "id": 40150,
       "question": "퍼블릭 액세스 이론(public access theory)",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "③",
@@ -193,7 +181,7 @@
       "id": 40151,
       "question": "배양 이론(cultivation theory)",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 11,
         "option": "④",
@@ -205,7 +193,7 @@
       "id": 40152,
       "question": "의제설정 이론(agenda setting theory) - 16 - 방송학",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 11,
         "option": "⑤",
@@ -217,7 +205,7 @@
       "id": 40153,
       "question": "지상파방송사업자 - 2025년도 국회사무처 시행 9급 공개경쟁채용시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 15,
         "option": "⑤",
@@ -229,7 +217,7 @@
       "id": 40155,
       "question": "프로그램 속에서 특정 상품을 자연스럽게 소개하는 간접광고",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "②",

@@ -7,13 +7,13 @@
   "source": "국가직 9급",
   "exam_year": 2026,
   "exam_round": null,
-  "count": 49,
+  "count": 47,
   "questions": [
     {
       "id": 27891,
       "question": "미송리식 토기를 사용하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 27892,
       "question": "주로 동굴과 바위 그늘에서 살았다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 27893,
       "question": "농경과 목축이 시작되면서 정착하여 살게 되었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 27894,
       "question": "연천 전곡리와 공주 석장리가 대표적인 유적지이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 27895,
       "question": "동진에서 불교를 받아들였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -73,7 +73,7 @@
       "id": 27896,
       "question": "고구려의 평양성을 공격하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 2,
         "option": "④",
@@ -85,7 +85,7 @@
       "id": 27898,
       "question": "봉사 10조의 개혁안을 올렸다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 4,
         "option": "②",
@@ -97,7 +97,7 @@
       "id": 27899,
       "question": "고구려 계승의식을 표방한 동명왕편 을 지었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 4,
         "option": "③",
@@ -109,7 +109,7 @@
       "id": 27900,
       "question": "국호를 ‘대위’, 연호를 ‘천개’라 하고 난을 일으켰다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "④",
@@ -118,22 +118,10 @@
       }
     },
     {
-      "id": 27904,
-      "question": "혼일강리역대국도지도 를 제작하였다. 한 국 사 책형 1쪽",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 5,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 27905,
       "question": "신성 지역인 소도가 있었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -145,7 +133,7 @@
       "id": 27906,
       "question": "지배자를 읍군, 삼로라고 불렀다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "②",
@@ -157,7 +145,7 @@
       "id": 27907,
       "question": "읍락 간의 경계를 중시하는 책화가 있었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -169,7 +157,7 @@
       "id": 27908,
       "question": "여러 가(加)들이 사출도를 나누어 다스렸다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -181,7 +169,7 @@
       "id": 27909,
       "question": "동쪽으로 동부여를 정복하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "②",
@@ -193,7 +181,7 @@
       "id": 27910,
       "question": "백제의 수도 한성을 함락하고 개로왕을 죽였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -205,7 +193,7 @@
       "id": 27911,
       "question": "전연의 침입으로 국내성과 환도성이 함락되었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 9,
         "option": "④",
@@ -217,7 +205,7 @@
       "id": 27912,
       "question": "최초의 근대 학교가 세워졌다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "①",
@@ -229,7 +217,7 @@
       "id": 27913,
       "question": "제너럴셔먼호 사건이 발생하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "②",
@@ -241,7 +229,7 @@
       "id": 27914,
       "question": "대한민국 임시 정부가 수립되었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "③",
@@ -253,7 +241,7 @@
       "id": 27915,
       "question": "처음으로 조선 형평사가 조직되었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "④",
@@ -265,7 +253,7 @@
       "id": 27916,
       "question": "의천이 화폐 유통을 건의하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -277,7 +265,7 @@
       "id": 27917,
       "question": "지폐인 저화를 만들어 사용하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "②",
@@ -289,7 +277,7 @@
       "id": 27918,
       "question": "동전은 주로 주점 등에서 유통되었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -301,7 +289,7 @@
       "id": 27919,
       "question": "해동통보 등의 동전과 활구라는 은병을 만들었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -313,7 +301,7 @@
       "id": 27920,
       "question": "일본에 회답겸쇄환사를 파견하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -325,7 +313,7 @@
       "id": 27921,
       "question": "기유약조를 체결하여 무역을 허용하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "②",
@@ -337,7 +325,7 @@
       "id": 27922,
       "question": "훈련도감을 설치하여 전열을 정비하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "③",
@@ -349,7 +337,7 @@
       "id": 27923,
       "question": "중앙의 군사제도로 2군과 6위를 설치하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -361,7 +349,7 @@
       "id": 27924,
       "question": "영업전의 매매를 금지한 한전론을 주장하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "①",
@@ -373,7 +361,7 @@
       "id": 27925,
       "question": "처음 여전제를 주장하였다가 후에 정전제를 주장하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -385,7 +373,7 @@
       "id": 27926,
       "question": "우서를 저술하여 사농공상의 직업적 평등을 주장하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 14,
         "option": "③",
@@ -397,7 +385,7 @@
       "id": 27927,
       "question": "신분에 따라 토지를 차등 분배해 자영농 육성을 주장하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -409,7 +397,7 @@
       "id": 27928,
       "question": "지주에게 토지 1결당 2두의 결작미를 부담시켰다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "①",
@@ -421,7 +409,7 @@
       "id": 27929,
       "question": "먼저 경기도에 시행하고, 뒤에 전국으로 확대하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -433,7 +421,7 @@
       "id": 27930,
       "question": "공인에게 공가를 지불하고 관청수요품을 조달하게 하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -442,22 +430,10 @@
       }
     },
     {
-      "id": 27931,
-      "question": "토산물 대신 토지 결수에 따라 쌀, 삼베 등을 납부하도록 하였다. 한 국 사 책형 2쪽",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 15,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 27932,
       "question": "혜상공국이 설치되었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "①",
@@ -469,7 +445,7 @@
       "id": 27933,
       "question": "황국 중앙 총상회가 조직되었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -481,7 +457,7 @@
       "id": 27934,
       "question": "조ㆍ일 통상 장정이 체결되었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -493,7 +469,7 @@
       "id": 27935,
       "question": "동양 척식 주식회사가 설립되었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "④",
@@ -505,7 +481,7 @@
       "id": 27936,
       "question": "박문국에서 간행되었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -517,7 +493,7 @@
       "id": 27937,
       "question": "치안 유지법에 의해 탄압받았다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -529,7 +505,7 @@
       "id": 27938,
       "question": "국채 보상 운동의 확산에 기여하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "③",
@@ -541,7 +517,7 @@
       "id": 27939,
       "question": "농촌 계몽을 위한 브나로드 운동을 전개하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "④",
@@ -553,7 +529,7 @@
       "id": 27940,
       "question": "원산 총파업이 일어났다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -565,7 +541,7 @@
       "id": 27941,
       "question": "경성 제국 대학이 설립되었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "②",
@@ -577,7 +553,7 @@
       "id": 27942,
       "question": "제2차 조선 교육령이 발표되었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -589,7 +565,7 @@
       "id": 27943,
       "question": "회사를 설립할 때 조선 총독의 허가를 받았다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "④",

@@ -7,13 +7,13 @@
   "source": "국가직 7급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 22,
+  "count": 21,
   "questions": [
     {
       "id": 35548,
       "question": "0차 반응의 반응속도는 반응물의 초기농도에 영향을 받지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 35549,
       "question": "1차 반응의 반응속도상수 단위는 molm-3s-1이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 35550,
       "question": "촉매는 화학반응의 활성화에너지와 반응열을 모두 변화시킨다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 35551,
       "question": "반응속도상수는 화학반응의 종류에 상관없이 온도에 의해서만 결정된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 35552,
       "question": "단일 연속교반탱크반응기(CSTR)로  ＝0.4를 달성하는 데 필요한 A 반응기 부피는 120L이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 35553,
       "question": "단일 플러그흐름반응기(PFR)로  ＝0.4를 달성하는 데 필요한 A 반응기 부피는 40L이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 35554,
       "question": "특정  를 달성하기 위해 직렬연결한 2개의 PFR 부피 합은 같은 A  를 얻기 위한 단일 PFR 부피보다 작다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 35555,
       "question": " ＝0.8을 달성하는 데 필요한 단일 CSTR 부피는 직렬연결한 A 2개의 CSTR 부피 합보다 항상 작다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 35556,
       "question": "두 반응의 활성화에너지가 같다면,  는 반응 온도와 무관하다. DU",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 35557,
       "question": "D의 반응차수가 U의 반응차수보다 크면,  는 A의 농도가 DU 높을수록 증가한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 35558,
       "question": "두 반응의 반응차수가 같다면,  는 A의 농도와 무관하다. DU",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 35559,
       "question": "두 반응의 활성화에너지와 반응차수가 모두 같다면,  는 DU 항상 1이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 35560,
       "question": "평형전환율은 온도 증가에 따라 최대 1까지 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 35561,
       "question": "단열 조건에서 동일한 전환율을 달성하기 위한 연속교반탱크 반응기(CSTR) 부피는 플러그흐름반응기(PFR) 부피보다 항상 크거나 같다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 35562,
       "question": "단열 조건에서 도달할 수 있는 가장 높은 전환율은 단열평형 온도에서의 평형전환율과 같다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "③",
@@ -190,22 +190,10 @@
       }
     },
     {
-      "id": 35563,
-      "question": "반응이 평형전환율에 도달하면, 반응물의 단위 시간당 농도변화는 최대가 된다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 18,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 35566,
       "question": " ≫ 일 때, S의 농도는  e    이다.   A ",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "③",
@@ -217,7 +205,7 @@
       "id": 35567,
       "question": " ≫ 일 때, R의 최대 농도는  A 이다.     ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 20,
         "option": "④",
@@ -229,7 +217,7 @@
       "id": 35568,
       "question": "Thiele 계수가 0.4 보다 작으면, 표면반응이 반응속도를 지배한다. tanh",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 25,
         "option": "①",
@@ -241,7 +229,7 @@
       "id": 35569,
       "question": "단일 원통형 기공에서  가 성립한다.  ",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 25,
         "option": "②",
@@ -253,7 +241,7 @@
       "id": 35570,
       "question": "Thiele 계수가 4보다 크면, 유효인자는 1에 접근한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 25,
         "option": "③",
@@ -265,7 +253,7 @@
       "id": 35571,
       "question": "촉매 기공 내부의 확산 저항이 클수록 유효인자는 작아진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 25,
         "option": "④",

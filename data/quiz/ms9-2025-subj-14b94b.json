@@ -7,13 +7,13 @@
   "source": "군무원 9급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 18,
+  "count": 15,
   "questions": [
     {
       "id": 40683,
       "question": "공칭강도: 하중에 대한 구조체나 구조부재 또는 단면의 저항능력을 말하며 강도감소계수 또는 저항계수를 적용한 강도",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "①",
@@ -22,22 +22,10 @@
       }
     },
     {
-      "id": 40684,
-      "question": "설계기준항복강도: 철근콘크리트 부재를 설계 할 때 기준이 되는 철근의 항복강도",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 1,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 40685,
       "question": "계수하중: 사용하중에 설계법에서 요구하는 하중계수를 곱한 하중",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +37,7 @@
       "id": 40686,
       "question": "소요강도: 하중조합에 따른 계수하중을 저항 하는 데 필요한 부재나 단면의 강도",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +49,7 @@
       "id": 40690,
       "question": "언더컷(Undercut) 건축구조학(9 조 학 (9 급 ) 드 : 002) 성명 : 4 4. 건축구조의 구조별 특징을 기술한 것으로 가장 장 적절하지 않은 것은? ① 가구식 구조는 삼각형으로 조립할 때가 사각형 는 으로 조립할 때보다 더욱 안정한 구조체를 는 이룰 수 있다. ② 조적식 구조는 압축력과 횡력에 강하다. 계 ③ 조립식 구조는 현장타설 콘크리트 구조에 비해 공기가 짧다. 는 ④ 일체식 구조는 비교적 균일한 강도를 가진다. 항 의 5. 신축 건물의 기초파기 중 토질에 생기는 현상으로 른 가장 적절하지 않은 것은? ① 보일링(Boiling) ② 파이핑(Piping) ③ 히빙(Heaving) ④ 언더피닝(Under Pinning) 접 6. 구조역학에서 최대 휨응력과 가장 관계가 있는 것은? 장 ① 온도계수 ② 단면계수 ③ 탄성계수 ④ 팽창계수 학(9급) 4 - 1",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 3,
         "option": "④",
@@ -73,7 +61,7 @@
       "id": 40696,
       "question": "소일시멘트월 공법은 다른 현장타설 말뚝공법에 비해 강성이 우수하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 11,
         "option": "①",
@@ -82,22 +70,10 @@
       }
     },
     {
-      "id": 40697,
-      "question": "스트러트지지 공법은 타공법에 비해 부지 내 은 가(假)시설이 적다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 11,
-        "option": "②",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 40698,
       "question": "어스앵커는 시공 이후 검사가 곤란하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "③",
@@ -109,7 +85,7 @@
       "id": 40699,
       "question": "모든 흙막이 벽체는 가설 구조체로 해석한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 11,
         "option": "④",
@@ -121,7 +97,7 @@
       "id": 40703,
       "question": "(라): 내후성 등급 구분 학(9급) 4 - 2",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -133,7 +109,7 @@
       "id": 40704,
       "question": "콘크리트와 일체화된 철근은 쉽게 부식하지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -145,7 +121,7 @@
       "id": 40705,
       "question": "철근과 콘크리트의 열팽창계수는 거의 유사하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -157,7 +133,7 @@
       "id": 40706,
       "question": "철근과 콘크리트의 탄성계수는 동일하여 부착이 용이하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "③",
@@ -169,7 +145,7 @@
       "id": 40707,
       "question": "콘크리트가 철근을 피복보호하여 구조체는 내화적이 된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "④",
@@ -181,7 +157,7 @@
       "id": 40712,
       "question": "기둥-보 접합부는 모멘트 전달여부 및 회전에 시 대한 구속정도에 따라 전단접합, 부분강접합, 한 완전강접합으로 구분된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 24,
         "option": "①",
@@ -193,7 +169,7 @@
       "id": 40713,
       "question": "주요한 건물의 접합부에는 미끄럼 발생을 방지하기 위해 일반볼트를 사용한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 24,
         "option": "②",
@@ -205,22 +181,10 @@
       "id": 40714,
       "question": "하중저항계수설계법으로 설계 시 접합부의 설계강도는 45 kN 이상이어야 한다. (단, 연결재, 새그로드 또는 띠장은 제외한다.)",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 24,
         "option": "③",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
-      "id": 40715,
-      "question": "고장력볼트의 접합방법에는 마찰접합, 지압 접합, 인장접합이 있다. 을 25. 철근콘크리트 보의 강도 설계를 위한 가정으로 가장 적절하지 않은 것은? ① 철근의 응력이 설계기준항복강도 이하일 때 철근의 응력은 그 변형률에 철근의 탄성계수를 곱한 값으로 한다. ② 콘크리트 압축응력 분포 형상은 항상 직사 각형으로 분포한다. ③ 깊은보를 제외한 보의 철근과 콘크리트의 변형률은 중립축으로부터 거리에 비례하는 것으로 가정할 수 있다. ④ 휨모멘트 또는 휨모멘트와 축력을 동시에 받는 부재의 경우 콘크리트의 설계기준압축강도   ≤40MPa 일 때 콘크리트 압축연단 극한 변형률은 0.0033이라고 가정한다. 학(9급) 4 - 4",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 24,
-        "option": "④",
         "qtype": "opt-wrong",
         "difficulty": null
       }

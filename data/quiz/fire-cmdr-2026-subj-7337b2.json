@@ -13,7 +13,7 @@
       "id": 29501,
       "question": "A는 북태평양 아열대 순환의 서안 경계류이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 4,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 29502,
       "question": "B의 형성에는 무역풍보다 편서풍의 영향이 더 크다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 4,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 29503,
       "question": "평균 유속은 A가 C보다 빠르다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 4,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 29504,
       "question": "표층에서의 용존 산소량은 A가 C보다 낮다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 4,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 29505,
       "question": "해류에 작용하는 수압 경도력의 방향은 A와 C가 같다. 자연계열 14 /",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "⑤",
@@ -73,7 +73,7 @@
       "id": 29506,
       "question": "젊은 별의 비율은 Sa형 은하가 Sc형 은하보다 높다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "①",
@@ -85,7 +85,7 @@
       "id": 29507,
       "question": "붉은 별의 비율은 타원 은하가 불규칙 은하보다 높다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 6,
         "option": "②",
@@ -97,7 +97,7 @@
       "id": 29508,
       "question": "우리은하의 형태는 타원 은하보다 막대 나선 은하에 가깝다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 6,
         "option": "③",
@@ -109,7 +109,7 @@
       "id": 29509,
       "question": "타원 은하에서의 별 생성은 현재보다 은하 형성 초기에 활발했다. 성간물질의 질량",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 6,
         "option": "④",
@@ -121,7 +121,7 @@
       "id": 29510,
       "question": "은 불규칙 은하가 타원 은하보다 은하의 질량 크다. 자연계열 15 /",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 6,
         "option": "⑤",
@@ -133,7 +133,7 @@
       "id": 29511,
       "question": "(가)는 뮐러 의태이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "①",
@@ -145,7 +145,7 @@
       "id": 29512,
       "question": "(나)는 특정 지역에서 둘 이상의 종이 수렴진화 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -157,7 +157,7 @@
       "id": 29513,
       "question": "(다)는 기계적 방어이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -169,7 +169,7 @@
       "id": 29514,
       "question": "‘여치가 썩어 가는 낙엽과 유사한 몸의 형태와 색을 가진다.’는 (a)에 해당한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 10,
         "option": "④",
@@ -181,7 +181,7 @@
       "id": 29515,
       "question": "‘폭탄먼지벌레는 위험 인지 시 복부 끝에서 ℃ 내외의 유독한 물질을 뿜어낸다.’는 (b)에 해당한다. 자연계열 17 /",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 10,
         "option": "⑤",
@@ -193,7 +193,7 @@
       "id": 29516,
       "question": "의 ABO식 혈액형의 유전자형은 동형 접합이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 12,
         "option": "①",
@@ -205,7 +205,7 @@
       "id": 29517,
       "question": "의 적혈구를 의 혈장과 섞으면 응집 반응이 일어난다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -217,7 +217,7 @@
       "id": 29518,
       "question": "는 적록 색맹 유전자를 가지고 있지 않다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -229,7 +229,7 @@
       "id": 29519,
       "question": "가 태어날 때 의 감수 분열에서 성염색체 비분리가 일어났다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -241,7 +241,7 @@
       "id": 29520,
       "question": "의 동생이 태어날 때, B형의 적록 색맹인 남자  아이가 태어날 확률은 이다.   자연계열 18 /",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "⑤",
@@ -253,7 +253,7 @@
       "id": 29521,
       "question": "Si와 Si는 같은 전자수를 가진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "①",
@@ -265,7 +265,7 @@
       "id": 29522,
       "question": "Si와 Si는 다른 질량수를 가진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -277,7 +277,7 @@
       "id": 29523,
       "question": "Si와 Si는 다른 중성자 수를 가진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -289,7 +289,7 @@
       "id": 29524,
       "question": "Si와 Si는 다른 양성자 수를 가진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "④",
@@ -301,7 +301,7 @@
       "id": 29525,
       "question": "Si와 Si는 같은 원자 번호를 가진다. 자연계열 19 /",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "⑤",
@@ -313,7 +313,7 @@
       "id": 29526,
       "question": "양이온의 크기는 Na가 K보다 크다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -325,7 +325,7 @@
       "id": 29527,
       "question": "음이온의 크기는 F가 Cl보다 크다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -337,7 +337,7 @@
       "id": 29528,
       "question": "원자 반지름은 Al이 Si보다 작다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 18,
         "option": "③",
@@ -349,7 +349,7 @@
       "id": 29529,
       "question": "전자 친화도는 S가 Cl보다 큰 음의 값을 가진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ⑤이다.",
       "source": {
         "qid": 18,
         "option": "④",
@@ -361,7 +361,7 @@
       "id": 29530,
       "question": "삼차 이온화 에너지는 B가 C보다 작다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "⑤",
@@ -373,7 +373,7 @@
       "id": 29531,
       "question": "활성화 에너지는 온도와 반응 경로 변화에 따라 바뀐다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -385,7 +385,7 @@
       "id": 29532,
       "question": "반응 속도 상수는 반응 경로와 상관없이 일정하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 19,
         "option": "②",
@@ -397,7 +397,7 @@
       "id": 29533,
       "question": "일정한 온도에서 촉매화 반응은 반응 평형에 더 빠르게 도달한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "③",
@@ -409,7 +409,7 @@
       "id": 29534,
       "question": "일정한 온도에서 반응 엔탈피는 촉매의 종류에 따라 달라진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 19,
         "option": "④",
@@ -421,7 +421,7 @@
       "id": 29535,
       "question": "일정한 온도에서 촉매화 반응 속도는 더 빨라지지만 그 반응 속도 상수는 일정하다. 열-필수 / 21",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 19,
         "option": "⑤",

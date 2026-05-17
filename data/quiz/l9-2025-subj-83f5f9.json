@@ -13,7 +13,7 @@
       "id": 42894,
       "question": "생태체계모델은 클라이언트의 비합리적 신념의 수정을 강조한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 42895,
       "question": "인지행동모델은 기적질문을 통해 클라이언트가 원하는 바를 파악한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 42896,
       "question": "심리사회모델은 사회복지사의 신속한 개입과 초점적 문제해결을 강조한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 42897,
       "question": "과제중심모델은 시간제한적 단기개입과 클라이언트의 자기결정권을 강조한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 42898,
       "question": "비용편익분석은 프로그램의 성과를 화폐가치로 환산하는 것이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 42899,
       "question": "성과평가는 프로그램이 계획대로 시행되고 있는지를 모니터링하는 것이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 42900,
       "question": "형성평가는 프로그램이 종결된 후에 목표달성 여부를 평가하는 것이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 42901,
       "question": "과정평가는 성과를 달성하기까지 비용이 얼마나 들었는지를 평가하는 것이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 2,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 42902,
       "question": "급여 전달 과정에서 행정비용을 절감할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 3,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 42903,
       "question": "수급자의 자기결정권을 보장할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 3,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 42904,
       "question": "수급자의 급여 오남용을 예방할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 3,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 42905,
       "question": "수급자가 급여를 소비할 때 낙인감이 적다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 3,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 42906,
       "question": "사회복지의 대상은 전체적이고, 사회사업의 대상은 개별적이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 4,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 42907,
       "question": "사회복지는 거시적 방법을, 사회사업은 미시적 방법을 추구한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 4,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 42908,
       "question": "사회복지는 실천적 측면을, 사회사업은 이념적 측면을 강조한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "③",
@@ -193,7 +193,7 @@
       "id": 42909,
       "question": "사회복지는 바람직한 사회 건설에, 사회사업은 바람직한 인간화에 초점을 둔다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 4,
         "option": "④",
@@ -205,7 +205,7 @@
       "id": 42912,
       "question": "개인의 변화에서 사회개혁으로 사회복지학개론 책형 1쪽",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 5,
         "option": "④",
@@ -217,7 +217,7 @@
       "id": 42913,
       "question": "베버리지는 국가가 제공하는 사회보장의 목표를 국민최저선 달성에 두었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 6,
         "option": "①",
@@ -229,7 +229,7 @@
       "id": 42914,
       "question": "인보관운동은 박애정신을 실천하는 빈민계층이 주도하여 빈민의 생활 개선과 교육을 위해 노력했다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "②",
@@ -241,7 +241,7 @@
       "id": 42915,
       "question": "비스마르크는 19세기 독일에서 사회주의가 확산되는 상황을 막기 위한 회유책으로 사회보험을 도입했다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 6,
         "option": "③",
@@ -253,7 +253,7 @@
       "id": 42916,
       "question": "자선조직협회는 ‘자격 있는 빈민(deserving poor)’과 ‘자격 없는 빈민(undeserving poor)’을 엄격하게 구분했다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 6,
         "option": "④",
@@ -265,7 +265,7 @@
       "id": 42917,
       "question": "신뢰도는 측정값들의 일관성을 의미한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -277,7 +277,7 @@
       "id": 42918,
       "question": "측정의 무작위적 오류가 적을수록 신뢰도가 높아진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 13,
         "option": "②",
@@ -289,7 +289,7 @@
       "id": 42919,
       "question": "질문 문항을 분명하게 작성하여 모호성을 줄이면 신뢰도가 높아진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 13,
         "option": "③",
@@ -301,7 +301,7 @@
       "id": 42920,
       "question": "검사－재검사법에서는 크론바흐 알파(Cronbach’s ) 값을 통해 신뢰도를 확인할 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "④",
@@ -313,7 +313,7 @@
       "id": 42921,
       "question": "사회복지사가 소속된 기관은 변화매개체계에 해당한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 19,
         "option": "①",
@@ -325,7 +325,7 @@
       "id": 42922,
       "question": "클라이언트체계는 잠재적으로 복지 지원이 필요한 모든 지역 주민이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "②",
@@ -337,7 +337,7 @@
       "id": 42923,
       "question": "목표달성을 위해 변화시킬 필요가 있는 사람은 표적체계에 해당한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -349,7 +349,7 @@
       "id": 42924,
       "question": "행동체계는 사회복지사의 활동 목적을 달성하기 위해 공동으로 노력하는 사람과 기관이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 19,
         "option": "④",

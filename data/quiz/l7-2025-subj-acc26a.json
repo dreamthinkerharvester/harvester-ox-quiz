@@ -7,13 +7,13 @@
   "source": "지방직 7급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 48,
+  "count": 46,
   "questions": [
     {
       "id": 42233,
       "question": "정치ㆍ행정일원론은 엽관제의 한계를 극복하고 행정의 효율성을 높이려는 시도에서 등장하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 42234,
       "question": "후기행태주의는 가치평가적인 정책연구보다는 가치중립적인 과학적 연구를 지향하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 42235,
       "question": "신공공관리론은 시장지향적 경쟁원리를 활용함으로써 정부의 효율성과 성과를 높이려 하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 42236,
       "question": "뉴거버넌스론은 공공문제를 해결하는 과정에서 정부라는 제도적 장치에 전적으로 의존하는 것을 강조한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 42241,
       "question": "예산을 지출 대상별로 분류해 편성하는 품목별 예산제도를 사용하고 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 3,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 42242,
       "question": "미시적ㆍ상향적 예산결정 방식인 예산총액배분 자율편성제도를 시행하고 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 3,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 42243,
       "question": "회계연도 개시 전까지 국회에서 본예산을 의결하지 못했을 때를 대비해 가예산제도를 채택하고 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 3,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 42244,
       "question": "국가재정법 은 예산편성 과정에 주민이 참여할 수 있도록 하는 주민참여예산제도를 규정하고 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 3,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 42245,
       "question": "성과관리는 신공공관리론의 확산에 부응해 결과중심적 행정을 실현하기 위한 정부혁신의 핵심적 수단으로 부상했다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 4,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 42246,
       "question": "성과측정을 위한 성과지표는 성과발생의 단계에 따라 투입지표, 과정지표, 산출지표, 결과지표, 영향지표로 구분된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 4,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 42247,
       "question": "조직의 성과를 대표하는 객관적이고 측정 가능한 성과지표의 개발은 성과관리의 핵심적 활동이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 4,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 42248,
       "question": "공공부문의 성과관리는 민간부문에 비해 성과지표가 다양하기 때문에 성과측정이 용이하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 42249,
       "question": "고정급적 연봉제를 적용받는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 6,
         "option": "①",
@@ -166,22 +166,10 @@
       }
     },
     {
-      "id": 42250,
-      "question": "일반직공무원뿐만 아니라 별정직공무원, 특정직공무원도 고위 공무원단이 될 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 6,
-        "option": "②",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 42251,
       "question": "1～ 3급을 가등급과 나등급의 두 계급으로 단순화함으로써 계급중심의 인사운영을 강화한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 6,
         "option": "③",
@@ -193,7 +181,7 @@
       "id": 42252,
       "question": "민간과 경쟁하는 공모직위를 통해 일정 비율을 충원하게 함으로써 공직의 개방성을 제고한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 6,
         "option": "④",
@@ -205,7 +193,7 @@
       "id": 42253,
       "question": "사회학적 제도주의에서 제도는 개인의 행동을 제약하는 게임 규칙의 역할을 하며, 개인은 자신의 의도에 따라 제도를 만들거나 변화시킬 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "①",
@@ -217,7 +205,7 @@
       "id": 42254,
       "question": "사회학적 제도주의에서 동형화란 조직의 장(organizational fields) 안에 있는 한 조직단위가 동일한 환경조건에 직면한 다른 조직단위들을 닮아 가는 것을 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "②",
@@ -229,7 +217,7 @@
       "id": 42255,
       "question": "역사적 제도주의는 제도 형성이나 변화의 역사적 경위를 분석한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -241,7 +229,7 @@
       "id": 42256,
       "question": "역사적 제도주의에서 경로의존이란 어떤 시점의 제도나 정책 선택이 그 이후 시점의 제도나 정책 선택에 영향을 주는 것을 말한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -253,7 +241,7 @@
       "id": 42257,
       "question": "수평적인 의사소통을 강조하여 의사결정에 많은 시간이 소요된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -265,7 +253,7 @@
       "id": 42258,
       "question": "사전에 완벽하게 분석ㆍ기획하여 완결성이 높은 해결책을 제시한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "②",
@@ -277,7 +265,7 @@
       "id": 42259,
       "question": "환경 변화에 대한 신속한 대응을 강조함에 따라 성과는 무시된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -289,7 +277,7 @@
       "id": 42260,
       "question": "한 조직으로 결합하였다가 해체되어 다른 조직으로 재조직화되는 과정을 반복한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "④",
@@ -301,7 +289,7 @@
       "id": 42261,
       "question": "사회구성원의 노력에 따라 미래가 달라질 수 있다는 점을 강조한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "①",
@@ -313,7 +301,7 @@
       "id": 42262,
       "question": "관찰된 경향의 지속성과 규칙성을 가정한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -325,7 +313,7 @@
       "id": 42263,
       "question": "시계열분석에 기반해 미래의 사회상태를 예측한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -337,7 +325,7 @@
       "id": 42264,
       "question": "측정된 자료의 신뢰도와 타당도가 높다고 가정한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 9,
         "option": "④",
@@ -349,7 +337,7 @@
       "id": 42265,
       "question": "정무직공무원은 휴직할 수 없다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "①",
@@ -361,7 +349,7 @@
       "id": 42266,
       "question": "본인이 거부하면 임용권자는 휴직을 명할 수 없다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -373,7 +361,7 @@
       "id": 42267,
       "question": "휴직 기간이 끝난 공무원이 복귀 신고를 하면 임용권자의 승인을 거쳐 복직된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -385,7 +373,7 @@
       "id": 42268,
       "question": "공무원이 정신상의 장애로 장기 요양이 필요하여 휴직하는 경우 그 휴직 기간은 부득이한 경우 연장할 수 있다. 2025년도 지방공무원 7급 등 공개경쟁임용 필기시험",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "④",
@@ -397,7 +385,7 @@
       "id": 42269,
       "question": "주민자치위원회는 과거 읍ㆍ면ㆍ동 단위에서 설치하던 자문기구 였으나 현행 지방자치법 에서 그 법적 근거가 사라져 더 이상 운영되지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "①",
@@ -409,7 +397,7 @@
       "id": 42270,
       "question": "주민자치회는 현행 지방자치법 에 명시된 제도로 읍ㆍ면ㆍ동의 주민자치 기능을 강화하기 위해 설치된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "②",
@@ -421,7 +409,7 @@
       "id": 42271,
       "question": "주민투표제도는 주민의 청구로 이루어지는 것으로 지방자치단체장은 주민투표를 발의할 수 없다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 11,
         "option": "③",
@@ -433,7 +421,7 @@
       "id": 42272,
       "question": "주민자치회는 지방자치단체가 위탁하는 사무의 처리에 관한 사항을 수행한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "④",
@@ -445,7 +433,7 @@
       "id": 42273,
       "question": "공공데이터의 제공 및 이용 활성화에 관한 법률 상 비상업적ㆍ 공익적 목적에 한해 공공데이터의 자율적 이용권한이 보장된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "①",
@@ -457,7 +445,7 @@
       "id": 42274,
       "question": "개인정보 보호법 상 본인 동의 없이 가명정보를 민간에서 활용할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -469,7 +457,7 @@
       "id": 42275,
       "question": "정보격차란 정보에 대한 접근성, 활용 능력 등에서 발생하는 격차이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -478,22 +466,10 @@
       }
     },
     {
-      "id": 42276,
-      "question": "지식관리의 핵심 중 하나는 조직 내 학습을 통해 암묵지를 형식지로 전환하는 것이다. 행 정 학 책형 2쪽",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 15,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 42277,
       "question": "버크랜드(Birkland)는 정부가 해결하기를 대중이 기대하는 이슈나 사회문제를 결정의제라고 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "①",
@@ -505,7 +481,7 @@
       "id": 42278,
       "question": "다운스(Downs)는 의제가 어떤 시점에서 갑자기 관심을 받고 일정 기간 후에는 관심이 적어지거나 사라지는 순환이 반복되는 것을 의제－관심 사이클이라고 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -517,7 +493,7 @@
       "id": 42279,
       "question": "바흐라흐(Bachrach)와 바라츠(Baratz)는 문제가 의제에 오르지 못하도록 하는 조작을 무의사결정(non-decision making)이라고 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -529,7 +505,7 @@
       "id": 42280,
       "question": "킹던(Kingdon)은 문제 흐름, 정책 흐름, 정치 흐름 각각이 독자적으로 흘러 다닌다고 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "④",
@@ -541,7 +517,7 @@
       "id": 42282,
       "question": "지방자치단체의 장은 적용대상에서 제외된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "①",
@@ -553,7 +529,7 @@
       "id": 42283,
       "question": "제도의 운영은 행정안전부장관이 주관한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -565,7 +541,7 @@
       "id": 42284,
       "question": "퇴직수당을 받기 위해서는 공무원으로 10년 이상 근무하여야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 18,
         "option": "③",
@@ -577,7 +553,7 @@
       "id": 42285,
       "question": "퇴직연금을 받기 위해서는 공무원으로 20년 이상 근무하여야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 18,
         "option": "④",

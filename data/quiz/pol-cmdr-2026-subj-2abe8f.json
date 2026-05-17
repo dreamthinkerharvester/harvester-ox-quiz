@@ -7,13 +7,13 @@
   "source": "경찰 간부",
   "exam_year": 2026,
   "exam_round": null,
-  "count": 97,
+  "count": 93,
   "questions": [
     {
       "id": 23503,
       "question": "파레토 개선이 불가능한 상태가 파레토 최적인 상태이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 23504,
       "question": "교환의 파레토 최적은 두 소비자의 무차별곡선에서 한계대체 율이 같은 상태이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 23505,
       "question": "생산의 파레토 최적은 두 생산자의 등량곡선에서 한계기술 대체율이 같은 상태이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 23506,
       "question": "종합적 파레토 최적은 두 경제주체의 생산가능곡선에서 한계 전환율이 같은 상태이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 23507,
       "question": "두 사람 모두 이익이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 23508,
       "question": "두 사람 모두 손해이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 23509,
       "question": "어느 누구의 후생도 변하지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 23510,
       "question": "한 사람은 이익이지만 다른 사람은 손해이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 23514,
       "question": "거래 당사자 간 정보의 비대칭성이 존재하는 경우",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 3,
         "option": "④",
@@ -121,7 +121,7 @@
       "id": 23515,
       "question": "국사 교육에 국정 교과서의 사용을 의무화한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "①",
@@ -133,7 +133,7 @@
       "id": 23516,
       "question": "독감예방주사를 맞는 사람에게 보조금을 지급한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 4,
         "option": "②",
@@ -145,7 +145,7 @@
       "id": 23517,
       "question": "오염배출권의 거래를 허용한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 4,
         "option": "③",
@@ -157,7 +157,7 @@
       "id": 23518,
       "question": "담배 소비에 세금을 부과한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 4,
         "option": "④",
@@ -169,7 +169,7 @@
       "id": 23519,
       "question": "재산권의 행사가 법적으로 보장되어야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 5,
         "option": "①",
@@ -181,7 +181,7 @@
       "id": 23520,
       "question": "소득의 불균등한 분배를 완화시킬 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 5,
         "option": "②",
@@ -193,7 +193,7 @@
       "id": 23521,
       "question": "소유권의 귀속주체가 누구인지는 상관없다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 5,
         "option": "③",
@@ -202,22 +202,10 @@
       }
     },
     {
-      "id": 23522,
-      "question": "정부 개입의 최소화를 강조한다. - 28 정 학 세 무 회 계",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 5,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 23523,
       "question": "연탄공장은 사적 한계비용이 상승한 것으로 인식한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 6,
         "option": "①",
@@ -229,7 +217,7 @@
       "id": 23524,
       "question": "연탄 생산의 사회적 한계비용 곡선을 하방이동시킨다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "②",
@@ -241,7 +229,7 @@
       "id": 23525,
       "question": "연탄시장에서 사회후생은 증가한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 6,
         "option": "③",
@@ -253,7 +241,7 @@
       "id": 23526,
       "question": "연탄의 시장거래량은 감소한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 6,
         "option": "④",
@@ -265,7 +253,7 @@
       "id": 23527,
       "question": "각 소비자는 동일한 수요량에서 동일한 한계편익을 누린다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "①",
@@ -277,7 +265,7 @@
       "id": 23528,
       "question": "시장수요는 개별수요를 수직으로 더한 것이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "②",
@@ -289,7 +277,7 @@
       "id": 23529,
       "question": "배제불가능성이 있는 서비스이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -301,7 +289,7 @@
       "id": 23530,
       "question": "경합성이 없는 재화이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -313,7 +301,7 @@
       "id": 23531,
       "question": "공리주의적 사회후생함수에 의하면 소득재분배는 사회후생을 증가시킬 수 없다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -325,7 +313,7 @@
       "id": 23532,
       "question": "공리주의적 사회후생함수는 “최대 다수의 최대 행복”이라는 사상을 반영한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -337,7 +325,7 @@
       "id": 23533,
       "question": "롤스의 사회후생함수에 의한 사회무차별곡선은 L자 모양으 로 표현된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -349,7 +337,7 @@
       "id": 23534,
       "question": "롤스의 사회후생함수는 공리주의적 사회후생함수의 극단적 형태에 해당한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "④",
@@ -361,7 +349,7 @@
       "id": 23535,
       "question": "투표의 역설이 발생하여 색상이 결정되지 않는다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 11,
         "option": "①",
@@ -373,7 +361,7 @@
       "id": 23536,
       "question": "소득분배가 균등할수록 지니계수가 커진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "①",
@@ -385,7 +373,7 @@
       "id": 23537,
       "question": "로렌츠곡선이 대각선에 가까울수록 소득분배가 더 균등하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -397,7 +385,7 @@
       "id": 23538,
       "question": "지니계수의 최대값은 1이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 14,
         "option": "③",
@@ -409,7 +397,7 @@
       "id": 23539,
       "question": "서로 다른 로렌츠곡선이라도 지니계수가 같을 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -421,7 +409,7 @@
       "id": 23540,
       "question": "민간부문의 경제행위에 교란을 일으키지 않는 조세를 중립세 라 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 15,
         "option": "①",
@@ -433,7 +421,7 @@
       "id": 23541,
       "question": "시장의 실패를 보완하기 위한 과세를 교정과세라 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -445,7 +433,7 @@
       "id": 23542,
       "question": "소득이 증가할 때, 평균세율이 증가하는 형태의 조세체계를 누진세제라 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -457,7 +445,7 @@
       "id": 23544,
       "question": "편익원칙이란 각 납세자가 정부서비스로부터 받은 혜택에 비 례하여 조세를 부담해야 한다는 것이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 16,
         "option": "①",
@@ -469,7 +457,7 @@
       "id": 23545,
       "question": "능력원칙이란 각 납세자가 가진 경제적 능력에 비례하여 조 세를 부담해야 한다는 것이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -481,7 +469,7 @@
       "id": 23546,
       "question": "편익원칙은 빅셀(K. Wicksell)이 제시한 자발적 교환이론에 그 근원이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -493,7 +481,7 @@
       "id": 23547,
       "question": "대부분의 국가가 공평한 과세의 원칙으로 편익원칙을 채택하 고 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "④",
@@ -505,7 +493,7 @@
       "id": 23549,
       "question": "정액세 부과는 대체효과를 발생시킨다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "①",
@@ -517,7 +505,7 @@
       "id": 23550,
       "question": "예를 들면, 소득 수준과 무관하게 일정 비율로 과세하는 방 식이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "②",
@@ -529,7 +517,7 @@
       "id": 23551,
       "question": "납세자의 경제적 의사결정에 교란을 초래하지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 18,
         "option": "③",
@@ -541,7 +529,7 @@
       "id": 23552,
       "question": "우리나라 휘발유에 대한 교통·에너지·환경세 부과가 하나의 사례이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 18,
         "option": "④",
@@ -553,7 +541,7 @@
       "id": 23553,
       "question": "수요곡선이 종량세만큼 상향 이동한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 20,
         "option": "①",
@@ -565,7 +553,7 @@
       "id": 23554,
       "question": "소비자가 상품 1단위당 지불 의향이 있는 금액은 종량세 부 과액만큼 커진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 20,
         "option": "②",
@@ -577,7 +565,7 @@
       "id": 23555,
       "question": "종량세 부과로 인한 소비자잉여나 생산자잉여의 변동은 없다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 20,
         "option": "③",
@@ -589,7 +577,7 @@
       "id": 23556,
       "question": "종량세 부과 후 소비자가 지불하는 가격은 종량세가 생산자 에게 부과되는 경우와 동일하다. 29 -",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 20,
         "option": "④",
@@ -601,7 +589,7 @@
       "id": 23557,
       "question": "쌀의 거래량은 감소한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 21,
         "option": "①",
@@ -613,7 +601,7 @@
       "id": 23558,
       "question": "소비자잉여는 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 21,
         "option": "②",
@@ -625,7 +613,7 @@
       "id": 23559,
       "question": "소비자는 물품세의 일부를 부담한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 21,
         "option": "③",
@@ -637,7 +625,7 @@
       "id": 23560,
       "question": "생산자는 물품세의 일부를 부담한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 21,
         "option": "④",
@@ -649,7 +637,7 @@
       "id": 23561,
       "question": "종량세의 크기가 클수록 초과부담은 작아진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 22,
         "option": "①",
@@ -661,7 +649,7 @@
       "id": 23562,
       "question": "해당 상품의 대체재가 많을수록 초과부담은 커진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 22,
         "option": "②",
@@ -673,7 +661,7 @@
       "id": 23563,
       "question": "종량세가 부과되더라도 생산자가 수취하는 가격은 변하지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 22,
         "option": "③",
@@ -685,7 +673,7 @@
       "id": 23564,
       "question": "수요자의 소비자잉여 감소가 사회 전체의 초과부담과 같다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 22,
         "option": "④",
@@ -697,7 +685,7 @@
       "id": 23565,
       "question": "우리나라의 면세는 기초생활필수품, 의료·교육 등 공익성이 높은 재화 및 서비스, 도서 등 문화관련 재화 등에 적용된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 24,
         "option": "①",
@@ -709,7 +697,7 @@
       "id": 23566,
       "question": "영세율이 적용되면 부가가치세 부담이 전혀 발생하지 않으므 로 완전면세라 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 24,
         "option": "②",
@@ -721,7 +709,7 @@
       "id": 23567,
       "question": "면세제도에서 최종소비단계에 면세를 적용하면 그 직전 단계 까지 누적된 부가가치세는 환급된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 24,
         "option": "③",
@@ -733,7 +721,7 @@
       "id": 23568,
       "question": "대부분의 국가들이 수출품에 대해 영세율을 적용하고 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 24,
         "option": "④",
@@ -745,7 +733,7 @@
       "id": 23569,
       "question": "필수품에는 보다 낮은 세율로 과세하여야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 27,
         "option": "①",
@@ -757,7 +745,7 @@
       "id": 23570,
       "question": "수요의 가격탄력성에 반비례하도록 각 재화의 세율을 결정해 야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 27,
         "option": "②",
@@ -769,7 +757,7 @@
       "id": 23571,
       "question": "공평성 측면을 고려한 과세 원칙이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 27,
         "option": "③",
@@ -781,7 +769,7 @@
       "id": 23572,
       "question": "각 재화에 대해 단일세율로 물품세를 부과하는 것이 효율적 이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 27,
         "option": "④",
@@ -793,7 +781,7 @@
       "id": 23573,
       "question": "우리나라의 상속세는 유산취득형에 속한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 28,
         "option": "①",
@@ -805,7 +793,7 @@
       "id": 23574,
       "question": "유산취득형은 상속인별로 누진세가 적용된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 28,
         "option": "②",
@@ -817,7 +805,7 @@
       "id": 23575,
       "question": "유산과세형은 피상속인의 유산총액에 대해 상속세를 부과한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 28,
         "option": "③",
@@ -829,7 +817,7 @@
       "id": 23576,
       "question": "유산과세형은 분할상속에 따른 상속세 기피가 불가능하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 28,
         "option": "④",
@@ -841,7 +829,7 @@
       "id": 23577,
       "question": "경제주체들이 자신의 조세부담을 감소시키기 위해 경제행위 를 변경하는 것을 절세라 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 29,
         "option": "①",
@@ -853,7 +841,7 @@
       "id": 23578,
       "question": "탈세란 경제주체가 조세납부를 기피하는 불법적인 행위를 의 미한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 29,
         "option": "②",
@@ -865,7 +853,7 @@
       "id": 23579,
       "question": "세율이 높을수록 탈세액이 증가한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 29,
         "option": "③",
@@ -877,7 +865,7 @@
       "id": 23580,
       "question": "세무조사 확률이 높을수록 탈세액이 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 29,
         "option": "④",
@@ -889,7 +877,7 @@
       "id": 23581,
       "question": "재정수입이 증가하여 다른 조세의 부담을 줄일 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 31,
         "option": "①",
@@ -901,7 +889,7 @@
       "id": 23582,
       "question": "오염자지불원칙의 정신에 부합한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 31,
         "option": "②",
@@ -913,7 +901,7 @@
       "id": 23583,
       "question": "오염배출권 거래제에 비해 오염물질 배출자가 지불하는 비용 의 변동성이 감소한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 31,
         "option": "③",
@@ -925,7 +913,7 @@
       "id": 23584,
       "question": "오염 배출량이 직접적으로 통제된다. 30 -",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 31,
         "option": "④",
@@ -937,7 +925,7 @@
       "id": 23585,
       "question": "시설용량이 정해진 공공시설에서 초과수요가 발생한다면 효 율성을 위해 한계비용과 경제적 지대를 합산한 수준에서 가 격을 결정해야 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 32,
         "option": "①",
@@ -946,22 +934,10 @@
       }
     },
     {
-      "id": 23586,
-      "question": "필수품에 대해 램지가격을 설정하면 분배 측면의 문제가 생 길 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 32,
-        "option": "②",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 23587,
       "question": "공평성의 관점에서 보면 능력원칙에 입각하여 요금을 부과해 야 한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 32,
         "option": "③",
@@ -973,7 +949,7 @@
       "id": 23588,
       "question": "규모의 경제가 존재하는 경우 평균비용가격설정은 과소생산 을 유발한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 32,
         "option": "④",
@@ -982,22 +958,10 @@
       }
     },
     {
-      "id": 23589,
-      "question": "조세부담-편익 연계가 강한 공공재는 중앙정부가, 그렇지 않 은 공공재는 지방정부가 공급하는 것이 바람직하다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 34,
-        "option": "①",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 23590,
       "question": "부정적 외부성이 존재하는 공공재는 중앙정부가, 긍정적 외 부성이 존재하는 공공재는 지방정부가 공급하는 것이 바람직 하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 34,
         "option": "②",
@@ -1009,7 +973,7 @@
       "id": 23591,
       "question": "국방과 외교는 중앙정부가, 쓰레기 수거와 거리 청소는 지방 정부가 공급하는 것이 바람직하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 34,
         "option": "③",
@@ -1018,22 +982,10 @@
       }
     },
     {
-      "id": 23592,
-      "question": "무임승차의 가능성이 높은 공공재는 지방정부가, 그렇지 않 은 공공재는 중앙정부가 공급하는 것이 바람직하다.",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 34,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 23593,
       "question": "경제주체는 국공채를 순자산의 일부로 인식한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 38,
         "option": "①",
@@ -1045,7 +997,7 @@
       "id": 23594,
       "question": "국공채 발행에 의한 재정적자는 민간의 저축을 증가시킨다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 38,
         "option": "②",
@@ -1057,7 +1009,7 @@
       "id": 23595,
       "question": "재정적자로 인한 국공채 발행의 부담은 미래세대로 전가되지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 38,
         "option": "③",
@@ -1069,7 +1021,7 @@
       "id": 23596,
       "question": "재원조달 방식이 국채발행인지 증세인지와 무관하게 정부지 출 증가의 효과는 동일하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 38,
         "option": "④",
@@ -1081,7 +1033,7 @@
       "id": 23597,
       "question": "국가채무는 재정수지 적자의 누적이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 39,
         "option": "①",
@@ -1093,7 +1045,7 @@
       "id": 23598,
       "question": "물가가 상승하면 국가채무의 실질가치는 감소한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 39,
         "option": "②",
@@ -1105,7 +1057,7 @@
       "id": 23599,
       "question": "이전지출의 증가는 재정수지를 개선시킬 수 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 39,
         "option": "③",
@@ -1117,7 +1069,7 @@
       "id": 23600,
       "question": "정부지출의 증가는 구축효과를 발생시킬 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 39,
         "option": "④",
@@ -1129,7 +1081,7 @@
       "id": 23601,
       "question": "세금 인하는 확장적 재정정책에 해당한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 40,
         "option": "①",
@@ -1141,7 +1093,7 @@
       "id": 23602,
       "question": "가계의 소비를 증가시켜 총수요가 증가한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 40,
         "option": "②",
@@ -1153,7 +1105,7 @@
       "id": 23603,
       "question": "가계의 처분가능소득을 증가시켜 화폐수요가 증가한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 40,
         "option": "③",
@@ -1165,7 +1117,7 @@
       "id": 23604,
       "question": "세금 감소와 동일한 크기의 정부지출 감소가 동시에 이루어 진다면 총수요는 불변이다. 31 -",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 40,
         "option": "④",

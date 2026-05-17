@@ -13,7 +13,7 @@
       "id": 26660,
       "question": "배제성과 경합성이 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 6,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 26661,
       "question": "배제성은 있으나 경합성이 없다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 6,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 26662,
       "question": "배제성은 없으나 경합성이 있다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 6,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 26663,
       "question": "배제성도 없고 경합성도 없다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 26666,
       "question": "노동시장에서 가격통제 시 실업자가 늘어날 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "③",
@@ -73,7 +73,7 @@
       "id": 26667,
       "question": "노동시장에서 가격통제 시 이미 고용된 숙련 노동자들의 소득이 감소한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -85,7 +85,7 @@
       "id": 26668,
       "question": "투자가 이자율에 민감하게 반응할수록 IS곡선의 기울기는 수평에 가까워진다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -97,7 +97,7 @@
       "id": 26669,
       "question": "화폐수요가 이자율에 민감하게 반응할수록 LM곡선의 기울기는 수직에 가까워진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "②",
@@ -109,7 +109,7 @@
       "id": 26670,
       "question": "통화정책이 국민소득에 미치는 효과는 IS곡선의 기울기가 수평에 가까울수록 크다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -121,7 +121,7 @@
       "id": 26671,
       "question": "재정정책이 국민소득에 미치는 효과는 LM곡선의 기울기가 수평에 가까울수록 크다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 9,
         "option": "④",
@@ -133,7 +133,7 @@
       "id": 26672,
       "question": "규모에 대한 수확불변의 생산함수를 가정한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "①",
@@ -145,7 +145,7 @@
       "id": 26673,
       "question": "자본의 황금률 수준에서 1인당 소비가 극대화된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -157,7 +157,7 @@
       "id": 26674,
       "question": "저축률, 인구증가율, 감가상각률이 일정할 때 1인당 자본량의 증가율은 자본의 평균생산성에 의해 결정된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -169,7 +169,7 @@
       "id": 26675,
       "question": "인구증가를 고려한 경우에는 자본의 황금률 수준에서 순한계 생산물(MPK－감가상각률)이 인구증가율보다 크다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "④",
@@ -181,7 +181,7 @@
       "id": 26676,
       "question": "소득의 증가는 이자율을 하락시킨다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "①",
@@ -193,7 +193,7 @@
       "id": 26677,
       "question": "통화공급의 증가는 이자율을 하락시킨다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -205,7 +205,7 @@
       "id": 26678,
       "question": "투기적 동기(speculative motive)의 화폐수요에 의해 화폐수요 곡선은 우하향한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -217,7 +217,7 @@
       "id": 26679,
       "question": "화폐공급곡선은 화폐공급이 중앙은행에 의해 외생적으로 결정되기 때문에 수직이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 16,
         "option": "④",

@@ -7,13 +7,13 @@
   "source": "지방직 9급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 42,
+  "count": 41,
   "questions": [
     {
       "id": 43544,
       "question": "읍락의 우두머리들이 스스로 ‘삼로(三老)’라고 불렀다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 2,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 43545,
       "question": "마가(馬加)와 우가(牛加) 등 가축의 이름을 딴 관리가 있었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 43546,
       "question": "사람이 질병으로 죽으면 살던 집을 버리고 다시 새집을 지었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 43547,
       "question": "다른 읍락의 산천을 침범하면 노비와 소, 말 등으로 배상하게 하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 2,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 43548,
       "question": "당의 등주를 공격하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 3,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 43549,
       "question": "행정구역을 5경 15부 62주로 나누었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 3,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 43550,
       "question": "집사부 장관인 시중이 왕명을 받들어 행정을 총괄하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 3,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 43551,
       "question": "‘인안’ 등의 연호를 사용하고 국왕을 ‘황상’이라고 부르기도 하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 3,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 43552,
       "question": "율령을 반포하고 상대등을 설치하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 4,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 43553,
       "question": "병부를 설치하고 금관가야를 병합하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 4,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 43554,
       "question": "‘건원’이라는 독자적인 연호를 사용하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 4,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 43555,
       "question": "국호를 ‘신라’로 정하고 우산국을 정벌하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "④",
@@ -157,7 +157,7 @@
       "id": 43556,
       "question": "기인제도를 시행하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 6,
         "option": "①",
@@ -169,7 +169,7 @@
       "id": 43557,
       "question": "발해 유민을 받아들였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 6,
         "option": "②",
@@ -181,7 +181,7 @@
       "id": 43558,
       "question": "개경을 ‘황도’라고 불렀다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 6,
         "option": "③",
@@ -193,7 +193,7 @@
       "id": 43564,
       "question": "교종의 입장에서 선종을 통합하려 하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -205,7 +205,7 @@
       "id": 43565,
       "question": "정혜쌍수라는 실천 수행 방법을 제시하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "④",
@@ -217,7 +217,7 @@
       "id": 43566,
       "question": "수원 화성을 건설하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -229,7 +229,7 @@
       "id": 43567,
       "question": "초계문신제를 시행하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 10,
         "option": "③",
@@ -241,7 +241,7 @@
       "id": 43569,
       "question": "한전론을 주장하여 토지 소유를 균등하게 하려고 하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 11,
         "option": "①",
@@ -253,7 +253,7 @@
       "id": 43570,
       "question": "(가)의 학문은 김장생 등에게 이어져 기호학파가 형성되었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 11,
         "option": "②",
@@ -265,7 +265,7 @@
       "id": 43571,
       "question": "(가)의 학문은 유성룡 등에게 이어져 영남학파가 형성되었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "③",
@@ -277,7 +277,7 @@
       "id": 43572,
       "question": "여전제를 주장하여 토지를 마을 단위로 공동소유하게 하였다. 2025년도 지방공무원 9급 등 공개경쟁임용 필기시험",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 11,
         "option": "④",
@@ -289,7 +289,7 @@
       "id": 43573,
       "question": "고종이 강제 퇴위당하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 12,
         "option": "①",
@@ -301,7 +301,7 @@
       "id": 43574,
       "question": "대한제국의 군대가 해산되었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 12,
         "option": "②",
@@ -313,7 +313,7 @@
       "id": 43575,
       "question": "안중근이 이토 히로부미를 저격하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 12,
         "option": "③",
@@ -325,7 +325,7 @@
       "id": 43576,
       "question": "이른바 ‘남한 대토벌 작전’이 전개되었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 12,
         "option": "④",
@@ -337,7 +337,7 @@
       "id": 43577,
       "question": "갑신정변의 영향으로 체결되었다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "①",
@@ -349,7 +349,7 @@
       "id": 43578,
       "question": "최혜국 대우에 관한 내용을 담고 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 13,
         "option": "②",
@@ -361,7 +361,7 @@
       "id": 43579,
       "question": "일본 경비병의 공사관 주둔을 명시하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "③",
@@ -373,7 +373,7 @@
       "id": 43580,
       "question": "부산 외 2곳에 개항장이 설치되는 결과를 가져왔다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 13,
         "option": "④",
@@ -385,7 +385,7 @@
       "id": 43581,
       "question": "형평 운동과 같은 연도에 발생하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 15,
         "option": "①",
@@ -397,7 +397,7 @@
       "id": 43582,
       "question": "신간회에서 진상 조사단을 파견하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -409,7 +409,7 @@
       "id": 43583,
       "question": "이 운동 이후 일제는 이른바 ‘문화 통치’로 통치 방식을 바꾸었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "③",
@@ -418,22 +418,10 @@
       }
     },
     {
-      "id": 43584,
-      "question": "운동 준비 과정에서 민족주의 세력과 사회주의 세력이 연대하였다. 한 국 사 책형 2쪽",
-      "answer": "X",
-      "explanation": "",
-      "source": {
-        "qid": 15,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 43585,
       "question": "중국군과 연합하여 쌍성보 전투에서 승리했다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "①",
@@ -445,7 +433,7 @@
       "id": 43586,
       "question": "조선 의용대가 합류하여 군사력이 한층 더 강화되었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -457,7 +445,7 @@
       "id": 43587,
       "question": "중국 충칭에서 국민당 정부의 지원을 받아 창설되었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -469,7 +457,7 @@
       "id": 43588,
       "question": "영국군의 협조 요청으로 미얀마, 인도 전선에 파견되었다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 17,
         "option": "④",
@@ -481,7 +469,7 @@
       "id": 43590,
       "question": "교육 입국의 조서를 반포하였다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 19,
         "option": "②",
@@ -493,7 +481,7 @@
       "id": 43591,
       "question": "구본신참의 원칙하에 개혁을 추진하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 19,
         "option": "③",
@@ -505,7 +493,7 @@
       "id": 43592,
       "question": "서대문과 청량리 사이에 전차를 부설하였다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 19,
         "option": "④",

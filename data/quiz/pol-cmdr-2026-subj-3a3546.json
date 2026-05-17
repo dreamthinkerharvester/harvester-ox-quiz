@@ -7,13 +7,13 @@
   "source": "경찰 간부",
   "exam_year": 2026,
   "exam_round": null,
-  "count": 80,
+  "count": 78,
   "questions": [
     {
       "id": 22657,
       "question": "경제에서 최대한 생산할 수 있는 상품의 조합을 의미한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 1,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 22658,
       "question": "선택하였을 때 얻게 되는 유·무형의 가치를 의미한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 1,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 22659,
       "question": "일단 지출하고 난 뒤에는 회수할 수 없는 비용을 의미한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 1,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 22660,
       "question": "사람들이 어떤 행동을 하거나 하지 못하도록 부추기는 자극을 의미한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 1,
         "option": "④",
@@ -61,7 +61,7 @@
       "id": 22661,
       "question": "가격은 상승하지만 거래량의 변화는 불확정적이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 2,
         "option": "①",
@@ -73,7 +73,7 @@
       "id": 22662,
       "question": "가격은 상승하고 거래량은 감소한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 2,
         "option": "②",
@@ -85,7 +85,7 @@
       "id": 22663,
       "question": "가격의 변화는 불확정적이지만 거래량은 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 2,
         "option": "③",
@@ -97,7 +97,7 @@
       "id": 22664,
       "question": "가격은 하락하고 거래량은 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 2,
         "option": "④",
@@ -109,7 +109,7 @@
       "id": 22665,
       "question": "정상재이고 필수재이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 3,
         "option": "①",
@@ -121,7 +121,7 @@
       "id": 22666,
       "question": "정상재이고 사치재이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 3,
         "option": "②",
@@ -133,7 +133,7 @@
       "id": 22667,
       "question": "열등재이고 필수재이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 3,
         "option": "③",
@@ -145,7 +145,7 @@
       "id": 22668,
       "question": "수요곡선이 우하향하는 형태가 된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 4,
         "option": "①",
@@ -157,7 +157,7 @@
       "id": 22669,
       "question": "명품을 찾는 사람들의 욕구를 설명할 수 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 4,
         "option": "②",
@@ -169,7 +169,7 @@
       "id": 22670,
       "question": "과시성 소비로 인해 나타나는 효과이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 4,
         "option": "③",
@@ -181,7 +181,7 @@
       "id": 22671,
       "question": "소비자들의 선호가 상호의존적인 경우에 발생한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 4,
         "option": "④",
@@ -193,7 +193,7 @@
       "id": 22672,
       "question": "정상재의 경우, 수요의 소득탄력성은 양(+)의 값을 갖는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 5,
         "option": "①",
@@ -205,7 +205,7 @@
       "id": 22673,
       "question": "대체재가 많을 경우, 수요의 가격탄력성은 작다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 5,
         "option": "②",
@@ -217,7 +217,7 @@
       "id": 22674,
       "question": "두 재화가 대체재인 경우, 수요의 교차탄력성은 양(+)의 값을 갖는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 5,
         "option": "③",
@@ -226,22 +226,10 @@
       }
     },
     {
-      "id": 22675,
-      "question": "일반적으로 장기 탄력성이 단기 탄력성보다 크다. - 19 제 학 세 무 회 계",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 5,
-        "option": "④",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 22676,
       "question": "소비자는 이전보다 낮은 가격으로 재화를 구입하는 것이 가 능하다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 7,
         "option": "①",
@@ -253,7 +241,7 @@
       "id": 22677,
       "question": "정부가 최고가격을 시장 균형가격보다 낮게 설정하면 초과공 급이 발생한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 7,
         "option": "②",
@@ -265,7 +253,7 @@
       "id": 22678,
       "question": "최고가격제를 시행하면 암시장(black market)이 출현할 가능 성이 높다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 7,
         "option": "③",
@@ -277,7 +265,7 @@
       "id": 22679,
       "question": "최고가격제의 시행으로 인하여 생산자는 이윤확보를 위해 품 질을 저하시킬 가능성이 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 7,
         "option": "④",
@@ -289,7 +277,7 @@
       "id": 22680,
       "question": "두 재화가 완전보완재일 경우의 선호를 나타낸다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "①",
@@ -301,7 +289,7 @@
       "id": 22681,
       "question": "무차별곡선의 한계대체율이 정의되지 않는 부분이 존재한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "②",
@@ -313,7 +301,7 @@
       "id": 22682,
       "question": "무차별곡선은 자 형태이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -325,7 +313,7 @@
       "id": 22683,
       "question": "무차별곡선에서 한 재화의 가격변화에 대한 효과는 대체효과만 존재한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "④",
@@ -337,7 +325,7 @@
       "id": 22684,
       "question": "이면 규모에 대한 수익체감이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 10,
         "option": "①",
@@ -349,7 +337,7 @@
       "id": 22685,
       "question": "이면 규모에 대한 수익체증이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 10,
         "option": "②",
@@ -361,7 +349,7 @@
       "id": 22686,
       "question": "이면 규모에 대한 수익불변이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 10,
         "option": "③",
@@ -373,7 +361,7 @@
       "id": 22687,
       "question": "이면 규모의 경제가 존재한다. 19 -",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 10,
         "option": "④",
@@ -385,7 +373,7 @@
       "id": 22688,
       "question": "평균생산량이 증가할 때 한계생산량은 계속 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 11,
         "option": "①",
@@ -397,7 +385,7 @@
       "id": 22689,
       "question": "평균생산량이 극대일 때 한계생산량과 평균생산량은 일치한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 11,
         "option": "②",
@@ -409,7 +397,7 @@
       "id": 22690,
       "question": "평균생산량이 감소할 때 한계생산량은 평균생산량보다 크다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 11,
         "option": "③",
@@ -421,7 +409,7 @@
       "id": 22691,
       "question": "평균생산량과 한계생산량이 일치할 때 총생산량은 극대가 된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 11,
         "option": "④",
@@ -433,7 +421,7 @@
       "id": 22692,
       "question": "가격과 한계비용의 차이가 클수록 사회적인 후생손실이 증가 한다는 점에 착안하여 독점에 따른 비효율성을 측정하는 데 활용된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 14,
         "option": "①",
@@ -445,7 +433,7 @@
       "id": 22693,
       "question": "가격과 한계비용이 일치하면 독점도는 이고, 한계비용이  이면 독점도는 이 된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -457,7 +445,7 @@
       "id": 22694,
       "question": "가격이 만 원, 한계비용이 만 원일 경우 독점도는 이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 14,
         "option": "③",
@@ -469,7 +457,7 @@
       "id": 22695,
       "question": "독점도는 수요의 가격탄력성과 비례한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "④",
@@ -481,7 +469,7 @@
       "id": 22696,
       "question": "최저임금제를 도입하면 고용이 증가할 수도 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 15,
         "option": "①",
@@ -493,7 +481,7 @@
       "id": 22697,
       "question": "상품독점시장에서의 노동수요는 항상 수요독점이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "②",
@@ -505,7 +493,7 @@
       "id": 22698,
       "question": "균형에서 노동의 공급곡선과 한계생산가치가 일치한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "③",
@@ -517,7 +505,7 @@
       "id": 22699,
       "question": "완전경쟁적인 노동시장보다 균형임금이 높다. - 20",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 15,
         "option": "④",
@@ -529,7 +517,7 @@
       "id": 22700,
       "question": "우월전략균형은 내쉬균형에 포함된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 16,
         "option": "①",
@@ -541,7 +529,7 @@
       "id": 22701,
       "question": "모든 내쉬균형은 항상 안정적이다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 16,
         "option": "②",
@@ -553,7 +541,7 @@
       "id": 22702,
       "question": "내쉬균형이 파레토 효율적인 자원배분을 보장하지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 16,
         "option": "③",
@@ -565,7 +553,7 @@
       "id": 22703,
       "question": "순수 내쉬균형은 항상 존재한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "④",
@@ -577,7 +565,7 @@
       "id": 22704,
       "question": "최하위 20% 계층 소득점유율/최상위 20% 계층 소득점유율",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "①",
@@ -589,7 +577,7 @@
       "id": 22705,
       "question": "최상위 20% 계층 소득점유율/최하위 20% 계층 소득점유율",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "②",
@@ -601,7 +589,7 @@
       "id": 22706,
       "question": "최상위 40% 계층 소득점유율/최하위 20% 계층 소득점유율",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 17,
         "option": "③",
@@ -613,7 +601,7 @@
       "id": 22707,
       "question": "최하위 40% 계층 소득점유율/최상위 20% 계층 소득점유율",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 17,
         "option": "④",
@@ -625,7 +613,7 @@
       "id": 22708,
       "question": "갑은 소득의 증가에 따라 위험에 대한 태도가 달라진다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 18,
         "option": "④",
@@ -637,7 +625,7 @@
       "id": 22709,
       "question": "역선택과 도덕적 해이는 동일한 개념이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 20,
         "option": "①",
@@ -649,7 +637,7 @@
       "id": 22710,
       "question": "정보가 대칭적이라도 역선택은 발생한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 20,
         "option": "②",
@@ -661,7 +649,7 @@
       "id": 22711,
       "question": "역선택이 없으면 시장은 항상 파레토 효율적이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다.",
       "source": {
         "qid": 20,
         "option": "③",
@@ -670,22 +658,10 @@
       }
     },
     {
-      "id": 22712,
-      "question": "자격증은 역선택 문제를 해결하기 위한 수단이 될 수 있다. 20 -",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 20,
-        "option": "④",
-        "qtype": "opt-correct",
-        "difficulty": null
-      }
-    },
-    {
       "id": 22713,
       "question": "는 통상 1년 동안 생산된 생산물의 시장가치를 의미하는 저량개념이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 21,
         "option": "①",
@@ -697,7 +673,7 @@
       "id": 22714,
       "question": "외국인이 국내에서 생산한 것은 포함되고, 내국인이 외국에서 생산한 것은 제외된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 21,
         "option": "②",
@@ -709,7 +685,7 @@
       "id": 22715,
       "question": "주부의 가사노동은 시장에서 생산된 것이 아니므로 에 산정되지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 21,
         "option": "③",
@@ -721,7 +697,7 @@
       "id": 22716,
       "question": "당해연도의 생산과 관련 없는 것은 에 포함되지 않는다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 21,
         "option": "④",
@@ -733,7 +709,7 @@
       "id": 22717,
       "question": "경기침체와 인플레이션이 동시에 발생한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 30,
         "option": "①",
@@ -745,7 +721,7 @@
       "id": 22718,
       "question": "총공급의 감소가 주요한 원인이 되어 발생하는 인플레이션을 의미한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 30,
         "option": "②",
@@ -757,7 +733,7 @@
       "id": 22719,
       "question": "비용인상 인플레이션이 발생한 경우 총수요관리정책을 통해 인플레이션을 억제하고자 하면 경기가 더욱 침체된다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 30,
         "option": "③",
@@ -769,7 +745,7 @@
       "id": 22720,
       "question": "케인즈학파에 따르면 비용인상 인플레이션은 언제나 화폐적 현상이라고 주장한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 30,
         "option": "④",
@@ -781,7 +757,7 @@
       "id": 22721,
       "question": "실업률과 임금상승률 간의 관계를 설명한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 32,
         "option": "①",
@@ -793,7 +769,7 @@
       "id": 22722,
       "question": "물가상승률과 경제성장률 간의 관계를 설명한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 32,
         "option": "②",
@@ -805,7 +781,7 @@
       "id": 22723,
       "question": "갭과 실업률 간의 관계를 설명한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 32,
         "option": "③",
@@ -817,7 +793,7 @@
       "id": 22724,
       "question": "임금상승률과 물가상승률 간의 관계를 설명한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ③이다.",
       "source": {
         "qid": 32,
         "option": "④",
@@ -829,7 +805,7 @@
       "id": 22725,
       "question": "관세는 국경을 통과하는 상품에 대하여 부과되는 조세를 의미 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 36,
         "option": "①",
@@ -841,7 +817,7 @@
       "id": 22726,
       "question": "특정국가의 상품이 정상가격 이하로 수입되는 덤핑행위에 대해 부과하는 관세를 반덤핑관세라고 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 36,
         "option": "②",
@@ -853,7 +829,7 @@
       "id": 22727,
       "question": "국내산업의 보호를 위해 긴급한 조치가 필요하거나, 긴급히 특정상품의 수입을 억제하기 위하여 특정수입품에 대해 부과 하는 고율의 관세를 긴급관세라고 한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 36,
         "option": "③",
@@ -865,7 +841,7 @@
       "id": 22728,
       "question": "수출국에서 직·간접적으로 생산 또는 수출에 대하여 장려금 이나 보조금을 지급하였을 때 이를 상쇄하기 위하여 부과하는 관세를 할당관세라고 한다. - 22",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 36,
         "option": "④",
@@ -877,7 +853,7 @@
       "id": 22729,
       "question": "우리나라의 반도체 수출가격이 하락한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 37,
         "option": "①",
@@ -889,7 +865,7 @@
       "id": 22730,
       "question": "미국의 반도체 수입가격이 상승한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 37,
         "option": "②",
@@ -901,7 +877,7 @@
       "id": 22731,
       "question": "우리나라의 반도체 생산이 감소한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 37,
         "option": "③",
@@ -913,7 +889,7 @@
       "id": 22732,
       "question": "미국의 반도체 소비가 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 37,
         "option": "④",
@@ -925,7 +901,7 @@
       "id": 22733,
       "question": "재화의 상대가격이 상승하면 그 재화에 집약적으로 사용되는 생산요소 소득은 증가하고, 다른 생산요소 소득은 감소한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 39,
         "option": "①",
@@ -937,7 +913,7 @@
       "id": 22734,
       "question": "자유무역이 이루어지면 비록 생산요소가 직접 이동하지 않더 라도 국가간에 생산요소의 가격이 균등화된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 39,
         "option": "②",
@@ -949,7 +925,7 @@
       "id": 22735,
       "question": "노동부존량이 증가하면 노동집약재 생산은 증가하고 자본집 약재 생산은 감소한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ④이다.",
       "source": {
         "qid": 39,
         "option": "③",
@@ -961,7 +937,7 @@
       "id": 22736,
       "question": "자본풍부국인 미국이 오히려 자본집약재를 수입하고 노동집 약재를 수출하는 현상을 의미한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 39,
         "option": "④",

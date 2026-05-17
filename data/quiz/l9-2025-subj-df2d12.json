@@ -7,13 +7,13 @@
   "source": "지방직 9급",
   "exam_year": 2025,
   "exam_round": null,
-  "count": 13,
+  "count": 12,
   "questions": [
     {
       "id": 42755,
       "question": "의료급여기금은 전액 국고보조금으로 구성된다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 8,
         "option": "①",
@@ -25,7 +25,7 @@
       "id": 42756,
       "question": "의료급여 수급권자의 진료체계는 1차, 2차, 3차 의료급여기관으로 구분되어 있다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 8,
         "option": "②",
@@ -37,7 +37,7 @@
       "id": 42757,
       "question": "의료급여 수급권자의 자격선정과 관리는 거주지를 관할하는 보건소장이 수행한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 8,
         "option": "③",
@@ -49,7 +49,7 @@
       "id": 42758,
       "question": "2종 수급권자는 근로능력이 없는 자만으로 구성된 세대의 구성원, 이재민, 북한이탈주민 등이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 8,
         "option": "④",
@@ -58,22 +58,10 @@
       }
     },
     {
-      "id": 42759,
-      "question": "수질오염의 한 지표가 될 수 있다.",
-      "answer": "O",
-      "explanation": "",
-      "source": {
-        "qid": 9,
-        "option": "①",
-        "qtype": "opt-wrong",
-        "difficulty": null
-      }
-    },
-    {
       "id": 42760,
       "question": "수온이 높을수록, 기압이 높을수록 증가한다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. (이 문제의 정답)",
       "source": {
         "qid": 9,
         "option": "②",
@@ -85,7 +73,7 @@
       "id": 42761,
       "question": "용존산소량이 적은 것은 오염도가 높음을 의미한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 9,
         "option": "③",
@@ -97,7 +85,7 @@
       "id": 42762,
       "question": "생물화학적 산소요구량(BOD)이 많으면 용존산소량은 적다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. 같은 문제의 정답은 ②이다.",
       "source": {
         "qid": 9,
         "option": "④",
@@ -109,7 +97,7 @@
       "id": 42763,
       "question": "요양병원간병비는 특별현금급여에 해당한다.",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 14,
         "option": "①",
@@ -121,7 +109,7 @@
       "id": 42764,
       "question": "장기요양보험 수급자는 건강보험 가입자와 동일하다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 14,
         "option": "②",
@@ -133,7 +121,7 @@
       "id": 42765,
       "question": "단기보호 급여를 받을 수 있는 기간은 월 최대 20일이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 14,
         "option": "③",
@@ -145,7 +133,7 @@
       "id": 42766,
       "question": "재가급여 시 본인부담금은 해당 장기요양급여비용의 100분의 20이다.",
       "answer": "X",
-      "explanation": "",
+      "explanation": "이 진술은 옳지 않다. 같은 문제의 정답은 ①이다.",
       "source": {
         "qid": 14,
         "option": "④",
@@ -157,7 +145,7 @@
       "id": 42770,
       "question": "폐암－2년, 54세 이상 74세 이하의 남ㆍ여 중 폐암 발생 고위험군",
       "answer": "O",
-      "explanation": "",
+      "explanation": "이 진술은 옳다. (이 문제의 정답)",
       "source": {
         "qid": 16,
         "option": "④",
